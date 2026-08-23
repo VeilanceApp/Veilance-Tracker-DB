@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "AddThis",
+  "category": "advertising",
+  "website_url": "http://www.addthis.com/",
+  "organization": "oracle",
+  "domains": [
+    "addthis.com",
+    "addthiscdn.com",
+    "addthisedge.com"
+  ],
+  "filters": [
+    "/addthis_widget.js",
+    "/addthis_widget.php",
+    "||addthis.com^$3p",
+    "||addthisedge.com^$3p",
+    "||l.addthiscdn.com^$3p",
+    "||s7.addthis.com/js/300/addthis_widget.js"
+  ]
+}

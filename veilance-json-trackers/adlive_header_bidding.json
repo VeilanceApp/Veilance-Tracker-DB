@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adlive Header Bidding",
+  "category": "advertising",
+  "organization": "adlive",
+  "domains": [
+    "api.publishers.adlive.io"
+  ],
+  "filters": [
+    "||api.publishers.adlive.io/js/client_request.min.js",
+    "||test-adlive24.iageengineering.net/js/client_request.min.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AddFreeStats",
+  "category": "site_analytics",
+  "website_url": "http://www.addfreestats.com/",
+  "organization": "3dstats",
+  "domains": [
+    "addfreestats.com"
+  ],
+  "filters": [
+    "||addfreestats.com/cgi-bin/afstrack.cgi"
+  ]
+}

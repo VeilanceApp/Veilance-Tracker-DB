@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdExtent",
+  "category": "advertising",
+  "website_url": "http://www.adextent.com/",
+  "organization": "adextent",
+  "domains": [
+    "adextent.com"
+  ],
+  "filters": [
+    "||adextent.com^$3p"
+  ]
+}

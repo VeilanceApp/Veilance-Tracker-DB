@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "ADmantX",
+  "category": "advertising",
+  "website_url": "http://www.admantx.com/",
+  "organization": "expert_system_spa",
+  "domains": [
+    "admantx.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "AdLabs",
+  "category": "advertising",
+  "website_url": "https://www.adlabs.ru/",
+  "organization": "adlabs",
+  "domains": [
+    "adlabs.ru",
+    "clickiocdn.com",
+    "luxup.ru",
+    "mixmarket.biz"
+  ],
+  "filters": [
+    "||adlabs.ru^$3p",
+    "||luxup.ru^$3p",
+    "||mixmarket.biz^$3p",
+    "||s.clickiocdn.com/t"
+  ]
+}

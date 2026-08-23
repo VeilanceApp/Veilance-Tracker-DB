@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Adjust",
+  "category": "site_analytics",
+  "website_url": "https://www.adjust.com/",
+  "organization": "adjust",
+  "domains": [
+    "adjust.com"
+  ],
+  "filters": []
+}

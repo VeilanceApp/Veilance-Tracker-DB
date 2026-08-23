@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adloox",
+  "category": "advertising",
+  "website_url": "http://www.adloox.com",
+  "organization": "adloox",
+  "domains": [
+    "adlooxtracking.com"
+  ],
+  "filters": [
+    "||adlooxtracking.com^$3p"
+  ]
+}

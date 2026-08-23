@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdClickMedia",
+  "category": "advertising",
+  "website_url": "https://www.adclickmedia.com/",
+  "organization": "adclickmedia",
+  "domains": [
+    "adclickmedia.com"
+  ],
+  "filters": [
+    "||adclickmedia.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "AdMeld",
+  "category": "advertising",
+  "website_url": "http://www.admeld.com",
+  "organization": "google",
+  "domains": [
+    "admeld.com"
+  ],
+  "filters": [
+    "||js.admeld.com^$3p",
+    "||tag.admeld.com^$3p"
+  ]
+}

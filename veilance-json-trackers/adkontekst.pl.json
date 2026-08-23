@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Adkontekst",
+  "category": "advertising",
+  "website_url": "http://netsprint.eu/",
+  "organization": "netsprint",
+  "domains": [
+    "netsprint.eu"
+  ],
+  "filters": []
+}

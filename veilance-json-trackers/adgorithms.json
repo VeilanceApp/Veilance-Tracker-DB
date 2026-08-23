@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adgorithms",
+  "category": "advertising",
+  "website_url": "http://www.adgorithms.com/",
+  "organization": "albert",
+  "domains": [
+    "adgorithms.com"
+  ],
+  "filters": [
+    "||adgorithms.com^$3p"
+  ]
+}

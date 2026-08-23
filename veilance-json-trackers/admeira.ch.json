@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdMeira",
+  "category": "advertising",
+  "website_url": "https://admeira.ch/",
+  "organization": "admeira",
+  "domains": [
+    "admeira.ch"
+  ],
+  "filters": [
+    "||tr1.admeira.ch/tr1.admeira.ch/v1/tagger.js"
+  ]
+}

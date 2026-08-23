@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adcrowd",
+  "category": "advertising",
+  "website_url": "https://www.adcrowd.com",
+  "organization": "adcrowd",
+  "domains": [
+    "adcrowd.com"
+  ],
+  "filters": [
+    "||adcrowd.com^$3p"
+  ]
+}

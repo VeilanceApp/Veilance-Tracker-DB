@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Adgebra",
+  "category": "advertising",
+  "website_url": "https://adgebra.in/",
+  "organization": "adgebra",
+  "domains": [
+    "adgebra.co.in"
+  ],
+  "filters": [
+    "||adgebra.co.in/adserving/spot.js",
+    "||adgebra.co.in/afph/afph.js"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Admatrix",
+  "category": "advertising",
+  "organization": "admatrix",
+  "domains": [
+    "lib-3pas.admatrix.jp"
+  ],
+  "filters": [
+    "||lib-3pas.admatrix.jp/3pas/js/admatrixanalyze.min.js"
+  ]
+}

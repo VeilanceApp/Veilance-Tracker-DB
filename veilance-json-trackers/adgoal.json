@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "adgoal",
+  "category": "advertising",
+  "website_url": "http://www.adgoal.de/",
+  "organization": "adgoal",
+  "domains": [
+    "smartadcheck.de",
+    "smartredirect.de"
+  ],
+  "filters": [
+    "||js.mamydirect.com/js",
+    "||js.smartredirect.de/js/"
+  ]
+}

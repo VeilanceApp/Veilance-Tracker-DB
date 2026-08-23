@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdClear",
+  "category": "advertising",
+  "website_url": "https://www.adclear.de/en/home.html",
+  "organization": "adclear",
+  "domains": [
+    "adclear.net"
+  ],
+  "filters": [
+    "||adclear.net^$3p"
+  ]
+}

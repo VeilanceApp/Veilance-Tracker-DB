@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdFalcon",
+  "category": "advertising",
+  "website_url": "http://www.adfalcon.com/",
+  "organization": "adfalcon",
+  "domains": [
+    "adfalcon.com"
+  ],
+  "filters": [
+    "||adfalcon.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdHitz",
+  "category": "advertising",
+  "website_url": "https://www.adhitz.com/",
+  "organization": "adhitz",
+  "domains": [
+    "adhitzads.com"
+  ],
+  "filters": [
+    "||adhitzads.com^$3p"
+  ]
+}

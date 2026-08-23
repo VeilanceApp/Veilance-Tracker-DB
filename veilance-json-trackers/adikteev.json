@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Adikteev",
+  "category": "advertising",
+  "organization": "adikteev",
+  "domains": [
+    "cdn.adikteev.com"
+  ],
+  "filters": [
+    "||cdn.adikteev.com/lib/v3/aksdk.moment"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AddyON",
+  "category": "advertising",
+  "website_url": "http://www.addyon.com/homepage.php",
+  "organization": "addyon",
+  "domains": [
+    "addyon.com"
+  ],
+  "filters": [
+    "||addyon.com^$3p"
+  ]
+}

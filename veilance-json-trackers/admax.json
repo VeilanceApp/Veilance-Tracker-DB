@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Admax",
+  "category": "advertising",
+  "website_url": "http://www.admaxnetwork.com/index.php",
+  "organization": "komli",
+  "domains": [
+    "admaxserver.com"
+  ],
+  "filters": [
+    "||admaxserver.com^$3p"
+  ]
+}
