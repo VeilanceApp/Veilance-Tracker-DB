@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Tagcade",
+  "category": "advertising",
+  "organization": "pubvantage",
+  "domains": [
+    "tags.tagcade.com"
+  ],
+  "filters": [
+    "||tags.tagcade.com/2.0/pub/87/tagcade.js"
+  ]
+}

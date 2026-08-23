@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Mediawhiz",
+  "category": "advertising",
+  "website_url": "https://www.mediawhiz.com/",
+  "organization": "matomy_media",
+  "domains": [
+    "adnetinteractive.com",
+    "adnetinteractive.net"
+  ],
+  "filters": [
+    "||adnetinteractive.com^$3p",
+    "||adnetinteractive.net^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "iCrossing",
+  "category": "advertising",
+  "website_url": "https://www.icrossing.com/",
+  "organization": "hearst",
+  "domains": [
+    "ic-live.com"
+  ],
+  "filters": [
+    "||ic-live.com^$3p",
+    "||sptag3.com^$3p"
+  ]
+}

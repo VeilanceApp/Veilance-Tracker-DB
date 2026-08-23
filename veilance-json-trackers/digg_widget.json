@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Digg Widget",
+  "category": "customer_interaction",
+  "website_url": "https://digg.com/apple/Digg_Widget",
+  "organization": "buysellads.com",
+  "domains": [
+    "digg.com"
+  ],
+  "filters": [
+    "||digg.com/*/diggthis.js^$3p",
+    "||digg.com/tools/widgetjs",
+    "||widgets.digg.com^$3p"
+  ]
+}

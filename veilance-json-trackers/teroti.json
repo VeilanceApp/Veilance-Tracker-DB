@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Teroti",
+  "category": "advertising",
+  "website_url": "http://www.teroti.com/",
+  "organization": "teroti",
+  "domains": [
+    "watch.teroti.com"
+  ],
+  "filters": [
+    "||watch.teroti.com^$3p"
+  ]
+}

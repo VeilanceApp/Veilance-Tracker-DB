@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Octavius",
+  "category": "advertising",
+  "organization": "octavius",
+  "domains": [
+    "service.octavius.rocks"
+  ],
+  "filters": [
+    "||service.octavius.rocks/v55/send/"
+  ]
+}

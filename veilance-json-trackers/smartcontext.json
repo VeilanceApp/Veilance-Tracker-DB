@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SmartContext",
+  "category": "advertising",
+  "website_url": "https://smartcontext.pl/",
+  "organization": "smartcontext",
+  "domains": [
+    "smartcontext.pl"
+  ],
+  "filters": [
+    "||smartcontext.pl^$3p"
+  ]
+}

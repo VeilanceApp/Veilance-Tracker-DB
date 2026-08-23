@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "adverServe",
+  "category": "advertising",
+  "website_url": "https://www.adverserve.com/",
+  "organization": "adverserve",
+  "domains": [
+    "adverserve.net"
+  ],
+  "filters": [
+    "||adverserve.net^$3p"
+  ]
+}

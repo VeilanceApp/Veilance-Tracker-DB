@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "GitHub Apps",
+  "category": "customer_interaction",
+  "organization": "github",
+  "domains": [
+    "githubapp.com"
+  ],
+  "filters": []
+}

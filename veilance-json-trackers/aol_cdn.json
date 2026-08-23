@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AOL CDN",
+  "category": "site_analytics",
+  "organization": "bending_spoons",
+  "domains": [
+    "aolcdn.com",
+    "isp.netscape.com"
+  ],
+  "filters": [
+    "||o.aolcdn.com^$3p"
+  ]
+}

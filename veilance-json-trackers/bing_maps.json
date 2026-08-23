@@ -1,0 +1,22 @@
+{
+  "format": "veilance-json",
+  "name": "Bing/Azure Maps",
+  "category": "customer_interaction",
+  "website_url": "https://www.bingmapsportal.com",
+  "organization": "microsoft",
+  "domains": [
+    "virtualearth.net",
+    "r.bing.com",
+    "atlas.microsoft.com"
+  ],
+  "filters": [
+    "||r.bing.com/rp^$script",
+    "||www.bing.com/rp/*.js$script",
+    "||www.bing.com/rp/*.css$stylesheet",
+    "||www.bing.com/api/maps/",
+    "||www.bing.com/maps/sdk",
+    "||www.bing.com/maps/geotfe",
+    "||www.bing.com/maps/instrumentation",
+    "||www.bing.com/fd/ls/lsp.aspx"
+  ]
+}

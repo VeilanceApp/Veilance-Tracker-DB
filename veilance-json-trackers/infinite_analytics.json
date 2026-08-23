@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Infinite Analytics",
+  "category": "site_analytics",
+  "organization": "infinite_analytics",
+  "domains": [
+    "zachysprod.infiniteanalytics.com"
+  ],
+  "filters": [
+    "||zachysprod.infiniteanalytics.com/zachyscomboia.js"
+  ]
+}

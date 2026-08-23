@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SiteWit",
+  "category": "advertising",
+  "website_url": "http://www.sitewit.com/",
+  "organization": "sitewit",
+  "domains": [
+    "analytics.sitewit.com"
+  ],
+  "filters": [
+    "||analytics.sitewit.com^$3p"
+  ]
+}

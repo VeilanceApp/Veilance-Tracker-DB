@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Snoobi",
+  "category": "site_analytics",
+  "organization": "snoobi",
+  "domains": [
+    "eu2.snoobi.eu"
+  ],
+  "filters": [
+    "||eu2.snoobi.eu^$3p"
+  ]
+}

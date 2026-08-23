@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Cackle",
+  "category": "pornvertising",
+  "website_url": "https://cackle.me/",
+  "domains": [
+    "cackle.me"
+  ],
+  "filters": []
+}

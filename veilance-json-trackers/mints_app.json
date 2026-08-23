@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mints App",
+  "category": "customer_interaction",
+  "organization": "mints_app",
+  "domains": [
+    "mintsapp.io"
+  ],
+  "filters": [
+    "||mintsapp.io/poll/view/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Hola Player",
+  "category": "audio_video_player",
+  "organization": "hola_cdn",
+  "domains": [
+    "h-cdn.com"
+  ],
+  "filters": [
+    "||player.h-cdn.com/loader.js"
+  ]
+}

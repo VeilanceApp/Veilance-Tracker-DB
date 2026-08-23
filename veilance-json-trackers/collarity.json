@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Collarity",
+  "category": "advertising",
+  "website_url": "http://www.collarity.com/",
+  "organization": "collarity",
+  "domains": [
+    "service.collarity.com"
+  ],
+  "filters": [
+    "||service.collarity.com^$3p"
+  ]
+}

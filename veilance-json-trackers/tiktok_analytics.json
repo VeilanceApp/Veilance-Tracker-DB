@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "TikTok Analytics",
+  "category": "site_analytics",
+  "website_url": "https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en",
+  "organization": "bytedance_inc",
+  "domains": [
+    "analytics.tiktok.com",
+    "mon.tiktokv.com",
+    "analytics-ipv6.tiktokw.us"
+  ],
+  "filters": [
+    "||analytics.tiktok.com^$3p",
+    "||mon.tiktokv.com^$3p",
+    "||analytics-ipv6.tiktokw.us^3p"
+  ]
+}

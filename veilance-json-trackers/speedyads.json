@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "SpeedyAds",
+  "category": "advertising",
+  "website_url": "https://www.entireweb.com/speedyads/",
+  "organization": "entireweb",
+  "domains": [
+    "admarket.entireweb.com",
+    "affiliate.entireweb.com",
+    "sa.entireweb.com"
+  ],
+  "filters": [
+    "||admarket.entireweb.com^$3p",
+    "||affiliate.entireweb.com^$3p",
+    "||sa.entireweb.com/sense.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Ants",
+  "category": "social_media",
+  "website_url": "https://ants.vn/en/",
+  "organization": "ants",
+  "domains": [
+    "anthill.vn",
+    "ants.vn"
+  ],
+  "filters": [
+    "||anthill.vn^$3p",
+    "||ants.vn^$3p"
+  ]
+}

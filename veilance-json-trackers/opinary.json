@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Opinary",
+  "category": "customer_interaction",
+  "website_url": "https://opinary.com/",
+  "organization": "opinary",
+  "domains": [
+    "opinary.com"
+  ],
+  "filters": [
+    "||widgets.opinary.com/a/bento.js",
+    "||widgets.opinary.com/a/focus.js"
+  ]
+}

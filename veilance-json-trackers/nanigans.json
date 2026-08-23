@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Nanigans",
+  "category": "advertising",
+  "website_url": "http://www.nanigans.com/",
+  "organization": "nanigans",
+  "domains": [
+    "nanigans.com"
+  ],
+  "filters": [
+    "||nanigans.com^$3p"
+  ]
+}

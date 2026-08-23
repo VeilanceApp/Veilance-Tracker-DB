@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "PayPal",
+  "category": "customer_interaction",
+  "website_url": "https://www.paypal.com",
+  "organization": "paypal",
+  "domains": [
+    "paypal.com",
+    "paypalobjects.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Allure Media",
+  "category": "advertising",
+  "website_url": "http://www.alluremedia.com.au",
+  "organization": "allure_media",
+  "domains": [
+    "edge.alluremedia.com.au"
+  ],
+  "filters": [
+    "||edge.alluremedia.com.au/s/au.js"
+  ]
+}

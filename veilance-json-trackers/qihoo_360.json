@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Qihoo 360",
+  "category": "site_analytics",
+  "organization": "qihoo_360_technology",
+  "domains": [
+    "s.lianmeng.360.cn"
+  ],
+  "filters": [
+    "||api.so.lianmeng.360.cn/searchthrow/api/ads/throw",
+    "||s.lianmeng.360.cn/so/inlay.js"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "veilance-json",
+  "name": "Google Marketing Platform",
+  "category": "advertising",
+  "website_url": "https://marketingplatform.google.com/about/enterprise/",
+  "organization": "google",
+  "domains": [
+    "2mdn.net",
+    "doubleclick.net",
+    "invitemedia.com",
+    "adservice.google.com",
+    "adtrafficquality.google"
+  ],
+  "filters": [
+    "/\\.2mdn\\.net\\/([0-9]+|ads|dot\\.gif|dynamic|viewad)/",
+    "||ad.doubleclick.net^$3p",
+    "||doubleclick.net^$3p",
+    "||g.doubleclick.net^$3p",
+    "||google.com/pagead/drt/ui",
+    "||google.com/pagead/lvz",
+    "||googleads.g.doubleclick.net/pagead/id",
+    "||s0.2mdn.net/instream/video/client.js",
+    "||securepubads.g.doubleclick.net/pcs/view",
+    "||securepubads.g.doubleclick.net^$3p",
+    "||static.doubleclick.net/instream/ad_status.js",
+    "||www.googletagservices.com/dcm/dcmads.js",
+    "||www.googletagservices.com/dcm/impl_v103.js"
+  ]
+}

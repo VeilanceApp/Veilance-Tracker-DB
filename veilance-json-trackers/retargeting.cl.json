@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Retargeting.cl",
+  "category": "advertising",
+  "organization": "retargeting",
+  "domains": [
+    "retargeting.cl"
+  ],
+  "filters": [
+    "||retargeting.cl/pixel"
+  ]
+}

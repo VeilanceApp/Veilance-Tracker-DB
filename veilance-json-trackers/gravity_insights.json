@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Gravity Insights",
+  "category": "site_analytics",
+  "website_url": "http://www.gravity.com/",
+  "organization": "yahoo",
+  "domains": [
+    "gravity.com",
+    "grvcdn.com"
+  ],
+  "filters": [
+    "||gravity.com^$3p",
+    "||grvcdn.com^$3p"
+  ]
+}

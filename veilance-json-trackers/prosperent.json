@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Prosperent",
+  "category": "advertising",
+  "website_url": "http://prosperent.com",
+  "organization": "prosperent",
+  "domains": [
+    "prosperent.com"
+  ],
+  "filters": [
+    "||prosperent.com^$3p"
+  ]
+}

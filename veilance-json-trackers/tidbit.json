@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tidbit",
+  "category": "customer_interaction",
+  "website_url": "http://tidbit.co.in/",
+  "organization": "tidbit",
+  "domains": [
+    "tidbit.co.in"
+  ],
+  "filters": [
+    "||tidbit.co.in^$3p"
+  ]
+}

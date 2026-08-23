@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Google Travel Adds",
+  "category": "advertising",
+  "organization": "google",
+  "domains": [
+    "googletraveladservices.com"
+  ],
+  "filters": [
+    "||googletraveladservices.com^$3p"
+  ]
+}

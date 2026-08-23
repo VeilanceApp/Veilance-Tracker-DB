@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Predicta",
+  "category": "advertising",
+  "website_url": "http://predicta.com.br/",
+  "organization": "predicta",
+  "domains": [
+    "adserver.com.br",
+    "predicta.net"
+  ],
+  "filters": [
+    "||adserver.com.br^$3p",
+    "||predicta.net^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "BridgeTrack",
+  "category": "advertising",
+  "website_url": "http://www.bridgetrack.com/",
+  "organization": "bridgetrack",
+  "domains": [
+    "bridgetrack.com"
+  ],
+  "filters": [
+    "||ads.bridgetrack.com^$3p",
+    "||bridgetrack.com/a/s/",
+    "||bridgetrack.com/track"
+  ]
+}

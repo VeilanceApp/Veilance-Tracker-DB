@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Oracle RightNow",
+  "category": "misc",
+  "organization": "oracle",
+  "domains": [
+    "rightnowtech.com",
+    "rnengage.com"
+  ],
+  "filters": []
+}

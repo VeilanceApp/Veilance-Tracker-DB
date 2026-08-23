@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "MyFonts",
+  "category": "site_analytics",
+  "website_url": "https://www.myfonts.com/",
+  "organization": "myfonts",
+  "domains": [
+    "myfonts.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LinkPrice",
+  "category": "advertising",
+  "website_url": "http://www.linkprice.com/",
+  "organization": "linkprice",
+  "domains": [
+    "linkprice.com"
+  ],
+  "filters": [
+    "||linkprice.com^$3p"
+  ]
+}

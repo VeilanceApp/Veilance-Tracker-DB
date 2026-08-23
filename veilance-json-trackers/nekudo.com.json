@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Nekudo",
+  "category": "customer_interaction",
+  "website_url": "https://nekudo.com/",
+  "organization": "nekudo",
+  "domains": [
+    "nekudo.com"
+  ],
+  "filters": []
+}

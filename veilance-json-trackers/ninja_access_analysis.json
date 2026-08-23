@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Ninja Access Analysis",
+  "category": "site_analytics",
+  "website_url": "https://www.ninja.co.jp/analysis/",
+  "organization": "samurai_factory",
+  "domains": [
+    "cho-chin.com",
+    "donburako.com",
+    "hishaku.com",
+    "shinobi.jp"
+  ],
+  "filters": [
+    "||cho-chin.com^$3p",
+    "||donburako.com^$3p",
+    "||hishaku.com^$3p",
+    "||shinobi.jp/^$3p"
+  ]
+}

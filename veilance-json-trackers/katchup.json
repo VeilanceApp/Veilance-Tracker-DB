@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Katchup",
+  "category": "advertising",
+  "organization": "katchup",
+  "domains": [
+    "cen.katchup.fr"
+  ],
+  "filters": [
+    "||cen.katchup.fr^$3p"
+  ]
+}

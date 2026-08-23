@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Dailymotion Advertising",
+  "category": "advertising",
+  "website_url": "https://advertisers.dailymotion.com/en/",
+  "organization": "vivendi",
+  "domains": [
+    "dmxleo.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Vision Critical",
+  "category": "site_analytics",
+  "organization": "vision_critical",
+  "domains": [
+    "visioncriticalpanels.com"
+  ],
+  "filters": [
+    "||visioncriticalpanels.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Upsales",
+  "category": "advertising",
+  "website_url": "https://www.upsales.com/",
+  "organization": "upsales",
+  "domains": [
+    "upsales.com"
+  ],
+  "filters": [
+    "||upsales.com^$3p"
+  ]
+}

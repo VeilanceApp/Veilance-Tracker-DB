@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Taggify",
+  "category": "advertising",
+  "website_url": "http://new.taggify.net/",
+  "organization": "taggify",
+  "domains": [
+    "taggify.net"
+  ],
+  "filters": [
+    "||code.taggify.net^$3p",
+    "||taggify.net/banners/",
+    "||taggify.net/v2/",
+    "||taggify.net/va/",
+    "||taggify.net/view."
+  ]
+}

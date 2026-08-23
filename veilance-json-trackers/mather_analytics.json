@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mather Analytics",
+  "category": "site_analytics",
+  "organization": "mather_economics",
+  "domains": [
+    "matheranalytics.com"
+  ],
+  "filters": [
+    "||matheranalytics.com^$3p"
+  ]
+}

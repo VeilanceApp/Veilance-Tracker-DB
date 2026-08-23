@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iubenda",
+  "category": "consent",
+  "website_url": "https://www.iubenda.com/",
+  "organization": "iubenda",
+  "domains": [
+    "iubenda.com"
+  ],
+  "filters": [
+    "||iubenda.com/iubenda.js"
+  ]
+}

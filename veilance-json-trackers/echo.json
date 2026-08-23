@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Echo",
+  "category": "advertising",
+  "website_url": "https://js-kit.com/",
+  "organization": "echo",
+  "domains": [
+    "echoenabled.com"
+  ],
+  "filters": [
+    "||echoenabled.com^$3p",
+    "||haloscan.com/load/",
+    "||js-kit.com/*.js^$3p"
+  ]
+}

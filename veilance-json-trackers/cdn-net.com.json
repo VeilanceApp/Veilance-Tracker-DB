@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "cdn-net.com",
+  "category": "misc",
+  "domains": [
+    "cdn-net.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Socialhead Socialwidget",
+  "category": "social_media",
+  "website_url": "https://socialhead.io/",
+  "organization": "onecommerce",
+  "domains": [
+    "socialhead.io",
+    "widget-api.socialhead.io"
+  ],
+  "filters": [
+    "||widget-api.socialhead.io^$3p"
+  ]
+}

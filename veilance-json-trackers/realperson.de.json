@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Realperson Chat",
+  "category": "customer_interaction",
+  "website_url": "https://www.optimise-it.de/",
+  "organization": "optimise_it",
+  "domains": [
+    "realperson.de"
+  ],
+  "filters": []
+}

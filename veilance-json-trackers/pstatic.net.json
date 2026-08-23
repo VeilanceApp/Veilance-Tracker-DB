@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Naver CDN",
+  "category": "hosting",
+  "website_url": "https://www.naver.com/",
+  "organization": "naver",
+  "domains": [
+    "pstatic.net"
+  ],
+  "filters": []
+}

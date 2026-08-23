@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Jumplead",
+  "category": "site_analytics",
+  "organization": "jumplead",
+  "domains": [
+    "cdn.jumplead.com"
+  ],
+  "filters": [
+    "||cdn.jumplead.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "R-Advertising",
+  "category": "advertising",
+  "website_url": "https://www.r-advertising.com/",
+  "organization": "r-advertising",
+  "domains": [
+    "ads-digitalkeys.com"
+  ],
+  "filters": [
+    "||ads-digitalkeys.com^$3p"
+  ]
+}

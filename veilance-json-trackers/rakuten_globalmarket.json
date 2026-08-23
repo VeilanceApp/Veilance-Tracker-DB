@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Rakuten",
+  "category": "advertising",
+  "website_url": "https://www.rakuten.co.jp/",
+  "organization": "rakuten",
+  "domains": [
+    "rakuten.co.jp",
+    "trafficgate.net",
+    "tag.rmp.rakuten.com"
+  ],
+  "filters": [
+    "||log.affiliate.rakuten.co.jp/mw/imp/a.gif",
+    "||trafficgate.net^$3p"
+  ]
+}

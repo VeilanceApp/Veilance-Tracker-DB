@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "ReadMe",
+  "category": "site_analytics",
+  "website_url": "https://readme.com/",
+  "organization": "readme",
+  "domains": [
+    "readme.com",
+    "readme.io"
+  ],
+  "filters": [
+    "||metrics.readme.io^$3p"
+  ]
+}

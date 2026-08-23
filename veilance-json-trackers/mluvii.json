@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mluvii",
+  "category": "customer_interaction",
+  "organization": "mluvii",
+  "domains": [
+    "app.mluvii.com"
+  ],
+  "filters": [
+    "||app.mluvii.com/widget/oowidget.js"
+  ]
+}

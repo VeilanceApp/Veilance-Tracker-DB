@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "dockvine",
+  "category": "customer_interaction",
+  "organization": "dockvine",
+  "domains": [
+    "toolbar.dockvine.com"
+  ],
+  "filters": [
+    "||toolbar.dockvine.com/app.js",
+    "||toolbar.dockvine.com/javascript",
+    "||toolbar.dockvine.com/loader.js"
+  ]
+}

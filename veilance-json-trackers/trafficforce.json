@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TrafficForce",
+  "category": "advertising",
+  "website_url": "https://www.trafficforce.com/",
+  "organization": "trafficforce",
+  "domains": [
+    "trafficforce.com"
+  ],
+  "filters": [
+    "||trafficforce.com^$3p"
+  ]
+}

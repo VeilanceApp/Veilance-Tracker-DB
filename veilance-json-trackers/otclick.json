@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "otClick",
+  "category": "advertising",
+  "website_url": "https://otclick-adv.ru/",
+  "organization": "otclick",
+  "domains": [
+    "otclick-adv.ru"
+  ],
+  "filters": [
+    "||otclick-adv.ru^$3p"
+  ]
+}

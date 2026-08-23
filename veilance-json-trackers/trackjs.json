@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "TrackJS",
+  "category": "site_analytics",
+  "website_url": "http://www.trackjs.com/",
+  "organization": "trackjs",
+  "domains": [
+    "d2zah9y47r7bi2.cloudfront.net",
+    "dl1d2m8ri9v3j.cloudfront.net",
+    "trackjs.com"
+  ],
+  "filters": [
+    "||d2zah9y47r7bi2.cloudfront.net^$3p",
+    "||dl1d2m8ri9v3j.cloudfront.net^$3p",
+    "||usage.trackjs.com^$3p"
+  ]
+}

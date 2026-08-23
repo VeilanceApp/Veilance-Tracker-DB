@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SimilarDeals",
+  "category": "misc",
+  "website_url": "http://www.similardeals.net/",
+  "domains": [
+    "similardeals.net"
+  ],
+  "filters": []
+}

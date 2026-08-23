@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ChineseAN",
+  "category": "advertising",
+  "website_url": "http://www.chinesean.com/",
+  "organization": "chinesean",
+  "domains": [
+    "chinesean.com"
+  ],
+  "filters": [
+    "||chinesean.com^$3p"
+  ]
+}

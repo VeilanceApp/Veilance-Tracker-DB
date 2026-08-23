@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Wixab",
+  "category": "site_analytics",
+  "organization": "wixab",
+  "domains": [
+    "public.wixab-cloud.com"
+  ],
+  "filters": [
+    "||public.wixab-cloud.com/static/js/wx-latest.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "UserVoice",
+  "category": "customer_interaction",
+  "website_url": "https://uservoice.com/",
+  "organization": "uservoice",
+  "domains": [
+    "uservoice.com"
+  ],
+  "filters": [
+    "||uservoice.com/api",
+    "||uservoice.com/javascripts/widget",
+    "||widget.uservoice.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "CoNative",
+  "category": "advertising",
+  "website_url": "http://www.conative.de/",
+  "domains": [
+    "conative.de"
+  ],
+  "filters": []
+}

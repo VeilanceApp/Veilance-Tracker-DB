@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "Walmart",
+  "category": "misc",
+  "domains": [
+    "walmart.com"
+  ],
+  "filters": []
+}

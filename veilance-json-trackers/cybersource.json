@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "CyberSource",
+  "category": "site_analytics",
+  "website_url": "https://www.cybersource.com/en-gb.html",
+  "organization": "visa",
+  "domains": [
+    "cybersource.com"
+  ],
+  "filters": []
+}

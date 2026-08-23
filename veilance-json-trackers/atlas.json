@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Atlas",
+  "category": "advertising",
+  "website_url": "https://atlassolutions.com",
+  "organization": "facebook",
+  "domains": [
+    "adbureau.net",
+    "atdmt.com",
+    "atlassbx.com"
+  ],
+  "filters": [
+    "||adbureau.net^$3p",
+    "||atdmt.com^$3p"
+  ]
+}

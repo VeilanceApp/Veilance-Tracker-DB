@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iEntry",
+  "category": "advertising",
+  "website_url": "https://www.ientry.com/",
+  "organization": "ientry",
+  "domains": [
+    "600z.com"
+  ],
+  "filters": [
+    "||600z.com^$3p"
+  ]
+}

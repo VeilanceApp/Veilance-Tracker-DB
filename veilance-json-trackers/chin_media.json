@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Chin Media",
+  "category": "advertising",
+  "organization": "chin_media",
+  "domains": [
+    "tracker.chinmedia.vn"
+  ],
+  "filters": [
+    "||tracker.chinmedia.vn/chintracker.js"
+  ]
+}

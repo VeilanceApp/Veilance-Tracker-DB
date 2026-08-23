@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Visit Streamer",
+  "category": "site_analytics",
+  "website_url": "http://www.visitstreamer.com/",
+  "organization": "visit_streamer",
+  "domains": [
+    "visitstreamer.com"
+  ],
+  "filters": [
+    "||visitstreamer.com/vs.js"
+  ]
+}

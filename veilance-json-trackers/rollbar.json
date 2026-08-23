@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Rollbar",
+  "category": "site_analytics",
+  "website_url": "https://www.rollbar.com/",
+  "organization": "rollbar",
+  "domains": [
+    "rollbar.com"
+  ],
+  "filters": [
+    "||rollbar.com^$3p"
+  ]
+}

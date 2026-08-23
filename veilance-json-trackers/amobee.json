@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Amobee",
+  "category": "advertising",
+  "website_url": "https://www.amobee.com/",
+  "organization": "singtel",
+  "domains": [
+    "ad.amgdgt.com",
+    "ads.amgdgt.com",
+    "amobee.com"
+  ],
+  "filters": [
+    "||amobee.com^$3p"
+  ]
+}

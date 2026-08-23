@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Kargo",
+  "category": "advertising",
+  "website_url": "https://www.kargo.com/",
+  "organization": "kargo",
+  "domains": [
+    "kargo.com"
+  ],
+  "filters": [
+    "||kargo.com/ad/network/tag/kargo-"
+  ]
+}

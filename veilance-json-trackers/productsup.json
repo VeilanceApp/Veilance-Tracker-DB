@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ProductsUp",
+  "category": "advertising",
+  "organization": "productsup",
+  "domains": [
+    "lib.productsup.io"
+  ],
+  "filters": [
+    "||lib.productsup.io/engine/load.js"
+  ]
+}

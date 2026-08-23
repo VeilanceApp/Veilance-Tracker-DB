@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Conviva",
+  "category": "site_analytics",
+  "website_url": "https://www.conviva.com/",
+  "organization": "conviva",
+  "domains": [
+    "conviva.com"
+  ],
+  "filters": [
+    "||livepass.conviva.com^$3p",
+    "||livepassdl.conviva.com^$3p"
+  ]
+}

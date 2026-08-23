@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Twitch CDN",
+  "category": "audio_video_player",
+  "website_url": "https://www.twitch.tv/",
+  "organization": "amazon_associates",
+  "domains": [
+    "jtvnw.net",
+    "ttvnw.net",
+    "twitchcdn.net",
+    "twitchsvc.net"
+  ],
+  "filters": []
+}

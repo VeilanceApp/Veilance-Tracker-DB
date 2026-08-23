@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Merkle Research",
+  "category": "site_analytics",
+  "organization": "dentsu_aegis_network",
+  "domains": [
+    "cdn.merklesearch.com"
+  ],
+  "filters": [
+    "||cdn.merklesearch.com/merkle_track.js"
+  ]
+}

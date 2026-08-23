@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CartStack",
+  "category": "customer_interaction",
+  "website_url": "https://cartstack.com/",
+  "organization": "cartstack",
+  "domains": [
+    "api.cartstack.com"
+  ],
+  "filters": [
+    "||api.cartstack.com/js/cs.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Puzzel",
+  "category": "customer_interaction",
+  "website_url": "https://www.puzzel.com/",
+  "organization": "puzzel",
+  "domains": [
+    "puzzel.com"
+  ],
+  "filters": [
+    "||puzzel.com^$3p"
+  ]
+}

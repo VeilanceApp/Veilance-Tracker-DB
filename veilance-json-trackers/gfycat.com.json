@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "gfycat",
+  "category": "social_media",
+  "website_url": "https://gfycat.com/",
+  "domains": [
+    "gfycat.com"
+  ],
+  "filters": []
+}

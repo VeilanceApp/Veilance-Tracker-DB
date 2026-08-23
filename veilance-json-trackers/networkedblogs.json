@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "NetworkedBlogs",
+  "category": "social_media",
+  "website_url": "http://w.networkedblogs.com/",
+  "organization": "networkedblogs",
+  "domains": [
+    "nwidget.networkedblogs.com"
+  ],
+  "filters": [
+    "||nwidget.networkedblogs.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Triblio",
+  "category": "site_analytics",
+  "organization": "triblio",
+  "domains": [
+    "tribl.io"
+  ],
+  "filters": [
+    "||p0.tribl.io/h.js",
+    "||tribl.io/analytics.js"
+  ]
+}

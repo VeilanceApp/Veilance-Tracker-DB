@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Track Duck",
+  "category": "site_analytics",
+  "organization": "track_duck",
+  "domains": [
+    "cdn.trackduck.com"
+  ],
+  "filters": [
+    "||cdn.trackduck.com/toolbar/prod/td.js"
+  ]
+}

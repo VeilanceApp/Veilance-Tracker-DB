@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TeleTech",
+  "category": "advertising",
+  "website_url": "http://www.webmetro.com/whoweare/technology.aspx",
+  "organization": "teletech",
+  "domains": [
+    "tracking.dsmmadvantage.com"
+  ],
+  "filters": [
+    "||tracking.dsmmadvantage.com/clients/"
+  ]
+}

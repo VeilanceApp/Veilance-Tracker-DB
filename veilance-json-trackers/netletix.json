@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Netletix",
+  "category": "advertising",
+  "website_url": "http://www.netletix.com//",
+  "organization": "ip_de",
+  "domains": [
+    "netzathleten-media.de"
+  ],
+  "filters": []
+}

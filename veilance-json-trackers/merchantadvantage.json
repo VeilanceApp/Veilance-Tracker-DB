@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MerchantAdvantage",
+  "category": "advertising",
+  "website_url": "https://www.merchantadvantage.com/channelmanagement.cfm",
+  "organization": "merchantadvantage",
+  "domains": [
+    "merchantadvantage.com"
+  ],
+  "filters": [
+    "||merchantadvantage.com^$3p"
+  ]
+}

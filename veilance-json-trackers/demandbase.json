@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Demandbase",
+  "category": "advertising",
+  "website_url": "https://www.demandbase.com/",
+  "organization": "demandbase",
+  "domains": [
+    "company-target.com",
+    "demandbase.com"
+  ],
+  "filters": [
+    "||api.demandbase.com^$3p",
+    "||company-target.com^$3p",
+    "||leads.demandbase.com^$3p"
+  ]
+}

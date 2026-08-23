@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "True Fit",
+  "category": "advertising",
+  "organization": "true_fit",
+  "domains": [
+    "truefitcorp.com"
+  ],
+  "filters": [
+    "||kat-cdns.truefitcorp.com/fitrec/kat/js/fitrec.js",
+    "||und-cdns.truefitcorp.com/fitrec/und/js/fitrec.js"
+  ]
+}

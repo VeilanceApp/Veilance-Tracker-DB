@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google Appspot",
+  "category": "hosting",
+  "organization": "google",
+  "domains": [
+    "appspot.com"
+  ],
+  "filters": []
+}

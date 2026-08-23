@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ValueClick Media",
+  "category": "advertising",
+  "organization": "conversant",
+  "domains": [
+    "valueclick.net"
+  ],
+  "filters": [
+    "||valueclick.net^$3p"
+  ]
+}

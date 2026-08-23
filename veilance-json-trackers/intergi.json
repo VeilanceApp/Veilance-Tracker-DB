@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Intergi",
+  "category": "advertising",
+  "website_url": "http://www.intergi.com/",
+  "organization": "intergi_entertainment",
+  "domains": [
+    "ads.intergi.com"
+  ],
+  "filters": [
+    "||ads.intergi.com^$3p"
+  ]
+}

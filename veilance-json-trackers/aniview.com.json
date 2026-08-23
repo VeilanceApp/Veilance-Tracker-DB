@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Aniview",
+  "category": "advertising",
+  "website_url": "https://www.aniview.com/",
+  "organization": "aniview",
+  "domains": [
+    "aniview.com"
+  ],
+  "filters": []
+}

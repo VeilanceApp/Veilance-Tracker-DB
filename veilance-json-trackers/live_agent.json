@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Live Agent",
+  "category": "customer_interaction",
+  "organization": "liveagent",
+  "domains": [
+    "ladesk.com"
+  ],
+  "filters": [
+    "||ladesk.com/scripts/track.js"
+  ]
+}

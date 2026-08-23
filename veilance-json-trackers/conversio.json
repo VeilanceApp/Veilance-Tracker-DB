@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "CM Commerce",
+  "category": "site_analytics",
+  "website_url": "https://cm-commerce.com/",
+  "organization": "conversio",
+  "domains": [
+    "cm-commerce.com",
+    "media.conversio.com"
+  ],
+  "filters": [
+    "||media.conversio.com/scripts/shopify.js"
+  ]
+}

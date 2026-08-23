@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AnonymousAds",
+  "category": "advertising",
+  "website_url": "https://a-ads.com/",
+  "organization": "anonymousads",
+  "domains": [
+    "a-ads.com"
+  ],
+  "filters": [
+    "||a-ads.com^$3p"
+  ]
+}

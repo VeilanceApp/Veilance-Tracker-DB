@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Feefo",
+  "category": "customer_interaction",
+  "organization": "feefo",
+  "domains": [
+    "feefo.com"
+  ],
+  "filters": [
+    "||feefo.com/reviewjs"
+  ]
+}

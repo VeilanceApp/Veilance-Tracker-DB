@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TruEffect",
+  "category": "advertising",
+  "website_url": "http://www.trueffect.com/",
+  "organization": "trueffect",
+  "domains": [
+    "adlegend.com"
+  ],
+  "filters": [
+    "||ad.adlegend.com^$3p"
+  ]
+}

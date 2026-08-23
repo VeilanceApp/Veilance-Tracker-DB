@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Zencoder",
+  "category": "audio_video_player",
+  "organization": "zencoder",
+  "domains": [
+    "zencdn.net"
+  ],
+  "filters": [
+    "||vjs.zencdn.net/c/video.js"
+  ]
+}

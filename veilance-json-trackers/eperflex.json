@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Eperflex",
+  "category": "advertising",
+  "website_url": "https://eperflex.com/",
+  "organization": "ividence",
+  "domains": [
+    "email-reflex.com"
+  ],
+  "filters": [
+    "||ivimedia.net^$3p"
+  ]
+}

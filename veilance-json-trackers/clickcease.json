@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ClickCease",
+  "category": "customer_interaction",
+  "organization": "click_cease",
+  "domains": [
+    "clickcease.com"
+  ],
+  "filters": [
+    "||clickcease.com/monitor/stat.js"
+  ]
+}

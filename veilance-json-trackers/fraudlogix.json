@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "FraudLogix",
+  "category": "advertising",
+  "website_url": "https://www.fraudlogix.com/",
+  "domains": [
+    "yabidos.com"
+  ],
+  "filters": []
+}

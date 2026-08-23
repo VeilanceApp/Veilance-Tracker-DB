@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Valassis",
+  "category": "advertising",
+  "website_url": "https://www.brand.net/",
+  "organization": "valassis",
+  "domains": [
+    "ads.brand.net",
+    "vdrn.redplum.com"
+  ],
+  "filters": [
+    "||ads.brand.net^$3p",
+    "||vdrn.redplum.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Performable",
+  "category": "site_analytics",
+  "website_url": "http://www.performable.com/",
+  "organization": "hubspot",
+  "domains": [
+    "analytics.performable.com"
+  ],
+  "filters": [
+    "/performable/pax",
+    "||analytics.performable.com^$3p"
+  ]
+}

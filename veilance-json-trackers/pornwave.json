@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Pornwave",
+  "category": "pornvertising",
+  "organization": "pornwave.com",
+  "domains": [
+    "prscripts.com",
+    "prstatics.com",
+    "prwidgets.com"
+  ],
+  "filters": [
+    "||prscripts.com^$3p",
+    "||prstatics.com^$3p",
+    "||prwidgets.com^$3p"
+  ]
+}

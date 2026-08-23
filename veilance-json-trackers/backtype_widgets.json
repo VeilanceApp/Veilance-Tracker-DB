@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BackType Widgets",
+  "category": "advertising",
+  "website_url": "http://www.backtype.com/widgets",
+  "organization": "backtype",
+  "domains": [
+    "widgets.backtype.com"
+  ],
+  "filters": [
+    "||widgets.backtype.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TrafMag",
+  "category": "advertising",
+  "website_url": "https://trafmag.com/",
+  "organization": "trafmag",
+  "domains": [
+    "trafmag.com"
+  ],
+  "filters": [
+    "||trafmag.com^$3p"
+  ]
+}

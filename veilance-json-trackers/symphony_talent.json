@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Symphony Talent",
+  "category": "customer_interaction",
+  "organization": "symphony_talent",
+  "domains": [
+    "d.hodes.com"
+  ],
+  "filters": [
+    "||d.hodes.com^$3p"
+  ]
+}

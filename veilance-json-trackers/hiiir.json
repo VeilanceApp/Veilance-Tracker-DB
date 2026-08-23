@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Hiiir",
+  "category": "advertising",
+  "website_url": "http://adpower.hiiir.com/",
+  "organization": "hiiir",
+  "domains": [
+    "hiiir.com"
+  ],
+  "filters": [
+    "||hiiir.com^$3p"
+  ]
+}

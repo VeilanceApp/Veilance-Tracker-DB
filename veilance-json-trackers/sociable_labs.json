@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Sociable Labs",
+  "category": "advertising",
+  "website_url": "https://www.sociablelabs.com/",
+  "organization": "sociable_labs",
+  "domains": [
+    "sociablelabs.com"
+  ],
+  "filters": [
+    "||api.sociablelabs.net/integration/api",
+    "||d2ibutkotxl0ax.cloudfront.net/prod/sociable-tag.js",
+    "||sociablelabs.com^$3p"
+  ]
+}

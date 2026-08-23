@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Airbridge",
+  "category": "site_analytics",
+  "website_url": "https://www.arcpublishing.com/",
+  "organization": "airbridge",
+  "domains": [
+    "core.airbridge.io",
+    "sdk.airbridge.io"
+  ],
+  "filters": [
+    "||static.airbridge.io/sdk/latest/airbridge.min.js^"
+  ]
+}

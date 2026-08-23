@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Yesmail",
+  "category": "advertising",
+  "organization": "yes_mail",
+  "domains": [
+    "link.p0.com"
+  ],
+  "filters": [
+    "||link.p0.com^$3p"
+  ]
+}

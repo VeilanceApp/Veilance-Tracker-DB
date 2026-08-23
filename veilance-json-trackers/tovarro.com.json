@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Tovarro",
+  "category": "advertising",
+  "website_url": "https://www.tovarro.com/",
+  "domains": [
+    "tovarro.com"
+  ],
+  "filters": []
+}

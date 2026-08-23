@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Fyber",
+  "category": "advertising",
+  "website_url": "https://www.fyber.com/",
+  "organization": "fyber",
+  "domains": [
+    "angsrvr.com",
+    "fyber.com"
+  ],
+  "filters": [
+    "||as.eu.angsrvr.com/select",
+    "||rtbcc.fyber.com/vpaid/angusersyncer-9.js"
+  ]
+}

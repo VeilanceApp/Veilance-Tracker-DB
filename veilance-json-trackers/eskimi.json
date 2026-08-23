@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Eskimi",
+  "category": "advertising",
+  "website_url": "https://www.eskimi.com/",
+  "organization": "eskimi",
+  "domains": [
+    "ittpx.eskimi.com"
+  ],
+  "filters": []
+}

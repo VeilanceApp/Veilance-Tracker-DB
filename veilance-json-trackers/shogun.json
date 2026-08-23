@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Shogun",
+  "category": "hosting",
+  "website_url": "https://getshogun.com/",
+  "organization": "shogun_labs",
+  "domains": [
+    "i.shgcdn.com",
+    "a.shgcdn2.com"
+  ],
+  "filters": []
+}

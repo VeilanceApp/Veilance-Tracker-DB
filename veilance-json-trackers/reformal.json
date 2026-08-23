@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reformal",
+  "category": "customer_interaction",
+  "website_url": "http://reformal.ru/",
+  "organization": "reformal",
+  "domains": [
+    "reformal.ru"
+  ],
+  "filters": [
+    "||reformal.ru^$3p"
+  ]
+}

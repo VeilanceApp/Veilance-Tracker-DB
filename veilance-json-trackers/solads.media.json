@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "solads.media",
+  "category": "advertising",
+  "website_url": "https://solads.media/",
+  "domains": [
+    "solads.media"
+  ],
+  "filters": []
+}

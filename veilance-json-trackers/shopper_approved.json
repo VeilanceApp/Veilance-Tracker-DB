@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Shopper Approved",
+  "category": "customer_interaction",
+  "organization": "shopper_approved",
+  "domains": [
+    "shopperapproved.com"
+  ],
+  "filters": [
+    "||shopperapproved.com/widgets"
+  ]
+}

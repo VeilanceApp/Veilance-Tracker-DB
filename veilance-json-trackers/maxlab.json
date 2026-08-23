@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Maxlab",
+  "category": "advertising",
+  "website_url": "http://maxlab.ru",
+  "organization": "maxlab",
+  "domains": [
+    "maxlab.ru"
+  ],
+  "filters": [
+    "||maxlab.ru^$3p"
+  ]
+}

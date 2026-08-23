@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Coull",
+  "category": "advertising",
+  "website_url": "https://coull.com/",
+  "organization": "coull",
+  "domains": [
+    "coull.com"
+  ],
+  "filters": [
+    "||coull.com^$3p"
+  ]
+}

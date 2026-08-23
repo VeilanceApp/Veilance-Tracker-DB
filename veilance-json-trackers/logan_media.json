@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Logan Media",
+  "category": "site_analytics",
+  "organization": "logan_media",
+  "domains": [
+    "pixel.loganmedia.mobi"
+  ],
+  "filters": [
+    "||pixel.loganmedia.mobi/pixel/c/"
+  ]
+}

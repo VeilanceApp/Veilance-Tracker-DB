@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sekindo",
+  "category": "advertising",
+  "website_url": "http://www.sekindo.com/",
+  "organization": "sekindo",
+  "domains": [
+    "sekindo.com"
+  ],
+  "filters": [
+    "||sekindo.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GlobalWebIndex",
+  "category": "site_analytics",
+  "website_url": "https://www.globalwebindex.com/",
+  "organization": "global_web_index",
+  "domains": [
+    "globalwebindex.net"
+  ],
+  "filters": [
+    "||gwiqcdn.globalwebindex.net^$3p"
+  ]
+}

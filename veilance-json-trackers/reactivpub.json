@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reactivpub",
+  "category": "site_analytics",
+  "website_url": "http://www.reactivpub.com/",
+  "organization": "r-advertising",
+  "domains": [
+    "reactivpub.fr"
+  ],
+  "filters": [
+    "||reactivpub.fr^$3p"
+  ]
+}

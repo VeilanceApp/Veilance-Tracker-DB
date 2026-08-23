@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Optimonk",
+  "category": "site_analytics",
+  "organization": "optimonk",
+  "domains": [
+    "optimonk.com"
+  ],
+  "filters": [
+    "||front.optimonk.com^$3p"
+  ]
+}

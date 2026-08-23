@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Advertlets",
+  "category": "advertising",
+  "website_url": "http://www.advertlets.com/",
+  "organization": "advertlets",
+  "domains": [
+    "advertlets.com"
+  ],
+  "filters": [
+    "||advertlets.com^$3p"
+  ]
+}

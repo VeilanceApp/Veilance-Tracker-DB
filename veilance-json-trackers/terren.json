@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Terren",
+  "category": "advertising",
+  "website_url": "https://www.webterren.com/",
+  "organization": "terren",
+  "domains": [
+    "webterren.com"
+  ],
+  "filters": [
+    "||webterren.com^$3p"
+  ]
+}

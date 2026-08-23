@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mongoose Metrics",
+  "category": "advertising",
+  "website_url": "http://www.mongoosemetrics.com/",
+  "organization": "mongoose_metrics",
+  "domains": [
+    "mongoosemetrics.com"
+  ],
+  "filters": [
+    "||mongoosemetrics.com^$3p"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "deichmann.com",
+  "category": "advertising",
+  "domains": [
+    "deichmann.com"
+  ],
+  "filters": []
+}

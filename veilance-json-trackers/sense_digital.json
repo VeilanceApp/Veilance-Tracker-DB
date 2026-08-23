@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sense Digital",
+  "category": "site_analytics",
+  "organization": "sense_digital",
+  "domains": [
+    "track.sensedigital.in"
+  ],
+  "filters": [
+    "||track.sensedigital.in/conversion.php"
+  ]
+}

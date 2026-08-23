@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mirando",
+  "category": "advertising",
+  "website_url": "http://mirando.de",
+  "organization": "mirando",
+  "domains": [
+    "get.mirando.de"
+  ],
+  "filters": [
+    "||get.mirando.de^$3p"
+  ]
+}

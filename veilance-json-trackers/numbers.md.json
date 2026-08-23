@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Numbers.md",
+  "category": "site_analytics",
+  "organization": "numbers.md",
+  "domains": [
+    "numbers.md"
+  ],
+  "filters": [
+    "||numbers.md/loader.js"
+  ]
+}

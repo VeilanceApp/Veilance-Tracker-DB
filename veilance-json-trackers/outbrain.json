@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Outbrain",
+  "category": "advertising",
+  "website_url": "https://www.outbrain.com/",
+  "organization": "outbrain",
+  "domains": [
+    "outbrain.com",
+    "outbrainimg.com"
+  ],
+  "filters": [
+    "||odb.outbrain.com/utils/get",
+    "||revee.outbrain.com/page/update",
+    "||revee.outbrain.com/page/view",
+    "||sync.outbrain.com^$3p",
+    "||traffic.outbrain.com/network/trackpxl",
+    "||widgets.outbrain.com^$3p"
+  ]
+}

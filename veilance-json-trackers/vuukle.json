@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Vuukle",
+  "category": "site_analytics",
+  "organization": "vuukle",
+  "domains": [
+    "vuukle.com"
+  ],
+  "filters": [
+    "||vuukle.com/js/vuukle.js"
+  ]
+}

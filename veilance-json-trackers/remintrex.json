@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Remintrex",
+  "category": "advertising",
+  "website_url": "https://www.remintrex.com/",
+  "domains": [
+    "remintrex.com"
+  ],
+  "filters": []
+}

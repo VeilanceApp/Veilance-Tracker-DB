@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "EQWorks",
+  "category": "advertising",
+  "website_url": "http://eqads.com",
+  "organization": "eq_works",
+  "domains": [
+    "eqads.com"
+  ],
+  "filters": [
+    "||eqads.com^$3p"
+  ]
+}

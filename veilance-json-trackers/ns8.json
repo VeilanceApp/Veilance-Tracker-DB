@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "NS8",
+  "category": "advertising",
+  "website_url": "https://www.ns8.com/",
+  "domains": [
+    "ns8.com"
+  ],
+  "filters": []
+}

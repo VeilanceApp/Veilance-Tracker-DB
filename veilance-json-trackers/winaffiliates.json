@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Winaffiliates",
+  "category": "site_analytics",
+  "organization": "winaffiliates",
+  "domains": [
+    "tracking.winaffiliates.com"
+  ],
+  "filters": [
+    "||tracking.winaffiliates.com/redirect.aspx"
+  ]
+}

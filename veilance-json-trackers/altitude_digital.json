@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Altitude Digital",
+  "category": "advertising",
+  "website_url": "http://www.altitudedigital.com/",
+  "organization": "altitude_digital",
+  "domains": [
+    "arena.altitude-arena.com"
+  ],
+  "filters": [
+    "||arena.altitude-arena.com^$3p"
+  ]
+}

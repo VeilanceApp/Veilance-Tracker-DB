@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "BloomReach",
+  "category": "advertising",
+  "website_url": "https://www.bloomreach.com/en",
+  "organization": "bloomreach",
+  "domains": [
+    "brcdn.com",
+    "brsrvr.com",
+    "brtstats.com"
+  ],
+  "filters": [
+    "||brcdn.com^$3p",
+    "||brsrvr.com^$3p",
+    "||brtstats.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fidelity Media",
+  "category": "advertising",
+  "website_url": "http://fidelity-media.com/",
+  "organization": "fidelity_media",
+  "domains": [
+    "fidelity-media.com"
+  ],
+  "filters": [
+    "||fidelity-media.com^$3p"
+  ]
+}

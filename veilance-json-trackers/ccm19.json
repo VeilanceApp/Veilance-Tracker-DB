@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CCM19",
+  "category": "consent",
+  "website_url": "https://www.ccm19.de/en/",
+  "organization": "papoo",
+  "domains": [
+    "ccm19.de"
+  ],
+  "filters": [
+    "||ccm19.de^$3p"
+  ]
+}

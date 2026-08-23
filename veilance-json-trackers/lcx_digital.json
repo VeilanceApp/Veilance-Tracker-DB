@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LCX Digital",
+  "category": "advertising",
+  "website_url": "https://www.lcx.com/",
+  "organization": "lcx_digital",
+  "domains": [
+    "lcxdigital.com"
+  ],
+  "filters": [
+    "||lcxdigital.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ReTargeter Beacon",
+  "category": "advertising",
+  "website_url": "http://www.retargeter.com/",
+  "organization": "retargeter",
+  "domains": [
+    "retargeter.com"
+  ],
+  "filters": [
+    "||retargeter.com^$3p"
+  ]
+}

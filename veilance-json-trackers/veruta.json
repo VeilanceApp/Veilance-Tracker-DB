@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Veruta",
+  "category": "advertising",
+  "website_url": "http://www.veruta.com/",
+  "organization": "veruta",
+  "domains": [
+    "veruta.com"
+  ],
+  "filters": [
+    "||veruta.com/scripts/trackmerchant.js",
+    "||veruta.com^$3p"
+  ]
+}

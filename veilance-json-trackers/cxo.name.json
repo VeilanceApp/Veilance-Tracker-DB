@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Chip Analytics",
+  "category": "site_analytics",
+  "website_url": "https://www.chip.de/",
+  "domains": [
+    "cxo.name"
+  ],
+  "filters": []
+}

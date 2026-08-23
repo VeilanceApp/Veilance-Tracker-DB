@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Moneytizer",
+  "category": "advertising",
+  "organization": "the_moneytizer",
+  "domains": [
+    "ads.themoneytizer.com"
+  ],
+  "filters": [
+    "||ads.themoneytizer.com/s/gen.js"
+  ]
+}

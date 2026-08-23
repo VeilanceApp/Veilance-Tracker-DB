@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Enreach",
+  "category": "advertising",
+  "website_url": "https://enreach.me/",
+  "organization": "enreach",
+  "domains": [
+    "adtlgc.com"
+  ],
+  "filters": [
+    "||adtlgc.com^$3p"
+  ]
+}

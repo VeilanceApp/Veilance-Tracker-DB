@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Purch",
+  "category": "advertising",
+  "website_url": "http://www.purch.com/",
+  "organization": "purch",
+  "domains": [
+    "purch.com",
+    "servebom.com"
+  ],
+  "filters": [
+    "||servebom.com^$3p"
+  ]
+}

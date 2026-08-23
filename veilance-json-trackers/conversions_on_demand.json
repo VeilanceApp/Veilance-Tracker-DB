@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Conversions On Demand",
+  "category": "site_analytics",
+  "website_url": "https://www.conversionsondemand.com/",
+  "organization": "conversions_on_demand",
+  "domains": [
+    "conversionsondemand.com"
+  ],
+  "filters": [
+    "||conversionsondemand.com^$3p"
+  ]
+}

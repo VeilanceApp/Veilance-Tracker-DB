@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "X Corp.",
+  "category": "social_media",
+  "website_url": "https://twitter.com",
+  "organization": "twitter",
+  "domains": [
+    "t.co",
+    "twimg.com",
+    "twitter.com",
+    "x.com"
+  ],
+  "filters": [
+    "||platform.twitter.com/js/timeline.619317855a58aa2366562a395f9e40ef.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fenty Beauty",
+  "category": "site_analytics",
+  "website_url": "https://fentybeauty.com/",
+  "organization": "kendobrands",
+  "domains": [
+    "api-v3-docker-nrl2mwczfq-uc.a.run.app"
+  ],
+  "filters": [
+    "||run.app/tracking$domain=fentybeauty.com"
+  ]
+}

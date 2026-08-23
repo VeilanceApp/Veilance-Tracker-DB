@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Digioh",
+  "category": "advertising",
+  "website_url": "https://digioh.com/",
+  "domains": [
+    "digioh.com",
+    "lightboxcdn.com"
+  ],
+  "filters": []
+}

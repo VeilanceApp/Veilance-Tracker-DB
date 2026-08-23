@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "trbo",
+  "category": "advertising",
+  "website_url": "https://www.trbo.com/",
+  "organization": "trbo",
+  "domains": [
+    "trbo.com"
+  ],
+  "filters": [
+    "||trbo.com^$3p"
+  ]
+}

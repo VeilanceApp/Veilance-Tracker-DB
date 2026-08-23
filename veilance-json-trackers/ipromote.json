@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iPromote",
+  "category": "advertising",
+  "website_url": "https://www.ipromote.com/",
+  "organization": "ipromote",
+  "domains": [
+    "ipromote.com"
+  ],
+  "filters": [
+    "||ipromote.com^$3p"
+  ]
+}

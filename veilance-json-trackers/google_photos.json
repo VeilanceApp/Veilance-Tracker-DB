@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Google Photos",
+  "category": "hosting",
+  "website_url": "https://photos.google.com/",
+  "organization": "google",
+  "domains": [
+    "ggpht.com"
+  ],
+  "filters": []
+}

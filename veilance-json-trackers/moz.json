@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Moz",
+  "category": "misc",
+  "website_url": "https://moz.com/",
+  "domains": [
+    "moz.com"
+  ],
+  "filters": []
+}

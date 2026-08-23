@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "lentainform.com",
+  "category": "misc",
+  "website_url": "https://www.lentainform.com/",
+  "domains": [
+    "lentainform.com"
+  ],
+  "filters": []
+}

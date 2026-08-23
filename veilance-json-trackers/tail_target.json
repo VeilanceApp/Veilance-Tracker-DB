@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tail",
+  "category": "site_analytics",
+  "website_url": "https://www.tail.digital/",
+  "organization": "tail.digital",
+  "domains": [
+    "tailtarget.com"
+  ],
+  "filters": [
+    "||tailtarget.com^$3p"
+  ]
+}

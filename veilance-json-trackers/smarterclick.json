@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Smarterclick",
+  "category": "advertising",
+  "organization": "smarter_click",
+  "domains": [
+    "smct.co"
+  ],
+  "filters": [
+    "||smct.co/tag"
+  ]
+}

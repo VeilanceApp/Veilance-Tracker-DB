@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SuperCounters",
+  "category": "site_analytics",
+  "website_url": "http://www.supercounters.com/",
+  "organization": "supercounters",
+  "domains": [
+    "supercounters.com"
+  ],
+  "filters": [
+    "||supercounters.com^$3p"
+  ]
+}

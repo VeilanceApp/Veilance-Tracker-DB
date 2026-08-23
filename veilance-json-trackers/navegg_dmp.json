@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Navegg",
+  "category": "site_analytics",
+  "website_url": "https://www.navegg.com/en/",
+  "organization": "navegg",
+  "domains": [
+    "navdmp.com"
+  ],
+  "filters": [
+    "||navdmp.com^$3p"
+  ]
+}

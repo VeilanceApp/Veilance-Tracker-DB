@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "GroupM Server",
+  "category": "advertising",
+  "website_url": "https://www.groupm.com/",
+  "organization": "wpp",
+  "domains": [
+    "gmads.net",
+    "grmtech.net"
+  ],
+  "filters": [
+    "||gmads.net^$3p",
+    "||grmtech.net^$3p"
+  ]
+}

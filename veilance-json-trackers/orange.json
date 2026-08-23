@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Orange",
+  "category": "advertising",
+  "website_url": "https://www.orange.co.uk/",
+  "organization": "orange_mobile",
+  "domains": [
+    "orange.fr",
+    "orangeads.fr"
+  ],
+  "filters": [
+    "||c.orange.fr^$3p",
+    "||gstat.orange.fr^$3p",
+    "||iapref.orange.fr^$3p",
+    "||orangeads.fr^$3p"
+  ]
+}

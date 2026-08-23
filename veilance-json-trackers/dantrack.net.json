@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "DANtrack",
+  "category": "advertising",
+  "website_url": "http://media.dantrack.net/privacy/",
+  "organization": "dentsu_aegis_network",
+  "domains": [
+    "dantrack.net"
+  ],
+  "filters": []
+}

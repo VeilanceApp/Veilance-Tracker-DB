@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Batanga Network",
+  "category": "advertising",
+  "website_url": "https://www.batanganetwork.com/",
+  "organization": "batanga_network",
+  "domains": [
+    "batanga.com"
+  ],
+  "filters": [
+    "||batanga.com^$3p"
+  ]
+}

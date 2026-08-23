@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Hop-Cube",
+  "category": "advertising",
+  "website_url": "http://www.hop-cube.com/",
+  "organization": "hop-cube",
+  "domains": [
+    "apiae.hopscore.com"
+  ],
+  "filters": [
+    "||apiae.hopscore.com^$3p"
+  ]
+}

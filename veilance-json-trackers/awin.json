@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "AWIN",
+  "category": "advertising",
+  "website_url": "https://www.awin.com",
+  "organization": "axel_springer",
+  "domains": [
+    "awin.com",
+    "awin1.com",
+    "perfb.com"
+  ],
+  "filters": [
+    "||awin1.com^$3p",
+    "||perfb.com^$3p"
+  ]
+}

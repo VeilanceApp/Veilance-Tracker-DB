@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Synergy-E",
+  "category": "advertising",
+  "website_url": "http://synergy-e.com/",
+  "organization": "synergy-e",
+  "domains": [
+    "synergy-e.com"
+  ],
+  "filters": [
+    "||synergy-e.com^$3p"
+  ]
+}

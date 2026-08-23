@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fanplayr",
+  "category": "advertising",
+  "website_url": "https://www.fanplayr.com/",
+  "organization": "fanplayr",
+  "domains": [
+    "d1q7pknmpq2wkm.cloudfront.net"
+  ],
+  "filters": [
+    "||d1q7pknmpq2wkm.cloudfront.net^$3p"
+  ]
+}

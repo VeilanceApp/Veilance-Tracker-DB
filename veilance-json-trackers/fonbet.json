@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Fonbet",
+  "category": "site_analytics",
+  "organization": "fonbet",
+  "domains": [
+    "special.matchtv.ru"
+  ],
+  "filters": [
+    "||special.matchtv.ru/fonbetkoef/assets/sportbox.js"
+  ]
+}

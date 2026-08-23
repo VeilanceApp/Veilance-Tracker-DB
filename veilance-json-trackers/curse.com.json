@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Curse",
+  "category": "misc",
+  "website_url": "https://www.curse.com/",
+  "organization": "amazon_associates",
+  "domains": [
+    "curse.com"
+  ],
+  "filters": []
+}

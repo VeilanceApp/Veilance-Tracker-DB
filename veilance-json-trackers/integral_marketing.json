@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Integral Marketing",
+  "category": "advertising",
+  "website_url": "http://integral-marketing.com/",
+  "organization": "integral_marketing",
+  "domains": [
+    "integral-marketing.com"
+  ],
+  "filters": [
+    "||integral-marketing.com^$3p"
+  ]
+}

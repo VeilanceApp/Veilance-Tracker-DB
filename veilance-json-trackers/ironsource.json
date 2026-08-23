@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "ironSource",
+  "category": "advertising",
+  "website_url": "https://www.ironsrc.com/",
+  "organization": "ironsource",
+  "domains": [
+    "addelive.com",
+    "afdads.com",
+    "delivery47.com"
+  ],
+  "filters": [
+    "||addelive.com^$3p",
+    "||afdads.com^$3p",
+    "||delivery47.com^$3p"
+  ]
+}

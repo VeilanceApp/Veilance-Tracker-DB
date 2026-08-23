@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "rtbsuperhub.com",
+  "category": "advertising",
+  "domains": [
+    "rtbsuperhub.com"
+  ],
+  "filters": []
+}

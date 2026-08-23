@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Oath",
+  "category": "misc",
+  "website_url": "https://www.oath.com/",
+  "organization": "yahoo",
+  "domains": [
+    "oath.com"
+  ],
+  "filters": [
+    "||consent.cmp.oath.com/cmpstub.min.js"
+  ]
+}

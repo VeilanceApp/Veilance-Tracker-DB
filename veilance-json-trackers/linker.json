@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Linker",
+  "category": "advertising",
+  "website_url": "https://linker.hr/",
+  "organization": "linker",
+  "domains": [
+    "linker.hr"
+  ],
+  "filters": [
+    "||linker.hr/lw.js",
+    "||linker.hr/w.js"
+  ]
+}

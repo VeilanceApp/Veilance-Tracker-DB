@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Context.ad",
+  "category": "advertising",
+  "website_url": "http://contextad.pl/",
+  "organization": "context.ad",
+  "domains": [
+    "intext.contextad.pl"
+  ],
+  "filters": [
+    "||intext.contextad.pl^$3p"
+  ]
+}

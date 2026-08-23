@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "LiveRamp",
+  "category": "advertising",
+  "website_url": "https://liveramp.com/",
+  "organization": "acxiom",
+  "domains": [
+    "pippio.com",
+    "rapleaf.com",
+    "rlcdn.com",
+    "tvpixel.com"
+  ],
+  "filters": [
+    "||pippio.com/api/sync",
+    "||rlcdn.com^$3p",
+    "||spruce.rapleaf.com^$3p",
+    "||tvpixel.com^$3p"
+  ]
+}

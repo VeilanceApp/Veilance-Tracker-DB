@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "GrandSlamMedia",
+  "category": "advertising",
+  "website_url": "http://www.grandslammedia.com/",
+  "organization": "grand_slam_media",
+  "domains": [
+    "trw12.com",
+    "tuberewards.com"
+  ],
+  "filters": [
+    "||trw12.com^$3p",
+    "||tuberewards.com^$3p"
+  ]
+}

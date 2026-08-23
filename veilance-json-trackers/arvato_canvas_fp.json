@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Arvato Canvas FP",
+  "category": "site_analytics",
+  "organization": "arvato",
+  "domains": [
+    "cya2.net"
+  ],
+  "filters": [
+    "||cya2.net/js/stat"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tolstoy",
+  "category": "site_analytics",
+  "website_url": "https://www.gotolstoy.com/",
+  "organization": "gotolstoy",
+  "domains": [
+    "api.gotolstoy.com"
+  ],
+  "filters": [
+    "||api.gotolstoy.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ohana Advertising Network",
+  "category": "advertising",
+  "website_url": "http://adohana.com/",
+  "organization": "ohana_advertising_network",
+  "domains": [
+    "adohana.com"
+  ],
+  "filters": [
+    "||adohana.com^$3p"
+  ]
+}

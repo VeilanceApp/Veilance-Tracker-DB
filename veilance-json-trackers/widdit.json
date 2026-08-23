@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Widdit",
+  "category": "customer_interaction",
+  "website_url": "https://www.predictad.com/",
+  "organization": "widdit",
+  "domains": [
+    "predictad.com"
+  ],
+  "filters": [
+    "||predictad.com/scripts/molosky/",
+    "||predictad.com/scripts/publishers/"
+  ]
+}

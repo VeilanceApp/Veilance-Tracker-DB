@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Livefyre",
+  "category": "customer_interaction",
+  "website_url": "http://www.livefyre.com/",
+  "organization": "adobe",
+  "domains": [
+    "fyre.co",
+    "livefyre.com"
+  ],
+  "filters": []
+}

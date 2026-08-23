@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DirectREV",
+  "category": "advertising",
+  "website_url": "https://www.directrev.com/",
+  "organization": "directrev",
+  "domains": [
+    "directrev.com"
+  ],
+  "filters": [
+    "||directrev.com^$3p"
+  ]
+}

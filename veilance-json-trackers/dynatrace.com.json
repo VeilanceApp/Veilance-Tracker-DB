@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Dynatrace",
+  "category": "site_analytics",
+  "website_url": "https://www.dynatrace.com/",
+  "organization": "dynatrace",
+  "domains": [
+    "dynatrace.com"
+  ],
+  "filters": []
+}

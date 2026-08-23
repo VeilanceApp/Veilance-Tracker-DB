@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Proximic",
+  "category": "advertising",
+  "website_url": "https://www.proximic.com/",
+  "organization": "proximic",
+  "domains": [
+    "proximic.com"
+  ],
+  "filters": [
+    "||proximic.com^$3p"
+  ]
+}

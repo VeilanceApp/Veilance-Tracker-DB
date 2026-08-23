@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "etag",
+  "category": "advertising",
+  "organization": "etag",
+  "domains": [
+    "teste-s3-maycon.s3.amazonaws.com"
+  ],
+  "filters": [
+    "||teste-s3-maycon.s3.amazonaws.com/tag.js"
+  ]
+}

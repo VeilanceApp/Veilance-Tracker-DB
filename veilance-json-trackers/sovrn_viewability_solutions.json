@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sovrn Signal",
+  "category": "advertising",
+  "website_url": "https://www.sovrn.com/publishers/signal/",
+  "organization": "sovrn",
+  "domains": [
+    "onscroll.com"
+  ],
+  "filters": [
+    "||onscroll.com^$3p"
+  ]
+}

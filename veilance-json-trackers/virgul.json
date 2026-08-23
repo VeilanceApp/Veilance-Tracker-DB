@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Virgul",
+  "category": "advertising",
+  "website_url": "http://www.virgul.com/",
+  "organization": "virgul",
+  "domains": [
+    "virgul.com"
+  ],
+  "filters": [
+    "||virgul.com^$3p"
+  ]
+}

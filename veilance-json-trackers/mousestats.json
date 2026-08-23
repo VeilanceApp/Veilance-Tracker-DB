@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MouseStats",
+  "category": "advertising",
+  "website_url": "http://www.mousestats.com/",
+  "organization": "mousestats",
+  "domains": [
+    "mousestats.com"
+  ],
+  "filters": [
+    "||mousestats.com^$3p"
+  ]
+}

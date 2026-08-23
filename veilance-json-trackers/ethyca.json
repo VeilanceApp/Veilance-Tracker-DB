@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ethyca",
+  "category": "consent",
+  "website_url": "https://ethyca.com/",
+  "organization": "ethyca",
+  "domains": [
+    "ethyca.com"
+  ],
+  "filters": [
+    "||ethyca.com^$3p"
+  ]
+}

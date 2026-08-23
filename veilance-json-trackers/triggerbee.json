@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Triggerbee",
+  "category": "site_analytics",
+  "website_url": "https://triggerbee.com",
+  "organization": "triggerbee",
+  "domains": [
+    "triggerbee.com",
+    "t.myvisitors.se"
+  ],
+  "filters": [
+    "||triggerbee.com^$3p"
+  ]
+}

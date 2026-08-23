@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Marin Search Marketer",
+  "category": "advertising",
+  "website_url": "https://www.marinsoftware.com/",
+  "organization": "marin_software",
+  "domains": [
+    "marinsm.com"
+  ],
+  "filters": [
+    "||marinsm.com^$3p"
+  ]
+}

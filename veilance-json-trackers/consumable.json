@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Consumable",
+  "category": "advertising",
+  "website_url": "https://consumable.com/index.html",
+  "organization": "giftconnect",
+  "domains": [
+    "serverbid.com"
+  ],
+  "filters": []
+}

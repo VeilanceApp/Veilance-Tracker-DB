@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mediapost Communications",
+  "category": "site_analytics",
+  "organization": "mediapost_communications",
+  "domains": [
+    "mt.mediapostcommunication.net"
+  ],
+  "filters": [
+    "||mt.mediapostcommunication.net^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reactful",
+  "category": "advertising",
+  "website_url": "https://www.reactful.com/",
+  "organization": "reactful",
+  "domains": [
+    "plugin.reactful.com"
+  ],
+  "filters": [
+    "||plugin.reactful.com^$3p"
+  ]
+}

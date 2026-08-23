@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Populis",
+  "category": "advertising",
+  "website_url": "http://www.populis.com",
+  "organization": "populis",
+  "domains": [
+    "populis.com",
+    "populisengage.com"
+  ],
+  "filters": [
+    "||populis.com^$3p",
+    "||populisengage.com^$3p"
+  ]
+}

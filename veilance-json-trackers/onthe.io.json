@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "OnThe.io",
+  "category": "site_analytics",
+  "organization": "onthe.io",
+  "domains": [
+    "onthe.io"
+  ],
+  "filters": [
+    "||cdn.onthe.io/io.js",
+    "||t.onthe.io/media"
+  ]
+}

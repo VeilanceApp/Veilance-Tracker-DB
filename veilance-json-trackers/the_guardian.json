@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "The Guardian",
+  "category": "misc",
+  "website_url": "https://www.theguardian.com/",
+  "organization": "the_guardian",
+  "domains": [
+    "gu-web.net",
+    "guardianapps.co.uk",
+    "guim.co.uk",
+    "guardianapis.com"
+  ],
+  "filters": []
+}

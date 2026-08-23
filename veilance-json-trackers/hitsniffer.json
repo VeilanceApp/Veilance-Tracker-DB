@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "HitSniffer",
+  "category": "advertising",
+  "website_url": "http://hitsniffer.com/",
+  "organization": "hit_sniffer",
+  "domains": [
+    "hitsniffer.com"
+  ],
+  "filters": [
+    "||hitsniffer.com^$3p"
+  ]
+}

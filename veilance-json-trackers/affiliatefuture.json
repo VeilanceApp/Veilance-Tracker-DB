@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AffiliateFuture",
+  "category": "advertising",
+  "website_url": "http://www.affiliatefuture.com",
+  "organization": "affiliatefuture",
+  "domains": [
+    "affiliatefuture.com"
+  ],
+  "filters": [
+    "||affiliatefuture.com^$3p"
+  ]
+}

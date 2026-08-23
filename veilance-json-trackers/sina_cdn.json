@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Sina CDN",
+  "category": "hosting",
+  "website_url": "https://www.sina.com.cn/",
+  "organization": "sina",
+  "domains": [
+    "sinaimg.cn"
+  ],
+  "filters": []
+}

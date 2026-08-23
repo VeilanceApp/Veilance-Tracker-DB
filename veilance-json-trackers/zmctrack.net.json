@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "zmctrack.net",
+  "category": "misc",
+  "domains": [
+    "zmctrack.net"
+  ],
+  "filters": []
+}

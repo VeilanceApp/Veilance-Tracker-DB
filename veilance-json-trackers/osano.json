@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Osano",
+  "category": "consent",
+  "website_url": "https://www.osano.com",
+  "organization": "osano",
+  "domains": [
+    "cmp.osano.com",
+    "api.osano.com"
+  ],
+  "filters": []
+}

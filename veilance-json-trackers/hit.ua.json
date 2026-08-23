@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "HIT.UA",
+  "category": "advertising",
+  "website_url": "https://hit.ua/",
+  "organization": "hit.ua",
+  "domains": [
+    "hit.ua"
+  ],
+  "filters": [
+    "||hit.ua^$3p"
+  ]
+}

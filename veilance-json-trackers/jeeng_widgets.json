@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Jeeng Widgets",
+  "category": "advertising",
+  "organization": "jeeng",
+  "domains": [
+    "api.jeeng.com"
+  ],
+  "filters": [
+    "||api.jeeng.com/widgets",
+    "||widget.jeeng.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "LiveChatNow",
+  "category": "customer_interaction",
+  "website_url": "http://www.livechatnow.com/",
+  "organization": "livechatnow!",
+  "domains": [
+    "livechatnow.com",
+    "livechatnow.net"
+  ],
+  "filters": [
+    "||livechatnow.com^$3p",
+    "||livechatnow.net^$3p"
+  ]
+}

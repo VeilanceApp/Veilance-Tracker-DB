@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Netaffiliation",
+  "category": "advertising",
+  "website_url": "http://netaffiliation.com/",
+  "organization": "kwanko",
+  "domains": [
+    "metaffiliation.com",
+    "netaffiliation.com"
+  ],
+  "filters": [
+    "||metaffiliation.com^$3p",
+    "||netaffiliation.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Sellpoints",
+  "category": "advertising",
+  "website_url": "https://www.sellpoints.com/",
+  "organization": "sellpoints",
+  "domains": [
+    "sellpoint.net",
+    "sellpoints.com"
+  ],
+  "filters": [
+    "||sb.sellpoint.net^$3p"
+  ]
+}

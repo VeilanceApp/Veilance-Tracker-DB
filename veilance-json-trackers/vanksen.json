@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vanksen",
+  "category": "advertising",
+  "website_url": "http://www.buzzparadise.com/",
+  "organization": "vanksen",
+  "domains": [
+    "buzzparadise.com"
+  ],
+  "filters": [
+    "||buzzparadise.com^$3p"
+  ]
+}

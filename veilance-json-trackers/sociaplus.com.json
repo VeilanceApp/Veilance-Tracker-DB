@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SociaPlus",
+  "category": "site_analytics",
+  "website_url": "https://sociaplus.com/",
+  "domains": [
+    "sociaplus.com"
+  ],
+  "filters": []
+}

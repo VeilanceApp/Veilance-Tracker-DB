@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pathful",
+  "category": "site_analytics",
+  "website_url": "https://www.pathful.com/",
+  "organization": "pathful",
+  "domains": [
+    "pathful.com"
+  ],
+  "filters": [
+    "||pathful.com/js/scripts/"
+  ]
+}

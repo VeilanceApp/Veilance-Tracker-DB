@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "TrenDemon",
+  "category": "site_analytics",
+  "organization": "trendemon",
+  "domains": [
+    "trendemon.com"
+  ],
+  "filters": [
+    "||trendemon.com/apis/loadflame/mainflamejs"
+  ]
+}

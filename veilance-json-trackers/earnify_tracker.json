@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Earnify Tracker",
+  "category": "site_analytics",
+  "organization": "earnify",
+  "domains": [
+    "earnify.com"
+  ],
+  "filters": [
+    "||earnify.com/track"
+  ]
+}

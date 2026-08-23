@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Genesys Cloud CX",
+  "category": "customer_interaction",
+  "website_url": "https://www.genesys.com/genesys-cloud",
+  "organization": "genesys",
+  "domains": [
+    "genesys.com",
+    "mypurecloud.com",
+    "mypurecloud.de",
+    "mypurecloud.jp",
+    "mypurecloud.ie",
+    "mypurecloud.co.uk",
+    "mypurecloud.com.au"
+  ],
+  "filters": [
+    "||genesys.com^$3p"
+  ]
+}

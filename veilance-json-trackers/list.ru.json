@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Rating@Mail.Ru",
+  "category": "social_media",
+  "website_url": "http://list.ru/",
+  "organization": "megafon",
+  "domains": [
+    "list.ru"
+  ],
+  "filters": [
+    "||list.ru/counter",
+    "||list.ru/tracker"
+  ]
+}

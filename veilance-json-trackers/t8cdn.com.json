@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "t8cdn.com",
+  "category": "misc",
+  "domains": [
+    "t8cdn.com"
+  ],
+  "filters": []
+}

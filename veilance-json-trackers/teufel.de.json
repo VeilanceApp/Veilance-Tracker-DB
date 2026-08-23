@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "teufel.de",
+  "category": "misc",
+  "website_url": "https://www.teufel.de/",
+  "domains": [
+    "teufel.de"
+  ],
+  "filters": []
+}

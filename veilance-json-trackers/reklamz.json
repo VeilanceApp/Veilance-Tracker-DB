@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ReklamZ",
+  "category": "advertising",
+  "website_url": "https://www.reklamz.com/",
+  "organization": "reklamz",
+  "domains": [
+    "delivery.reklamz.com"
+  ],
+  "filters": [
+    "||delivery.reklamz.com^$3p"
+  ]
+}

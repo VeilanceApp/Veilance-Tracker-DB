@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Salesforce",
+  "category": "site_analytics",
+  "website_url": "https://www.salesforce.com/eu/",
+  "organization": "salesforce",
+  "domains": [
+    "force.com",
+    "salesforce.com"
+  ],
+  "filters": [
+    "||lct.salesforce.com/sfga.js"
+  ]
+}

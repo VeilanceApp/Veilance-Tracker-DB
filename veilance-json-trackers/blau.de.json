@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Blau",
+  "category": "misc",
+  "website_url": "https://www.blau.de/",
+  "domains": [
+    "blau.de"
+  ],
+  "filters": []
+}

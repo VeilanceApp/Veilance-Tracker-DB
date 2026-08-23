@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Visual Revenue",
+  "category": "site_analytics",
+  "website_url": "http://visualrevenue.com/",
+  "organization": "outbrain",
+  "domains": [
+    "visualrevenue.com"
+  ],
+  "filters": [
+    "||visualrevenue.com^$3p"
+  ]
+}

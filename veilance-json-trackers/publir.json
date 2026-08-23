@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Publir",
+  "category": "advertising",
+  "website_url": "http://www.publir.com",
+  "organization": "publir",
+  "domains": [
+    "intgr.net"
+  ],
+  "filters": [
+    "||intgr.net^$3p"
+  ]
+}

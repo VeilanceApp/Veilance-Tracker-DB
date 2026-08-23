@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Persio",
+  "category": "advertising",
+  "organization": "pers.io",
+  "domains": [
+    "code.pers.io"
+  ],
+  "filters": [
+    "||code.pers.io/persio.js",
+    "||ir1s.mobi^$3p"
+  ]
+}

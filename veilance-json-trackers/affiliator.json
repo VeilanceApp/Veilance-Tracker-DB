@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Affiliator",
+  "category": "advertising",
+  "website_url": "http://www.affiliator.com/",
+  "organization": "affiliator",
+  "domains": [
+    "affiliator.com"
+  ],
+  "filters": [
+    "||affiliator.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Ownpage",
+  "category": "customer_interaction",
+  "website_url": "https://www.ownpage.fr/index.en.html",
+  "domains": [
+    "ownpage.fr"
+  ],
+  "filters": []
+}

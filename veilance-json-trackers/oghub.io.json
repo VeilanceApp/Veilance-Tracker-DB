@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "OG Hub",
+  "category": "misc",
+  "domains": [
+    "oghub.io"
+  ],
+  "filters": []
+}

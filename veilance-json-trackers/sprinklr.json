@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sprinklr",
+  "category": "site_analytics",
+  "website_url": "https://www.sprinklr.com/",
+  "organization": "sprinklr",
+  "domains": [
+    "sprinklr.com"
+  ],
+  "filters": [
+    "||sprinklr.com^$3p"
+  ]
+}

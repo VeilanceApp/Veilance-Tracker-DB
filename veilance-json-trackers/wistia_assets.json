@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Wistia Assets",
+  "category": "audio_video_player",
+  "website_url": "https://wistia.com/",
+  "organization": "wistia",
+  "domains": [
+    "wistia.com",
+    "wistia.net"
+  ],
+  "filters": [
+    "wistia.com^$3p",
+    "wistia.net^$3p"
+  ]
+}

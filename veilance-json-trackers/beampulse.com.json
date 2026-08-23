@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "BeamPulse",
+  "category": "advertising",
+  "website_url": "https://en.beampulse.com/",
+  "domains": [
+    "beampulse.com"
+  ],
+  "filters": []
+}

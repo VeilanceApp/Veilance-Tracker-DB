@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Transmatic",
+  "category": "site_analytics",
+  "organization": "transmatico",
+  "domains": [
+    "backoffice.transmatico.com"
+  ],
+  "filters": [
+    "||backoffice.transmatico.com/get"
+  ]
+}

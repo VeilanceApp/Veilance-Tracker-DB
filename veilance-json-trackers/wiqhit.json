@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "WiQhit",
+  "category": "site_analytics",
+  "organization": "wiqhit",
+  "domains": [
+    "col1.wiqhit.com"
+  ],
+  "filters": [
+    "||col1.wiqhit.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Cyber Wing",
+  "category": "advertising",
+  "website_url": "http://www.cyberwing.co.jp/",
+  "organization": "cyberwing",
+  "domains": [
+    "cyberwing.co.jp"
+  ],
+  "filters": [
+    "||cyberwing.co.jp^$3p"
+  ]
+}

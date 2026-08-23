@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LinkConnector",
+  "category": "advertising",
+  "website_url": "http://www.linkconnector.com",
+  "organization": "linkconnector",
+  "domains": [
+    "linkconnector.com"
+  ],
+  "filters": [
+    "||linkconnector.com^$3p"
+  ]
+}

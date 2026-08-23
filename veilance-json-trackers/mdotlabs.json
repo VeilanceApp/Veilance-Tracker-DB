@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MdotLabs",
+  "category": "advertising",
+  "website_url": "http://www.mdotlabs.com/",
+  "organization": "comscore",
+  "domains": [
+    "mdotlabs.com"
+  ],
+  "filters": [
+    "||mdotlabs.com^$3p"
+  ]
+}

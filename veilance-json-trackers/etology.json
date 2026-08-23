@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Etology",
+  "category": "advertising",
+  "website_url": "http://www.etology.com",
+  "organization": "etology",
+  "domains": [
+    "pages.etology.com"
+  ],
+  "filters": [
+    "||pages.etology.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "SpringServe",
+  "category": "advertising",
+  "organization": "magnite",
+  "domains": [
+    "springserve.com"
+  ],
+  "filters": [
+    "||dmp.springserve.com/px",
+    "||pubsqrd.com^$3p",
+    "||vid.springserve.com/vast"
+  ]
+}

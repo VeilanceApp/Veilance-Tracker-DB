@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Audience Square",
+  "category": "advertising",
+  "website_url": "http://www.audiencesquare.fr/",
+  "organization": "audience_square",
+  "domains": [
+    "audiencesquare.com"
+  ],
+  "filters": [
+    "||cdn.audiencesquare.com/prebid/asq_tag.js",
+    "||cdn.audiencesquare.com/tags"
+  ]
+}

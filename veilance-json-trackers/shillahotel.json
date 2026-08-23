@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Hotel Shilla",
+  "category": "site_analytics",
+  "website_url": "https://www.hotelshilla.net/",
+  "organization": "samsung",
+  "domains": [
+    "logc.shilladfs.com"
+  ],
+  "filters": [
+    "||logc.shilladfs.com^"
+  ]
+}

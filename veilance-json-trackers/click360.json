@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Click360",
+  "category": "site_analytics",
+  "organization": "click360",
+  "domains": [
+    "script.click360.io"
+  ],
+  "filters": [
+    "||script.click360.io/wai_digi.js"
+  ]
+}

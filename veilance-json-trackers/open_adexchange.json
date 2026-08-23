@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Open AdExchange",
+  "category": "advertising",
+  "website_url": "http://openadex.dk/",
+  "organization": "open_adexchange",
+  "domains": [
+    "openadex.dk"
+  ],
+  "filters": [
+    "||openadex.dk^$3p"
+  ]
+}

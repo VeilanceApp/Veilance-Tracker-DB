@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Monotype GmbH",
+  "category": "hosting",
+  "website_url": "https://www.monotype.com/",
+  "organization": "monotype",
+  "domains": [
+    "fonts.net"
+  ],
+  "filters": []
+}

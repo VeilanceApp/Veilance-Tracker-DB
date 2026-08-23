@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ETP",
+  "category": "site_analytics",
+  "organization": "etp",
+  "domains": [
+    "sa.etp-prod.com"
+  ],
+  "filters": [
+    "||sa.etp-prod.com/analytics.js"
+  ]
+}

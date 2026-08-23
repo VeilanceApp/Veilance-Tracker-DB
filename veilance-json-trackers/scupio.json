@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Scupio",
+  "category": "advertising",
+  "website_url": "http://ad.scupio.com/",
+  "organization": "bridgewell",
+  "domains": [
+    "scupio.com"
+  ],
+  "filters": [
+    "||scupio.com^$3p"
+  ]
+}

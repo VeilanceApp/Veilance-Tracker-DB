@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DynAd",
+  "category": "advertising",
+  "website_url": "http://dynad.net/",
+  "organization": "dynad",
+  "domains": [
+    "dynad.net"
+  ],
+  "filters": [
+    "||dynad.net^$3p"
+  ]
+}

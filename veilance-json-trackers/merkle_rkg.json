@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Merkle",
+  "category": "advertising",
+  "website_url": "https://www.merkle.com/",
+  "organization": "dentsu_aegis_network",
+  "domains": [
+    "rkdms.com"
+  ],
+  "filters": [
+    "||mct.rkdms.com/sid.gif"
+  ]
+}

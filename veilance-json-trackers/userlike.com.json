@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Lime Connect",
+  "category": "customer_interaction",
+  "website_url": "https://www.lime-technologies.com/en/products/lime-connect/",
+  "organization": "lime_technologies",
+  "domains": [
+    "dq4irj27fs462.cloudfront.net",
+    "userlike-cdn-widgets.s3-eu-west-1.amazonaws.com",
+    "userlike.com"
+  ],
+  "filters": [
+    "||api.userlike.com^$3p",
+    "||userlike-cdn-widgets.s3-eu-west-1.amazonaws.com^$3p"
+  ]
+}

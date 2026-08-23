@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Polar",
+  "category": "advertising",
+  "website_url": "https://polar.me/",
+  "organization": "polar_inc",
+  "domains": [
+    "mediavoice.com",
+    "polar.me",
+    "polarmobile.com"
+  ],
+  "filters": [
+    "||plugin.mediavoice.com/plugin.js",
+    "||polar.me^$3p",
+    "||polarmobile.com^$3p"
+  ]
+}

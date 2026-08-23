@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ipapi",
+  "category": "site_analytics",
+  "website_url": "https://ipapi.co/",
+  "organization": "kloudend",
+  "domains": [
+    "ipapi.co"
+  ],
+  "filters": [
+    "||ipapi.co/json^$3p"
+  ]
+}

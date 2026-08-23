@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "Conduit",
+  "category": "advertising",
+  "website_url": "https://www.conduit.com/",
+  "organization": "conduit",
+  "domains": [
+    "conduit-banners.com",
+    "conduit-data.com",
+    "conduit.com"
+  ],
+  "filters": [
+    "||api.conduit.com^$3p",
+    "||apps.conduit.com^$3p",
+    "||conduit-banners.com^$3p",
+    "||conduit-data.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pluso",
+  "category": "social_media",
+  "website_url": "https://share.pluso.ru/",
+  "organization": "pluso",
+  "domains": [
+    "pluso.ru"
+  ],
+  "filters": [
+    "||share.pluso.ru^$3p"
+  ]
+}

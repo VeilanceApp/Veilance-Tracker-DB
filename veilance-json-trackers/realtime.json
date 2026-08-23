@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Realtime",
+  "category": "customer_interaction",
+  "website_url": "http://www.realtime.co/",
+  "organization": "realtime",
+  "domains": [
+    "powermarketing.com",
+    "realtime.co",
+    "webspectator.com"
+  ],
+  "filters": [
+    "||realtime.co^$3p"
+  ]
+}

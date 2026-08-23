@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TurnTo",
+  "category": "customer_interaction",
+  "website_url": "https://www.turntonetworks.com/",
+  "organization": "turnto_networks",
+  "domains": [
+    "turnto.com"
+  ],
+  "filters": [
+    "||turnto.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Appcues",
+  "category": "customer_interaction",
+  "website_url": "https://www.appcues.com/",
+  "domains": [
+    "appcues.com"
+  ],
+  "filters": []
+}

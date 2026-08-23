@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Slashdot Widget",
+  "category": "customer_interaction",
+  "website_url": "http://slashdot.org",
+  "organization": "slashdot",
+  "domains": [
+    "slashdot.org"
+  ],
+  "filters": [
+    "||slashdot.org/slashdot-it.pl"
+  ]
+}

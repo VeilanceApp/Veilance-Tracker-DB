@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Plista",
+  "category": "advertising",
+  "website_url": "http://www.plista.com",
+  "organization": "plista",
+  "domains": [
+    "plista.com"
+  ],
+  "filters": [
+    "||plista.com^$3p"
+  ]
+}

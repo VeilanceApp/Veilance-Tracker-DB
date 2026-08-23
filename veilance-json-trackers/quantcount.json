@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Quantcount",
+  "category": "site_analytics",
+  "organization": "quantcast",
+  "domains": [
+    "quantcount.com"
+  ],
+  "filters": [
+    "||rules.quantcount.com/rules"
+  ]
+}

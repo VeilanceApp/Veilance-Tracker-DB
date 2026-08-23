@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DotAndMedia",
+  "category": "advertising",
+  "website_url": "http://www.dotandmedia.com",
+  "organization": "dotandmedia",
+  "domains": [
+    "dotandad.com"
+  ],
+  "filters": [
+    "||dotandad.com^$3p"
+  ]
+}

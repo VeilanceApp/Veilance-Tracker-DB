@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Genoo",
+  "category": "advertising",
+  "website_url": "https://www.genoo.com/",
+  "organization": "genoo",
+  "domains": [
+    "genoo.com"
+  ],
+  "filters": [
+    "||api.genoo.com/js/gtrack.js",
+    "||genoo.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Envybox",
+  "category": "customer_interaction",
+  "organization": "envybox",
+  "domains": [
+    "cdn.callbackkiller.com"
+  ],
+  "filters": [
+    "||cdn.callbackkiller.com/widget/cbk.js"
+  ]
+}

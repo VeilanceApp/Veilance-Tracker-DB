@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Otto Group",
+  "category": "misc",
+  "domains": [
+    "otto.de",
+    "ottogroup.media"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Media Impact",
+  "category": "advertising",
+  "organization": "media_impact",
+  "domains": [
+    "mediaimpact.de"
+  ],
+  "filters": [
+    "||bt.mediaimpact.de^$3p"
+  ]
+}

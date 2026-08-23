@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Paradox",
+  "category": "customer_interaction",
+  "website_url": "https://www.paradox.ai",
+  "organization": "paradox",
+  "domains": [
+    "paradox.ai"
+  ],
+  "filters": [
+    "||paradox.ai^$3p"
+  ]
+}

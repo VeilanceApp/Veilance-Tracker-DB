@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "stat4u",
+  "category": "site_analytics",
+  "website_url": "http://stat.4u.pl/",
+  "organization": "stat4u",
+  "domains": [
+    "adstat.4u.pl",
+    "stat.4u.pl"
+  ],
+  "filters": [
+    "||adstat.4u.pl^$3p",
+    "||stat.4u.pl^$3p"
+  ]
+}

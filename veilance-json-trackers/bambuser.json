@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "bambuser",
+  "category": "customer_interaction",
+  "website_url": "https://bambuser.com/",
+  "organization": "bambuser",
+  "domains": [
+    "bambuser.com",
+    "bambuser.net"
+  ],
+  "filters": [
+    "||bambuser.com^$3p",
+    "||bambuser.net^$3p"
+  ]
+}

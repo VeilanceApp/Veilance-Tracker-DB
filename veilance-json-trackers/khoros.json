@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Khoros",
+  "category": "social_media",
+  "website_url": "http://www.massrelevance.com/",
+  "organization": "khoros",
+  "domains": [
+    "massrelevance.com",
+    "tweetriver.com"
+  ],
+  "filters": [
+    "||massrelevance.com^$3p",
+    "||tweetriver.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Tapad",
+  "category": "advertising",
+  "website_url": "https://www.tapad.com/",
+  "organization": "experian_inc",
+  "domains": [
+    "tapad.com"
+  ],
+  "filters": [
+    "||tapad.com^$3p",
+    "||pghub.io/js/pandg-sdk.js"
+  ]
+}

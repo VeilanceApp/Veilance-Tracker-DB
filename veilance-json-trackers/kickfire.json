@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Kickfire",
+  "category": "advertising",
+  "website_url": "http://www.visistat.com/",
+  "organization": "kickfire",
+  "domains": [
+    "sa-as.com",
+    "sniff.visistat.com",
+    "stats.visistat.com"
+  ],
+  "filters": [
+    "||sa-as.com^$3p",
+    "||sniff.visistat.com^$3p",
+    "||stats.visistat.com^$3p"
+  ]
+}

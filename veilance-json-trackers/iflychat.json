@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "iFlyChat",
+  "category": "customer_interaction",
+  "website_url": "https://iflychat.com/",
+  "organization": "iflychat",
+  "domains": [
+    "api.iflychat.com"
+  ],
+  "filters": [
+    "/wp-content/plugins/iflychat/js/script.js",
+    "||api.iflychat.com^$3p"
+  ]
+}

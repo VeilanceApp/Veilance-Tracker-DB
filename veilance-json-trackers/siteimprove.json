@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Siteimprove",
+  "category": "site_analytics",
+  "website_url": "http://siteimprove.com",
+  "organization": "siteimprove",
+  "domains": [
+    "siteimprove.com"
+  ],
+  "filters": [
+    "||siteimprove.com/js/"
+  ]
+}

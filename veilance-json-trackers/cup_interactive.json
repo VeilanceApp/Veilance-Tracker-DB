@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Cup Interactive",
+  "category": "advertising",
+  "organization": "cup_interactive",
+  "domains": [
+    "cdn.cupinteractive.com"
+  ],
+  "filters": [
+    "||cdn.cupinteractive.com/assets"
+  ]
+}

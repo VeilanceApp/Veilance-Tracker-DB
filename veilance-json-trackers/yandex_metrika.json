@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Yandex Metrika",
+  "category": "site_analytics",
+  "website_url": "https://metrica.yandex.com/",
+  "organization": "yandex",
+  "domains": [
+    "mc.yandex.ru"
+  ],
+  "filters": []
+}

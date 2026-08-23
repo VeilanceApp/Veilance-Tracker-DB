@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "BetterTTV",
+  "category": "social_media",
+  "website_url": "https://nightdev.com/betterttv/",
+  "organization": "nightdev",
+  "domains": [
+    "betterttv.net"
+  ],
+  "filters": []
+}

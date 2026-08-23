@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DEX Platform",
+  "category": "advertising",
+  "website_url": "http://blueadvertise.com/",
+  "organization": "dex_platform",
+  "domains": [
+    "my.blueadvertise.com"
+  ],
+  "filters": [
+    "||my.blueadvertise.com^$3p"
+  ]
+}

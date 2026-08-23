@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "LogRocket",
+  "category": "site_analytics",
+  "website_url": "https://logrocket.com/",
+  "organization": "logrocket",
+  "domains": [
+    "logr-ingest.com"
+  ],
+  "filters": []
+}

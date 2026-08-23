@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Etarget",
+  "category": "advertising",
+  "website_url": "http://etargetnet.com/",
+  "organization": "etarget",
+  "domains": [
+    "etargetnet.com"
+  ],
+  "filters": [
+    "||etargetnet.com^$3p"
+  ]
+}

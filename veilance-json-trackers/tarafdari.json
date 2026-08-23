@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Tarafdari",
+  "category": "advertising",
+  "organization": "tarafdari",
+  "domains": [
+    "tarafdari.com"
+  ],
+  "filters": [
+    "||tarafdari.com^$3p"
+  ]
+}

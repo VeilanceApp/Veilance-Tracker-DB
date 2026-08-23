@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "CookieFirst",
+  "category": "consent",
+  "website_url": "https://cookiefirst.com/",
+  "organization": "digitaldatasolutions",
+  "domains": [
+    "cookiefirst.com",
+    "consent.cookiefirst.com"
+  ],
+  "filters": [
+    "||consent.cookiefirst.com^"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Fancy Widget",
+  "category": "social_media",
+  "website_url": "http://www.thefancy.com/",
+  "organization": "fancy",
+  "domains": [
+    "thefancy.com"
+  ],
+  "filters": [
+    "||thefancy.com/fancyit.js",
+    "||thefancy.com/widget.js"
+  ]
+}

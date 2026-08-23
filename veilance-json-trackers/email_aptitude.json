@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Email Aptitude",
+  "category": "advertising",
+  "website_url": "http://www.emailaptitude.com/",
+  "organization": "email_aptitude",
+  "domains": [
+    "tracker.emailaptitude.com"
+  ],
+  "filters": [
+    "||tracker.emailaptitude.com^$3p"
+  ]
+}

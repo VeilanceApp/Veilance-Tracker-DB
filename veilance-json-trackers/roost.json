@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Roost",
+  "category": "site_analytics",
+  "website_url": "https://roost.me/",
+  "organization": "roost",
+  "domains": [
+    "get.roost.me"
+  ],
+  "filters": [
+    "/wp-content/plugins/roost-for-bloggers^",
+    "||get.roost.me/js/"
+  ]
+}

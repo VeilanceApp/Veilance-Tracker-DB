@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "SharpSpring",
+  "category": "site_analytics",
+  "website_url": "https://www.constantcontact.com/",
+  "organization": "constant_contact",
+  "domains": [
+    "marketingautomation.services",
+    "sharpspring.com"
+  ],
+  "filters": [
+    "||marketingautomation.services^$3p,xhr",
+    "||sharpspring.com/client/ss.js",
+    "||sharpspring.com/koi"
+  ]
+}

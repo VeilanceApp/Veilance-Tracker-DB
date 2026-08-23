@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "DataCaciques",
+  "category": "site_analytics",
+  "website_url": "https://www.datacaciques.com/",
+  "domains": [
+    "datacaciques.com"
+  ],
+  "filters": []
+}

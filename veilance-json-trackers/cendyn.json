@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Cendyn",
+  "category": "advertising",
+  "organization": "cendyn",
+  "domains": [
+    "cendyn.adtrack.calls.net"
+  ],
+  "filters": [
+    "||cendyn.adtrack.calls.net/euinc/getnumdata.js"
+  ]
+}

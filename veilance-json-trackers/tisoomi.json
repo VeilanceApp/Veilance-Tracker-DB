@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tisoomi",
+  "category": "advertising",
+  "website_url": "https://tisoomi.com/en/",
+  "organization": "tisoomi",
+  "domains": [
+    "tisoomi.com",
+    "tisoomi-services.com",
+    "tisoomiservices.com"
+  ],
+  "filters": []
+}

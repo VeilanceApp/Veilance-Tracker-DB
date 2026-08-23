@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Exact Drive",
+  "category": "advertising",
+  "website_url": "https://www.exactdrive.com/",
+  "organization": "exact_drive",
+  "domains": [
+    "ads.exactdrive.com"
+  ],
+  "filters": [
+    "||ads.exactdrive.com^$3p"
+  ]
+}

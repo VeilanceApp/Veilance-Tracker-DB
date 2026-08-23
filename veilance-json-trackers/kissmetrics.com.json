@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "Kissmetrics",
+  "category": "site_analytics",
+  "website_url": "https://www.kissmetrics.com/",
+  "organization": "kissmetrics",
+  "domains": [
+    "doug1izaerwt3.cloudfront.net",
+    "kissmetrics.com"
+  ],
+  "filters": [
+    "||d1991e1bwxgrnr.cloudfront.net^$3p",
+    "||d1n7kk4vfnecsc.cloudfront.net^$3p",
+    "||doug1izaerwt3.cloudfront.net^$3p",
+    "||j.kissinsights.com^$3p",
+    "||s3.amazonaws.com/j.kissinsights.com"
+  ]
+}

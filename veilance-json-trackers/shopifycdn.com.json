@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Shopify CDN",
+  "category": "hosting",
+  "website_url": "https://www.shopify.com/",
+  "organization": "shopify",
+  "domains": [
+    "shopifycdn.com",
+    "cdn.shopify.com",
+    "shopifysvc.com"
+  ],
+  "filters": []
+}

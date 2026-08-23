@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Bluemetrix",
+  "category": "advertising",
+  "website_url": "http://www.bluemetrix.ie/",
+  "organization": "bluemetrix",
+  "domains": [
+    "bmmetrix.com",
+    "japanmetrix.jp"
+  ],
+  "filters": [
+    "||bmmetrix.com^$3p",
+    "||japanmetrix.jp/^$3p"
+  ]
+}

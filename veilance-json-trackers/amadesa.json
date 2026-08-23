@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Amadesa",
+  "category": "advertising",
+  "website_url": "http://www.amadesa.com/",
+  "organization": "amadesa",
+  "domains": [
+    "amadesa.com"
+  ],
+  "filters": [
+    "||amadesa.com/static/client_js/engine/amadesajs.js"
+  ]
+}

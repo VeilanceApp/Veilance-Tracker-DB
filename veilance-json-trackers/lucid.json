@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Lucid Measurement",
+  "category": "advertising",
+  "website_url": "https://www.cint.com/products/lucid-measurement/",
+  "organization": "cint",
+  "domains": [
+    "tracker.samplicio.us"
+  ],
+  "filters": [
+    "||tracker.samplicio.us/tracker/"
+  ]
+}

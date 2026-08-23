@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Univide",
+  "category": "advertising",
+  "organization": "oracle",
+  "domains": [
+    "univide.com"
+  ],
+  "filters": [
+    "||univide.com^$3p"
+  ]
+}

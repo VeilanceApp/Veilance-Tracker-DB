@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Shopping.com",
+  "category": "advertising",
+  "organization": "ebay_partner_network",
+  "domains": [
+    "shoppingshadow.com"
+  ],
+  "filters": []
+}

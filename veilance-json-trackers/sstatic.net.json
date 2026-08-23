@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Stack Exchange",
+  "category": "hosting",
+  "website_url": "https://sstatic.net/",
+  "domains": [
+    "sstatic.net"
+  ],
+  "filters": []
+}

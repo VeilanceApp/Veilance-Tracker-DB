@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft Network",
+  "category": "misc",
+  "organization": "microsoft",
+  "domains": [
+    "msn.com",
+    "s-msn.com",
+    "adlibrisprod.azure-api.net"
+  ],
+  "filters": [
+    "||adlibrisprod.azure-api.net^"
+  ]
+}

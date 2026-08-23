@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Piwik PRO Tag Manager",
+  "category": "utilities",
+  "website_url": "https://piwik.pro/tag-manager/",
+  "organization": "cookieinformation",
+  "domains": [
+    "containers.piwik.pro"
+  ],
+  "filters": []
+}

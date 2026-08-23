@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "GroundTruth",
+  "category": "advertising",
+  "website_url": "https://www.groundtruth.com/",
+  "organization": "groundtruth",
+  "domains": [
+    "bidagent.xad.com"
+  ],
+  "filters": []
+}

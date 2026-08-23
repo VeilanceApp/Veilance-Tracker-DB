@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Didit Maestro",
+  "category": "advertising",
+  "website_url": "http://www.didit.com/maestro",
+  "organization": "didit",
+  "domains": [
+    "track.did-it.com"
+  ],
+  "filters": [
+    "||track.did-it.com^$3p"
+  ]
+}

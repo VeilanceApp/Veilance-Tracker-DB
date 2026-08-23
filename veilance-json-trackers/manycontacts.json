@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ManyContacts",
+  "category": "advertising",
+  "organization": "manycontacts",
+  "domains": [
+    "manycontacts.com"
+  ],
+  "filters": [
+    "||manycontacts.com/assets/js/manycontacts.min.js"
+  ]
+}

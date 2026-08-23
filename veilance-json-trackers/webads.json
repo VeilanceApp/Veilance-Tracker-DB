@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "WebAds",
+  "category": "advertising",
+  "website_url": "http://www.webads.co.uk/",
+  "organization": "webads",
+  "domains": [
+    "webads.nl"
+  ],
+  "filters": [
+    "||webads.nl^$3p"
+  ]
+}

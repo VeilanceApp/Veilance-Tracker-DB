@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "mCabi",
+  "category": "advertising",
+  "organization": "mcabi",
+  "domains": [
+    "mcabi.mcloudglobal.com"
+  ],
+  "filters": [
+    "||mcabi.mcloudglobal.com/serve/knc_lib.js"
+  ]
+}

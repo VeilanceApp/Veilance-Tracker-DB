@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Civey Widgets",
+  "category": "customer_interaction",
+  "organization": "civey",
+  "domains": [
+    "widget.civey.com"
+  ],
+  "filters": [
+    "||widget.civey.com/1"
+  ]
+}

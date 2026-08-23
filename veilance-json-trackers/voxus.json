@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Voxus",
+  "category": "advertising",
+  "organization": "voxus",
+  "domains": [
+    "embed.voxus.tv",
+    "voxus-targeting-voxusmidia.netdna-ssl.com"
+  ],
+  "filters": [
+    "||embed.voxus.tv/player/midcontent/",
+    "||voxus-targeting-voxusmidia.netdna-ssl.com^$3p"
+  ]
+}

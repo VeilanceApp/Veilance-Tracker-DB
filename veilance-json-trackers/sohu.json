@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sohu",
+  "category": "social_media",
+  "website_url": "http://www.sohu.com",
+  "organization": "sohu",
+  "domains": [
+    "images.sohu.com"
+  ],
+  "filters": [
+    "||images.sohu.com^$3p"
+  ]
+}

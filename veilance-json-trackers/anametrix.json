@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Anametrix",
+  "category": "site_analytics",
+  "website_url": "http://anametrix.com/",
+  "organization": "anametrix",
+  "domains": [
+    "anametrix.net"
+  ],
+  "filters": [
+    "/anametrix.js",
+    "||anametrix.net^$3p"
+  ]
+}

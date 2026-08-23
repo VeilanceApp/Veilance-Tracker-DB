@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tradelab",
+  "category": "advertising",
+  "website_url": "http://www.tradelab.fr/",
+  "organization": "tradelab",
+  "domains": [
+    "tradelab.fr"
+  ],
+  "filters": [
+    "||tradelab.fr^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GoodADVERT",
+  "category": "advertising",
+  "website_url": "http://goodadvert.ru/",
+  "organization": "goodadvert",
+  "domains": [
+    "goodadvert.ru"
+  ],
+  "filters": [
+    "||goodadvert.ru^$3p"
+  ]
+}

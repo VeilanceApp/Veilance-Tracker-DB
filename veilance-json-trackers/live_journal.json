@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Live Journal",
+  "category": "site_analytics",
+  "organization": "livejournal",
+  "domains": [
+    "l-stat.livejournal.net"
+  ],
+  "filters": [
+    "||l-stat.livejournal.net/js"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Alooma",
+  "category": "advertising",
+  "organization": "alooma",
+  "domains": [
+    "inputs.alooma.com"
+  ],
+  "filters": [
+    "||inputs.alooma.com/track"
+  ]
+}

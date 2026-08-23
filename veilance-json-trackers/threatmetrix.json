@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "ThreatMetrix",
+  "category": "utilities",
+  "website_url": "https://risk.lexisnexis.com/products/threatmetrix",
+  "organization": "lexisnexis",
+  "domains": [
+    "online-metrix.net"
+  ],
+  "filters": [
+    "||online-metrix.net/fp",
+    "||online-metrix.net/fp/check.js"
+  ]
+}

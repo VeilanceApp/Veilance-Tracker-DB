@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Canvas",
+  "category": "customer_interaction",
+  "website_url": "https://www.canvas.net/",
+  "domains": [
+    "canvas.net",
+    "canvasnetwork.com",
+    "du11hjcvx0uqb.cloudfront.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Calltracking",
+  "category": "customer_interaction",
+  "organization": "calltracking",
+  "domains": [
+    "calltracking.ru"
+  ],
+  "filters": [
+    "||calltracking.ru/dynamic/"
+  ]
+}

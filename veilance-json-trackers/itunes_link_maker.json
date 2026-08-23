@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "iTunes Link Maker",
+  "category": "advertising",
+  "website_url": "https://www.apple.com/",
+  "organization": "apple",
+  "domains": [
+    "apple.com",
+    "autolinkmaker.itunes.apple.com"
+  ],
+  "filters": [
+    "||autolinkmaker.itunes.apple.com^$3p"
+  ]
+}

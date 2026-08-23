@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickDesk",
+  "category": "customer_interaction",
+  "website_url": "https://www.clickdesk.com/",
+  "organization": "clickdesk",
+  "domains": [
+    "clickdesk.com"
+  ],
+  "filters": [
+    "||clickdesk.com^$3p"
+  ]
+}

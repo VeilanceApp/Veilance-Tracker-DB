@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CtrlShift",
+  "category": "advertising",
+  "website_url": "http://www.adzcentral.com/",
+  "organization": "ctrlshift",
+  "domains": [
+    "adzhub.com"
+  ],
+  "filters": [
+    "||adzhub.com^$3p"
+  ]
+}

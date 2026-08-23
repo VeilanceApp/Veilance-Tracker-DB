@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClicManager",
+  "category": "advertising",
+  "website_url": "http://www.clicmanager.fr/",
+  "organization": "clicmanager",
+  "domains": [
+    "clicmanager.fr"
+  ],
+  "filters": [
+    "||clicmanager.fr^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ai Media Group",
+  "category": "advertising",
+  "website_url": "http://aimediagroup.com/",
+  "organization": "ai_media_group",
+  "domains": [
+    "aimediagroup.com"
+  ],
+  "filters": [
+    "||aimediagroup.com^$3p"
+  ]
+}

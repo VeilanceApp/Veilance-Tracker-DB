@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Avocet",
+  "category": "misc",
+  "organization": "avocet",
+  "domains": [
+    "avocet.io"
+  ],
+  "filters": []
+}

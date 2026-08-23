@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Click Back",
+  "category": "advertising",
+  "organization": "clickback",
+  "domains": [
+    "software.clickback.com"
+  ],
+  "filters": [
+    "||software.clickback.com/scripts/cbintegrations.js"
+  ]
+}

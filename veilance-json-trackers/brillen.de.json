@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "brillen.de",
+  "category": "misc",
+  "website_url": "https://www.brillen.de/",
+  "domains": [
+    "brillen.de"
+  ],
+  "filters": []
+}

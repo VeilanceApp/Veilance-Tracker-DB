@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "ForeSee",
+  "category": "utilities",
+  "website_url": "https://www.foresee.com/",
+  "organization": "foresee_results",
+  "domains": [
+    "4seeresults.com",
+    "foresee.com"
+  ],
+  "filters": [
+    "/sites/all/libraries/foresee/foresee-surveydef.js",
+    "foresee-alive",
+    "foresee-analytics",
+    "foresee-trigger",
+    "foresee/foresee-alive.js",
+    "||gateway.foresee.com^$3p",
+    "||replaycontroller.4seeresults.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Clickky",
+  "category": "advertising",
+  "website_url": "http://www.clickky.biz/",
+  "organization": "clickky",
+  "domains": [
+    "clickky.biz"
+  ],
+  "filters": [
+    "||clickky.biz^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MediaShakers",
+  "category": "advertising",
+  "website_url": "https://www.mediashakers.com/",
+  "organization": "mediashakers",
+  "domains": [
+    "ad.media-servers.net"
+  ],
+  "filters": [
+    "||ad.media-servers.net^$3p"
+  ]
+}

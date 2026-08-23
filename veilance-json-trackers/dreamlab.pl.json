@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "DreamLab.pl",
+  "category": "advertising",
+  "website_url": "https://www.dreamlab.pl/",
+  "organization": "onet.pl",
+  "domains": [
+    "dreamlab.pl"
+  ],
+  "filters": []
+}

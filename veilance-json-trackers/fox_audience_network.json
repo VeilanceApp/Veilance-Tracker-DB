@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fox Audience Network",
+  "category": "advertising",
+  "website_url": "https://publishers.foxaudiencenetwork.com/",
+  "organization": "fox_audience_network",
+  "domains": [
+    "fimserve.com"
+  ],
+  "filters": [
+    "||fimserve.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "UserRules",
+  "category": "customer_interaction",
+  "website_url": "http://www.userrules.com/",
+  "organization": "userrules_software",
+  "domains": [
+    "dtkm4pd19nw6z.cloudfront.net"
+  ],
+  "filters": [
+    "||dtkm4pd19nw6z.cloudfront.net^$3p"
+  ]
+}

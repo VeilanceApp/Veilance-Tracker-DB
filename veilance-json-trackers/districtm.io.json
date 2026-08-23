@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "district m",
+  "category": "advertising",
+  "website_url": "https://districtm.net/",
+  "organization": "district_m",
+  "domains": [
+    "districtm.ca",
+    "districtm.io"
+  ],
+  "filters": []
+}

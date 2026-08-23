@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "FluidSurveys",
+  "category": "customer_interaction",
+  "website_url": "http://fluidsurveys.com/",
+  "organization": "fluidware",
+  "domains": [
+    "fluidsurveys.com"
+  ],
+  "filters": [
+    "||fluidsurveys.com^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Pulpix",
+  "category": "advertising",
+  "website_url": "https://www.pulpix.com/",
+  "organization": "adyoulike",
+  "domains": [
+    "pulpix.com"
+  ],
+  "filters": []
+}

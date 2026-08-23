@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reinvigorate",
+  "category": "site_analytics",
+  "website_url": "http://www.reinvigorate.net/",
+  "organization": "media_temple",
+  "domains": [
+    "reinvigorate.net"
+  ],
+  "filters": [
+    "||reinvigorate.net^$3p"
+  ]
+}

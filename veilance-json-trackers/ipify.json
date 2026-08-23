@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ipify",
+  "category": "misc",
+  "website_url": "https://www.ipify.org/",
+  "domains": [
+    "ipify.org"
+  ],
+  "filters": []
+}

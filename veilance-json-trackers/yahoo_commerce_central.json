@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Yahoo! Commerce Central",
+  "category": "advertising",
+  "website_url": "http://lexity.com/",
+  "organization": "yahoo",
+  "domains": [
+    "np.lexity.com"
+  ],
+  "filters": [
+    "||np.lexity.com^$3p"
+  ]
+}

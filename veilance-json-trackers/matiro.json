@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Matiro",
+  "category": "site_analytics",
+  "organization": "matiro",
+  "domains": [
+    "nzaza.com"
+  ],
+  "filters": [
+    "||nzaza.com/seg/*.js^$3p",
+    "||nzaza.com/za.js"
+  ]
+}

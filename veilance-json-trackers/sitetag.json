@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "SiteTag",
+  "category": "customer_interaction",
+  "website_url": "http://www.sitetag.us/",
+  "organization": "sitetag",
+  "domains": [
+    "ad.sitemaji.com",
+    "sitetag.us"
+  ],
+  "filters": [
+    "||ad.sitemaji.com^$3p",
+    "||sitetag.us/^$3p"
+  ]
+}

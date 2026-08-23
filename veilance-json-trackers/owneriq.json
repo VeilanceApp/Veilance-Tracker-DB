@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "OwnerIQ",
+  "category": "advertising",
+  "website_url": "https://www.owneriq.com/",
+  "organization": "owneriq",
+  "domains": [
+    "owneriq.net"
+  ],
+  "filters": [
+    "||owneriq.net^$3p",
+    "||px.owneriq.net^$3p"
+  ]
+}

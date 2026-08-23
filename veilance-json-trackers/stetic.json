@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Stetic",
+  "category": "site_analytics",
+  "organization": "stetic",
+  "domains": [
+    "4stats.de",
+    "stetic.com"
+  ],
+  "filters": [
+    "||4stats.de^$3p",
+    "||stetic.com/t.js"
+  ]
+}

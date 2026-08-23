@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Econda",
+  "category": "site_analytics",
+  "website_url": "https://www.econda.de/",
+  "organization": "econda",
+  "domains": [
+    "econda-monitor.de"
+  ],
+  "filters": [
+    "/econda*.js^",
+    "||econda-monitor.de^$3p"
+  ]
+}

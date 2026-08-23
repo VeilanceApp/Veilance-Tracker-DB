@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Leads by Web.com",
+  "category": "advertising",
+  "website_url": "http://www.leadsbyweb.com",
+  "organization": "web.com_group",
+  "domains": [
+    "scorecard.wspisp.net"
+  ],
+  "filters": [
+    "||scorecard.wspisp.net^$3p"
+  ]
+}

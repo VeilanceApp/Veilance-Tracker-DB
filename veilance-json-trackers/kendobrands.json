@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Kvd Vegan Beauty",
+  "category": "site_analytics",
+  "website_url": "https://kvdveganbeauty.com/",
+  "organization": "kendobrands",
+  "domains": [
+    "kvdveganbeauty.com",
+    "olehenriksen.com"
+  ],
+  "filters": [
+    "/*?view=tracking$xhr,domain=kvdveganbeauty.com|olehenriksen.com"
+  ]
+}

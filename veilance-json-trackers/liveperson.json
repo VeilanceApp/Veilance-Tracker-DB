@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "LivePerson",
+  "category": "customer_interaction",
+  "website_url": "https://www.liveperson.com/",
+  "organization": "liveperson",
+  "domains": [
+    "liveperson.net",
+    "lpsnmedia.net",
+    "liveperson.com"
+  ],
+  "filters": [
+    "||liveperson.net^$3p",
+    "||lpsnmedia.net^$3p",
+    "||liveperson.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Experian Marketing Services",
+  "category": "advertising",
+  "website_url": "https://www.experian.com/",
+  "organization": "experian_inc",
+  "domains": [
+    "audienceiq.com",
+    "techlightenment.com"
+  ],
+  "filters": [
+    "||audienceiq.com^$3p",
+    "||techlightenment.com^$3p"
+  ]
+}

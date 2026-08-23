@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AffiliateBuzz",
+  "category": "advertising",
+  "website_url": "http://www.affiliatebuzz.com/",
+  "organization": "affiliatebuzz",
+  "domains": [
+    "ads.affbuzzads.com"
+  ],
+  "filters": [
+    "||ads.affbuzzads.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Jetlore",
+  "category": "site_analytics",
+  "organization": "jetlore",
+  "domains": [
+    "jetlore.com"
+  ],
+  "filters": [
+    "||api.jetlore.com/track"
+  ]
+}

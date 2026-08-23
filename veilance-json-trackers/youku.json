@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Youku Player",
+  "category": "audio_video_player",
+  "organization": "youku",
+  "domains": [
+    "player.youku.com"
+  ],
+  "filters": [
+    "||player.youku.com/embed/"
+  ]
+}

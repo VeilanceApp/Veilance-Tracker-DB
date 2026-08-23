@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mindset Media",
+  "category": "advertising",
+  "website_url": "http://www.mindset-media.com/",
+  "organization": "google",
+  "domains": [
+    "mmismm.com"
+  ],
+  "filters": [
+    "||mmismm.com^$3p"
+  ]
+}

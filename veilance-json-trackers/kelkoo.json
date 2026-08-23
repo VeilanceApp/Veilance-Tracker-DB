@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Kelkoo",
+  "category": "advertising",
+  "website_url": "http://www.kelkoo.com/",
+  "organization": "kelkoo",
+  "domains": [
+    "widget.kelkoo.com"
+  ],
+  "filters": [
+    "||widget.kelkoo.com^$3p"
+  ]
+}

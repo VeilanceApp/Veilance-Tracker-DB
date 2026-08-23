@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "webclose.net",
+  "category": "extensions",
+  "domains": [
+    "webclose.net"
+  ],
+  "filters": []
+}

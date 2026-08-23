@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "EMX Digital",
+  "category": "advertising",
+  "website_url": "https://emxdigital.com/",
+  "domains": [
+    "brealtime.com"
+  ],
+  "filters": []
+}

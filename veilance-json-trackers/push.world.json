@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Push.world",
+  "category": "customer_interaction",
+  "website_url": "https://push.world/en",
+  "organization": "push.world",
+  "domains": [
+    "push.world"
+  ],
+  "filters": []
+}

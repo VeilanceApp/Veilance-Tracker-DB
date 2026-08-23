@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MediaGo",
+  "category": "advertising",
+  "website_url": "https://www.mediago.com/",
+  "organization": "mediago",
+  "domains": [
+    "mediago.io"
+  ],
+  "filters": [
+    "||mediago.io^$3p"
+  ]
+}

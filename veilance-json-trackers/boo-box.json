@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "boo-box",
+  "category": "advertising",
+  "website_url": "http://boo-box.com/",
+  "organization": "boo-box",
+  "domains": [
+    "boo-box.com"
+  ],
+  "filters": [
+    "||boo-box.com^$3p"
+  ]
+}

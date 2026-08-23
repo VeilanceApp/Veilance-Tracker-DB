@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "dgm",
+  "category": "advertising",
+  "website_url": "https://www.dgm-au.com/",
+  "organization": "apd",
+  "domains": [
+    "dgm-au.com",
+    "s2d6.com"
+  ],
+  "filters": [
+    "||dgm-au.com^$3p",
+    "||s2d6.com^$3p"
+  ]
+}

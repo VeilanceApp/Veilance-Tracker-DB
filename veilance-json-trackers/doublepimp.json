@@ -1,0 +1,22 @@
+{
+  "format": "veilance-json",
+  "name": "DoublePimp",
+  "category": "pornvertising",
+  "website_url": "http://www.doublepimp.com/",
+  "organization": "doublepimp",
+  "domains": [
+    "doublepimp.com",
+    "doublepimpssl.com",
+    "redcourtside.com",
+    "xeontopa.com",
+    "zerezas.com"
+  ],
+  "filters": [
+    "||cdn.doublepimpssl.com/scripts/infinity.js.aspx",
+    "||doublepimp.com^$3p",
+    "||doublepimpssl.com/tag.engine",
+    "||redcourtside.com^$3p",
+    "||xeontopa.com^$3p",
+    "||zerezas.com^$3p"
+  ]
+}

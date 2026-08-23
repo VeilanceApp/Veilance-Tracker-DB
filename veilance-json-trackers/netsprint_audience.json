@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Netsprint Audience",
+  "category": "site_analytics",
+  "website_url": "http://audience.netsprint.eu/",
+  "organization": "netsprint",
+  "domains": [
+    "nsaudience.pl"
+  ],
+  "filters": []
+}

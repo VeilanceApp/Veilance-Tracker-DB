@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GdeSlon",
+  "category": "advertising",
+  "website_url": "https://www.gdeslon.ru/",
+  "organization": "gdeslon",
+  "domains": [
+    "gdeslon.ru"
+  ],
+  "filters": [
+    "||gdeslon.ru^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "TweetMeme",
+  "category": "social_media",
+  "website_url": "http://tweetmeme.com/",
+  "organization": "tweetmeme",
+  "domains": [
+    "tweetmeme.com"
+  ],
+  "filters": [
+    "||tweetmeme.com/i/scripts/button.js",
+    "||zulu.tweetmeme.com/button_ajax.js"
+  ]
+}

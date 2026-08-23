@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Lucid Media",
+  "category": "advertising",
+  "website_url": "http://www.lucidmedia.com/",
+  "organization": "singtel",
+  "domains": [
+    "lucidmedia.com"
+  ],
+  "filters": [
+    "||lucidmedia.com^$3p"
+  ]
+}

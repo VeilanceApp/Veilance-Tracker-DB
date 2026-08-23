@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Flyertown",
+  "category": "site_analytics",
+  "website_url": "https://www.flyertown.ca/",
+  "organization": "flyertown",
+  "domains": [
+    "api.flyertown.ca"
+  ],
+  "filters": [
+    "||api.flyertown.ca^$3p"
+  ]
+}

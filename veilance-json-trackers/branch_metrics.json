@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Branch",
+  "category": "advertising",
+  "website_url": "https://branch.io/",
+  "organization": "branch_metrics_inc",
+  "domains": [
+    "app.link",
+    "branch.io"
+  ],
+  "filters": [
+    "||cdn.branch.io/branch-v*.min.js^$3p",
+    "||api.branch.io^$3p",
+    "||app.link^$3p"
+  ]
+}

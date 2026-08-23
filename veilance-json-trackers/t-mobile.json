@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Deutsche Telekom",
+  "category": "misc",
+  "domains": [
+    "sdp-campaign.de",
+    "t-online.de",
+    "telekom-dienste.de",
+    "telekom.com",
+    "telekom.de",
+    "toi.de"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Content.ad",
+  "category": "advertising",
+  "website_url": "https://www.content.ad/",
+  "organization": "content.ad",
+  "domains": [
+    "content.ad"
+  ],
+  "filters": [
+    "||content.ad^$3p",
+    "||rtb-px.content-ad.net/p/cm/bsw"
+  ]
+}

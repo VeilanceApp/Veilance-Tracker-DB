@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Facilitate Digital",
+  "category": "advertising",
+  "website_url": "http://www.facilitatedigital.com/",
+  "organization": "adslot",
+  "domains": [
+    "adsfac.eu",
+    "adsfac.net",
+    "adsfac.sg",
+    "adsfac.us"
+  ],
+  "filters": [
+    "||adsfac.eu^$3p",
+    "||adsfac.net^$3p",
+    "||adsfac.sg^$3p",
+    "||adsfac.us^$3p"
+  ]
+}

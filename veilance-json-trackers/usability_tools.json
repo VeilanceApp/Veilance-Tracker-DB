@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Usability Tools",
+  "category": "site_analytics",
+  "organization": "usability_tools",
+  "domains": [
+    "mobile.usabilitytools.com"
+  ],
+  "filters": [
+    "||mobile.usabilitytools.com/recorder/tracker/tracker.js"
+  ]
+}

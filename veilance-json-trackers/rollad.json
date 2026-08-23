@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Rollad",
+  "category": "advertising",
+  "website_url": "http://rollad.ru",
+  "organization": "rollad",
+  "domains": [
+    "rollad.ru"
+  ],
+  "filters": [
+    "||rollad.ru^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "BurdaForward",
+  "category": "advertising",
+  "organization": "hubert_burda_media",
+  "domains": [
+    "bf-ad.net",
+    "bf-tools.net"
+  ],
+  "filters": []
+}

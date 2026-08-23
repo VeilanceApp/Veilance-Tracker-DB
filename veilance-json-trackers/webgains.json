@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "Webgains",
+  "category": "misc",
+  "domains": [
+    "webgains.com"
+  ],
+  "filters": []
+}

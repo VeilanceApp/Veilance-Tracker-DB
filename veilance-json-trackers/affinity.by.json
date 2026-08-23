@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Affinity.by",
+  "category": "advertising",
+  "website_url": "http://affinity.by",
+  "organization": "affinity_digital_agency",
+  "domains": [
+    "countby.com"
+  ],
+  "filters": [
+    "||countby.com^$3p"
+  ]
+}

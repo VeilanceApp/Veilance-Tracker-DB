@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Deadline Funnel",
+  "category": "site_analytics",
+  "organization": "deadline_funnel",
+  "domains": [
+    "deadlinefunnel.com"
+  ],
+  "filters": [
+    "||deadlinefunnel.com^$3p"
+  ]
+}

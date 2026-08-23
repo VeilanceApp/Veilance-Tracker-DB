@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ehi-siegel.de",
+  "category": "customer_interaction",
+  "website_url": "https://ehi-siegel.de/",
+  "domains": [
+    "ehi-siegel.de"
+  ],
+  "filters": []
+}

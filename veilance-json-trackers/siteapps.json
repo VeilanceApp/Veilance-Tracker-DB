@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "SiteApps",
+  "category": "customer_interaction",
+  "website_url": "http://siteapps.com",
+  "organization": "siteapps",
+  "domains": [
+    "siteapps.com"
+  ],
+  "filters": [
+    "||a.siteapps.com^$3p",
+    "||ae.siteapps.com^$3p"
+  ]
+}

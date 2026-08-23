@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Blue Seed",
+  "category": "advertising",
+  "organization": "blue_seed",
+  "domains": [
+    "blueserving.com"
+  ],
+  "filters": [
+    "||blueserving.com/js/show_ads_blueseed.js"
+  ]
+}

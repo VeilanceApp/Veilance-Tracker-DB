@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Bitly",
+  "category": "site_analytics",
+  "website_url": "https://bitly.com/",
+  "domains": [
+    "bit.ly",
+    "bitly.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Insider",
+  "category": "site_analytics",
+  "website_url": "https://useinsider.com/",
+  "organization": "insider",
+  "domains": [
+    "useinsider.com"
+  ],
+  "filters": [
+    "||api.sociaplus.com/js/squery.min.js",
+    "||api.useinsider.com/js/insiderexternal.min.js"
+  ]
+}

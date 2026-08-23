@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "RevLifter",
+  "category": "customer_interaction",
+  "website_url": "https://www.revlifter.com/",
+  "organization": "revlifter",
+  "domains": [
+    "revlifter.io"
+  ],
+  "filters": []
+}

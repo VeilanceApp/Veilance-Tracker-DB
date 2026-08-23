@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GetConversion",
+  "category": "customer_interaction",
+  "website_url": "http://www.getconversion.net/",
+  "organization": "getconversion",
+  "domains": [
+    "getconversion.net"
+  ],
+  "filters": [
+    "||getconversion.net^$3p"
+  ]
+}

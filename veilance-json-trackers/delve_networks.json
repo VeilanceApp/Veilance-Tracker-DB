@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Delve Networks",
+  "category": "social_media",
+  "website_url": "http://www.delvenetworks.com/",
+  "organization": "limelight_networks",
+  "domains": [
+    "delvenetworks.com"
+  ],
+  "filters": []
+}

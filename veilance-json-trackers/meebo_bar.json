@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Meebo Bar",
+  "category": "social_media",
+  "website_url": "http://bar.meebo.com/",
+  "organization": "google",
+  "domains": [
+    "cim.meebo.com"
+  ],
+  "filters": [
+    "||cim.meebo.com/cim"
+  ]
+}

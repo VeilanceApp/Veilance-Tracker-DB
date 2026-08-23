@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Alipay",
+  "category": "customer_interaction",
+  "website_url": "https://www.alipay.com/",
+  "organization": "alibaba",
+  "domains": [
+    "alipay.com"
+  ],
+  "filters": []
+}

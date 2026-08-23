@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Cookiebot",
+  "category": "consent",
+  "website_url": "https://www.cybot.com/",
+  "organization": "usercentrics",
+  "domains": [
+    "cookiebot.com",
+    "cookiebot.eu"
+  ],
+  "filters": [
+    "||consent.cookiebot.com^$3p",
+    "||imgsct.cookiebot.com/1.gif^"
+  ]
+}

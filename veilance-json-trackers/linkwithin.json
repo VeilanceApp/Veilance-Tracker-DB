@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LinkWithin",
+  "category": "social_media",
+  "website_url": "http://www.linkwithin.com/",
+  "organization": "linkwithin",
+  "domains": [
+    "linkwithin.com"
+  ],
+  "filters": [
+    "||linkwithin.com^$3p"
+  ]
+}

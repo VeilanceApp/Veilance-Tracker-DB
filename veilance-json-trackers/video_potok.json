@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Video Potok",
+  "category": "audio_video_player",
+  "organization": "videopotok",
+  "domains": [
+    "vidtok.ru"
+  ],
+  "filters": [
+    "||videopotok.pro/kod.php",
+    "||vidtok.ru/js/videpotok_script_over.js",
+    "||vidtok.ru/player_html5/mobileobrab.js"
+  ]
+}

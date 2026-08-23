@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Wikia CDN",
+  "category": "hosting",
+  "organization": "wikia",
+  "domains": [
+    "nocookie.net"
+  ],
+  "filters": []
+}

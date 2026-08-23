@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "jQuery",
+  "category": "hosting",
+  "website_url": "https://jquery.org/",
+  "organization": "js_foundation",
+  "domains": [
+    "cdnjquery.com",
+    "jquery.com"
+  ],
+  "filters": []
+}

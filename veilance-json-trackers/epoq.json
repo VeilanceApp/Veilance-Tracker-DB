@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "epoq",
+  "category": "customer_interaction",
+  "website_url": "http://www.epoq.de/",
+  "organization": "epoq",
+  "domains": [
+    "epoq.de"
+  ],
+  "filters": [
+    "||rs.epoq.de^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickBank ProAds",
+  "category": "advertising",
+  "website_url": "http://www.cbproads.com/",
+  "organization": "clickbank_proads",
+  "domains": [
+    "cbproads.com"
+  ],
+  "filters": [
+    "||cbproads.com^$3p"
+  ]
+}

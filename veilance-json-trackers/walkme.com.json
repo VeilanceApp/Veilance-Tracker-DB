@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "WalkMe",
+  "category": "customer_interaction",
+  "website_url": "https://www.walkme.com/",
+  "organization": "walkme",
+  "domains": [
+    "walkme.com"
+  ],
+  "filters": [
+    "||cdn.walkme.com/users/"
+  ]
+}

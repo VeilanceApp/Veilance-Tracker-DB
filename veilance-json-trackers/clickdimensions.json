@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickDimensions",
+  "category": "advertising",
+  "website_url": "https://www.clickdimensions.com/",
+  "organization": "clickdimensions",
+  "domains": [
+    "analytics.clickdimensions.com"
+  ],
+  "filters": [
+    "||analytics.clickdimensions.com^$3p"
+  ]
+}

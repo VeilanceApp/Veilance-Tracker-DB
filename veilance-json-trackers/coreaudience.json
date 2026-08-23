@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CoreAudience",
+  "category": "advertising",
+  "website_url": "http://www.redaril.com/",
+  "organization": "hearst",
+  "domains": [
+    "raasnet.com"
+  ],
+  "filters": [
+    "||raasnet.com^$3p"
+  ]
+}

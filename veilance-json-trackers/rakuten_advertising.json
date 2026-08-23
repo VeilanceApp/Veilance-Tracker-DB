@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Rakuten Advertising",
+  "category": "advertising",
+  "website_url": "https://rakutenadvertising.com",
+  "organization": "rakuten",
+  "domains": [
+    "rakutenadvertising.io",
+    "rmp.rakuten.com"
+  ],
+  "filters": [
+    "||rakutenadvertising.io^$3p"
+  ]
+}

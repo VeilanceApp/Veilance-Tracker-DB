@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Crimtan",
+  "category": "advertising",
+  "website_url": "https://www.crimtan.com/",
+  "organization": "crimtan",
+  "domains": [
+    "ctnsnet.com"
+  ],
+  "filters": [
+    "||cm.ctnsnet.com/int/cm",
+    "||ctasnet.com^$3p",
+    "||ctnsnet.com^$3p",
+    "||ctpsnet.com^$3p"
+  ]
+}

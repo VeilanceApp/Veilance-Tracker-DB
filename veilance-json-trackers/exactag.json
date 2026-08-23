@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Exactag",
+  "category": "site_analytics",
+  "website_url": "http://www.exactag.com",
+  "organization": "exactag",
+  "domains": [
+    "exactag.com"
+  ],
+  "filters": [
+    "||exactag.com^$3p"
+  ]
+}

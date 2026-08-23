@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "belboon GmbH",
+  "category": "misc",
+  "domains": [
+    "belboon.de"
+  ],
+  "filters": []
+}

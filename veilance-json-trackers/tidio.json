@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Tidio",
+  "category": "customer_interaction",
+  "website_url": "https://www.tidio.com/",
+  "organization": "tidio_chat",
+  "domains": [
+    "code.tidio.co",
+    "widget-v4.tidiochat.com",
+    "metrics-collector.tidio.co"
+  ],
+  "filters": [
+    "||code.tidio.co^$3p",
+    "||widget-v4.tidiochat.com/1_12_1/static/js/"
+  ]
+}

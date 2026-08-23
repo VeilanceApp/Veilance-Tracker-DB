@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Inbenta",
+  "category": "site_analytics",
+  "website_url": "https://www.inbenta.com/en/",
+  "organization": "inbenta",
+  "domains": [
+    "inbenta.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Axeptio",
+  "category": "consent",
+  "website_url": "https://www.axept.io/",
+  "organization": "axeptio",
+  "domains": [
+    "api.axept.io",
+    "static.axept.io"
+  ],
+  "filters": []
+}

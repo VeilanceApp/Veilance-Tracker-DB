@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "eXTReMe Tracker",
+  "category": "site_analytics",
+  "website_url": "http://www.extremetracking.com/",
+  "organization": "extreme_digital",
+  "domains": [
+    "extreme-dm.com"
+  ],
+  "filters": [
+    "||extreme-dm.com^$3p"
+  ]
+}

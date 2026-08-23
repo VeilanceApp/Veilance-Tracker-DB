@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Infusionsoft by Keap",
+  "category": "advertising",
+  "website_url": "https://keap.com/",
+  "organization": "infusionsoft",
+  "domains": [
+    "infusionsoft.com",
+    "keap.com"
+  ],
+  "filters": [
+    "||infusionsoft.com/app"
+  ]
+}

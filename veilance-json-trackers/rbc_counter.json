@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "RBC Counter",
+  "category": "site_analytics",
+  "website_url": "https://www.rbc.ru/",
+  "organization": "rbc_group",
+  "domains": [
+    "count.rbc.ru"
+  ],
+  "filters": [
+    "||count.rbc.ru^$3p"
+  ]
+}

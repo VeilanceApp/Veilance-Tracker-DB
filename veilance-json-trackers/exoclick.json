@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "ExoClick",
+  "category": "pornvertising",
+  "website_url": "http://exoclick.com/",
+  "organization": "exoclick",
+  "domains": [
+    "exdynsrv.com",
+    "exoclick.com",
+    "exosrv.com"
+  ],
+  "filters": [
+    "||exoclick.com^$3p",
+    "||syndication.exdynsrv.com^$3p"
+  ]
+}

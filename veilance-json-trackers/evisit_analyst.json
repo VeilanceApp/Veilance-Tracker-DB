@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "eVisit Analyst",
+  "category": "advertising",
+  "website_url": "http://www.evisitanalyst.com",
+  "organization": "evisit_analyst",
+  "domains": [
+    "evisitanalyst.com",
+    "evisitcs.com",
+    "websiteperform.com"
+  ],
+  "filters": [
+    "||evisitanalyst.com^$3p",
+    "||evisitcs.com^$3p",
+    "||websiteperform.com^$3p"
+  ]
+}

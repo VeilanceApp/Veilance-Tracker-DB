@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Errorception",
+  "category": "site_analytics",
+  "website_url": "https://errorception.com/",
+  "organization": "errorception",
+  "domains": [
+    "d15qhc0lu1ghnk.cloudfront.net",
+    "errorception.com"
+  ],
+  "filters": [
+    "||d15qhc0lu1ghnk.cloudfront.net^$3p",
+    "||errorception.com^$3p"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "eshopcomp.com",
+  "category": "extensions",
+  "domains": [
+    "eshopcomp.com"
+  ],
+  "filters": []
+}

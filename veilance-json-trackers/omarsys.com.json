@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Omarsys",
+  "category": "advertising",
+  "website_url": "https://omarsys.com/",
+  "organization": "xcaliber",
+  "domains": [
+    "omarsys.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Matelso",
+  "category": "site_analytics",
+  "organization": "matelso",
+  "domains": [
+    "rns.matelso.de"
+  ],
+  "filters": [
+    "||rns.matelso.de/webtracking.js"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "SkimLinks",
+  "category": "advertising",
+  "website_url": "http://www.skimlinks.com/",
+  "organization": "skimlinks",
+  "domains": [
+    "redirectingat.com",
+    "skimlinks.com",
+    "skimresources.com"
+  ],
+  "filters": [
+    "||redirectingat.com^$3p",
+    "||skimlinks.com/api/",
+    "||skimlinks.com/js/",
+    "||skimresources.com^$3p"
+  ]
+}

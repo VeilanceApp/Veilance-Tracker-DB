@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BlogCounter",
+  "category": "site_analytics",
+  "website_url": "https://blogcounter.com/",
+  "organization": "adfire_gmbh",
+  "domains": [
+    "track.blogcounter.de"
+  ],
+  "filters": [
+    "||track.blogcounter.de^$3p"
+  ]
+}

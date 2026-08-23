@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Gugaboo",
+  "category": "advertising",
+  "organization": "gubagoo",
+  "domains": [
+    "gubagootracking.com"
+  ],
+  "filters": [
+    "||gubagootracking.com/toolbars/"
+  ]
+}

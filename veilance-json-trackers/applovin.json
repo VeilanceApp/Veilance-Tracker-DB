@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AppLovin",
+  "category": "advertising",
+  "organization": "applovin",
+  "domains": [
+    "assets.applovin.com"
+  ],
+  "filters": [
+    "||assets.applovin.com/js/applovin-mw-min.js"
+  ]
+}

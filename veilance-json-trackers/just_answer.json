@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Just Answer",
+  "category": "customer_interaction",
+  "organization": "just_answer",
+  "domains": [
+    "components.justanswer.com"
+  ],
+  "filters": [
+    "||components.justanswer.com/js/"
+  ]
+}

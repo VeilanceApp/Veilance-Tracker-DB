@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Datalicious SuperTag",
+  "category": "utilities",
+  "website_url": "http://www.datalicious.com/",
+  "organization": "datalicious",
+  "domains": [
+    "supert.ag"
+  ],
+  "filters": [
+    "||supert.ag^$3p"
+  ]
+}

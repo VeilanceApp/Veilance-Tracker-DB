@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "VigLink",
+  "category": "advertising",
+  "website_url": "http://www.viglink.com",
+  "organization": "viglink",
+  "domains": [
+    "viglink.com"
+  ],
+  "filters": [
+    "||api.viglink.com^$3p",
+    "||cdn.viglink.com^$3p",
+    "||js.viglink.com^$3p",
+    "||m.viglink.com^$3p"
+  ]
+}

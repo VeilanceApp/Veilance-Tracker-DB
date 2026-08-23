@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Virool Player",
+  "category": "advertising",
+  "organization": "virool",
+  "domains": [
+    "ssp.virool.com"
+  ],
+  "filters": [
+    "||ssp.virool.com/rubicon/player.js"
+  ]
+}

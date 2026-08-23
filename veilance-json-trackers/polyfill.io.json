@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Polyfill",
+  "category": "misc",
+  "website_url": "https://polyfill.io/",
+  "organization": "polyfill.io",
+  "domains": [
+    "polyfill.io"
+  ],
+  "filters": [
+    "||cdn.polyfill.io/v2/polyfill.min.js"
+  ]
+}

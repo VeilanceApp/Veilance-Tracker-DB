@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Twyn",
+  "category": "advertising",
+  "website_url": "http://www.twyn.com",
+  "organization": "twyn",
+  "domains": [
+    "twyn.com"
+  ],
+  "filters": [
+    "||twyn.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ChannelFinder",
+  "category": "advertising",
+  "website_url": "http://www.kpicentral.com/",
+  "organization": "kaleidoscope_promotions",
+  "domains": [
+    "channelfinder.net"
+  ],
+  "filters": [
+    "||channelfinder.net/js/embed_cf"
+  ]
+}

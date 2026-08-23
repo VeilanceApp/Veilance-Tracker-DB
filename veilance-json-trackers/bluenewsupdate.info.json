@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "bluenewsupdate.info",
+  "category": "misc",
+  "domains": [
+    "bluenewsupdate.info"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "FinanceADs",
+  "category": "advertising",
+  "organization": "financeads_gmbh_&_co._kg",
+  "domains": [
+    "tools.financeads.net"
+  ],
+  "filters": [
+    "||tools.financeads.net/girokontorechner.php"
+  ]
+}

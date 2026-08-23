@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Evergage",
+  "category": "customer_interaction",
+  "website_url": "https://www.evergage.com",
+  "organization": "evergage",
+  "domains": [
+    "apptegic.com",
+    "evergage.com"
+  ],
+  "filters": [
+    "||apptegic.com^$3p",
+    "||evergage.com^$3p"
+  ]
+}

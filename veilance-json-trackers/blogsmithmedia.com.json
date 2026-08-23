@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "blogsmithmedia.com",
+  "category": "misc",
+  "organization": "yahoo",
+  "domains": [
+    "blogsmithmedia.com"
+  ],
+  "filters": []
+}

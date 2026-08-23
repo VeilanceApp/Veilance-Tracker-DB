@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VideoStep",
+  "category": "advertising",
+  "website_url": "https://www.videostep.com/",
+  "organization": "videostep",
+  "domains": [
+    "kweb.videostep.com"
+  ],
+  "filters": [
+    "||kweb.videostep.com/getlink"
+  ]
+}

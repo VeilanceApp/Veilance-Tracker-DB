@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Whatbroadcast",
+  "category": "customer_interaction",
+  "organization": "whatsbroadcast",
+  "domains": [
+    "whatsbroadcast.com"
+  ],
+  "filters": [
+    "||widget.whatsbroadcast.com/widget_more"
+  ]
+}

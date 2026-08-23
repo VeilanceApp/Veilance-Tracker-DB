@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vicomi",
+  "category": "site_analytics",
+  "website_url": "https://www.vicomi.com/",
+  "organization": "vicomi",
+  "domains": [
+    "vicomi.com"
+  ],
+  "filters": [
+    "||api.vicomi.com^$3p"
+  ]
+}

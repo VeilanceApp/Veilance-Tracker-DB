@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SolidOpinion",
+  "category": "customer_interaction",
+  "organization": "solidopinion",
+  "domains": [
+    "solidopinion.com"
+  ],
+  "filters": [
+    "||api.solidopinion.com/api/site/getthreadstotal",
+    "||stats.solidopinion.com^$3p"
+  ]
+}

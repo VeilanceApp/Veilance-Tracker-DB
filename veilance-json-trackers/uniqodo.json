@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Uniqodo",
+  "category": "customer_interaction",
+  "website_url": "https://www.uniqodo.com/",
+  "organization": "uniqodo",
+  "domains": [
+    "uqd.io",
+    "promotionx.io",
+    "uniqodo.com"
+  ],
+  "filters": [
+    "||uniqodo.com^$3p"
+  ]
+}

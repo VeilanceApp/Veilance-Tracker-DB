@@ -1,0 +1,21 @@
+{
+  "format": "veilance-json",
+  "name": "Webtrends",
+  "category": "site_analytics",
+  "website_url": "https://www.webtrends.com/",
+  "organization": "webtrends",
+  "domains": [
+    "webtrends.com",
+    "webtrendslive.com"
+  ],
+  "filters": [
+    "/dcs.gif",
+    "/njs.gif",
+    "/trackingtags_v1.1.js",
+    "/webtrends*.js^",
+    "/wtid.js",
+    "||m.webtrends.com^$3p",
+    "||optimize.webtrends.com^$3p",
+    "||webtrendslive.com^$3p"
+  ]
+}

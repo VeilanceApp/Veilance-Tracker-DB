@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Ringier",
+  "category": "site_analytics",
+  "website_url": "http://ringier.ch/en",
+  "organization": "ringier",
+  "domains": [
+    "ringier.ch"
+  ],
+  "filters": []
+}

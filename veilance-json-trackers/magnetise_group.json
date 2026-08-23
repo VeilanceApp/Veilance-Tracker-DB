@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Magnetise Group",
+  "category": "advertising",
+  "website_url": "https://magnetisegroup.com/",
+  "organization": "magnetise_group",
+  "domains": [
+    "magnetisemedia.com"
+  ],
+  "filters": [
+    "||magnetisemedia.com^$3p"
+  ]
+}

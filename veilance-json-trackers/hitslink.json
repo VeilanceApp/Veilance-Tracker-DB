@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "HitsLink",
+  "category": "advertising",
+  "website_url": "http://www.hitslink.com/",
+  "organization": "net_applications",
+  "domains": [
+    "hitslink.com",
+    "hitsprocessor.com"
+  ],
+  "filters": [
+    "||hitslink.com^$3p",
+    "||hitsprocessor.com^$3p"
+  ]
+}

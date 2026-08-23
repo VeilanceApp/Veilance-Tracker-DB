@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LiveTex",
+  "category": "customer_interaction",
+  "website_url": "https://livetex.ru/",
+  "organization": "livetex",
+  "domains": [
+    "livetex.ru"
+  ],
+  "filters": [
+    "||livetex.ru^$3p"
+  ]
+}

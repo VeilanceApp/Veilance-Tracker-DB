@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Hyves Widgets",
+  "category": "advertising",
+  "website_url": "http://www.hyves.nl/",
+  "organization": "hyves",
+  "domains": [
+    "hyves.nl"
+  ],
+  "filters": [
+    "||hyves.nl/precompiled/hyvesconnect.js",
+    "||hyves.nl/respect/button"
+  ]
+}

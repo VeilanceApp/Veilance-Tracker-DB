@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Sonobi",
+  "category": "advertising",
+  "website_url": "https://sonobi.com/",
+  "organization": "sonobi",
+  "domains": [
+    "sonobi.com"
+  ],
+  "filters": [
+    "||ads.sonobi.com^$3p",
+    "||go.sonobi.com^$3p"
+  ]
+}

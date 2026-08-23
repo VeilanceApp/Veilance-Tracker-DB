@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ethnio",
+  "category": "site_analytics",
+  "website_url": "https://ethn.io/",
+  "organization": "ethnio",
+  "domains": [
+    "ethn.io"
+  ],
+  "filters": [
+    "||ethn.io^$3p"
+  ]
+}

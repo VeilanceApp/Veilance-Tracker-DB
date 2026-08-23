@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Optimizely",
+  "category": "utilities",
+  "website_url": "https://www.optimizely.com/",
+  "organization": "optimizely",
+  "domains": [
+    "optimizely.com",
+    "episerver.net"
+  ],
+  "filters": [
+    "||cdn.optimizely.com/client_storage/",
+    "||cdn.optimizely.com/js/"
+  ]
+}

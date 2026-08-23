@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Trigger Mail Marketing",
+  "category": "advertising",
+  "organization": "trigger_mail_marketing",
+  "domains": [
+    "api.temails.com"
+  ],
+  "filters": [
+    "||api.temails.com/cs/"
+  ]
+}

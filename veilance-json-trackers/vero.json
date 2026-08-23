@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Vero",
+  "category": "advertising",
+  "website_url": "https://www.getvero.com/",
+  "organization": "vero",
+  "domains": [
+    "d3qxef4rp70elm.cloudfront.net",
+    "getvero.com"
+  ],
+  "filters": [
+    "||d3qxef4rp70elm.cloudfront.net^$3p",
+    "||getvero.com/assets/m.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sayyac",
+  "category": "site_analytics",
+  "website_url": "http://www.sayyac.com/",
+  "organization": "sayyac",
+  "domains": [
+    "srv.sayyac.net"
+  ],
+  "filters": [
+    "||srv.sayyac.net^$3p"
+  ]
+}

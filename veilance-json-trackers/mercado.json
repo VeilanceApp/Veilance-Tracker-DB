@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Mercado",
+  "category": "advertising",
+  "website_url": "https://www.mercadolivre.com.br/",
+  "organization": "mercado_livre",
+  "domains": [
+    "mercadoclics.com",
+    "mercadolivre.com.br",
+    "mlstatic.com"
+  ],
+  "filters": [
+    "||advertising.mercadolivre.com.br^$3p",
+    "||analytics.mlstatic.com^$3p",
+    "||mercadoads.mercadolivre.com.br/main",
+    "||mercadoclics.com^$3p",
+    "||mercadolivre.com.br/jm/ml.track.me"
+  ]
+}

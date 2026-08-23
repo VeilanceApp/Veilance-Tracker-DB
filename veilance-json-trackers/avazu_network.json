@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Avazu Network",
+  "category": "advertising",
+  "website_url": "http://www.avazudsp.net/",
+  "organization": "avazu_network",
+  "domains": [
+    "ads.avazu.net"
+  ],
+  "filters": [
+    "||ads.avazu.net^$3p"
+  ]
+}

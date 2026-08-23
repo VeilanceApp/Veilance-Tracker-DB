@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Communicator Corp",
+  "category": "advertising",
+  "website_url": "https://www.communicatorcorp.com/",
+  "organization": "communicator_corp",
+  "domains": [
+    "communicatorcorp.com"
+  ],
+  "filters": [
+    "||communicatorcorp.com/public/scripts/conversiontracking.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "consentmanager",
+  "category": "consent",
+  "website_url": "https://www.consentmanager.net",
+  "organization": "consentmanager",
+  "domains": [
+    "consentmanager.net"
+  ],
+  "filters": [
+    "||consentmanager.net^$3p"
+  ]
+}

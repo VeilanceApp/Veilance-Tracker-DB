@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Highwinds",
+  "category": "site_analytics",
+  "organization": "highwinds",
+  "domains": [
+    "hwcdn.net"
+  ],
+  "filters": []
+}

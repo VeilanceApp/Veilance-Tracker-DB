@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Zanox",
+  "category": "advertising",
+  "website_url": "http://www.zanox.com/us/",
+  "organization": "axel_springer",
+  "domains": [
+    "zanox-affiliate.de",
+    "zanox.com",
+    "zanox.ws"
+  ],
+  "filters": [
+    "||www.zanox-affiliate.de/ppv/",
+    "||zanox.com^$3p"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Euroads",
+  "category": "advertising",
+  "website_url": "http://euroads.com/en/",
+  "organization": "euroads",
+  "domains": [
+    "euroads.dk",
+    "euroads.fi",
+    "euroads.no"
+  ],
+  "filters": [
+    "||euroads.dk^$3p",
+    "||euroads.fi^$3p",
+    "||euroads.no^$3p"
+  ]
+}

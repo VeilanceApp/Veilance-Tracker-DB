@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Prisma Media Digital",
+  "category": "advertising",
+  "website_url": "http://www.pmdrecrute.com/",
+  "organization": "prisma_media_digital",
+  "domains": [
+    "pmdrecrute.com",
+    "prismamediadigital.com"
+  ],
+  "filters": []
+}

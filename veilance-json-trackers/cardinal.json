@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Cardinal",
+  "category": "site_analytics",
+  "website_url": "https://www.cardinalcommerce.com/",
+  "organization": "visa",
+  "domains": [
+    "cardinalcommerce.com"
+  ],
+  "filters": []
+}

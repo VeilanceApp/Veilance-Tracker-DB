@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "TRUSTe Notice",
+  "category": "consent",
+  "website_url": "https://www.truste.com/",
+  "organization": "trustarc",
+  "domains": [
+    "choices-or.truste.com",
+    "choices.truste.com"
+  ],
+  "filters": [
+    "||choices-or.truste.com^$3p",
+    "||choices.truste.com/ca"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "RedLotus",
+  "category": "advertising",
+  "website_url": "http://triggit.com/",
+  "organization": "redlotus",
+  "domains": [
+    "pixelinteractivemedia.com",
+    "triggit.com"
+  ],
+  "filters": [
+    "||pixelinteractivemedia.com^$3p",
+    "||triggit.com^$3p"
+  ]
+}

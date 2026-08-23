@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "uTarget",
+  "category": "advertising",
+  "website_url": "http://utarget.ru/",
+  "organization": "utarget",
+  "domains": [
+    "utarget.ru"
+  ],
+  "filters": [
+    "||utarget.ru/jsclck"
+  ]
+}

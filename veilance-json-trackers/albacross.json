@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Albacross",
+  "category": "advertising",
+  "organization": "albacross",
+  "domains": [
+    "serve.albacross.com"
+  ],
+  "filters": [
+    "||serve.albacross.com/track.js"
+  ]
+}

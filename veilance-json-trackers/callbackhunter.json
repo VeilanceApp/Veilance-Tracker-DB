@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "CallbackHunter",
+  "category": "customer_interaction",
+  "website_url": "http://callbackhunter.com/main",
+  "organization": "callbackhunter",
+  "domains": [
+    "callbackhunter.com"
+  ],
+  "filters": [
+    "||callbackhunter.com/_hunter/",
+    "||callbackhunter.com/widget",
+    "||cdn.callhunter.com^$3p"
+  ]
+}

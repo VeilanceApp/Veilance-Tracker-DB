@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Eulerian",
+  "category": "site_analytics",
+  "website_url": "https://www.eulerian.com/",
+  "organization": "eulerian",
+  "domains": [
+    "eulerian.net",
+    "eultech.fnac.com",
+    "ew3.io"
+  ],
+  "filters": [
+    "ea*/ea.js^",
+    "eulerian*/ea.js^",
+    "||elr.sfr.fr/FRFRE5421.js",
+    "||eulerian.net^$3p",
+    "||eultech.fnac.com/ea.js"
+  ]
+}

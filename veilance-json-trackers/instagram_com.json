@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Instagram",
+  "category": "social_media",
+  "organization": "facebook",
+  "domains": [
+    "cdninstagram.com",
+    "instagram.com"
+  ],
+  "filters": []
+}

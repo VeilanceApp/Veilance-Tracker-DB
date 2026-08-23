@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "LockerDome",
+  "category": "social_media",
+  "organization": "lockerdome",
+  "domains": [
+    "cdn2.lockerdome.com"
+  ],
+  "filters": [
+    "||cdn2.lockerdome.com/_js/ajs.js"
+  ]
+}

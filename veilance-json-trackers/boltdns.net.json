@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "boltdns.net",
+  "category": "misc",
+  "domains": [
+    "boltdns.net"
+  ],
+  "filters": []
+}

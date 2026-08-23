@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Expose Box Widgets",
+  "category": "customer_interaction",
+  "organization": "expose_box",
+  "domains": [
+    "sf.exposebox.com"
+  ],
+  "filters": [
+    "||sf.exposebox.com/widget/"
+  ]
+}

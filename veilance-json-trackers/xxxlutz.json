@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "XXXLutz",
+  "category": "misc",
+  "website_url": "https://www.xxxlutz.de/",
+  "organization": "xxxlutz",
+  "domains": [
+    "xxxlutz.de"
+  ],
+  "filters": []
+}

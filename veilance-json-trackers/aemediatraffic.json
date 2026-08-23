@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Aemediatraffic",
+  "category": "site_analytics",
+  "domains": [
+    "aemediatraffic.com",
+    "hprofits.com"
+  ],
+  "filters": []
+}

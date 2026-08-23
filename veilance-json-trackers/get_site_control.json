@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Get Site Control",
+  "category": "advertising",
+  "organization": "getsitecontrol",
+  "domains": [
+    "getsitecontrol.com"
+  ],
+  "filters": []
+}

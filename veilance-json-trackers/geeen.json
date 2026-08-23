@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Geeen",
+  "category": "site_analytics",
+  "organization": "geeen",
+  "domains": [
+    "gntm.geeen.co.jp",
+    "lpomax.net"
+  ],
+  "filters": [
+    "||gntm.geeen.co.jp/onetag/",
+    "||lpomax.net/efocube/js/efocube.js"
+  ]
+}

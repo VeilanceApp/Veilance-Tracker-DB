@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Leadpages",
+  "category": "site_analytics",
+  "organization": "leadpages",
+  "domains": [
+    "my.leadpages.net"
+  ],
+  "filters": [
+    "||my.leadpages.net/leadbox",
+    "||my.leadpages.net/static/all/js/can-i-show.js",
+    "||thinkific.leadpages.net/leadbox/"
+  ]
+}

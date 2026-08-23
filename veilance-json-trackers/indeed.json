@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Indeed",
+  "category": "advertising",
+  "website_url": "http://www.indeed.com/",
+  "organization": "indeed",
+  "domains": [
+    "indeed.com"
+  ],
+  "filters": [
+    "||indeed.com/ads/",
+    "||indeed.com/p/jobs",
+    "||indeed.com/pagead/conv"
+  ]
+}

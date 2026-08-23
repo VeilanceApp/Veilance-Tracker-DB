@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Shareaholic",
+  "category": "site_analytics",
+  "website_url": "https://www.shareaholic.com/",
+  "organization": "shareaholic",
+  "domains": [
+    "dtym7iokkjlif.cloudfront.net",
+    "shareaholic.com"
+  ],
+  "filters": [
+    "||analytics.shareaholic.com^$3p",
+    "||cdn.shareaholic.com/media/js/",
+    "||cm.shareaholic.com^$3p",
+    "||dtym7iokkjlif.cloudfront.net/dough/1.0/",
+    "||dtym7iokkjlif.cloudfront.net/media/js/",
+    "||shareaholic.com/analytics_frame.html"
+  ]
+}

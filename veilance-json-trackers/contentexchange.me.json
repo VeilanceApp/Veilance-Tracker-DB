@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Content Exchange",
+  "category": "advertising",
+  "website_url": "https://www.contentexchange.me/",
+  "organization": "i.r.v.",
+  "domains": [
+    "contentexchange.me"
+  ],
+  "filters": [
+    "||adria.contentexchange.me/static/tracker.js",
+    "||tracker.adria.contentexchange.me/in/"
+  ]
+}

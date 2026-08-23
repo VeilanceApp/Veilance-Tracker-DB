@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "eADV",
+  "category": "advertising",
+  "website_url": "https://eadv.it/",
+  "organization": "eadv",
+  "domains": [
+    "eadv.it"
+  ],
+  "filters": [
+    "||eadv.it^$3p"
+  ]
+}

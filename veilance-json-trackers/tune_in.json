@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Tune In",
+  "category": "audio_video_player",
+  "organization": "tunein",
+  "domains": [
+    "lib.tunein.com"
+  ],
+  "filters": [
+    "||lib.tunein.com/embed/player.js"
+  ]
+}

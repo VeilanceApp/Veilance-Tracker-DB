@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Improve Digital",
+  "category": "advertising",
+  "website_url": "https://www.improvedigital.com/",
+  "organization": "improve_digital",
+  "domains": [
+    "360yield.com"
+  ],
+  "filters": [
+    "||ad.360yield.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Webhelpje",
+  "category": "customer_interaction",
+  "website_url": "https://www.webhelpje.nl/",
+  "organization": "webhelpje",
+  "domains": [
+    "webhelpje.be",
+    "webhelpje.nl"
+  ],
+  "filters": [
+    "||webhelpje.be^$3p",
+    "||webhelpje.nl^$3p"
+  ]
+}

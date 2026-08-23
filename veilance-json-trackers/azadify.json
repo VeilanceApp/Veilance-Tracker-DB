@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Azadify",
+  "category": "advertising",
+  "organization": "azadify",
+  "domains": [
+    "azadify.com"
+  ],
+  "filters": [
+    "||azadify.com/engage/external/bounce_win_2.js"
+  ]
+}

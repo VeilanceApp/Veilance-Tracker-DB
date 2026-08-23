@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "ComScore, Inc.",
+  "category": "site_analytics",
+  "website_url": "https://www.comscore.com/",
+  "organization": "comscore",
+  "domains": [
+    "comscore.com",
+    "zqtk.net"
+  ],
+  "filters": [
+    "||comscore.com^$3p"
+  ]
+}

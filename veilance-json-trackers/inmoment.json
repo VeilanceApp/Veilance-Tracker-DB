@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "InMoment",
+  "category": "customer_interaction",
+  "website_url": "https://inmoment.com/",
+  "organization": "inmoment",
+  "domains": [
+    "inmoment.com"
+  ],
+  "filters": [
+    "||inmoment.com^$3p"
+  ]
+}

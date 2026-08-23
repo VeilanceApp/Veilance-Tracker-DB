@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Jivox",
+  "category": "advertising",
+  "website_url": "https://www.jivox.com/",
+  "organization": "jivox",
+  "domains": [
+    "jivox.com"
+  ],
+  "filters": [
+    "||jivox.com^$3p"
+  ]
+}

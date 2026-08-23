@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "FluidAds",
+  "category": "advertising",
+  "website_url": "http://www.fluidads.co/",
+  "organization": "fluidads",
+  "domains": [
+    "fluidads.co"
+  ],
+  "filters": [
+    "||fluidads.co^$3p"
+  ]
+}

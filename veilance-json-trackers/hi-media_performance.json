@@ -1,0 +1,21 @@
+{
+  "format": "veilance-json",
+  "name": "Hi-Media Performance",
+  "category": "advertising",
+  "website_url": "http://www.hi-mediaperformance.co.uk/",
+  "organization": "hi-media_performance",
+  "domains": [
+    "adlink.net",
+    "comclick.com",
+    "hi-mediaserver.com",
+    "himediads.com",
+    "himediadx.com"
+  ],
+  "filters": [
+    "||adlink.net^$3p",
+    "||comclick.com^$3p",
+    "||hi-mediaserver.com^$3p",
+    "||himediads.com^$3p",
+    "||himediadx.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Dataxpand",
+  "category": "advertising",
+  "website_url": "https://dataxpand.com/",
+  "organization": "dataxpand",
+  "domains": [
+    "dataxpand.script.ag",
+    "tc.dataxpand.com"
+  ],
+  "filters": [
+    "||dataxpand.script.ag^$3p",
+    "||tc.dataxpand.com^$3p"
+  ]
+}

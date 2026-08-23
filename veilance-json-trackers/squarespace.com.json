@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Squarespace",
+  "category": "hosting",
+  "website_url": "https://www.squarespace.com/",
+  "organization": "squarespace",
+  "domains": [
+    "squarespace.com",
+    "definitions.sqspcdn.com",
+    "squarespace-cdn.com"
+  ],
+  "filters": [
+    "||squarespace.com^$3p"
+  ]
+}

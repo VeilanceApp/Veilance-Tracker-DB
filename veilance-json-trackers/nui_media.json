@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "NUI Media",
+  "category": "advertising",
+  "website_url": "http://adjuggler.com/",
+  "organization": "nui_media",
+  "domains": [
+    "rotator.adjuggler.com"
+  ],
+  "filters": [
+    "/banners/ajtg.js",
+    "/servlet/ajrotator^",
+    "||rotator.adjuggler.com^$3p"
+  ]
+}

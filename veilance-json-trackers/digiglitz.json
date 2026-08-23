@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Digiglitz",
+  "category": "site_analytics",
+  "organization": "digiglitz",
+  "domains": [
+    "digiglitzmarketing.go2cloud.org"
+  ],
+  "filters": [
+    "||digiglitzmarketing.go2cloud.org^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Redux Media",
+  "category": "advertising",
+  "website_url": "http://reduxmedia.com/",
+  "organization": "redux_media",
+  "domains": [
+    "reduxmedia.com",
+    "reduxmediagroup.com"
+  ],
+  "filters": [
+    "||reduxmedia.com^$3p",
+    "||reduxmediagroup.com^$3p"
+  ]
+}

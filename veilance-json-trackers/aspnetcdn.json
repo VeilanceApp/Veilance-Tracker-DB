@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft Ajax CDN",
+  "category": "hosting",
+  "organization": "microsoft",
+  "domains": [
+    "aspnetcdn.com"
+  ],
+  "filters": []
+}

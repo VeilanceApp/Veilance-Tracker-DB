@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Periscope",
+  "category": "social_media",
+  "website_url": "https://www.pscp.tv/",
+  "organization": "periscope",
+  "domains": [
+    "pscp.tv"
+  ],
+  "filters": []
+}

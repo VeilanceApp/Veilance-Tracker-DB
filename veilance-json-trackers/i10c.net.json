@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "i10c.net",
+  "category": "misc",
+  "domains": [
+    "i10c.net"
+  ],
+  "filters": []
+}

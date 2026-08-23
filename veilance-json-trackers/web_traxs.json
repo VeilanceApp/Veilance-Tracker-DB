@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Web Traxs",
+  "category": "site_analytics",
+  "website_url": "http://websolutions.thomasnet.com/web-traxs-analytics.php",
+  "organization": "thomasnet_websolutions",
+  "domains": [
+    "webtraxs.com"
+  ],
+  "filters": [
+    "/webtraxs.js",
+    "||webtraxs.com^$3p"
+  ]
+}

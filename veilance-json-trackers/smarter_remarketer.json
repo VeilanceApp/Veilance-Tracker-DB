@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "SmarterHQ",
+  "category": "advertising",
+  "website_url": "https://smarterhq.com",
+  "organization": "smarterhq",
+  "domains": [
+    "d1n00d49gkbray.cloudfront.net",
+    "dhxtx5wtu812h.cloudfront.net"
+  ],
+  "filters": [
+    "||d1n00d49gkbray.cloudfront.net/truereligion/truereligion.js",
+    "||dhxtx5wtu812h.cloudfront.net/js/finishline.js",
+    "||modallogix.net^$3p",
+    "||smarterremarketer.net^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "OxaMedia",
+  "category": "customer_interaction",
+  "website_url": "http://www.oxamedia.com/",
+  "organization": "oxamedia",
+  "domains": [
+    "adconnexa.com",
+    "adsbwm.com"
+  ],
+  "filters": [
+    "||adconnexa.com^$3p",
+    "||adsbwm.com^$3p"
+  ]
+}

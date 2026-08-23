@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SmarterTrack",
+  "category": "advertising",
+  "website_url": "https://www.smartertrack.com/",
+  "organization": "smartertrack",
+  "domains": [
+    "smartertrack.com"
+  ],
+  "filters": [
+    "||smartertrack.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Profiliad",
+  "category": "site_analytics",
+  "organization": "profiliad",
+  "domains": [
+    "proadsnet.com"
+  ],
+  "filters": [
+    "||proadsnet.com^$3p"
+  ]
+}
