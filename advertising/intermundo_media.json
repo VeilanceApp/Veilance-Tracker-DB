@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "InterMundo Media",
+  "category": "advertising",
+  "website_url": "http://intermundomedia.com/",
+  "organization": "intermundo_media",
+  "domains": [
+    "intermundomedia.com"
+  ],
+  "filters": [
+    "||intermundomedia.com^$3p"
+  ]
+}

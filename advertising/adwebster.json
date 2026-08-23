@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "adwebster",
+  "category": "advertising",
+  "website_url": "http://adwebster.com",
+  "organization": "adwebster",
+  "domains": [
+    "adwebster.com"
+  ],
+  "filters": [
+    "||adwebster.com^$3p"
+  ]
+}

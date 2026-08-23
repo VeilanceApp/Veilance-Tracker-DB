@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TradeTracker",
+  "category": "advertising",
+  "website_url": "http://www.tradetracker.com",
+  "organization": "tradetracker",
+  "domains": [
+    "tradetracker.net"
+  ],
+  "filters": [
+    "||tradetracker.net^$3p"
+  ]
+}

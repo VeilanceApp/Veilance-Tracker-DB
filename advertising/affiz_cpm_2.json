@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Affiz CPM",
+  "category": "advertising",
+  "website_url": "http://cpm.affiz.com/home",
+  "organization": "affiz_cpm",
+  "domains": [
+    "affiz.net"
+  ],
+  "filters": [
+    "||affiz.net^$3p"
+  ]
+}

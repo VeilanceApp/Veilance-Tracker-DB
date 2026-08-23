@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Propel Marketing",
+  "category": "advertising",
+  "organization": "propel_marketing",
+  "domains": [
+    "propelmarketing.com"
+  ],
+  "filters": [
+    "||calls.propelmarketing.com^$3p",
+    "||responsive.propelmarketing.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Blue Triangle",
+  "category": "site_analytics",
+  "website_url": "https://www.bluetriangle.com/",
+  "organization": "blue_triangle",
+  "domains": [
+    "bluetriangletech.com",
+    "btttag.com"
+  ],
+  "filters": [
+    "||btttag.com/btt.js"
+  ]
+}

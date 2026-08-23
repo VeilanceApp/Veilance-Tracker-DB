@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "NY Times TagX",
+  "category": "site_analytics",
+  "organization": "the_new_york_times",
+  "domains": [],
+  "filters": [
+    "||a1.nyt.com/analytics/tagx-simple.min.js",
+    "||tagx.nytimes.com^$3p"
+  ]
+}

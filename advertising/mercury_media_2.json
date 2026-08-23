@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mercury Media",
+  "category": "advertising",
+  "website_url": "http://trackingsoft.com/",
+  "organization": "mercury_media",
+  "domains": [
+    "roia.biz"
+  ],
+  "filters": [
+    "||roia.biz^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Funnelytics",
+  "category": "site_analytics",
+  "organization": "funnelytics",
+  "domains": [
+    "track.funnelytics.io"
+  ],
+  "filters": [
+    "||track.funnelytics.io/trackers"
+  ]
+}

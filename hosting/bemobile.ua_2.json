@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Bemobile",
+  "category": "hosting",
+  "website_url": "https://bemobile.ua/en/",
+  "organization": "bemobile",
+  "domains": [
+    "bemobile.ua"
+  ],
+  "filters": []
+}

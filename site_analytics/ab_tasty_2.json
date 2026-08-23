@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "AB Tasty",
+  "category": "site_analytics",
+  "website_url": "https://en.abtasty.com",
+  "organization": "ab_tasty",
+  "domains": [
+    "abtasty.com",
+    "d1447tq2m68ekg.cloudfront.net"
+  ],
+  "filters": [
+    "/timetracking/abtastytiming.gif",
+    "||abtasty.com^$3p",
+    "||d1447tq2m68ekg.cloudfront.net^$3p"
+  ]
+}

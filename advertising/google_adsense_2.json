@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "Google Adsense",
+  "category": "advertising",
+  "website_url": "https://www.google.com/adsense/",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||adservice.google.com/adsid/integrator.js",
+    "||feedads.g.doubleclick.net^$3p",
+    "||google.com/adsense/domains/caf.js",
+    "||google.com/adsense/search/ads.js",
+    "||google.com/adsense/search/async-ads.js",
+    "||google.com/afsonline/show_afs_ads.js",
+    "||google.com/uds/afs",
+    "||googleadservices.com/pagead/aclk",
+    "||partner.googleadservices.com/gampad/",
+    "||fundingchoicesmessages.google.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdCurve",
+  "category": "advertising",
+  "website_url": "http://www.shop2market.com/",
+  "organization": "adcurve",
+  "domains": [
+    "shop2market.com"
+  ],
+  "filters": [
+    "||shop2market.com^$3p"
+  ]
+}

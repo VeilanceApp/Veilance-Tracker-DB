@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ComboTag",
+  "category": "advertising",
+  "website_url": "https://www.combotag.com/",
+  "domains": [
+    "combotag.com"
+  ],
+  "filters": []
+}

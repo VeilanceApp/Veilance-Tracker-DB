@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SpokenLayer",
+  "category": "audio_video_player",
+  "website_url": "http://www.spokenlayer.com",
+  "organization": "spokenlayer",
+  "domains": [
+    "embed.spokenlayer.com"
+  ],
+  "filters": [
+    "||embed.spokenlayer.com^$3p"
+  ]
+}

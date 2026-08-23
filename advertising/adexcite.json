@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdExcite",
+  "category": "advertising",
+  "website_url": "http://adexcite.com",
+  "organization": "adexcite",
+  "domains": [
+    "adexcite.com"
+  ],
+  "filters": [
+    "||adexcite.com/ads"
+  ]
+}

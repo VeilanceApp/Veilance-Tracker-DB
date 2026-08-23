@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Image Space Media",
+  "category": "advertising",
+  "website_url": "http://www.imagespacemedia.com/",
+  "organization": "image_space_media",
+  "domains": [
+    "picadmedia.com"
+  ],
+  "filters": [
+    "||picadmedia.com/js/"
+  ]
+}

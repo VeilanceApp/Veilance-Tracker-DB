@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Boost Box",
+  "category": "site_analytics",
+  "organization": "boost_box",
+  "domains": [
+    "boostbox.com.br"
+  ],
+  "filters": [
+    "||boostbox.com.br/scripts/send_data.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pixel Union",
+  "category": "advertising",
+  "organization": "pixel_union",
+  "domains": [
+    "app.pixelpop.co"
+  ],
+  "filters": [
+    "||app.pixelpop.co/api/client/instances",
+    "||s3.amazonaws.com/pixelpop/app/pixelpop-1.2.1.min.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Atedra",
+  "category": "advertising",
+  "website_url": "https://www.atedra.com/",
+  "organization": "atedra",
+  "domains": [
+    "atedra.com"
+  ],
+  "filters": [
+    "||atedra.com^$3p"
+  ]
+}

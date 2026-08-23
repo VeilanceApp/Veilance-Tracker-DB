@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Coin Traffic",
+  "category": "customer_interaction",
+  "organization": "coin_traffic",
+  "domains": [
+    "appsha1.cointraffic.io"
+  ],
+  "filters": [
+    "||appsha1.cointraffic.io/js/",
+    "||ctnet2.in/pub"
+  ]
+}

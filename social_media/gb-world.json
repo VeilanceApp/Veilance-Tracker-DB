@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GB-World",
+  "category": "social_media",
+  "website_url": "https://www.gb-world.net/",
+  "organization": "gb-world",
+  "domains": [
+    "js.gb-world.net"
+  ],
+  "filters": [
+    "||js.gb-world.net/lib/ga_social_tracking.js"
+  ]
+}

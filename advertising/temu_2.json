@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Temu",
+  "category": "advertising",
+  "website_url": "https://temu.com",
+  "organization": "temu",
+  "domains": [
+    "temu.com"
+  ],
+  "filters": [
+    "||temu.com/api/adx/cm/pixel*"
+  ]
+}

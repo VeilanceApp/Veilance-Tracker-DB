@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Hatchbuck",
+  "category": "site_analytics",
+  "organization": "hatchbuck",
+  "domains": [
+    "app.hatchbuck.com"
+  ],
+  "filters": [
+    "||app.hatchbuck.com/trackwebpage"
+  ]
+}

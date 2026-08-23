@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Swiftype",
+  "category": "hosting",
+  "website_url": "https://swiftype.com/",
+  "organization": "elastic",
+  "domains": [
+    "swiftypecdn.com"
+  ],
+  "filters": []
+}

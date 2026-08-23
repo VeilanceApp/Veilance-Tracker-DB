@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Augur",
+  "category": "site_analytics",
+  "organization": "augur",
+  "domains": [
+    "cdn.augur.io"
+  ],
+  "filters": [
+    "||cdn.augur.io/augur.min.js"
+  ]
+}

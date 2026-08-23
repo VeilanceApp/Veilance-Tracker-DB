@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Epom",
+  "category": "advertising",
+  "website_url": "https://epom.com/",
+  "organization": "epom",
+  "domains": [
+    "adshost1.com",
+    "adshost2.com",
+    "epom.com"
+  ],
+  "filters": [
+    "||adshost1.com^$3p",
+    "||adshost2.com^$3p",
+    "||epom.com^$3p"
+  ]
+}

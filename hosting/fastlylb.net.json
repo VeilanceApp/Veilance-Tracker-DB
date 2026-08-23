@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Fastly",
+  "category": "hosting",
+  "website_url": "https://www.fastly.com/",
+  "organization": "fastly",
+  "domains": [
+    "fastly.net",
+    "fastlylb.net"
+  ],
+  "filters": []
+}

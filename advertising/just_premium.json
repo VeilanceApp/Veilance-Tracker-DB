@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Just Premium",
+  "category": "advertising",
+  "website_url": "http://justpremium.com/",
+  "organization": "just_premium",
+  "domains": [
+    "justpremium.com",
+    "justpremium.nl"
+  ],
+  "filters": [
+    "||justpremium.com^$3p",
+    "||justpremium.nl^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Blis",
+  "category": "site_analytics",
+  "website_url": "https://www.blis.com/index.php",
+  "organization": "blis",
+  "domains": [
+    "blismedia.com"
+  ],
+  "filters": []
+}

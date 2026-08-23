@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Omniconvert",
+  "category": "advertising",
+  "website_url": "https://www.omniconvert.com/",
+  "organization": "omniconvert",
+  "domains": [
+    "omniconvert.com"
+  ],
+  "filters": []
+}

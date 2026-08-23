@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Blue Cherry Group",
+  "category": "advertising",
+  "website_url": "http://www.bluecherrygroup.com",
+  "organization": "blue_cherry_group",
+  "domains": [
+    "offerpoint.net"
+  ],
+  "filters": [
+    "||offerpoint.net^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Gamedistribution.com",
+  "category": "misc",
+  "website_url": "https://gamedistribution.com/",
+  "domains": [
+    "gamedistribution.com"
+  ],
+  "filters": []
+}

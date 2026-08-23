@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tanx",
+  "category": "advertising",
+  "website_url": "https://tanx.com/",
+  "organization": "tanx",
+  "domains": [
+    "tanx.com"
+  ],
+  "filters": [
+    "||tanx.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Contaxe",
+  "category": "utilities",
+  "website_url": "http://www.contaxe.com/",
+  "organization": "contaxe",
+  "domains": [
+    "contaxe.com"
+  ],
+  "filters": [
+    "||contaxe.com/go"
+  ]
+}

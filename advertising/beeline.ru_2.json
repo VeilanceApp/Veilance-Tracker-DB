@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Beeline",
+  "category": "advertising",
+  "website_url": "https://moskva.beeline.ru/",
+  "domains": [
+    "beeline.ru"
+  ],
+  "filters": []
+}

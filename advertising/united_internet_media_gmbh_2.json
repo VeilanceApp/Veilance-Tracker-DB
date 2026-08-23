@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "United Internet Media GmbH",
+  "category": "advertising",
+  "organization": "united_internet",
+  "domains": [
+    "tifbs.net",
+    "ui-portal.de",
+    "uimserv.net"
+  ],
+  "filters": [
+    "||uim.tifbs.net/js/2690.js",
+    "||uir.uimserv.net/id"
+  ]
+}

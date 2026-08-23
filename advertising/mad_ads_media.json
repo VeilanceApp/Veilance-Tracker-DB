@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mad Ads Media",
+  "category": "advertising",
+  "website_url": "http://www.madadsmedia.com/",
+  "organization": "mad_ads_media",
+  "domains": [
+    "madadsmedia.com"
+  ],
+  "filters": [
+    "||madadsmedia.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Campus Explorer",
+  "category": "site_analytics",
+  "organization": "campus_explorer",
+  "domains": [
+    "s.edkay.com"
+  ],
+  "filters": [
+    "||s.edkay.com/api/sync/1/"
+  ]
+}

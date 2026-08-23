@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "adhood",
+  "category": "advertising",
+  "website_url": "https://www.adhood.com/",
+  "organization": "adhood",
+  "domains": [
+    "adhood.com"
+  ],
+  "filters": [
+    "||adhood.com/adserver/ad"
+  ]
+}

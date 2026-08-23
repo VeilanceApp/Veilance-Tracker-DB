@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Usercentrics",
+  "category": "consent",
+  "website_url": "https://usercentrics.com/",
+  "organization": "usercentrics",
+  "domains": [
+    "usercentrics.eu"
+  ],
+  "filters": [
+    "/usercentrics/cmp.js",
+    "###comspace-usercentrics",
+    "||usercentrics.eu/session^$image",
+    "||usercentrics.eu^$third-party",
+    "||uct.service.usercentrics.eu/uct^$image"
+  ]
+}

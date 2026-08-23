@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "SLI Systems",
+  "category": "site_analytics",
+  "website_url": "https://www.sli-systems.com/",
+  "organization": "sli_systems",
+  "domains": [
+    "sli-system.com"
+  ],
+  "filters": []
+}

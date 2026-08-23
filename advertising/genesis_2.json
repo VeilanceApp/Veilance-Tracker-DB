@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Genesis",
+  "category": "advertising",
+  "website_url": "https://genesismedia.com/",
+  "organization": "genesis_media",
+  "domains": [
+    "genesismedia.com"
+  ],
+  "filters": [
+    "||genesismedia.com^$3p"
+  ]
+}

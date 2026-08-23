@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AutoID",
+  "category": "site_analytics",
+  "organization": "autoid",
+  "domains": [
+    "ai.autoid.com"
+  ],
+  "filters": [
+    "||ai.autoid.com/ai.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Magna Advertise",
+  "category": "advertising",
+  "website_url": "http://magna.ru/",
+  "organization": "magna_advertise",
+  "domains": [
+    "magna.ru"
+  ],
+  "filters": [
+    "||magna.ru^$3p"
+  ]
+}

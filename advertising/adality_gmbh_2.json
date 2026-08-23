@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "adality GmbH",
+  "category": "advertising",
+  "organization": "arvato",
+  "domains": [
+    "adrtx.net"
+  ],
+  "filters": []
+}

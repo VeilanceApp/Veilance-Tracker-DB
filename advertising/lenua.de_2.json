@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Lenua System",
+  "category": "advertising",
+  "website_url": "http://lenua.de/",
+  "organization": "synatix",
+  "domains": [
+    "lenua.de"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "eGain Analytics",
+  "category": "site_analytics",
+  "organization": "egain",
+  "domains": [
+    "cloud-emea.analytics-egain.com"
+  ],
+  "filters": [
+    "||cloud-emea.analytics-egain.com/tracker"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Hungry Studio",
+  "category": "advertising",
+  "website_url": "https://www.hungrystudio.com/",
+  "organization": "hungry_studio",
+  "domains": [
+    "afafb.com"
+  ],
+  "filters": []
+}

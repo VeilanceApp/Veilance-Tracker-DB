@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AccessAnalyzer",
+  "category": "site_analytics",
+  "website_url": "http://ax.xrea.com/",
+  "organization": "accessanalyzer",
+  "domains": [
+    "ax.xrea.com"
+  ],
+  "filters": [
+    "||ax.xrea.com^$3p"
+  ]
+}

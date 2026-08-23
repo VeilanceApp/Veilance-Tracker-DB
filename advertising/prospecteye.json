@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ProspectEye",
+  "category": "advertising",
+  "website_url": "https://www.prospecteye.com/",
+  "organization": "prospecteye",
+  "domains": [
+    "tr.prospecteye.com"
+  ],
+  "filters": [
+    "||tr.prospecteye.com^$3p"
+  ]
+}

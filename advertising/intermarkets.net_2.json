@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Intermarkets",
+  "category": "advertising",
+  "website_url": "http://intermarkets.net/",
+  "organization": "intermarkets",
+  "domains": [
+    "intermarkets.net"
+  ],
+  "filters": [
+    "||intermarkets.net^$3p"
+  ]
+}

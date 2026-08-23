@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Lotame",
+  "category": "advertising",
+  "website_url": "https://www.lotame.com/",
+  "organization": "lotame",
+  "domains": [
+    "crwdcntrl.net",
+    "ltmsphrcl.net"
+  ],
+  "filters": [
+    "||crwdcntrl.net^$3p",
+    "||tags.crwdcntrl.net/c/8753/cc_af.js"
+  ]
+}

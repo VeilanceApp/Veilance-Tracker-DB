@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Map and Route",
+  "category": "customer_interaction",
+  "website_url": "https://www.mapandroute.de/",
+  "domains": [
+    "mapandroute.de"
+  ],
+  "filters": []
+}

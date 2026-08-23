@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Financial Content",
+  "category": "advertising",
+  "website_url": "http://www.financialcontent.com",
+  "organization": "financial_content",
+  "domains": [
+    "tracker.financialcontent.com"
+  ],
+  "filters": [
+    "||tracker.financialcontent.com^$3p"
+  ]
+}

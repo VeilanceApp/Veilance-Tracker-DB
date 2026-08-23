@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PayClick",
+  "category": "advertising",
+  "website_url": "http://payclick.it/",
+  "organization": "payclick",
+  "domains": [
+    "payclick.it"
+  ],
+  "filters": [
+    "||payclick.it^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "RevenueMantra",
+  "category": "advertising",
+  "website_url": "http://www.revenuemantra.com/",
+  "organization": "revenuemantra",
+  "domains": [
+    "revenuemantra.com"
+  ],
+  "filters": [
+    "||revenuemantra.com^$3p"
+  ]
+}

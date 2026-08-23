@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "makeappdev.xyz",
+  "category": "extensions",
+  "domains": [
+    "makeappdev.xyz"
+  ],
+  "filters": []
+}

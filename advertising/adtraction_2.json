@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adtraction",
+  "category": "advertising",
+  "website_url": "https://adtraction.com/",
+  "organization": "adtraction",
+  "domains": [
+    "track.adtraction.com"
+  ],
+  "filters": [
+    "||track.adtraction.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "RecoPick",
+  "category": "advertising",
+  "organization": "recopick",
+  "domains": [
+    "static.recopick.com"
+  ],
+  "filters": [
+    "||api.recopick.com/v1/logs/visit/",
+    "||static.recopick.com/dist/production.min.js"
+  ]
+}

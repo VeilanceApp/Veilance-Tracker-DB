@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LeadHit",
+  "category": "customer_interaction",
+  "website_url": "https://leadhit.ru/",
+  "organization": "leadhit",
+  "domains": [
+    "leadhit.ru"
+  ],
+  "filters": [
+    "||leadhit.ru^$3p"
+  ]
+}

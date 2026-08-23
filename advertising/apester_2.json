@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Apester",
+  "category": "advertising",
+  "website_url": "https://apester.com/",
+  "organization": "apester",
+  "domains": [
+    "apester.com"
+  ],
+  "filters": [
+    "||display.apester.com/injected-units",
+    "||static.apester.com/js/sdk"
+  ]
+}

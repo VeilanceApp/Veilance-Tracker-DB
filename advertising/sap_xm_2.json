@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SAP Exchange Media",
+  "category": "advertising",
+  "website_url": "http://sapexchange.media/",
+  "domains": [
+    "sap-xm.org"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Revenue",
+  "category": "advertising",
+  "organization": "revenue",
+  "domains": [
+    "revenue.com"
+  ],
+  "filters": [
+    "||revenue.com/infusion.php"
+  ]
+}

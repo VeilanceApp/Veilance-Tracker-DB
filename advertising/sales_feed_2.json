@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sales Feed",
+  "category": "advertising",
+  "organization": "sales_feed",
+  "domains": [
+    "api.salesfeed.com"
+  ],
+  "filters": [
+    "||api.salesfeed.com/v3/bootstrap.js"
+  ]
+}

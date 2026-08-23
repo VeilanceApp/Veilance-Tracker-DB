@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "web.de",
+  "category": "misc",
+  "website_url": "https://web.de/",
+  "domains": [
+    "web.de",
+    "webde.de"
+  ],
+  "filters": []
+}

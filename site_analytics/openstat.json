@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "OpenStat",
+  "category": "site_analytics",
+  "website_url": "https://www.openstat.ru/",
+  "organization": "openstat",
+  "domains": [
+    "openstat.net",
+    "spylog.com",
+    "spylog.ru"
+  ],
+  "filters": [
+    "||openstat.net/cnt.js",
+    "||openstat.net/sync/p.gif",
+    "||spylog.com^$3p",
+    "||spylog.ru^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Active Performance",
+  "category": "advertising",
+  "website_url": "http://www.active-performance.de/",
+  "organization": "active_performance",
+  "domains": [
+    "active-srv02.de",
+    "active-tracking.de"
+  ],
+  "filters": [
+    "||active-srv02.de^$3p",
+    "||active-tracking.de^$3p"
+  ]
+}

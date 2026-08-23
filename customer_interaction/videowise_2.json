@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Videowise",
+  "category": "customer_interaction",
+  "website_url": "https://videowise.com/",
+  "organization": "videowise",
+  "domains": [
+    "api.videowise.com"
+  ],
+  "filters": []
+}

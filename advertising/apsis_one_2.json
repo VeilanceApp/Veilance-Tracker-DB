@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "APSIS One",
+  "category": "advertising",
+  "website_url": "https://apsis.com/",
+  "organization": "efficy",
+  "domains": [
+    "apsis.one"
+  ],
+  "filters": []
+}

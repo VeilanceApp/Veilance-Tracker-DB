@@ -1,0 +1,25 @@
+{
+  "format": "veilance-json",
+  "name": "Schibsted Media Group",
+  "category": "misc",
+  "website_url": "http://www.schibsted.com/",
+  "organization": "schibsted_asa",
+  "domains": [
+    "schibsted.com",
+    "schibsted.io",
+    "schibsted.se",
+    "schibsted.fi",
+    "schibsted.no",
+    "schibsted.dk",
+    "schibsted.news",
+    "schibsted.media",
+    "schibstedmedia.com",
+    "schibstedmedia.se",
+    "schibstedmedia.no",
+    "schibstedmedia.fi",
+    "schibstedmedia.dk",
+    "schibsted.lol",
+    "plan3.se"
+  ],
+  "filters": []
+}

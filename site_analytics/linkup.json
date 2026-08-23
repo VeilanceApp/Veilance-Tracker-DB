@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "LinkUp",
+  "category": "site_analytics",
+  "organization": "linkup",
+  "domains": [
+    "linkup.com"
+  ],
+  "filters": [
+    "||linkup.com/employers/track/conversion.js"
+  ]
+}

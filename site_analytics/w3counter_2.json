@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "W3Counter",
+  "category": "site_analytics",
+  "website_url": "https://www.w3counter.com/",
+  "organization": "awio_web_services",
+  "domains": [
+    "w3counter.com"
+  ],
+  "filters": [
+    "||w3counter.com^$3p"
+  ]
+}

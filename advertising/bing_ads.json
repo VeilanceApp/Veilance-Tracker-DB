@@ -1,0 +1,22 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft Advertising",
+  "category": "advertising",
+  "website_url": "https://ads.microsoft.com/",
+  "organization": "microsoft",
+  "domains": [
+    "ads.microsoft.com",
+    "bat.r.msn.com",
+    "bing.com",
+    "bing.net",
+    "bing-int.com"
+  ],
+  "filters": [
+    "||ads.msn.com/library/dap.js",
+    "||ads1.msn.com/library/dap.js",
+    "||adsyndication.msn.com/delivery/getads.js",
+    "||bat.bing.com^$3p",
+    "||bat.r.msn.com^$3p",
+    "||flex.msn.com/mstag/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "GA Audiences",
+  "category": "site_analytics",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||google.com/ads/ga-audiences"
+  ]
+}

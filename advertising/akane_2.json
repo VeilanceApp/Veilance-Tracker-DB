@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AkaNe",
+  "category": "advertising",
+  "organization": "akane",
+  "domains": [
+    "adn-d.sp.gmossp-sp.jp"
+  ],
+  "filters": [
+    "||adn-d.sp.gmossp-sp.jp/rt/beacon.gif"
+  ]
+}

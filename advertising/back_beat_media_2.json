@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Back Beat Media",
+  "category": "advertising",
+  "website_url": "http://www.backbeatmedia.com",
+  "organization": "backbeat_media",
+  "domains": [
+    "backbeatmedia.com"
+  ],
+  "filters": [
+    "||backbeatmedia.com^$3p"
+  ]
+}

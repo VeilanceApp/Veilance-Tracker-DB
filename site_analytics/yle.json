@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "YLE",
+  "category": "site_analytics",
+  "organization": "yle",
+  "domains": [
+    "analytics-sdk.yle.fi"
+  ],
+  "filters": [
+    "||analytics-sdk.yle.fi/yle-analytics.min.js"
+  ]
+}

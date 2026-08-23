@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Burst Media",
+  "category": "advertising",
+  "website_url": "http://www.burstmedia.com/",
+  "organization": "nexxen",
+  "domains": [
+    "burstbeacon.com",
+    "burstnet.com"
+  ],
+  "filters": [
+    "||burstbeacon.com^$3p",
+    "||burstnet.com^$3p"
+  ]
+}

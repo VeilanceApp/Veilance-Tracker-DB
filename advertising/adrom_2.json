@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "adRom",
+  "category": "advertising",
+  "website_url": "http://www.adrom.net/",
+  "domains": [
+    "adrom.net",
+    "txt.eu"
+  ],
+  "filters": []
+}

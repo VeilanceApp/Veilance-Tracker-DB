@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Lipscore",
+  "category": "customer_interaction",
+  "website_url": "https://lipscore.com/",
+  "organization": "lipscore",
+  "domains": [
+    "lipscore.com"
+  ],
+  "filters": [
+    "||lipscore.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "CIWebGroup",
+  "category": "advertising",
+  "organization": "ciwebgroup",
+  "domains": [
+    "ciweb.ciwebgroup.com"
+  ],
+  "filters": [
+    "||ciweb.ciwebgroup.com/assets/livesite.js"
+  ]
+}

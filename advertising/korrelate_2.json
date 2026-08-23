@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Korrelate",
+  "category": "advertising",
+  "website_url": "http://korrelate.com/",
+  "organization": "korrelate",
+  "domains": [
+    "cleanrm.net",
+    "korrelate.net"
+  ],
+  "filters": [
+    "||cleanrm.net^$3p",
+    "||korrelate.net^$3p"
+  ]
+}

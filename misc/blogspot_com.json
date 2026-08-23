@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "blogspot.com",
+  "category": "misc",
+  "organization": "google",
+  "domains": [
+    "blogblog.com",
+    "blogger.com",
+    "blogspot.com"
+  ],
+  "filters": []
+}

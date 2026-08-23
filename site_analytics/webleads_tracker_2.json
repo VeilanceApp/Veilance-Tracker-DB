@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Webleads Tracker",
+  "category": "site_analytics",
+  "website_url": "https://www.webleads-tracker.fr/",
+  "organization": "webleads_tracker",
+  "domains": [
+    "webleads-tracker.com"
+  ],
+  "filters": [
+    "||webleads-tracker.com^$3p"
+  ]
+}

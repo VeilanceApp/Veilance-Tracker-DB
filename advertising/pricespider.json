@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Pricespider",
+  "category": "advertising",
+  "organization": "price_spider",
+  "domains": [
+    "cdn.pricespider.com"
+  ],
+  "filters": [
+    "||cdn.pricespider.com/1/lib/ps-widget.js"
+  ]
+}

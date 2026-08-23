@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Magnetic",
+  "category": "advertising",
+  "website_url": "http://www.magnetic.is",
+  "organization": "magnetic",
+  "domains": [
+    "d3ezl4ajpp2zy8.cloudfront.net",
+    "domdex.com",
+    "domdex.net"
+  ],
+  "filters": [
+    "||d3ezl4ajpp2zy8.cloudfront.net^$3p",
+    "||domdex.com^$3p",
+    "||domdex.net^$3p"
+  ]
+}

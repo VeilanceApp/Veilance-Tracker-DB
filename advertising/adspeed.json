@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdSpeed",
+  "category": "advertising",
+  "website_url": "https://www.adspeed.com/",
+  "organization": "adspeed",
+  "domains": [
+    "adspeed.com",
+    "adspeed.net"
+  ],
+  "filters": [
+    "||adspeed.com/ad.php",
+    "||adspeed.net/ad.php"
+  ]
+}

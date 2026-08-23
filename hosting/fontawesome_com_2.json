@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "fontawesome.com",
+  "category": "hosting",
+  "website_url": "https://fontawesome.com/",
+  "domains": [
+    "fontawesome.com"
+  ],
+  "filters": []
+}

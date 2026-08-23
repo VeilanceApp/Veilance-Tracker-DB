@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Pixalate",
+  "category": "advertising",
+  "organization": "pixalate",
+  "domains": [
+    "adrta.com"
+  ],
+  "filters": [
+    "||adrta.com^$3p"
+  ]
+}

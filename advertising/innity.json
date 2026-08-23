@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Innity",
+  "category": "advertising",
+  "website_url": "https://www.innity.com/",
+  "organization": "innity",
+  "domains": [
+    "innity.com",
+    "innity.net"
+  ],
+  "filters": [
+    "||innity.com^$3p",
+    "||innity.net^$3p"
+  ]
+}

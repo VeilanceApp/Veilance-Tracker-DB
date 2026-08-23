@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Geovisite",
+  "category": "site_analytics",
+  "website_url": "http://www.geovisite.com/",
+  "organization": "geovisite",
+  "domains": [
+    "geovisite.com"
+  ],
+  "filters": [
+    "||geovisite.com^$3p"
+  ]
+}

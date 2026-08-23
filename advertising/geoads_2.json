@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GeoAds",
+  "category": "advertising",
+  "website_url": "http://www.geoads.com",
+  "organization": "geoads",
+  "domains": [
+    "js.geoads.com"
+  ],
+  "filters": [
+    "||js.geoads.com^$3p"
+  ]
+}

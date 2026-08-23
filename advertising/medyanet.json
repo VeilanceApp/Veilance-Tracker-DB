@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "MedyaNet",
+  "category": "advertising",
+  "website_url": "http://www.medyanet.com.tr/",
+  "organization": "medyanet",
+  "domains": [
+    "adnet.com.tr",
+    "e-kolay.net",
+    "medyanetads.com"
+  ],
+  "filters": [
+    "||e-kolay.net^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Kavanga",
+  "category": "advertising",
+  "website_url": "http://kavanga.ru/",
+  "organization": "kavanga",
+  "domains": [
+    "kavanga.ru"
+  ],
+  "filters": [
+    "||kavanga.ru^$3p"
+  ]
+}

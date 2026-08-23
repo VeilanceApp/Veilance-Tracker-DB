@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Skyscanner CDN",
+  "category": "hosting",
+  "website_url": "https://www.skyscanner.net/",
+  "organization": "trip_com",
+  "domains": [
+    "skyscnr.com"
+  ],
+  "filters": []
+}

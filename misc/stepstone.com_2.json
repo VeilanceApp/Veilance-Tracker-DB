@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "StepStone",
+  "category": "misc",
+  "website_url": "https://www.stepstone.com/",
+  "domains": [
+    "stepstone.com"
+  ],
+  "filters": []
+}

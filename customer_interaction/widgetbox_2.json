@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "WidgetBox",
+  "category": "customer_interaction",
+  "website_url": "https://www.widgetbox.com/",
+  "organization": "widgetbox",
+  "domains": [
+    "widgetserver.com"
+  ],
+  "filters": [
+    "||widgetserver.com/syndication/subscriber"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CQ Counter",
+  "category": "site_analytics",
+  "website_url": "http://www.cqcounter.com/",
+  "organization": "cq_counter",
+  "domains": [
+    "cqcounter.com"
+  ],
+  "filters": [
+    "||cqcounter.com/cgi-bin/c"
+  ]
+}

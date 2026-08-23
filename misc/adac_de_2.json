@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "adac.de",
+  "category": "misc",
+  "website_url": "https://adac.de/",
+  "domains": [
+    "adac.de"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CPMStar",
+  "category": "advertising",
+  "website_url": "http://www.cpmstar.com",
+  "organization": "cpmstar",
+  "domains": [
+    "cpmstar.com"
+  ],
+  "filters": [
+    "||cpmstar.com^$3p"
+  ]
+}

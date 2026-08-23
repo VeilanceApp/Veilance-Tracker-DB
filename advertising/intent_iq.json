@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Intent IQ",
+  "category": "advertising",
+  "website_url": "http://datonics.com/",
+  "organization": "almondnet",
+  "domains": [
+    "intentiq.com"
+  ],
+  "filters": [
+    "||intentiq.com^$3p"
+  ]
+}

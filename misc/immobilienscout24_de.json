@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "immobilienscout24.de",
+  "category": "misc",
+  "organization": "scout24",
+  "domains": [
+    "immobilienscout24.de",
+    "static-immobilienscout24.de"
+  ],
+  "filters": []
+}

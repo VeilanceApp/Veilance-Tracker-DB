@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ReaderBoard",
+  "category": "social_media",
+  "website_url": "http://www.readrboard.com",
+  "organization": "centre_phi",
+  "domains": [
+    "readrboard.com"
+  ],
+  "filters": [
+    "||readrboard.com^$3p"
+  ]
+}

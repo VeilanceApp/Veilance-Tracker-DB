@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "New Relic",
+  "category": "site_analytics",
+  "website_url": "https://newrelic.com/",
+  "organization": "new_relic",
+  "domains": [
+    "d1ros97qkrwjf5.cloudfront.net",
+    "newrelic.com",
+    "nr-data.net"
+  ],
+  "filters": [
+    "||d1ros97qkrwjf5.cloudfront.net^$3p",
+    "||js-agent.newrelic.com/nr",
+    "||js-agent.newrelic.com/nr-1026.min.js",
+    "||newrelic.com^$3p",
+    "||nr-data.net^$3p",
+    "||pm.newrelic.com/javascripts/remote_forgery_protection.js"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "onet",
+  "category": "misc",
+  "website_url": "https://www.onet.pl/",
+  "domains": [
+    "ocdn.eu",
+    "onet.pl"
+  ],
+  "filters": []
+}

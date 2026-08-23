@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "ORC International",
+  "category": "advertising",
+  "website_url": "https://orcinternational.com/",
+  "organization": "engine_group",
+  "domains": [
+    "emxdgt.com"
+  ],
+  "filters": []
+}

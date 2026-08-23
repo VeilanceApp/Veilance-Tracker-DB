@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Be Opinion",
+  "category": "customer_interaction",
+  "organization": "be_opinion",
+  "domains": [
+    "beopinion.com"
+  ],
+  "filters": [
+    "||data.beopinion.com/serve",
+    "||t.beopinion.com^$3p",
+    "||widget.beopinion.com/sdk-2.0.0.js"
+  ]
+}

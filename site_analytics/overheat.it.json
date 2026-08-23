@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "overheat",
+  "category": "site_analytics",
+  "website_url": "https://overheat.io/",
+  "domains": [
+    "overheat.it"
+  ],
+  "filters": []
+}

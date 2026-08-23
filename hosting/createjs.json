@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "CreateJS",
+  "category": "hosting",
+  "website_url": "https://createjs.com/",
+  "domains": [
+    "createjs.com"
+  ],
+  "filters": []
+}

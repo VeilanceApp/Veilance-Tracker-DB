@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tiller",
+  "category": "advertising",
+  "organization": "tiller",
+  "domains": [
+    "optimized.by.tiller.co"
+  ],
+  "filters": [
+    "||optimized.by.tiller.co^$3p",
+    "||optimizedby.tiller.co/global.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Press+",
+  "category": "advertising",
+  "website_url": "https://www.mypressplus.com/",
+  "organization": "press+",
+  "domains": [
+    "ppjol.com",
+    "ppjol.net"
+  ],
+  "filters": [
+    "||ppjol.com^$3p",
+    "||ppjol.net^$3p"
+  ]
+}

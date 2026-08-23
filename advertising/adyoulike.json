@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "Adyoulike",
+  "category": "advertising",
+  "website_url": "https://www.adyoulike.com/",
+  "organization": "adyoulike",
+  "domains": [
+    "adyoulike.com",
+    "omnitagjs.com"
+  ],
+  "filters": [
+    "||adyoulike.com^$3p",
+    "||adyoulike.omnitagjs.com^$3p",
+    "||fo-api.omnitagjs.com/fo-api/omnitag",
+    "||fo-static.omnitagjs.com/fo-static/build/*.chunk.js^$3p",
+    "||tracking.omnitagjs.com/tracking/pixel"
+  ]
+}

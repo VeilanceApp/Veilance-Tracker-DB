@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "HeyBubble",
+  "category": "customer_interaction",
+  "website_url": "https://www.heybubble.com/",
+  "organization": "heybubble",
+  "domains": [
+    "heybubble.com"
+  ],
+  "filters": [
+    "||heybubble.com/vchat/content/",
+    "||heybubble.com/vchat/frame/"
+  ]
+}

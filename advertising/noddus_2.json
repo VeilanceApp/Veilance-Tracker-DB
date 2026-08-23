@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Noddus",
+  "category": "advertising",
+  "organization": "noddus",
+  "domains": [
+    "track.noddus.com"
+  ],
+  "filters": [
+    "||noddus.com/javascripts/loader.js",
+    "||track.noddus.com/_pix.gif"
+  ]
+}

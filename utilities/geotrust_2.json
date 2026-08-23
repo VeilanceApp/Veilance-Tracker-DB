@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "GeoTrust",
+  "category": "utilities",
+  "website_url": "https://www.geotrust.com/",
+  "organization": "symantec",
+  "domains": [
+    "geotrust.com"
+  ],
+  "filters": [
+    "||seal.geotrust.com^$3p",
+    "||smarticon.geotrust.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Post Affiliate Pro",
+  "category": "advertising",
+  "website_url": "https://www.qualityunit.com/",
+  "organization": "qualityunit",
+  "domains": [
+    "postaffiliatepro.com"
+  ],
+  "filters": [
+    "||postaffiliatepro.com^$3p"
+  ]
+}

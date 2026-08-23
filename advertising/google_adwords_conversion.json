@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Google AdWords Conversion",
+  "category": "advertising",
+  "website_url": "https://adwords.google.com/",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||www.googleadservices.com/pagead/conversion"
+  ]
+}

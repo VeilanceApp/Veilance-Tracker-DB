@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "advmaker.ru",
+  "category": "advertising",
+  "website_url": "http://advmaker.ru/",
+  "organization": "advmaker.ru",
+  "domains": [
+    "am10.ru",
+    "am15.net"
+  ],
+  "filters": [
+    "||am10.ru^$3p",
+    "||am15.net^$3p"
+  ]
+}

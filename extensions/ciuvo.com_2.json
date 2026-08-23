@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ciuvo.com",
+  "category": "extensions",
+  "website_url": "https://www.ciuvo.com/",
+  "domains": [
+    "ciuvo.com"
+  ],
+  "filters": []
+}

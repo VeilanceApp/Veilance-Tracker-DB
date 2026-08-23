@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Bilgin Pro",
+  "category": "advertising",
+  "organization": "bilginpro",
+  "domains": [
+    "ad-cdn.bilgin.pro"
+  ],
+  "filters": [
+    "||ad-cdn.bilgin.pro/app/ad-2.0.1.js",
+    "||ad-cdn.bilgin.pro/app/ad.min.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Slice Factory",
+  "category": "customer_interaction",
+  "website_url": "https://www.slicefactory.com/",
+  "organization": "slice_factory",
+  "domains": [
+    "builder.extensionfactory.com"
+  ],
+  "filters": [
+    "||builder.extensionfactory.com^$3p"
+  ]
+}

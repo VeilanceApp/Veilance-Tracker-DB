@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MediaShift",
+  "category": "advertising",
+  "website_url": "https://www.mediashift.com/",
+  "organization": "mediashift",
+  "domains": [
+    "adsvc1107131.net"
+  ],
+  "filters": [
+    "||adsvc1107131.net^$3p"
+  ]
+}

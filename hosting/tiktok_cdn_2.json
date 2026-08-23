@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "TikTok CDN",
+  "category": "hosting",
+  "website_url": "https://www.tiktok.com/",
+  "organization": "bytedance_inc",
+  "domains": [
+    "tiktokcdn.com",
+    "tiktokcdn-eu.com",
+    "ttwstatic.com",
+    "tiktokv.com",
+    "tiktokv.eu"
+  ],
+  "filters": [
+    "ads*.tiktokcdn.com^"
+  ]
+}

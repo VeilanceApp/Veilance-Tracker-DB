@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Alliance",
+  "category": "advertising",
+  "website_url": "https://www.ad-alliance.de/",
+  "domains": [
+    "adalliance.io"
+  ],
+  "filters": []
+}

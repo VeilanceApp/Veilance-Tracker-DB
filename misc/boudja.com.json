@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "boudja.com",
+  "category": "misc",
+  "domains": [
+    "boudja.com"
+  ],
+  "filters": []
+}

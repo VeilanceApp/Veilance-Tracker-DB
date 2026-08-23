@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Permutive",
+  "category": "advertising",
+  "website_url": "https://permutive.com/",
+  "organization": "permutive",
+  "domains": [
+    "permutive.com",
+    "permutive.app"
+  ],
+  "filters": [
+    "||api.permutive.com^$3p"
+  ]
+}

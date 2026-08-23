@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fonecta",
+  "category": "customer_interaction",
+  "website_url": "https://www.fonecta.com/",
+  "organization": "fonecta",
+  "domains": [
+    "kavijaseuranta.fi"
+  ],
+  "filters": [
+    "||kavijaseuranta.fi^$3p"
+  ]
+}

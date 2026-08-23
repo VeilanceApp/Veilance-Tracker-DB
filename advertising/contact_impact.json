@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Contact Impact",
+  "category": "advertising",
+  "website_url": "https://www.contactimpact.de/",
+  "organization": "axel_springer",
+  "domains": [
+    "adrolays.de",
+    "c-i.as",
+    "df-srv.de"
+  ],
+  "filters": [
+    "||adrolays.de^$3p",
+    "||df-srv.de^$3p"
+  ]
+}

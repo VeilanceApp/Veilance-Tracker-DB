@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CoreMotives",
+  "category": "advertising",
+  "website_url": "http://coremotives.com/",
+  "organization": "coremotives",
+  "domains": [
+    "coremotives.com"
+  ],
+  "filters": [
+    "||coremotives.com^$3p"
+  ]
+}

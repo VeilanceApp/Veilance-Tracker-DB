@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "LKQD",
+  "category": "advertising",
+  "website_url": "http://www.lkqd.com/",
+  "organization": "nexstar",
+  "domains": [
+    "lkqd.net"
+  ],
+  "filters": [
+    "||ad.lkqd.net/vpaid/vpaid.js",
+    "||ad.lkqd.net^$3p",
+    "||v.lkqd.net/ad"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "appTV",
+  "category": "advertising",
+  "website_url": "http://www.apptv.com/",
+  "organization": "apptv",
+  "domains": [
+    "adne.tv",
+    "readserver.net"
+  ],
+  "filters": [
+    "||adne.tv^$3p",
+    "||readserver.net^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Bankrate",
+  "category": "advertising",
+  "organization": "bankrate",
+  "domains": [
+    "widgets.bankrate.com"
+  ],
+  "filters": [
+    "||widgets.bankrate.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AFS Analystics",
+  "category": "site_analytics",
+  "organization": "afs_analytics",
+  "domains": [
+    "afsanalytics.com"
+  ],
+  "filters": [
+    "||afsanalytics.com/cgi-bin/afstracka.cg"
+  ]
+}

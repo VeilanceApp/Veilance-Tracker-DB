@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Goooal",
+  "category": "site_analytics",
+  "website_url": "https://mailchimp.com/",
+  "organization": "mailchimp",
+  "domains": [
+    "gooal.herokuapp.com",
+    "gooo.al"
+  ],
+  "filters": [
+    "||gooal.herokuapp.com^$3p",
+    "||gooo.al^$3p"
+  ]
+}

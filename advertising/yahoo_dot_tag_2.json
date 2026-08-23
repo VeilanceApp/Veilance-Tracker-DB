@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Yahoo! DOT tag",
+  "category": "advertising",
+  "organization": "yahoo",
+  "domains": [],
+  "filters": [
+    "||s.yimg.com/wi/ytc.js"
+  ]
+}

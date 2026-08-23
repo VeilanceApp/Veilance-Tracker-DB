@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Keycdn",
+  "category": "hosting",
+  "website_url": "https://www.keycdn.com/",
+  "domains": [
+    "kxcdn.com"
+  ],
+  "filters": []
+}

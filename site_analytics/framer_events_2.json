@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Framer Events",
+  "category": "site_analytics",
+  "website_url": "https://www.framer.com/help/articles/how-to-track-custom-events-in-framer/",
+  "organization": "framer",
+  "domains": [
+    "events.framer.com"
+  ],
+  "filters": [
+    "||events.framer.com/script^$3p",
+    "||events.framer.com/track^$3p",
+    "||events.framer.com/anonymous^$3p"
+  ]
+}

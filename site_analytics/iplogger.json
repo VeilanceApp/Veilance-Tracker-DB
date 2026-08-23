@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "IPLogger",
+  "category": "site_analytics",
+  "website_url": "http://iplogger.ru/",
+  "organization": "iplogger",
+  "domains": [
+    "iplogger.ru"
+  ],
+  "filters": [
+    "||iplogger.ru^$3p"
+  ]
+}

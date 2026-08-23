@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "RadarURL",
+  "category": "site_analytics",
+  "website_url": "http://radarurl.com/",
+  "organization": "radarurl",
+  "domains": [
+    "radarurl.com"
+  ],
+  "filters": [
+    "||radarurl.com^$3p"
+  ]
+}

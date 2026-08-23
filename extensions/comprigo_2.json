@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "comprigo",
+  "category": "extensions",
+  "website_url": "https://www.comprigo.com/",
+  "domains": [
+    "comprigo.com"
+  ],
+  "filters": []
+}

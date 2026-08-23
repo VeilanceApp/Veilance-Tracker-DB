@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "ID5 Sync",
+  "category": "advertising",
+  "website_url": "https://id5.io/",
+  "organization": "id5_technology_ltd",
+  "domains": [
+    "id5-sync.com",
+    "eu-1-id5-sync.com",
+    "eu-2-id5-sync.com",
+    "eu-3-id5-sync.com",
+    "eu-4-id5-sync.com"
+  ],
+  "filters": [
+    "||id5-sync.com^$3p",
+    "||eu-1-id5-sync.com^3p"
+  ]
+}

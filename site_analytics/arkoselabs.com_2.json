@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Arkose Labs",
+  "category": "site_analytics",
+  "website_url": "https://www.arkoselabs.com/",
+  "domains": [
+    "arkoselabs.com"
+  ],
+  "filters": []
+}

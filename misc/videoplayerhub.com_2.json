@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "videoplayerhub.com",
+  "category": "misc",
+  "domains": [
+    "videoplayerhub.com"
+  ],
+  "filters": []
+}

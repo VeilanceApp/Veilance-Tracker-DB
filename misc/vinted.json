@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Vinted",
+  "category": "misc",
+  "website_url": "https://www.vinted.com/",
+  "domains": [
+    "vinted.net"
+  ],
+  "filters": []
+}

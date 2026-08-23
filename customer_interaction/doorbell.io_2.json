@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Doorbell.io",
+  "category": "customer_interaction",
+  "website_url": "https://doorbell.io/",
+  "organization": "doorbell.io",
+  "domains": [
+    "embed.doorbell.io"
+  ],
+  "filters": [
+    "||embed.doorbell.io/button"
+  ]
+}

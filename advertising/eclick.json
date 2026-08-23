@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "eClick",
+  "category": "advertising",
+  "website_url": "https://eclick.vn/",
+  "organization": "eclick",
+  "domains": [
+    "eclick.vn"
+  ],
+  "filters": [
+    "||eclick.vn^$3p"
+  ]
+}

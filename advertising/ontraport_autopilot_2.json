@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Ontraport Autopilot",
+  "category": "advertising",
+  "website_url": "http://www.moon-ray.com/",
+  "organization": "ontraport",
+  "domains": [
+    "moon-ray.com",
+    "moonraymarketing.com"
+  ],
+  "filters": [
+    "||moon-ray.com^$3p",
+    "||moonraymarketing.com/tracking.js"
+  ]
+}

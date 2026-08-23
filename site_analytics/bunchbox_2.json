@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Bunchbox",
+  "category": "site_analytics",
+  "organization": "bunchbox",
+  "domains": [
+    "bunchbox.co"
+  ],
+  "filters": [
+    "||core.bunchbox.co/*.min.js^$3p",
+    "||core.bunchbox.co/geo.js"
+  ]
+}

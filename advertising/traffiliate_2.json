@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Traffiliate",
+  "category": "advertising",
+  "website_url": "https://www.traffiliate.com/",
+  "organization": "dsnr_media_group",
+  "domains": [
+    "traffiliate.com"
+  ],
+  "filters": [
+    "||traffiliate.com^$3p"
+  ]
+}

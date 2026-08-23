@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft adCenter Conversion",
+  "category": "advertising",
+  "website_url": "https://adcenter.microsoft.com/",
+  "organization": "microsoft",
+  "domains": [],
+  "filters": [
+    "||r.msn.com/scripts/microsoft_adcenterconversion.js"
+  ]
+}

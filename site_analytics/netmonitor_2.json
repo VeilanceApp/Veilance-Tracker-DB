@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "NetMonitor",
+  "category": "site_analytics",
+  "website_url": "https://www.netmanager.net/en/",
+  "organization": "netmonitor",
+  "domains": [
+    "stat.netmonitor.fi"
+  ],
+  "filters": [
+    "||stat.netmonitor.fi/js/"
+  ]
+}

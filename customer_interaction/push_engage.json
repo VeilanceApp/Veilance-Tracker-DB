@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Push Engage",
+  "category": "customer_interaction",
+  "organization": "push_engage",
+  "domains": [
+    "pushengage.com"
+  ],
+  "filters": [
+    "||pushengage.com^$3p"
+  ]
+}

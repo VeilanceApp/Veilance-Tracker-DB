@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Rovion",
+  "category": "advertising",
+  "website_url": "http://www.rovion.com/",
+  "organization": "rovion",
+  "domains": [
+    "rovion.com"
+  ],
+  "filters": [
+    "||rovion.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PunchTab",
+  "category": "advertising",
+  "website_url": "http://www.punchtab.com/",
+  "organization": "punchtab",
+  "domains": [
+    "punchtab.com"
+  ],
+  "filters": [
+    "||punchtab.com^$3p"
+  ]
+}

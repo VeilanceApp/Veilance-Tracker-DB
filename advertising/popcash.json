@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Popcash",
+  "category": "advertising",
+  "website_url": "https://popcash.net/",
+  "organization": "popcash_network",
+  "domains": [
+    "popcash.net"
+  ],
+  "filters": [
+    "||popcash.net^$3p"
+  ]
+}

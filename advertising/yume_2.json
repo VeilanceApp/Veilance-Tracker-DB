@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "YuMe",
+  "category": "advertising",
+  "organization": "yume",
+  "domains": [
+    "yume.com"
+  ],
+  "filters": []
+}

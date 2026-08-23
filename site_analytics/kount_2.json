@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Kount",
+  "category": "site_analytics",
+  "website_url": "https://kount.com/",
+  "domains": [
+    "kaptcha.com"
+  ],
+  "filters": []
+}

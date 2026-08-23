@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Accuen Media",
+  "category": "advertising",
+  "website_url": "http://www.accuenmedia.com/",
+  "organization": "accuen_media",
+  "domains": [
+    "p-td.com"
+  ],
+  "filters": [
+    "||p-td.com^$3p"
+  ]
+}

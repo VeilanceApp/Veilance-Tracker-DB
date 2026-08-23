@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Netbiscuits",
+  "category": "site_analytics",
+  "website_url": "http://www.netbiscuits.net/",
+  "organization": "netbiscuits",
+  "domains": [
+    "netbiscuits.net"
+  ],
+  "filters": [
+    "||netbiscuits.net^$3p"
+  ]
+}

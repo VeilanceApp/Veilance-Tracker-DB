@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Publicidad.net",
+  "category": "advertising",
+  "website_url": "http://www.en.publicidad.net/",
+  "organization": "publicidad.net",
+  "domains": [
+    "publicidad.net"
+  ],
+  "filters": [
+    "||publicidad.net^$3p"
+  ]
+}

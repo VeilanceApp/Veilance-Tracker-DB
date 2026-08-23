@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Wayfair",
+  "category": "misc",
+  "website_url": "https://www.wayfair.com/",
+  "domains": [
+    "wayfair.com"
+  ],
+  "filters": []
+}

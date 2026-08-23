@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tedemis",
+  "category": "advertising",
+  "website_url": "http://www.tedemis.com",
+  "organization": "tedemis",
+  "domains": [
+    "emailretargeting.com"
+  ],
+  "filters": [
+    "||emailretargeting.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Carambola",
+  "category": "advertising",
+  "organization": "carambola",
+  "domains": [
+    "route.carambo.la"
+  ],
+  "filters": [
+    "||route.carambo.la/inimage/getlayer"
+  ]
+}

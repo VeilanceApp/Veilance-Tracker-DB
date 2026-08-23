@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Pulse360",
+  "category": "advertising",
+  "website_url": "http://www.pulse360.com",
+  "organization": "pulse360",
+  "domains": [
+    "pulse360.com"
+  ],
+  "filters": [
+    "||content.pulse360.com^$3p",
+    "||track.pulse360.com^$3p"
+  ]
+}

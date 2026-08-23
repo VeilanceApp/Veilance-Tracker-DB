@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "SimpleReach",
+  "category": "site_analytics",
+  "website_url": "https://www.nativo.com/simplereach",
+  "organization": "nativo",
+  "domains": [
+    "d8rk54i4mohrb.cloudfront.net",
+    "simplereach.com"
+  ],
+  "filters": [
+    "||d8rk54i4mohrb.cloudfront.net^$3p",
+    "||simplereach.com^$3p"
+  ]
+}

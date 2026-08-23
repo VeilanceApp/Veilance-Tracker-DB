@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "ShopRunner",
+  "category": "customer_interaction",
+  "website_url": "https://www.shoprunner.com",
+  "organization": "shoprunner",
+  "domains": [
+    "shoprunner.com"
+  ],
+  "filters": [
+    "||shoprunner.com^$3p",
+    "||sra.s-9.us^$3p"
+  ]
+}

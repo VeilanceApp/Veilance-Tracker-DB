@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "velocecdn.com",
+  "category": "misc",
+  "domains": [
+    "velocecdn.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Bili CDN",
+  "category": "hosting",
+  "organization": "bilibili",
+  "domains": [
+    "hdslb.com",
+    "bilicdn2.com"
+  ],
+  "filters": []
+}

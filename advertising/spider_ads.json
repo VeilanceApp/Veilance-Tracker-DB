@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Spider Ads",
+  "category": "advertising",
+  "organization": "spiderads",
+  "domains": [
+    "metrics.spiderads.eu"
+  ],
+  "filters": [
+    "||metrics.spiderads.eu^$3p"
+  ]
+}

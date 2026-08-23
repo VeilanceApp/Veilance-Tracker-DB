@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AccessTrade",
+  "category": "advertising",
+  "website_url": "https://www.accesstrade.global/",
+  "organization": "accesstrade",
+  "domains": [
+    "accesstrade.net"
+  ],
+  "filters": [
+    "||accesstrade.net^$3p"
+  ]
+}

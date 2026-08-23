@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "SmartClip",
+  "category": "advertising",
+  "organization": "smartclip",
+  "domains": [
+    "smartclip.net"
+  ],
+  "filters": [
+    "||ad.sxp.smartclip.net^$3p"
+  ]
+}

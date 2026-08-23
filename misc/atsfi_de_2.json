@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "atsfi.de",
+  "category": "misc",
+  "organization": "axel_springer",
+  "domains": [
+    "atsfi.de"
+  ],
+  "filters": []
+}

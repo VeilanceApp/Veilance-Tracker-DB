@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Dropbox",
+  "category": "customer_interaction",
+  "website_url": "https://www.dropbox.com/",
+  "domains": [
+    "dropbox.com",
+    "dropboxstatic.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adinch",
+  "category": "advertising",
+  "website_url": "http://adinch.com/",
+  "organization": "adinch",
+  "domains": [
+    "adinch.com"
+  ],
+  "filters": [
+    "||adinch.com^$3p"
+  ]
+}

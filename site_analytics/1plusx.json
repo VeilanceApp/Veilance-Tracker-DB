@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "1plusX",
+  "category": "site_analytics",
+  "website_url": "https://www.1plusx.com/",
+  "organization": "1plusx",
+  "domains": [
+    "opecloud.com"
+  ],
+  "filters": []
+}

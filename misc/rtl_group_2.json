@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "RTL Group",
+  "category": "misc",
+  "organization": "rtl_group",
+  "domains": [
+    "rtl.de",
+    "static-fra.de",
+    "technical-service.net"
+  ],
+  "filters": []
+}

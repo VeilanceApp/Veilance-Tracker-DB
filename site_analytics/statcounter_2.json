@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Statcounter",
+  "category": "site_analytics",
+  "website_url": "https://www.statcounter.com/",
+  "organization": "statcounter",
+  "domains": [
+    "statcounter.com"
+  ],
+  "filters": [
+    "||statcounter.com^$3p"
+  ]
+}

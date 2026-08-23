@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Cliplister",
+  "category": "customer_interaction",
+  "website_url": "https://www.cliplister.com/",
+  "domains": [
+    "mycliplister.com"
+  ],
+  "filters": []
+}

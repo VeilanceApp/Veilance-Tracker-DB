@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "adk2",
+  "category": "advertising",
+  "website_url": "http://www.adk2.com/",
+  "organization": "adk2_plymedia",
+  "domains": [
+    "adk2.com",
+    "cdn.adsrvmedia.com",
+    "cdn.cdnrl.com"
+  ],
+  "filters": [
+    "||adk2.com^$3p",
+    "||cdn.adsrvmedia.com^$3p",
+    "||cdn.cdnrl.com^$3p"
+  ]
+}

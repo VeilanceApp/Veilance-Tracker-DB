@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "LinkSmart",
+  "category": "advertising",
+  "website_url": "http://www.linksmart.com/",
+  "organization": "sovrn",
+  "domains": [
+    "erovinmo.com",
+    "linksmart.com"
+  ],
+  "filters": [
+    "||erovinmo.com^$3p",
+    "||linksmart.com^$3p"
+  ]
+}

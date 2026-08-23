@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ubersetzung-app.com",
+  "category": "extensions",
+  "website_url": "https://www.ubersetzung-app.com/",
+  "domains": [
+    "ubersetzung-app.com"
+  ],
+  "filters": []
+}

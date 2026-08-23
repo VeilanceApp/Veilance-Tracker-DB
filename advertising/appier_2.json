@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Appier",
+  "category": "advertising",
+  "organization": "appier",
+  "domains": [
+    "jscdn.appier.net"
+  ],
+  "filters": [
+    "||jscdn.appier.net/aa.js"
+  ]
+}

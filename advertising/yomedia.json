@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Yomedia",
+  "category": "advertising",
+  "organization": "yomedia",
+  "domains": [
+    "delivery.yomedia.vn"
+  ],
+  "filters": [
+    "||delivery.yomedia.vn/vast"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "adbetnet",
+  "category": "advertising",
+  "website_url": "https://adbetnet.com/",
+  "domains": [
+    "adbetnet.com"
+  ],
+  "filters": []
+}

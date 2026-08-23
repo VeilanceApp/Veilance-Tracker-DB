@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ADventori",
+  "category": "misc",
+  "organization": "adventori",
+  "domains": [
+    "adventori.com"
+  ],
+  "filters": []
+}

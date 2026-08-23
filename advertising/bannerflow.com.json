@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Bannerflow",
+  "category": "advertising",
+  "website_url": "https://www.bannerflow.com/",
+  "organization": "bannerflow",
+  "domains": [
+    "bannerflow.com"
+  ],
+  "filters": []
+}

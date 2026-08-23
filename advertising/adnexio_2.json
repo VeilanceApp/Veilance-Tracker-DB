@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdNexio",
+  "category": "advertising",
+  "organization": "adnexio",
+  "domains": [
+    "adserver.adnexio.com"
+  ],
+  "filters": [
+    "||adserver.adnexio.com/tracking/eventhandler"
+  ]
+}

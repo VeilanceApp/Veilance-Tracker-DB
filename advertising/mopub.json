@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MoPub",
+  "category": "advertising",
+  "website_url": "https://www.mopub.com/",
+  "organization": "twitter",
+  "domains": [
+    "mopub.com"
+  ],
+  "filters": [
+    "||ads.mopub.com^$3p"
+  ]
+}

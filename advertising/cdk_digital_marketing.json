@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CDK Digital Marketing",
+  "category": "advertising",
+  "website_url": "http://www.cobaltgroup.com",
+  "organization": "cdk_digital_marketing",
+  "domains": [
+    "admission.net"
+  ],
+  "filters": [
+    "||admission.net^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Giphy",
+  "category": "social_media",
+  "website_url": "https://giphy.com/",
+  "domains": [
+    "giphy.com"
+  ],
+  "filters": []
+}

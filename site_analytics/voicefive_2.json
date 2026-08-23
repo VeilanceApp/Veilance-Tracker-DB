@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VoiceFive",
+  "category": "site_analytics",
+  "website_url": "https://www.voicefive.com",
+  "organization": "comscore",
+  "domains": [
+    "voicefive.com"
+  ],
+  "filters": [
+    "||voicefive.com^$3p"
+  ]
+}

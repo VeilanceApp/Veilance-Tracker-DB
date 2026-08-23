@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "TubeMogul",
+  "category": "advertising",
+  "website_url": "https://tubemogul.com/",
+  "organization": "tubemogul",
+  "domains": [
+    "tubemogul.com"
+  ],
+  "filters": [
+    "||rtb.tubemogul.com^$3p",
+    "||rtd.tubemogul.com^$3p"
+  ]
+}

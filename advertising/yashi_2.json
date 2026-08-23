@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Yashi",
+  "category": "advertising",
+  "website_url": "http://www.yashi.com/",
+  "organization": "mass2",
+  "domains": [
+    "yashi.com"
+  ],
+  "filters": [
+    "||yashi.com^$3p"
+  ]
+}

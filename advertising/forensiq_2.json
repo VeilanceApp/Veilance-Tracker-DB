@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Forensiq",
+  "category": "advertising",
+  "website_url": "https://www.cpadetective.com/",
+  "organization": "impact",
+  "domains": [
+    "fqsecure.com",
+    "fqtag.com",
+    "securepaths.com"
+  ],
+  "filters": [
+    "||fqtag.com^$3p",
+    "||securepaths.com^$3p"
+  ]
+}

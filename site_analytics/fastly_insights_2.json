@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Fastly Insights",
+  "category": "site_analytics",
+  "website_url": "https://insights.fastlylabs.com/",
+  "organization": "fastly",
+  "domains": [
+    "fastly-insights.com"
+  ],
+  "filters": []
+}

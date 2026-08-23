@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "redtube.com",
+  "category": "hosting",
+  "domains": [
+    "rdtcdn.com",
+    "redtube.com"
+  ],
+  "filters": []
+}

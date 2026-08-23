@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Chatra",
+  "category": "customer_interaction",
+  "organization": "chatra",
+  "domains": [
+    "call.chatra.io"
+  ],
+  "filters": [
+    "||call.chatra.io/chatra.js"
+  ]
+}

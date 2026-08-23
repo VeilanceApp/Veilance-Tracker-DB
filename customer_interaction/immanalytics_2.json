@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Immanalytics",
+  "category": "customer_interaction",
+  "organization": "roku",
+  "domains": [
+    "immanalytics.com"
+  ],
+  "filters": [
+    "||immanalytics.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Lotustar",
+  "category": "customer_interaction",
+  "website_url": "https://www.vietnamairlines.com/vn/en/plan-book/experience/entertainment/lotustar",
+  "organization": "vietnam_airlines",
+  "domains": [
+    "lotustar.vietnamairlines.com"
+  ],
+  "filters": [
+    "||lotustar.vietnamairlines.com/ishtehaar^",
+    "||lotustar.vietnamairlines.com/content/anuvu/ishtehaar^",
+    "lotustar.vietnamairlines.com###ishtehaar-overlay"
+  ]
+}

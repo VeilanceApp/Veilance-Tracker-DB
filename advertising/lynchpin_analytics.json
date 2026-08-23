@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Lynchpin Analytics",
+  "category": "advertising",
+  "website_url": "https://www.lynchpin.com/",
+  "organization": "lynchpin_analytics",
+  "domains": [
+    "lypn.com",
+    "lypn.net"
+  ],
+  "filters": [
+    "||lypn.com/exp/",
+    "||lypn.com/lp/",
+    "||lypn.net^$3p"
+  ]
+}

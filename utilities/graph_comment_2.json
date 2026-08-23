@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Graph Comment",
+  "category": "utilities",
+  "website_url": "https://www.graphcomment.com/en",
+  "organization": "graph_comment",
+  "domains": [
+    "graphcomment.com"
+  ],
+  "filters": [
+    "||graphcomment.com/js/integration.js"
+  ]
+}

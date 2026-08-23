@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Jeuxvideo CDN",
+  "category": "hosting",
+  "website_url": "https://www.jeuxvideo.com/",
+  "domains": [
+    "jvc.gg"
+  ],
+  "filters": []
+}

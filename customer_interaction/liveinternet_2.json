@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LiveInternet",
+  "category": "customer_interaction",
+  "website_url": "http://www.liveinternet.ru/",
+  "organization": "liveinternet",
+  "domains": [
+    "yadro.ru"
+  ],
+  "filters": [
+    "||counter.yadro.ru^$3p"
+  ]
+}

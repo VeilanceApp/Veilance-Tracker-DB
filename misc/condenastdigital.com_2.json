@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Condé Nast Digital",
+  "category": "misc",
+  "website_url": "https://www.condenast.com/",
+  "organization": "conde_nast",
+  "domains": [
+    "condenast.com"
+  ],
+  "filters": [
+    "||4d.condenastdigital.com/user",
+    "||capture.condenastdigital.com/track",
+    "||pixel.condenastdigital.com/match",
+    "||pixel.condenastdigital.com/sparrow.min.js"
+  ]
+}

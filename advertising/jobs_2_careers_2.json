@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Jobs 2 Careers",
+  "category": "advertising",
+  "organization": "jobs_2_careers",
+  "domains": [
+    "jobs2careers.com"
+  ],
+  "filters": [
+    "||jobs2careers.com/conversion2.php"
+  ]
+}

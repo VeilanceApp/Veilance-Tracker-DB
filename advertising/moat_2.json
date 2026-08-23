@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Moat",
+  "category": "advertising",
+  "website_url": "http://www.moat.com/",
+  "organization": "oracle",
+  "domains": [
+    "moatads.com",
+    "moatpixel.com"
+  ],
+  "filters": [
+    "||moatads.com^$3p",
+    "||moatpixel.com^$3p"
+  ]
+}

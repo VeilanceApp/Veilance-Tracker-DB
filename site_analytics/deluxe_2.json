@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Deluxe",
+  "category": "site_analytics",
+  "organization": "deluxe",
+  "domains": [
+    "deluxe.script.ag"
+  ],
+  "filters": [
+    "||deluxe.script.ag/tag.js"
+  ]
+}

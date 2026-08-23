@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Optify",
+  "category": "advertising",
+  "website_url": "http://www.optify.net",
+  "organization": "optify",
+  "domains": [
+    "service.optify.net"
+  ],
+  "filters": [
+    "||service.optify.net^$3p"
+  ]
+}

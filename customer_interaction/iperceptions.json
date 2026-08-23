@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iPerceptions",
+  "category": "customer_interaction",
+  "website_url": "https://www.iperceptions.com/",
+  "organization": "iperceptions",
+  "domains": [
+    "iperceptions.com"
+  ],
+  "filters": [
+    "||iperceptions.com^$3p"
+  ]
+}

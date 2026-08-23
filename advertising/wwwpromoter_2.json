@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "WWWPromoter",
+  "category": "advertising",
+  "organization": "wwwpromoter",
+  "domains": [
+    "wwwpromoter.com"
+  ],
+  "filters": [
+    "||wwwpromoter.com^$3p"
+  ]
+}

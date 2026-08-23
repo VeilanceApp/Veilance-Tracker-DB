@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Kontextr",
+  "category": "advertising",
+  "organization": "kontext",
+  "domains": [
+    "ktxtr.com"
+  ],
+  "filters": [
+    "||s.ktxtr.com/kx.js"
+  ]
+}

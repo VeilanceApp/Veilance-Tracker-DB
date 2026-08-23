@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Search123",
+  "category": "advertising",
+  "website_url": "http://www.search123.com/",
+  "organization": "search123",
+  "domains": [
+    "search123.uk.com"
+  ],
+  "filters": [
+    "||search123.uk.com^$3p"
+  ]
+}

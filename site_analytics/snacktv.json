@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "SnackTV",
+  "category": "site_analytics",
+  "organization": "verizon",
+  "domains": [
+    "snacktv.de"
+  ],
+  "filters": [
+    "||events.snacktv.de/count.js",
+    "||monetizer.snacktv.de^$3p",
+    "||snacktv.de/snacktag/snacktag.js"
+  ]
+}

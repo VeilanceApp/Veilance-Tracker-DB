@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Net Communities",
+  "category": "advertising",
+  "website_url": "http://www.netcommunities.com/",
+  "organization": "net_communities",
+  "domains": [
+    "netcommunities.com"
+  ],
+  "filters": [
+    "||ad.netcommunities.com^$3p",
+    "||ads.netcommunities.com^$3p"
+  ]
+}

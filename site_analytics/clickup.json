@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickUp",
+  "category": "site_analytics",
+  "website_url": "https://clickup.com/",
+  "organization": "clickup",
+  "domains": [
+    "clickup.com"
+  ],
+  "filters": [
+    "||data.web.clickup.com/analytics.js/*$script"
+  ]
+}

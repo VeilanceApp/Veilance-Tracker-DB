@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Clickwinks",
+  "category": "advertising",
+  "website_url": "http://www.clickwinks.com/",
+  "organization": "clickwinks",
+  "domains": [
+    "clickwinks.com"
+  ],
+  "filters": [
+    "||clickwinks.com^$3p"
+  ]
+}

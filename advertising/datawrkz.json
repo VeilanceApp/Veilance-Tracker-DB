@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Datawrkz",
+  "category": "advertising",
+  "organization": "datawrkz",
+  "domains": [
+    "adunits.datawrkz.com"
+  ],
+  "filters": [
+    "||adunits.datawrkz.com/tms/data/placement/placement"
+  ]
+}

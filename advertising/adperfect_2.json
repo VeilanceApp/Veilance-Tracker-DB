@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdPerfect",
+  "category": "advertising",
+  "website_url": "https://www.adperfect.com/",
+  "organization": "adperfect",
+  "domains": [
+    "adperfect.com"
+  ],
+  "filters": [
+    "||adperfect.com^$3p"
+  ]
+}

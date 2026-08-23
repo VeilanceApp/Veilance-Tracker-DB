@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LifeStreet Media",
+  "category": "advertising",
+  "website_url": "http://lifestreetmedia.com/",
+  "organization": "lifestreet_media",
+  "domains": [
+    "lfstmedia.com"
+  ],
+  "filters": [
+    "||lfstmedia.com^$3p"
+  ]
+}

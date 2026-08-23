@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Median",
+  "category": "advertising",
+  "website_url": "http://median.hu",
+  "organization": "median",
+  "domains": [
+    "audit.median.hu"
+  ],
+  "filters": [
+    "||audit.median.hu^$3p"
+  ]
+}

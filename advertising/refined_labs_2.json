@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Refined Labs",
+  "category": "advertising",
+  "website_url": "http://www.refinedlabs.com",
+  "organization": "refined_labs",
+  "domains": [
+    "refinedads.com"
+  ],
+  "filters": [
+    "||refinedads.com^$3p"
+  ]
+}

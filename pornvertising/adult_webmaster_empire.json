@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Adult Webmaster Empire",
+  "category": "pornvertising",
+  "website_url": "https://www.awempire.com/",
+  "organization": "adult_webmaster_empire",
+  "domains": [
+    "awempire.com",
+    "dditscdn.com",
+    "livejasmin.com"
+  ],
+  "filters": [
+    "||awempire.com^$3p",
+    "||creatives.livejasmin.com^$3p"
+  ]
+}

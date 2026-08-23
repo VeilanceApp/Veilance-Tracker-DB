@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Logicad",
+  "category": "advertising",
+  "website_url": "https://www.logicad.com/",
+  "organization": "logicad",
+  "domains": [
+    "cd-ladsp-com.s3.amazonaws.com",
+    "ladmp.com",
+    "ladsp.com"
+  ],
+  "filters": [
+    "||cd-ladsp-com.s3.amazonaws.com^$3p",
+    "||ladmp.com^$3p",
+    "||ladsp.com^$3p"
+  ]
+}

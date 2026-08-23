@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "SphereUp",
+  "category": "customer_interaction",
+  "organization": "zoomd",
+  "domains": [
+    "zdwidget3-bs.sphereup.com"
+  ],
+  "filters": [
+    "||zdwidget3-bs.sphereup.com^$3p"
+  ]
+}

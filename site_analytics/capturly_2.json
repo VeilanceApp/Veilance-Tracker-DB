@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Capturly",
+  "category": "site_analytics",
+  "organization": "capturly",
+  "domains": [
+    "cdn.capturly.com"
+  ],
+  "filters": [
+    "||cdn.capturly.com/js/track.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ADJS",
+  "category": "advertising",
+  "organization": "adjs",
+  "domains": [
+    "cdn.adjs.net"
+  ],
+  "filters": [
+    "||api.adjs.net^$3p",
+    "||cdn.adjs.net^$3p"
+  ]
+}

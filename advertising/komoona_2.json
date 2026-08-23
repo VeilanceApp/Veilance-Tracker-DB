@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Komoona",
+  "category": "advertising",
+  "website_url": "http://www.komoona.com/",
+  "organization": "komoona",
+  "domains": [
+    "komoona.com"
+  ],
+  "filters": [
+    "||komoona.com^$3p"
+  ]
+}

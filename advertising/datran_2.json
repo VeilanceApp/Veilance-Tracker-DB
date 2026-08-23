@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pulsepoint",
+  "category": "advertising",
+  "website_url": "https://www.pulsepoint.com/",
+  "organization": "pulsepoint_ad_exchange",
+  "domains": [
+    "displaymarketplace.com"
+  ],
+  "filters": [
+    "||displaymarketplace.com^$3p"
+  ]
+}

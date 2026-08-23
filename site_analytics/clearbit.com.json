@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Clearbit",
+  "category": "site_analytics",
+  "website_url": "https://clearbit.com/",
+  "organization": "clearbit",
+  "domains": [
+    "clearbit.com",
+    "clearbitscripts.com",
+    "clearbitjs.com"
+  ],
+  "filters": []
+}

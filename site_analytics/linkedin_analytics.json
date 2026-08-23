@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "LinkedIn Analytics",
+  "category": "site_analytics",
+  "organization": "microsoft",
+  "domains": [
+    "snap.licdn.com"
+  ],
+  "filters": [
+    "||snap.licdn.com/li.lms-analytics/insight.min.js"
+  ]
+}

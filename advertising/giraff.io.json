@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Giraff.io",
+  "category": "advertising",
+  "website_url": "https://www.giraff.io/",
+  "domains": [
+    "giraff.io"
+  ],
+  "filters": []
+}

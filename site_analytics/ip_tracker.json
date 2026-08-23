@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "IP Tracker",
+  "category": "site_analytics",
+  "website_url": "https://www.ip-tracker.org/",
+  "organization": "ip_tracker",
+  "domains": [
+    "ip-tracker.org",
+    "iptrack.io"
+  ],
+  "filters": [
+    "||ip-tracker.org^$3p",
+    "||iptrack.io^$3p"
+  ]
+}

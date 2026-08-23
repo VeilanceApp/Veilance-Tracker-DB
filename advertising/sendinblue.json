@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "sendinblue",
+  "category": "advertising",
+  "organization": "sendinblue",
+  "domains": [
+    "sibautomation.com"
+  ],
+  "filters": [
+    "||sibautomation.com/sa.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ePrice",
+  "category": "advertising",
+  "website_url": "http://banzaiadv.it/",
+  "organization": "eprice",
+  "domains": [
+    "banzaiadv.it"
+  ],
+  "filters": [
+    "||banzaiadv.it^$3p"
+  ]
+}

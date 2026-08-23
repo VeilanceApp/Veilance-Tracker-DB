@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "IVC Brasil",
+  "category": "site_analytics",
+  "website_url": "https://ivcbrasil.org.br/#/home",
+  "domains": [
+    "ivcbrasil.org.br"
+  ],
+  "filters": []
+}

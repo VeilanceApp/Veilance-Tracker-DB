@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "mainADV",
+  "category": "advertising",
+  "website_url": "http://www.mainadv.com/",
+  "organization": "mainadv",
+  "domains": [
+    "mainadv.com"
+  ],
+  "filters": [
+    "||mainadv.com^$3p"
+  ]
+}

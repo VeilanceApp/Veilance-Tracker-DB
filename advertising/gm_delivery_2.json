@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "GM Delivery",
+  "category": "advertising",
+  "organization": "gm_delivery",
+  "domains": [
+    "a.gmdelivery.com"
+  ],
+  "filters": [
+    "||a.gmdelivery.com/script/main.js"
+  ]
+}

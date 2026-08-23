@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Fresh Relevance",
+  "category": "customer_interaction",
+  "website_url": "https://www.freshrelevance.com/",
+  "organization": "freshrelevance",
+  "domains": [
+    "am.freshrelevance.com"
+  ],
+  "filters": [
+    "||am.freshrelevance.com^"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Heatmap",
+  "category": "site_analytics",
+  "website_url": "https://heatmap.me/",
+  "organization": "heatmap",
+  "domains": [
+    "heatmap.it"
+  ],
+  "filters": [
+    "||l.heatmap.it^$3p",
+    "||u.heatmap.it^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PocketCents",
+  "category": "advertising",
+  "website_url": "http://pocketcents.com/",
+  "organization": "pocketcents",
+  "domains": [
+    "pocketcents.com"
+  ],
+  "filters": [
+    "||pocketcents.com^$3p"
+  ]
+}

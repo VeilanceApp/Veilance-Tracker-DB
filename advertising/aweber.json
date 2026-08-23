@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AWeber",
+  "category": "advertising",
+  "website_url": "https://www.aweber.com/",
+  "organization": "aweber_communications",
+  "domains": [
+    "aweber.com"
+  ],
+  "filters": [
+    "||aweber.com^$3p"
+  ]
+}

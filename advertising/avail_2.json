@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Avail",
+  "category": "advertising",
+  "website_url": "http://avail.com",
+  "organization": "richrelevance",
+  "domains": [
+    "avail.net"
+  ],
+  "filters": [
+    "||avail.net^$3p"
+  ]
+}

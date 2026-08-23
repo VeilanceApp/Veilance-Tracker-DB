@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Get Response",
+  "category": "customer_interaction",
+  "organization": "getresponse",
+  "domains": [
+    "app.getresponse.com"
+  ],
+  "filters": [
+    "||app.getresponse.com/javascripts/core/webforms/webform-out.js"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "AdChina",
+  "category": "advertising",
+  "website_url": "http://www.adchina.com/",
+  "organization": "alibaba",
+  "domains": [
+    "acs86.com",
+    "csbew.com",
+    "irs09.com"
+  ],
+  "filters": [
+    "||acs86.com^$3p",
+    "||csbew.com^$3p",
+    "||irs09.com^$3p"
+  ]
+}

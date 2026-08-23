@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "popIn",
+  "category": "social_media",
+  "website_url": "https://www.popin.cc/",
+  "organization": "popin",
+  "domains": [
+    "popin.cc"
+  ],
+  "filters": [
+    "||popin.cc^$3p"
+  ]
+}

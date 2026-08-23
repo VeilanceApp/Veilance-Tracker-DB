@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Drawbridge",
+  "category": "advertising",
+  "website_url": "http://www.drawbrid.ge/",
+  "organization": "drawbridge",
+  "domains": [
+    "adsymptotic.com"
+  ],
+  "filters": [
+    "||adsymptotic.com^$3p"
+  ]
+}

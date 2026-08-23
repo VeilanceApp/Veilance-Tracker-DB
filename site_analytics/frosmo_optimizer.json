@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Frosmo",
+  "category": "site_analytics",
+  "website_url": "https://frosmo.com/",
+  "organization": "frosmo",
+  "domains": [
+    "frosmo.com",
+    "inpref.com",
+    "inpref.s3-external-3.amazonaws.com",
+    "inpref.s3.amazonaws.com"
+  ],
+  "filters": [
+    "||frosmo.com^$3p",
+    "||inpref.com^$3p",
+    "||inpref.s3-external-3.amazonaws.com^$3p",
+    "||inpref.s3.amazonaws.com^$3p"
+  ]
+}

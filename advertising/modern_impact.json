@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Modern Impact",
+  "category": "advertising",
+  "organization": "modern_impact",
+  "domains": [
+    "intelligentpixel.modernimpact.com"
+  ],
+  "filters": [
+    "||intelligentpixel.modernimpact.com^$3p"
+  ]
+}

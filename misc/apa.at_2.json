@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Apa",
+  "category": "misc",
+  "website_url": "http://www.apa.at/Site/index.de.html",
+  "organization": "apa",
+  "domains": [
+    "apa.at"
+  ],
+  "filters": []
+}

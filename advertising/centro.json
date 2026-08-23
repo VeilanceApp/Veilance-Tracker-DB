@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Centro",
+  "category": "advertising",
+  "website_url": "http://centro.net/",
+  "organization": "centro",
+  "domains": [
+    "brand-server.com"
+  ],
+  "filters": [
+    "||brand-server.com^$3p"
+  ]
+}

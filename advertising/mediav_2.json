@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MediaV",
+  "category": "advertising",
+  "website_url": "https://www.mediav.com/",
+  "organization": "mediav",
+  "domains": [
+    "mediav.com"
+  ],
+  "filters": [
+    "||mediav.com^$3p"
+  ]
+}

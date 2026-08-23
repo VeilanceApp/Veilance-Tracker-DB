@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Advark",
+  "category": "advertising",
+  "organization": "advark",
+  "domains": [
+    "s3.advarkads.com"
+  ],
+  "filters": [
+    "||s3.advarkads.com/modules/cr.js"
+  ]
+}

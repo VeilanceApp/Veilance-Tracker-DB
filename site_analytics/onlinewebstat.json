@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Onlinewebstat",
+  "category": "site_analytics",
+  "website_url": "http://www.onlinewebstats.com/index.php?lang=en",
+  "organization": "onlinewebstat",
+  "domains": [
+    "onlinewebstat.com",
+    "onlinewebstats.com"
+  ],
+  "filters": [
+    "||onlinewebstat.com^$3p",
+    "||onlinewebstats.com^$3p"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "trsv3.com",
+  "category": "misc",
+  "domains": [
+    "trsv3.com"
+  ],
+  "filters": []
+}

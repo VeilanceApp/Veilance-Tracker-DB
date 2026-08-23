@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sputnik",
+  "category": "site_analytics",
+  "organization": "sputnik",
+  "domains": [
+    "stat.sputnik.ru"
+  ],
+  "filters": [
+    "||stat.sputnik.ru/cnt.js"
+  ]
+}

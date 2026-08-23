@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "TLV Media",
+  "category": "advertising",
+  "website_url": "http://www.tlvmedia.com",
+  "organization": "tlvmedia",
+  "domains": [
+    "ad.tlvmedia.com",
+    "ads.tlvmedia.com",
+    "tag.tlvmedia.com"
+  ],
+  "filters": [
+    "||ad.tlvmedia.com^$3p",
+    "||ads.tlvmedia.com^$3p",
+    "||tag.tlvmedia.com^$3p"
+  ]
+}

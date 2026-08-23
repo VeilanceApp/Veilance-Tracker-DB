@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Sphere",
+  "category": "advertising",
+  "website_url": "http://www.sphere.com/",
+  "organization": "yahoo",
+  "domains": [
+    "sphere.com",
+    "surphace.com"
+  ],
+  "filters": [
+    "||sphere.com/widgets/sphereit/js",
+    "||surphace.com/widgets/sphereit/js"
+  ]
+}

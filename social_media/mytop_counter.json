@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mytop Counter",
+  "category": "social_media",
+  "website_url": "https://mytop-in.net/",
+  "organization": "mytop-in",
+  "domains": [
+    "mystat-in.net"
+  ],
+  "filters": [
+    "||mystat-in.net^$3p"
+  ]
+}

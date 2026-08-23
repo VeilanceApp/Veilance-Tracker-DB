@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BannerPlay",
+  "category": "advertising",
+  "website_url": "http://www.bannerplay.com/",
+  "organization": "bannerplay",
+  "domains": [
+    "bannerplay.com"
+  ],
+  "filters": [
+    "||bannerplay.com^$3p"
+  ]
+}

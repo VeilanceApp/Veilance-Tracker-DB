@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "MoZoo",
+  "category": "advertising",
+  "organization": "mozoo",
+  "domains": [
+    "storage.mozoo.com"
+  ],
+  "filters": [
+    "||storage.mozoo.com/publisher_scripts/mz_pubscript.js"
+  ]
+}

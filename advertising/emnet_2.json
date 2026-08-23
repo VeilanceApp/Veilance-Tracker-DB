@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "eMnet",
+  "category": "advertising",
+  "website_url": "https://www.emnet.co.kr/",
+  "organization": "emnet",
+  "domains": [
+    "adinsight.co.kr"
+  ],
+  "filters": [
+    "||adinsight.co.kr^$3p"
+  ]
+}

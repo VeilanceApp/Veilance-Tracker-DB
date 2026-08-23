@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Zadarma",
+  "category": "customer_interaction",
+  "organization": "zadarma",
+  "domains": [
+    "api.zadarma.com"
+  ],
+  "filters": [
+    "||api.zadarma.com^$3p",
+    "||my.zadarma.com/callbackwidget/js/main.min.js"
+  ]
+}

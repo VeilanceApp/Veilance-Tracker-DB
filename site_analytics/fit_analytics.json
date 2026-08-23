@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Fit Analytics",
+  "category": "site_analytics",
+  "organization": "fit_analytics",
+  "domains": [
+    "fitanalytics.com"
+  ],
+  "filters": [
+    "||fitanalytics.com/widget.js"
+  ]
+}

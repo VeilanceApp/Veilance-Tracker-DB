@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ip-label",
+  "category": "site_analytics",
+  "website_url": "http://www.ip-label.co.uk/",
+  "organization": "ip-label",
+  "domains": [
+    "ip-label.net"
+  ],
+  "filters": [
+    "||ip-label.net^$3p"
+  ]
+}

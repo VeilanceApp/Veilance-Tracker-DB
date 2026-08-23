@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GoStats",
+  "category": "site_analytics",
+  "website_url": "http://gostats.com/",
+  "organization": "gostats",
+  "domains": [
+    "gostats.com"
+  ],
+  "filters": [
+    "||gostats.com^$3p"
+  ]
+}

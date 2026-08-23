@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "IMDB CDN",
+  "category": "hosting",
+  "website_url": "https://www.imdb.com/",
+  "organization": "amazon_associates",
+  "domains": [
+    "media-imdb.com"
+  ],
+  "filters": []
+}

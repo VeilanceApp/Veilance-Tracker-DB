@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "FriendBuy",
+  "category": "site_analytics",
+  "organization": "friendbuy",
+  "domains": [
+    "friendbuy.com"
+  ],
+  "filters": [
+    "||cdn1.friendbuy.com/widgets/configs",
+    "||ws.friendbuy.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Apollo",
+  "category": "site_analytics",
+  "website_url": "https://www.apollo.io/",
+  "organization": "zenleads",
+  "domains": [
+    "apollo.io"
+  ],
+  "filters": [
+    "||apollo.io^$3p"
+  ]
+}

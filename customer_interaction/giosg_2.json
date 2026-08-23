@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Giosg",
+  "category": "customer_interaction",
+  "website_url": "https://www.giosg.com/",
+  "organization": "giosg",
+  "domains": [
+    "giosg.com"
+  ],
+  "filters": [
+    "||giosg.com^$3p"
+  ]
+}

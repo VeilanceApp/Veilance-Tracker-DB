@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdultAdWorld",
+  "category": "pornvertising",
+  "website_url": "http://adultadworld.com/",
+  "organization": "adult_adworld",
+  "domains": [
+    "adultadworld.com",
+    "adworldmedia.com"
+  ],
+  "filters": [
+    "||adultadworld.com^$3p",
+    "||adworldmedia.com^$3p"
+  ]
+}

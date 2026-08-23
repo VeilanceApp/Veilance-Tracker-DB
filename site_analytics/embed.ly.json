@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Embedly",
+  "category": "site_analytics",
+  "website_url": "https://embed.ly/",
+  "organization": "medium",
+  "domains": [
+    "embed.ly",
+    "embedly.com"
+  ],
+  "filters": []
+}

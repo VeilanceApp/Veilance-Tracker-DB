@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "nPlexMedia",
+  "category": "advertising",
+  "website_url": "http://www.nplexmedia.com/",
+  "organization": "nplexmedia",
+  "domains": [
+    "nplexmedia.com"
+  ],
+  "filters": [
+    "||nplexmedia.com^$3p"
+  ]
+}

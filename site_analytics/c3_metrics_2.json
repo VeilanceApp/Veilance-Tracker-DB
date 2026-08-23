@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "C3 Metrics",
+  "category": "site_analytics",
+  "website_url": "https://www.c3metrics.com/",
+  "organization": "c3_metrics",
+  "domains": [
+    "c3metrics.com",
+    "c3tag.com"
+  ],
+  "filters": [
+    "||c3metrics.com^$3p",
+    "||c3tag.com^$3p"
+  ]
+}

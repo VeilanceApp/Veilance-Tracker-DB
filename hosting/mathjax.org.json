@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "MathJax",
+  "category": "hosting",
+  "website_url": "https://www.mathjax.org/",
+  "domains": [
+    "mathjax.org"
+  ],
+  "filters": []
+}

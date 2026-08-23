@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Cadreon",
+  "category": "advertising",
+  "website_url": "http://www.cadreon.com/",
+  "organization": "cadreon",
+  "domains": [
+    "d1cerpgff739r9.cloudfront.net",
+    "d1qpxk1wfeh8v1.cloudfront.net"
+  ],
+  "filters": [
+    "||d1cerpgff739r9.cloudfront.net^$3p",
+    "||d1qpxk1wfeh8v1.cloudfront.net^$3p"
+  ]
+}

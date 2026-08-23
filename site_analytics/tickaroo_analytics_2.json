@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Tickaroo Analytics",
+  "category": "site_analytics",
+  "website_url": "https://tickaroo.com/en/",
+  "organization": "tickaroo",
+  "domains": [],
+  "filters": [
+    "||cdn.tickaroo.com/api/collect^$3p"
+  ]
+}

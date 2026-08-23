@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Jirafe",
+  "category": "site_analytics",
+  "website_url": "http://jirafe.com/",
+  "organization": "jirafe",
+  "domains": [
+    "jirafe.com"
+  ],
+  "filters": [
+    "||jirafe.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "PurLive",
+  "category": "advertising",
+  "organization": "purlive",
+  "domains": [
+    "oopt.fr"
+  ],
+  "filters": [
+    "||oopt.fr^$3p"
+  ]
+}

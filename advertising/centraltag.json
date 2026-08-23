@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CentralTag",
+  "category": "advertising",
+  "website_url": "http://www.centraltag.com/",
+  "organization": "centraltag",
+  "domains": [
+    "centraltag.com"
+  ],
+  "filters": [
+    "||centraltag.com^$3p"
+  ]
+}

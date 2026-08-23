@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Artimedia",
+  "category": "advertising",
+  "organization": "artimedia",
+  "domains": [
+    "banners.advsnx.net"
+  ],
+  "filters": [
+    "||banners.advsnx.net^$3p"
+  ]
+}

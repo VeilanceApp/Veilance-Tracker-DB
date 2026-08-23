@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BrandReach",
+  "category": "advertising",
+  "website_url": "http://www.brandreach.com/",
+  "organization": "brandreach",
+  "domains": [
+    "brandreachsys.com"
+  ],
+  "filters": [
+    "||brandreachsys.com^$3p"
+  ]
+}

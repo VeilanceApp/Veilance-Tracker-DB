@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Happy Fox Chat",
+  "category": "customer_interaction",
+  "organization": "happy_fox_chat",
+  "domains": [
+    "d1l7z5ofrj6ab8.cloudfront.net"
+  ],
+  "filters": [
+    "||d1l7z5ofrj6ab8.cloudfront.net^$3p"
+  ]
+}

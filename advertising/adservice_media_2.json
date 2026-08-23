@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adservice Media",
+  "category": "advertising",
+  "website_url": "http://www.adservicemedia.com/",
+  "organization": "adservice_media",
+  "domains": [
+    "online.adservicemedia.dk"
+  ],
+  "filters": [
+    "||online.adservicemedia.dk^$3p"
+  ]
+}

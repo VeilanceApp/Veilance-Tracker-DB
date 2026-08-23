@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Triptease",
+  "category": "customer_interaction",
+  "organization": "triptease",
+  "domains": [
+    "static.triptease.io"
+  ],
+  "filters": [
+    "||static.triptease.io^$3p"
+  ]
+}

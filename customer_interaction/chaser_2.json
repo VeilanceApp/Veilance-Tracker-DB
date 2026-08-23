@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Chaser",
+  "category": "customer_interaction",
+  "organization": "chaser",
+  "domains": [
+    "chaser.ru"
+  ],
+  "filters": [
+    "||chaser.ru/widget/1.1/js/widget.js"
+  ]
+}

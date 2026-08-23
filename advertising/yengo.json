@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Yengo",
+  "category": "advertising",
+  "website_url": "https://www.yengo.com/",
+  "organization": "yengo",
+  "domains": [
+    "yengo.com",
+    "yengointernational.com"
+  ],
+  "filters": [
+    "||yengo.com^$3p",
+    "||yengointernational.com^$3p"
+  ]
+}

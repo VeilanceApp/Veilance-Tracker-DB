@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Optimatic",
+  "category": "audio_video_player",
+  "organization": "optimatic",
+  "domains": [
+    "optimatic.com"
+  ],
+  "filters": []
+}

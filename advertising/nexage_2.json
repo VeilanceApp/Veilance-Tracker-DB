@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Nexage",
+  "category": "advertising",
+  "website_url": "http://www.nexage.com/",
+  "organization": "yahoo",
+  "domains": [
+    "nexage.com"
+  ],
+  "filters": [
+    "||nexage.com^$3p"
+  ]
+}

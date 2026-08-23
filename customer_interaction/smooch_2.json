@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Smooch",
+  "category": "customer_interaction",
+  "organization": "smooch",
+  "domains": [
+    "cdn.smooch.io"
+  ],
+  "filters": [
+    "||cdn.smooch.io/smooch.min.js"
+  ]
+}

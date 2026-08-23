@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "DCMN",
+  "category": "advertising",
+  "website_url": "https://www.dcmn.com/",
+  "domains": [
+    "dcmn.com"
+  ],
+  "filters": []
+}

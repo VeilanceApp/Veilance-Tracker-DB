@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Aerify Media",
+  "category": "advertising",
+  "website_url": "http://aerifymedia.com/",
+  "organization": "aerify_media",
+  "domains": [
+    "amxdt.com"
+  ],
+  "filters": [
+    "||amxdt.com^$3p"
+  ]
+}

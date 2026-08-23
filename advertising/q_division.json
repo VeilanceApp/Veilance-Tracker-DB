@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Q-Division",
+  "category": "advertising",
+  "website_url": "https://q-division.de/",
+  "domains": [
+    "q-divisioncdn.de"
+  ],
+  "filters": []
+}

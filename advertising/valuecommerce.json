@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ValueCommerce",
+  "category": "advertising",
+  "website_url": "https://www.valuecommerce.ne.jp",
+  "organization": "valuecommerce",
+  "domains": [
+    "valuecommerce.com"
+  ],
+  "filters": [
+    "||valuecommerce.com^$3p"
+  ]
+}

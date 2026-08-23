@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "Adhese",
+  "category": "advertising",
+  "website_url": "http://adhese.com",
+  "organization": "adhese",
+  "domains": [
+    "adhese.be",
+    "adhese.com",
+    "adhese.net"
+  ],
+  "filters": [
+    "||1.adhesecdn.be/pool/lib/",
+    "||adhese.be^$3p",
+    "||adhese.com^$3p",
+    "||adhese.net^$3p"
+  ]
+}

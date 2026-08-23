@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LeadDyno",
+  "category": "advertising",
+  "website_url": "http://www.leaddyno.com",
+  "organization": "leaddyno",
+  "domains": [
+    "leaddyno.com"
+  ],
+  "filters": [
+    "||leaddyno.com^$3p"
+  ]
+}

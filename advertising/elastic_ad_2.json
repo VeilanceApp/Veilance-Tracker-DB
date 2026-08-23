@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Elastic Ad",
+  "category": "advertising",
+  "organization": "elastic_ad",
+  "domains": [
+    "elasticad.net"
+  ],
+  "filters": []
+}

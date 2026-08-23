@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vizury",
+  "category": "advertising",
+  "website_url": "https://www.vizury.com/website/",
+  "organization": "vizury",
+  "domains": [
+    "vizury.com"
+  ],
+  "filters": [
+    "||vizury.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdBrite",
+  "category": "advertising",
+  "website_url": "http://www.adbrite.com/",
+  "organization": "centro",
+  "domains": [
+    "adbrite.com"
+  ],
+  "filters": [
+    "||adbrite.com^$3p"
+  ]
+}

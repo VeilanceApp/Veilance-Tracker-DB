@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Spoteffect",
+  "category": "site_analytics",
+  "organization": "spoteffect",
+  "domains": [
+    "spoteffects.net"
+  ],
+  "filters": [
+    "||trck.spoteffects.net/analytics/spef.min.js"
+  ]
+}

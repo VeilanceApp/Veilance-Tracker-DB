@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SMARTSEER",
+  "category": "site_analytics",
+  "website_url": "https://smartseer.com/",
+  "organization": "smartseer",
+  "domains": [
+    "cdn.smartseer.com"
+  ],
+  "filters": [
+    "api-*.smartseer.com"
+  ]
+}

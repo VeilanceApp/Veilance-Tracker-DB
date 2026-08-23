@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Act-On Beacon",
+  "category": "advertising",
+  "website_url": "http://www.actonsoftware.com/",
+  "organization": "act-on",
+  "domains": [
+    "actonsoftware.com"
+  ],
+  "filters": [
+    "/acton/bn^"
+  ]
+}

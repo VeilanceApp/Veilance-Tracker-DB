@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "o2online.de",
+  "category": "misc",
+  "website_url": "https://www.o2online.de/",
+  "domains": [
+    "o2online.de"
+  ],
+  "filters": []
+}

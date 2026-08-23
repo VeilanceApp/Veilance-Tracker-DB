@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "BugHerd",
+  "category": "customer_interaction",
+  "website_url": "https://bugherd.com",
+  "organization": "bugherd",
+  "domains": [
+    "bugherd.com"
+  ],
+  "filters": [
+    "||bugherd.com/bugherd",
+    "||bugherd.com/sidebar"
+  ]
+}

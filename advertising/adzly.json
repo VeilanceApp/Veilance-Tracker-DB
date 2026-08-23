@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "adzly",
+  "category": "advertising",
+  "website_url": "http://www.adzly.com/",
+  "organization": "adzly",
+  "domains": [
+    "adzly.com"
+  ],
+  "filters": [
+    "||adzly.com/adserve"
+  ]
+}

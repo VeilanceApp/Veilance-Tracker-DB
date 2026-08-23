@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "AdSpyglass",
+  "category": "advertising",
+  "organization": "adspyglass",
+  "domains": [
+    "o333o.com"
+  ],
+  "filters": []
+}

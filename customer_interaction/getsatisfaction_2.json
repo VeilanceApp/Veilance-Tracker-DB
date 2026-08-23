@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "GetSatisfaction",
+  "category": "customer_interaction",
+  "website_url": "https://getsatisfaction.com/",
+  "organization": "get_satisfaction",
+  "domains": [
+    "gsfn.us"
+  ],
+  "filters": [
+    "||loader.engage.gsfn.us^$3p",
+    "||s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js",
+    "||s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js"
+  ]
+}

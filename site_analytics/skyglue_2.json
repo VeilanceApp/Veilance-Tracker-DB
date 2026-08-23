@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SkyGlue",
+  "category": "site_analytics",
+  "website_url": "https://www.skyglue.com/",
+  "organization": "skyglue_technology",
+  "domains": [
+    "skyglue.com"
+  ],
+  "filters": [
+    "||skyglue.com^$3p"
+  ]
+}

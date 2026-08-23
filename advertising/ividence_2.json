@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Ividence",
+  "category": "advertising",
+  "website_url": "https://www.ividence.com/home/",
+  "organization": "sien",
+  "domains": [
+    "ivitrack.com"
+  ],
+  "filters": []
+}

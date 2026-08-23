@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mail.Ru Counter",
+  "category": "customer_interaction",
+  "organization": "megafon",
+  "domains": [],
+  "filters": [
+    "||mail.ru/counter",
+    "||mail.ru/tracker",
+    "||top.mail.ru/jump"
+  ]
+}

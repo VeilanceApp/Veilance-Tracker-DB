@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Adbooth",
+  "category": "advertising",
+  "website_url": "http://www.adbooth.com/",
+  "organization": "adbooth_media_group",
+  "domains": [
+    "adbooth.com",
+    "adbooth.net"
+  ],
+  "filters": [
+    "||adbooth.com^$3p",
+    "||adbooth.net^$3p"
+  ]
+}

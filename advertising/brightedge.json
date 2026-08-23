@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BrightEdge",
+  "category": "advertising",
+  "website_url": "https://www.brightedge.com/",
+  "organization": "brightedge",
+  "domains": [
+    "analytics.brightedge.com"
+  ],
+  "filters": [
+    "||analytics.brightedge.com^$3p"
+  ]
+}

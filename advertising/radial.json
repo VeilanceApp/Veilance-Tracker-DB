@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Radial",
+  "category": "advertising",
+  "website_url": "http://www.clearsaleing.com/",
+  "organization": "radial",
+  "domains": [
+    "dsa.csdata1.com"
+  ],
+  "filters": [
+    "||dsa.csdata1.com^$3p"
+  ]
+}

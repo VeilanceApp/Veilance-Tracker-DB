@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Harren Media",
+  "category": "advertising",
+  "website_url": "http://www.harrenmedia.com/index.html",
+  "organization": "harren_media",
+  "domains": [
+    "ad.harrenmedianetwork.com",
+    "ads.networkhm.com"
+  ],
+  "filters": [
+    "||ad.harrenmedianetwork.com^$3p",
+    "||ads.networkhm.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CivicScience",
+  "category": "site_analytics",
+  "website_url": "https://civicscience.com/",
+  "organization": "civicscience",
+  "domains": [
+    "civicscience.com"
+  ],
+  "filters": [
+    "||civicscience.com/widget/jspoll"
+  ]
+}

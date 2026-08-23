@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Getty Images",
+  "category": "misc",
+  "website_url": "https://www.gettyimages.com/",
+  "domains": [
+    "gettyimages.com"
+  ],
+  "filters": []
+}

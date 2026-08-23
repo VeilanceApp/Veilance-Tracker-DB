@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ideal Media",
+  "category": "advertising",
+  "website_url": "http://idealmedia.com/",
+  "organization": "ideal_media",
+  "domains": [
+    "e-generator.com"
+  ],
+  "filters": [
+    "||e-generator.com^$3p"
+  ]
+}

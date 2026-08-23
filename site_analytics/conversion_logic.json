@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Conversion Logic",
+  "category": "site_analytics",
+  "website_url": "http://www.conversionlogic.com/",
+  "organization": "conversion_logic",
+  "domains": [
+    "c.conversionlogic.net"
+  ],
+  "filters": [
+    "||c.conversionlogic.net^$3p"
+  ]
+}

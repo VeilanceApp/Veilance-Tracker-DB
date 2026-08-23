@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sub2",
+  "category": "advertising",
+  "website_url": "https://www.sub2tech.com/",
+  "organization": "sub2",
+  "domains": [
+    "sub2tech.com"
+  ],
+  "filters": [
+    "||sub2tech.com^$3p"
+  ]
+}

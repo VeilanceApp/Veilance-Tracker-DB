@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "FuelX",
+  "category": "advertising",
+  "organization": "fuelx",
+  "domains": [
+    "cookie.fuel451.com"
+  ],
+  "filters": [
+    "||cookie.fuel451.com/tracksa.min.js",
+    "||fsr.fuel451.com^$3p",
+    "||tr.fuelx.com^$3p"
+  ]
+}

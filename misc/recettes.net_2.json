@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Recettes.net",
+  "category": "misc",
+  "website_url": "http://www.recettes.net/",
+  "organization": "recettes.net",
+  "domains": [
+    "recettes.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Volusion Chat",
+  "category": "customer_interaction",
+  "organization": "volusion",
+  "domains": [
+    "volusion.com"
+  ],
+  "filters": []
+}

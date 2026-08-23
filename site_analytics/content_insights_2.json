@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Content Insights",
+  "category": "site_analytics",
+  "organization": "content_insights",
+  "domains": [
+    "ingestion.contentinsights.com"
+  ],
+  "filters": [
+    "||ingestion.contentinsights.com^$3p"
+  ]
+}

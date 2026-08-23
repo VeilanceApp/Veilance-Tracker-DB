@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Unbounce",
+  "category": "site_analytics",
+  "website_url": "https://unbounce.com/",
+  "organization": "unbounce",
+  "domains": [
+    "d3pkntwtp2ukl5.cloudfront.net",
+    "t.unbounce.com"
+  ],
+  "filters": [
+    "||d3pkntwtp2ukl5.cloudfront.net^$3p",
+    "||t.unbounce.com^$3p"
+  ]
+}

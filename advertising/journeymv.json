@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Journey",
+  "category": "advertising",
+  "website_url": "https://www.journeymv.com/",
+  "organization": "mediavine_inc",
+  "domains": [
+    "journeymv.com"
+  ],
+  "filters": [
+    "||exchange.journeymv.com^"
+  ]
+}

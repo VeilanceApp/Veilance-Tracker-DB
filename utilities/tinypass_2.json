@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Piano",
+  "category": "utilities",
+  "website_url": "https://piano.io/",
+  "organization": "piano",
+  "domains": [
+    "npttech.com",
+    "tinypass.com"
+  ],
+  "filters": [
+    "||tinypass.com^$3p"
+  ]
+}

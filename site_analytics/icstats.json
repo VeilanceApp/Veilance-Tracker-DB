@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ICStats",
+  "category": "site_analytics",
+  "website_url": "http://www.icstats.nl/",
+  "organization": "icstats",
+  "domains": [
+    "icstats.nl"
+  ],
+  "filters": [
+    "||icstats.nl^$3p"
+  ]
+}

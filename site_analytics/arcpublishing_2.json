@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Arc Publishing",
+  "category": "site_analytics",
+  "website_url": "https://www.arcpublishing.com/",
+  "organization": "arc_publishing",
+  "domains": [
+    "arcpublishing.com"
+  ],
+  "filters": [
+    "||targeting.tronc.arcpublishing.com/targetingwebapp/targeting"
+  ]
+}

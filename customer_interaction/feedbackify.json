@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Feedbackify",
+  "category": "customer_interaction",
+  "website_url": "https://www.feedbackify.com/",
+  "organization": "feedbackify",
+  "domains": [
+    "fby.s3.amazonaws.com",
+    "feedbackify.com"
+  ],
+  "filters": [
+    "||fby.s3.amazonaws.com/fby.js",
+    "||feedbackify.com/f.js"
+  ]
+}

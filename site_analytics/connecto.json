@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Connecto",
+  "category": "site_analytics",
+  "organization": "connecto",
+  "domains": [
+    "cdn.connecto.io"
+  ],
+  "filters": [
+    "||cdn.connecto.io/javascripts/connect.prod.min.js",
+    "||cdn.connecto.io/javascripts/notification.prod.min.js"
+  ]
+}

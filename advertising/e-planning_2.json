@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "e-planning",
+  "category": "advertising",
+  "website_url": "https://www.e-planning.net/",
+  "organization": "e-planning",
+  "domains": [
+    "e-planning.net"
+  ],
+  "filters": [
+    "||e-planning.net^$3p"
+  ]
+}

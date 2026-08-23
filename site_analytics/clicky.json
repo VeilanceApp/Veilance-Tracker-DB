@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Clicky",
+  "category": "site_analytics",
+  "website_url": "http://getclicky.com/",
+  "organization": "clicky",
+  "domains": [
+    "getclicky.com",
+    "staticstuff.net"
+  ],
+  "filters": [
+    "/clicky.js",
+    "||hello.staticstuff.net^$3p",
+    "||in.getclicky.com^$3p",
+    "||static.getclicky.com^$3p"
+  ]
+}

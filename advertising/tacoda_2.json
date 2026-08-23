@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Tacoda",
+  "category": "advertising",
+  "website_url": "http://www.tacoda.com/",
+  "organization": "yahoo",
+  "domains": [
+    "tacoda.net"
+  ],
+  "filters": [
+    "/tacoda_ams_ddc_header.js",
+    "||tacoda.net^$3p"
+  ]
+}

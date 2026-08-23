@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Liveclicker",
+  "category": "customer_interaction",
+  "website_url": "http://www.liveclicker.com",
+  "organization": "liveclicker",
+  "domains": [
+    "liveclicker.net"
+  ],
+  "filters": [
+    "||liveclicker.net^$3p"
+  ]
+}

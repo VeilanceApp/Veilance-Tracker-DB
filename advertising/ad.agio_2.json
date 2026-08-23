@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ad.agio",
+  "category": "advertising",
+  "website_url": "https://neodatagroup.com/",
+  "organization": "neodata",
+  "domains": [
+    "adagionet.com"
+  ],
+  "filters": [
+    "||adagionet.com^$3p"
+  ]
+}

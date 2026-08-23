@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "BlackDragon",
+  "category": "advertising",
+  "organization": "jing_dong",
+  "domains": [
+    "jssr.jd.com"
+  ],
+  "filters": [
+    "||jssr.jd.com/tj.js"
+  ]
+}

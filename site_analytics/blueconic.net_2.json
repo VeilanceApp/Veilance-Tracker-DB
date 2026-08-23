@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BlueConic Plugin",
+  "category": "site_analytics",
+  "website_url": "https://www.blueconic.com/",
+  "organization": "blueconic",
+  "domains": [
+    "blueconic.net"
+  ],
+  "filters": [
+    "||blueconic.net^$3p"
+  ]
+}

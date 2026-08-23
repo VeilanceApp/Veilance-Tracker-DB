@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Lead Liaison",
+  "category": "site_analytics",
+  "organization": "lead_liaison",
+  "domains": [
+    "t1.llanalytics.com"
+  ],
+  "filters": [
+    "||t1.llanalytics.com/tracking_engine/collector.min.js"
+  ]
+}

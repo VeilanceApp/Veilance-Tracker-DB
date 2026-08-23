@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "StackAdapt",
+  "category": "advertising",
+  "organization": "stackadapt",
+  "domains": [
+    "stackadapt.com"
+  ],
+  "filters": [
+    "||tags.srv.stackadapt.com/events.js"
+  ]
+}

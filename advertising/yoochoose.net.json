@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "YOOCHOOSE",
+  "category": "advertising",
+  "website_url": "https://yoochoose.com/",
+  "domains": [
+    "yoochoose.net"
+  ],
+  "filters": []
+}

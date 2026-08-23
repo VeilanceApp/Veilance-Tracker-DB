@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "AdRecover",
+  "category": "advertising",
+  "website_url": "https://www.adrecover.com/",
+  "organization": "adpushup",
+  "domains": [
+    "adrecover.com"
+  ],
+  "filters": []
+}

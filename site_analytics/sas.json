@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "SAS",
+  "category": "site_analytics",
+  "website_url": "https://www.sas.com/",
+  "organization": "sas",
+  "domains": [
+    "aimatch.com",
+    "sas.com"
+  ],
+  "filters": [
+    "||aimatch.com^$3p",
+    "||sas.com^$3p",
+    "||ced-ns.sascdn.com/diff/js/smart.js",
+    "||ci360.sas.com/js/ot_boot-min.js",
+    "/js/ot2.min.js"
+  ]
+}

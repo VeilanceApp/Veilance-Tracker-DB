@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "FriendFeed",
+  "category": "social_media",
+  "website_url": "http://friendfeed.com/",
+  "organization": "facebook",
+  "domains": [
+    "friendfeed.com"
+  ],
+  "filters": [
+    "||friendfeed.com/embed/widget/"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Puboclic",
+  "category": "advertising",
+  "website_url": "http://www.puboclic.com/",
+  "organization": "puboclic",
+  "domains": [
+    "puboclic.com"
+  ],
+  "filters": [
+    "||puboclic.com^$3p"
+  ]
+}

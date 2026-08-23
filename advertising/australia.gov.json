@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Australia.gov",
+  "category": "advertising",
+  "organization": "australian_government",
+  "domains": [
+    "advertising.gov.au"
+  ],
+  "filters": [
+    "||advertising.gov.au/ad/bom/www/"
+  ]
+}

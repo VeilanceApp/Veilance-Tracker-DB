@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Jumpstart Tagging Solutions",
+  "category": "site_analytics",
+  "organization": "hearst",
+  "domains": [
+    "jumpstarttaggingsolutions.com"
+  ],
+  "filters": [
+    "||jumpstarttaggingsolutions.com/tags/"
+  ]
+}

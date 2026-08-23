@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Zowie",
+  "category": "customer_interaction",
+  "website_url": "https://getzowie.com",
+  "organization": "zowie",
+  "domains": [
+    "getzowie.com"
+  ],
+  "filters": [
+    "||getzowie.com^$3p"
+  ]
+}

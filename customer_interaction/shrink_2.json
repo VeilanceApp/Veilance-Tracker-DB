@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Shrink",
+  "category": "customer_interaction",
+  "organization": "shrink.in",
+  "domains": [
+    "shink.in"
+  ],
+  "filters": [
+    "||shink.in^$3p"
+  ]
+}

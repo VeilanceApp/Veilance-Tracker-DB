@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "HucksterBot",
+  "category": "advertising",
+  "organization": "hucksterbot",
+  "domains": [
+    "files.hucksterbot.com"
+  ],
+  "filters": [
+    "||files.hucksterbot.com/app/huckster.min.js"
+  ]
+}

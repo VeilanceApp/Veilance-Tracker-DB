@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Improvely",
+  "category": "site_analytics",
+  "website_url": "https://www.improvely.com/",
+  "organization": "awio_web_services",
+  "domains": [
+    "iljmp.com"
+  ],
+  "filters": [
+    "||iljmp.com^$3p"
+  ]
+}

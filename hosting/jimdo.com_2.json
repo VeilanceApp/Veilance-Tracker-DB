@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "jimdo.com",
+  "category": "hosting",
+  "domains": [
+    "jimcdn.com",
+    "jimdo.com",
+    "jimstatic.com"
+  ],
+  "filters": []
+}

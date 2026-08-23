@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "NBC News",
+  "category": "misc",
+  "website_url": "https://www.nbcnews.com/",
+  "domains": [
+    "s-nbcnews.com"
+  ],
+  "filters": []
+}

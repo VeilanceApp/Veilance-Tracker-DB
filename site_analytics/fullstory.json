@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "FullStory",
+  "category": "site_analytics",
+  "organization": "fullstory",
+  "domains": [
+    "fullstory.com"
+  ],
+  "filters": [
+    "||fullstory.com/s/fs.js"
+  ]
+}

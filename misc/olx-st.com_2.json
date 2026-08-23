@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "OLX",
+  "category": "misc",
+  "website_url": "https://www.olx.com/",
+  "domains": [
+    "olx-st.com",
+    "onap.io"
+  ],
+  "filters": []
+}

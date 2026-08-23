@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "LeadPlace",
+  "category": "site_analytics",
+  "organization": "leadplace",
+  "domains": [
+    "leadplace.fr"
+  ],
+  "filters": [
+    "||cookies.leadplace.fr^$3p"
+  ]
+}

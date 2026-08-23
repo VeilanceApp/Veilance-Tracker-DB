@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Brand Metrics",
+  "category": "advertising",
+  "website_url": "https://www.brandmetrics.com/",
+  "organization": "brand_metrics",
+  "domains": [
+    "brandmetrics.com"
+  ],
+  "filters": [
+    "||brandmetrics.com^$3p"
+  ]
+}

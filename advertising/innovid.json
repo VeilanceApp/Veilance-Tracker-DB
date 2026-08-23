@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Innovid",
+  "category": "advertising",
+  "website_url": "https://www.innovid.com/",
+  "organization": "innovid",
+  "domains": [
+    "innovid.com"
+  ],
+  "filters": [
+    "||innovid.com^$3p"
+  ]
+}

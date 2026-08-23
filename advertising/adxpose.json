@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "AdXpose",
+  "category": "advertising",
+  "website_url": "http://www.adxpose.com/home.page",
+  "organization": "comscore",
+  "domains": [
+    "ads.adxpose.com",
+    "event.adxpose.com",
+    "servedby.adxpose.com"
+  ],
+  "filters": [
+    "||ads.adxpose.com^$3p",
+    "||event.adxpose.com^$3p",
+    "||servedby.adxpose.com^$3p"
+  ]
+}

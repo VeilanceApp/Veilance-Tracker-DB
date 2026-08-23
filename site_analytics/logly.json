@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "logly",
+  "category": "site_analytics",
+  "website_url": "https://logly.co.jp/",
+  "organization": "logly",
+  "domains": [
+    "logly.co.jp"
+  ],
+  "filters": [
+    "||logly.co.jp^$3p"
+  ]
+}

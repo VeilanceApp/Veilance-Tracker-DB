@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Partner-Ads",
+  "category": "advertising",
+  "website_url": "https://www.partner-ads.com/",
+  "organization": "partner-ads",
+  "domains": [
+    "partner-ads.com"
+  ],
+  "filters": [
+    "||partner-ads.com^$3p"
+  ]
+}

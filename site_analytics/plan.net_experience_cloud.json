@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Plan.net Experience Cloud",
+  "category": "site_analytics",
+  "organization": "serviceplan",
+  "domains": [
+    "tag.bi.serviceplan.com"
+  ],
+  "filters": [
+    "||tag.bi.serviceplan.com^$3p"
+  ]
+}

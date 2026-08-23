@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Lucini",
+  "category": "advertising",
+  "website_url": "http://www.lucinilucini.com/",
+  "organization": "lucini_&_lucini_communications",
+  "domains": [
+    "lead.adsender.us"
+  ],
+  "filters": [
+    "||lead.adsender.us^$3p"
+  ]
+}

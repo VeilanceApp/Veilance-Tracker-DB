@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reed Business Information",
+  "category": "site_analytics",
+  "website_url": "https://www.reedbusiness.com/",
+  "organization": "andera_partners",
+  "domains": [
+    "reedbusiness.net"
+  ],
+  "filters": [
+    "||gwa.reedbusiness.net^$3p"
+  ]
+}

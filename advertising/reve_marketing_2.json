@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reve Marketing",
+  "category": "advertising",
+  "website_url": "http://tellafriend.socialtwist.com/",
+  "organization": "reve_marketing",
+  "domains": [
+    "socialtwist.com"
+  ],
+  "filters": [
+    "||socialtwist.com^$3p"
+  ]
+}

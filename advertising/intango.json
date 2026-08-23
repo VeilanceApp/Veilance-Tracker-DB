@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Intango",
+  "category": "advertising",
+  "website_url": "https://intango.com/",
+  "organization": "intango",
+  "domains": [
+    "intango.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Daum Search",
+  "category": "customer_interaction",
+  "website_url": "https://www.daum.net/",
+  "organization": "kakao",
+  "domains": [
+    "daum.net",
+    "daumcdn.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "FlowSurf",
+  "category": "misc",
+  "domains": [
+    "othersearch.info"
+  ],
+  "filters": []
+}

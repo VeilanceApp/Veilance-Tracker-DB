@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Termly",
+  "category": "consent",
+  "website_url": "https://termly.io/",
+  "organization": "termly",
+  "domains": [
+    "termly.io"
+  ],
+  "filters": [
+    "||termly.io^$3p"
+  ]
+}

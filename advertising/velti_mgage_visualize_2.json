@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Velti mGage Visualize",
+  "category": "advertising",
+  "website_url": "https://www.velti.com/",
+  "organization": "velti",
+  "domains": [
+    "mdcn.mobi",
+    "velti.com"
+  ],
+  "filters": [
+    "||mdcn.mobi/phx.",
+    "||velti.com/phx."
+  ]
+}

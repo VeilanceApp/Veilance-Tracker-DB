@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Granify",
+  "category": "site_analytics",
+  "website_url": "http://granify.com/",
+  "organization": "granify",
+  "domains": [
+    "d2bw638ufki166.cloudfront.net",
+    "granify.com"
+  ],
+  "filters": [
+    "||d2bw638ufki166.cloudfront.net^$3p",
+    "||granify.com^$3p"
+  ]
+}

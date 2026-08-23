@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Binotel",
+  "category": "advertising",
+  "organization": "binotel",
+  "domains": [
+    "widgets.binotel.com"
+  ],
+  "filters": [
+    "||widgets.binotel.com/calltracking/widgets"
+  ]
+}

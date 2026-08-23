@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "NetShelter",
+  "category": "advertising",
+  "website_url": "http://www.netshelter.net/",
+  "organization": "netshelter",
+  "domains": [
+    "netshelter.net"
+  ],
+  "filters": [
+    "||netshelter.net^$3p"
+  ]
+}

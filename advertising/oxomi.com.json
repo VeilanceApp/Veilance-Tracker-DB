@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Oxomi",
+  "category": "advertising",
+  "website_url": "https://oxomi.com/",
+  "domains": [
+    "oxomi.com"
+  ],
+  "filters": []
+}

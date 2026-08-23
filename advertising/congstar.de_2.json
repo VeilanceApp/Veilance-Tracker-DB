@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "congstar.de",
+  "category": "advertising",
+  "domains": [
+    "congstar.de"
+  ],
+  "filters": []
+}

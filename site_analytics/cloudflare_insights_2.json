@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Cloudflare Insights",
+  "category": "site_analytics",
+  "website_url": "https://www.cloudflare.com/insights/",
+  "organization": "cloudflare",
+  "domains": [
+    "cloudflareinsights.com"
+  ],
+  "filters": [
+    "||cloudflareinsights.com^$3p"
+  ]
+}

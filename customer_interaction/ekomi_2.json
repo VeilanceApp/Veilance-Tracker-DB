@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "eKomi",
+  "category": "customer_interaction",
+  "website_url": "https://www.ekomi.co.uk/uk/",
+  "organization": "ekomi",
+  "domains": [
+    "ekomi.de"
+  ],
+  "filters": [
+    "||connect.ekomi.de^$3p"
+  ]
+}

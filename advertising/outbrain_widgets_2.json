@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Outbrain Widgets",
+  "category": "advertising",
+  "organization": "outbrain",
+  "domains": [],
+  "filters": [
+    "||widgetmonitor.outbrain.com/widgeterrormonitor/api/report"
+  ]
+}

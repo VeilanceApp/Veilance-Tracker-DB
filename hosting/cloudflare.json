@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Cloudflare",
+  "category": "hosting",
+  "website_url": "https://www.cloudflare.com/",
+  "organization": "cloudflare",
+  "domains": [
+    "cloudflare.com",
+    "cloudflare.net",
+    "cloudflarestream.com",
+    "pages.dev"
+  ],
+  "filters": []
+}

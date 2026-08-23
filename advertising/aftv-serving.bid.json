@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "aftv-serving.bid",
+  "category": "advertising",
+  "domains": [
+    "aftv-serving.bid"
+  ],
+  "filters": []
+}

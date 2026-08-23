@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "RapidSpike",
+  "category": "site_analytics",
+  "organization": "rapidspike",
+  "domains": [
+    "rapidspike.com"
+  ],
+  "filters": [
+    "||rapidspike.com/static/js/timingcg.min.js"
+  ]
+}

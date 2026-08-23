@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Feedsportal",
+  "category": "advertising",
+  "website_url": "http://www.mediafed.com/",
+  "organization": "mediafed",
+  "domains": [
+    "feedsportal.com"
+  ],
+  "filters": [
+    "||feedsportal.com^$3p"
+  ]
+}

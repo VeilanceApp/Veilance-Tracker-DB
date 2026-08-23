@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Vergic",
+  "category": "customer_interaction",
+  "website_url": "https://www.vergic.com/",
+  "domains": [
+    "vergic.com"
+  ],
+  "filters": []
+}

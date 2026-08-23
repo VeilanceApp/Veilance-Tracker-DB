@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Untriel Finger Printing",
+  "category": "site_analytics",
+  "organization": "untriel",
+  "domains": [
+    "src.kitcode.net"
+  ],
+  "filters": [
+    "||src.kitcode.net/fp2.js"
+  ]
+}

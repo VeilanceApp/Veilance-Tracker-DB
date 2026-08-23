@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Clickonometrics",
+  "category": "advertising",
+  "website_url": "http://clickonometrics.pl/",
+  "organization": "clickonometrics",
+  "domains": [
+    "clickonometrics.pl"
+  ],
+  "filters": [
+    "||clickonometrics.pl^$3p"
+  ]
+}

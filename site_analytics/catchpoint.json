@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Catchpoint",
+  "category": "site_analytics",
+  "website_url": "https://www.catchpoint.com/",
+  "organization": "catchpoint_systems",
+  "domains": [
+    "3gl.net"
+  ],
+  "filters": [
+    "||3gl.net^$3p"
+  ]
+}

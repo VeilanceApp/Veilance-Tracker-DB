@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Zimbio",
+  "category": "misc",
+  "website_url": "http://www.zimbio.com/",
+  "domains": [
+    "zimbio.com"
+  ],
+  "filters": []
+}

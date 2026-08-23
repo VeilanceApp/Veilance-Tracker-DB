@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Wistia",
+  "category": "site_analytics",
+  "website_url": "https://wistia.com/",
+  "organization": "wistia",
+  "domains": [],
+  "filters": [
+    "||distillery.wistia.com^$3p",
+    "||pipedream.wistia.com^$3p"
+  ]
+}

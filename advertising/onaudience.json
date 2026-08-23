@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "OnAudience",
+  "category": "advertising",
+  "website_url": "https://www.onaudience.com/",
+  "organization": "cloud_technologies",
+  "domains": [
+    "onaudience.com"
+  ],
+  "filters": [
+    "||api.behavioralengine.com/scripts/be-init.js",
+    "||onaudience.com^$3p"
+  ]
+}

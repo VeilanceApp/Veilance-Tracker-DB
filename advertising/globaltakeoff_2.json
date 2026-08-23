@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GlobalTakeoff",
+  "category": "advertising",
+  "website_url": "http://www.globaltakeoff.net/",
+  "organization": "globaltakeoff",
+  "domains": [
+    "ad.globaltakeoff.net"
+  ],
+  "filters": [
+    "||ad.globaltakeoff.net^$3p"
+  ]
+}

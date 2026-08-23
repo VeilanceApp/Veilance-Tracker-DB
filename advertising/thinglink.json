@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ThingLink",
+  "category": "advertising",
+  "website_url": "http://www.thinglink.com/",
+  "organization": "thinglink",
+  "domains": [
+    "thinglink.com"
+  ],
+  "filters": [
+    "||thinglink.com/jse/embed.js"
+  ]
+}

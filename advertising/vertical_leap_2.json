@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vertical Leap",
+  "category": "advertising",
+  "website_url": "http://www.vertical-leap.co.uk/",
+  "organization": "vertical_leap",
+  "domains": [
+    "roi.vertical-leap.co.uk"
+  ],
+  "filters": [
+    "||roi.vertical-leap.co.uk^$3p"
+  ]
+}

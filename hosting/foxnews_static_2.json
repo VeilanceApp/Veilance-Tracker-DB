@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Fox News CDN",
+  "category": "hosting",
+  "organization": "fox_news",
+  "domains": [
+    "fncstatic.com"
+  ],
+  "filters": []
+}

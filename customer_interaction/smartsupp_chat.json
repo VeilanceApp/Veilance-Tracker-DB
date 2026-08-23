@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Smartsupp Chat",
+  "category": "customer_interaction",
+  "organization": "smartsuppp",
+  "domains": [
+    "smartsuppchat.com",
+    "smartsuppcdn.com"
+  ],
+  "filters": [
+    "||smartsuppchat.com/loader.js"
+  ]
+}

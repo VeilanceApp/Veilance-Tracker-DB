@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Peer39",
+  "category": "advertising",
+  "website_url": "https://www.peer39.com/",
+  "organization": "peer39",
+  "domains": [
+    "peer39.com",
+    "peer39.net"
+  ],
+  "filters": [
+    "||peer39.net^$3p"
+  ]
+}

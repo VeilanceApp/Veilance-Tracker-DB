@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sojern",
+  "category": "advertising",
+  "website_url": "https://www.sojern.com/",
+  "organization": "sojern",
+  "domains": [
+    "sojern.com"
+  ],
+  "filters": [
+    "||sojern.com^$3p"
+  ]
+}

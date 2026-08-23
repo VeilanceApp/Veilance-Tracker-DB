@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Loop11",
+  "category": "site_analytics",
+  "organization": "360i",
+  "domains": [
+    "loop11.com"
+  ],
+  "filters": [
+    "||cdn.loop11.com^$3p"
+  ]
+}

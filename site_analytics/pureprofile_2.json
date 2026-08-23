@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pureprofile",
+  "category": "site_analytics",
+  "organization": "pureprofile",
+  "domains": [
+    "cdn.pprl.io"
+  ],
+  "filters": [
+    "||cdn.pprl.io/js/",
+    "||cdn.pprl.io/js/salmat.js"
+  ]
+}

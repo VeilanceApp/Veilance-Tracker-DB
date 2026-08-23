@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "NTENT",
+  "category": "advertising",
+  "website_url": "http://www.verticalsearchworks.com",
+  "organization": "ntent",
+  "domains": [
+    "featurelink.com"
+  ],
+  "filters": [
+    "||featurelink.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Rebel Mouse",
+  "category": "site_analytics",
+  "organization": "rebelmouse",
+  "domains": [
+    "static.rbl.ms"
+  ],
+  "filters": [
+    "||static.rbl.ms/static/js-build/lazy_libs.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Digital Nomads",
+  "category": "advertising",
+  "website_url": "http://dnomads.net/",
+  "domains": [
+    "adtag.cc"
+  ],
+  "filters": []
+}

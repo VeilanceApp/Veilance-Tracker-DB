@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "cdnetworks.net",
+  "category": "hosting",
+  "website_url": "https://www.cdnetworks.com/",
+  "domains": [
+    "cdnetworks.com",
+    "cdnetworks.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Aidata",
+  "category": "advertising",
+  "website_url": "https://aidata.me/",
+  "organization": "aidata",
+  "domains": [
+    "advombat.ru",
+    "aidata.io"
+  ],
+  "filters": [
+    "||advombat.ru^$3p"
+  ]
+}

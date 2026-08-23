@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AddShoppers",
+  "category": "social_media",
+  "website_url": "https://www.addshoppers.com/",
+  "organization": "addshoppers",
+  "domains": [
+    "addshoppers.com",
+    "shop.pe"
+  ],
+  "filters": [
+    "||addshoppers.com/widget",
+    "||shop.pe/widget"
+  ]
+}

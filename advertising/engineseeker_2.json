@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "EngineSeeker",
+  "category": "advertising",
+  "website_url": "http://www.engineseeker.com/",
+  "organization": "engineseeker",
+  "domains": [
+    "engineseeker.com"
+  ],
+  "filters": [
+    "||engineseeker.com^$3p"
+  ]
+}

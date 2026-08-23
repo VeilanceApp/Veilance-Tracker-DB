@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PriceGrabber",
+  "category": "advertising",
+  "website_url": "http://www.pricegrabber.com",
+  "organization": "pricegrabber",
+  "domains": [
+    "pricegrabber.com"
+  ],
+  "filters": [
+    "||pricegrabber.com/conversion.php"
+  ]
+}

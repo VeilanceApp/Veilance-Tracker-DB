@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Google User Content",
+  "category": "hosting",
+  "organization": "google",
+  "domains": [
+    "googleusercontent.com"
+  ],
+  "filters": [
+    "||oauth.googleusercontent.com/gadgets/js"
+  ]
+}

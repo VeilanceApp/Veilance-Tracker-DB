@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Ocioso",
+  "category": "social_media",
+  "website_url": "https://ocioso.com.br/",
+  "organization": "ocioso",
+  "domains": [
+    "ocioso.com.br"
+  ],
+  "filters": [
+    "||ocioso.com.br/compartilhe",
+    "||ocioso.com.br/troca-de-links"
+  ]
+}

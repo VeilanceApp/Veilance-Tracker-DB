@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Twiago",
+  "category": "advertising",
+  "website_url": "https://www.twiago.com/",
+  "organization": "twiago",
+  "domains": [
+    "twiago.com"
+  ],
+  "filters": [
+    "||a.twiago.com/adframe",
+    "||a.twiago.com/rtb/getusermatch.php"
+  ]
+}

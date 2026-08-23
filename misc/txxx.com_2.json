@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "txxx.com",
+  "category": "misc",
+  "website_url": "https://txxx.com",
+  "domains": [
+    "txxx.com"
+  ],
+  "filters": []
+}

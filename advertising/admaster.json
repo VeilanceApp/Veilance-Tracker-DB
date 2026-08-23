@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdMaster",
+  "category": "advertising",
+  "website_url": "http://admaster.net",
+  "organization": "admaster",
+  "domains": [
+    "admaster.net",
+    "cdnmaster.com"
+  ],
+  "filters": [
+    "||admaster.net^$3p",
+    "||cdnmaster.com/sitemaster/collect.js"
+  ]
+}

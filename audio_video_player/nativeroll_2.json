@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Nativeroll",
+  "category": "audio_video_player",
+  "organization": "native_roll",
+  "domains": [
+    "cdn01.nativeroll.tv"
+  ],
+  "filters": [
+    "||cdn01.nativeroll.tv/js/seedr-player.min.js"
+  ]
+}

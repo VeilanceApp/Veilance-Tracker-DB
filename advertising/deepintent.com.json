@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DeepIntent",
+  "category": "advertising",
+  "website_url": "https://www.deepintent.com/",
+  "organization": "deep_intent",
+  "domains": [
+    "deepintent.com"
+  ],
+  "filters": [
+    "||match.deepintent.com/usersync"
+  ]
+}

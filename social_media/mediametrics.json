@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mediametrics",
+  "category": "social_media",
+  "organization": "mediametrics",
+  "domains": [
+    "mediametrics.ru"
+  ],
+  "filters": [
+    "||mediametrics.ru/inject/inject.js"
+  ]
+}

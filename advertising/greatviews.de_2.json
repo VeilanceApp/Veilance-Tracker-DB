@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "GreatViews",
+  "category": "advertising",
+  "website_url": "http://greatviews.de/",
+  "organization": "parship",
+  "domains": [
+    "greatviews.de"
+  ],
+  "filters": []
+}

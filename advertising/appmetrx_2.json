@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AppMetrx",
+  "category": "advertising",
+  "website_url": "http://www.engago.com",
+  "organization": "engago_technologies",
+  "domains": [
+    "appmetrx.com"
+  ],
+  "filters": [
+    "||appmetrx.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VietAd",
+  "category": "advertising",
+  "website_url": "https://vietad.vn/",
+  "organization": "vietad",
+  "domains": [
+    "vietad.vn"
+  ],
+  "filters": [
+    "||vietad.vn^$3p"
+  ]
+}

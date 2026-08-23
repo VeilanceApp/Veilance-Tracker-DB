@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Rackspace",
+  "category": "hosting",
+  "website_url": "https://www.rackspace.com/",
+  "domains": [
+    "rackcdn.com"
+  ],
+  "filters": []
+}

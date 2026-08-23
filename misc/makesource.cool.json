@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "makesource.cool",
+  "category": "misc",
+  "domains": [
+    "makesource.cool"
+  ],
+  "filters": []
+}

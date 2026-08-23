@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Rakuten Widget",
+  "category": "advertising",
+  "organization": "rakuten",
+  "domains": [
+    "mtwidget04.affiliate.rakuten.co.jp",
+    "xml.affilliate.rakuten.co.jp"
+  ],
+  "filters": [
+    "||mtwidget04.affiliate.rakuten.co.jp^$3p",
+    "||xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js"
+  ]
+}

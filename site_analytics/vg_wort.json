@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VG Wort",
+  "category": "site_analytics",
+  "website_url": "https://tom.vgwort.de/portal/showHelp",
+  "organization": "vg_wort",
+  "domains": [
+    "vgwort.de"
+  ],
+  "filters": [
+    "||met.vgwort.de^$3p"
+  ]
+}

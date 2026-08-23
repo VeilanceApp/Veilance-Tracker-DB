@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Visible Measures",
+  "category": "advertising",
+  "website_url": "https://www.visiblemeasures.com/",
+  "organization": "visible_measures",
+  "domains": [
+    "viewablemedia.net",
+    "visiblemeasures.com"
+  ],
+  "filters": [
+    "||viewablemedia.net^$3p",
+    "||visiblemeasures.com^$3p"
+  ]
+}

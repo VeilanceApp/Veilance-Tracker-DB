@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Switch",
+  "category": "site_analytics",
+  "website_url": "https://switchgrowth.com/",
+  "organization": "switch_growth",
+  "domains": [
+    "switchgrowth.com"
+  ],
+  "filters": [
+    "||switchgrowth.com^$3p"
+  ]
+}

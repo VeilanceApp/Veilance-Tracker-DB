@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdTrustMedia",
+  "category": "advertising",
+  "website_url": "https://adtrustmedia.com/",
+  "organization": "adtrustmedia",
+  "domains": [
+    "adtrustmedia.com"
+  ],
+  "filters": [
+    "||adtrustmedia.com^$3p"
+  ]
+}

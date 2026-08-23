@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Spicy",
+  "category": "advertising",
+  "organization": "spicy_ssp",
+  "domains": [
+    "static.sspicy.ru"
+  ],
+  "filters": [
+    "||adv.sspicy.ru/load",
+    "||static.sspicy.ru/theme/sspicy/adload_async.js"
+  ]
+}

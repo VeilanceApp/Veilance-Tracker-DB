@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "QCRI Analytics",
+  "category": "site_analytics",
+  "website_url": "http://qcri.org/",
+  "organization": "qatar_computing_research_institute",
+  "domains": [
+    "track.qcri.org"
+  ],
+  "filters": [
+    "||track.qcri.org^$3p"
+  ]
+}

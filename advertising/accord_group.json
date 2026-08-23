@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Accord Group",
+  "category": "advertising",
+  "website_url": "http://www.accordgroup.co.uk/",
+  "organization": "accord_group",
+  "domains": [
+    "agcdn.com"
+  ],
+  "filters": [
+    "||agcdn.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "geoPlugin",
+  "category": "site_analytics",
+  "website_url": "http://www.geoplugin.com/",
+  "organization": "geoplugin",
+  "domains": [
+    "geoplugin.net"
+  ],
+  "filters": [
+    "||geoplugin.net^$3p"
+  ]
+}

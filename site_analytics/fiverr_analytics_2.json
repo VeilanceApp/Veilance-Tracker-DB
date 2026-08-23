@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Fiverr Analytics",
+  "category": "site_analytics",
+  "organization": "fiverr",
+  "domains": [
+    "fiverr.com"
+  ],
+  "filters": []
+}

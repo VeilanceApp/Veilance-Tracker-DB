@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Pusher",
+  "category": "site_analytics",
+  "website_url": "https://pusher.com/",
+  "domains": [
+    "pusher.com",
+    "pusherapp.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Quartic",
+  "category": "site_analytics",
+  "website_url": "https://www.quarticon.com/",
+  "organization": "quarticon",
+  "domains": [
+    "quartic.pl",
+    "quarticon.com"
+  ],
+  "filters": [
+    "||rec.quartic.pl^$3p"
+  ]
+}

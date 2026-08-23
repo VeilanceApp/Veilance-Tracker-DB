@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Kanoodle",
+  "category": "advertising",
+  "website_url": "http://www.kanoodle.com/",
+  "organization": "kanoodle",
+  "domains": [
+    "kanoodle.com"
+  ],
+  "filters": [
+    "||kanoodle.com^$3p"
+  ]
+}

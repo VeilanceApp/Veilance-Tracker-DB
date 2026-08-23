@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SearchForce",
+  "category": "advertising",
+  "website_url": "http://www.searchforce.com/",
+  "organization": "searchforce",
+  "domains": [
+    "searchforce.net"
+  ],
+  "filters": [
+    "||searchforce.net^$3p"
+  ]
+}

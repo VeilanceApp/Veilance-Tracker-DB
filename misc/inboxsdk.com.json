@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Inbox SDK",
+  "category": "misc",
+  "website_url": "https://www.inboxsdk.com/",
+  "domains": [
+    "inboxsdk.com"
+  ],
+  "filters": []
+}

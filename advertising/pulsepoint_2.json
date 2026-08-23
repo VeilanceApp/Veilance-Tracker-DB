@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "PulsePoint",
+  "category": "advertising",
+  "website_url": "https://www.contextweb.com/",
+  "organization": "pulsepoint_ad_exchange",
+  "domains": [
+    "contextweb.com",
+    "pulsepoint.com"
+  ],
+  "filters": [
+    "||contextweb.com^$3p"
+  ]
+}

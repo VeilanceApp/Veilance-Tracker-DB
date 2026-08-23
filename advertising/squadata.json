@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Squadata",
+  "category": "advertising",
+  "website_url": "http://www.email-match.net/",
+  "organization": "squadata",
+  "domains": [
+    "email-match.com"
+  ],
+  "filters": [
+    "||asset.email-match.com^$3p",
+    "||atout.email-match.com^$3p"
+  ]
+}

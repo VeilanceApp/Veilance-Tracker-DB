@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Broadstreet",
+  "category": "advertising",
+  "website_url": "https://broadstreetads.com/",
+  "organization": "broadstreet",
+  "domains": [
+    "broadstreetads.com"
+  ],
+  "filters": [
+    "||broadstreetads.com^$3p"
+  ]
+}

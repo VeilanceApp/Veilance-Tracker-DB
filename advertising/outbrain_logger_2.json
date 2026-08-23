@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Outbrain Logger",
+  "category": "advertising",
+  "organization": "outbrain",
+  "domains": [],
+  "filters": [
+    "||log.outbrain.com/loggerservices/widgetglobalevent"
+  ]
+}

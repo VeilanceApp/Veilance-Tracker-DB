@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Wufoo",
+  "category": "customer_interaction",
+  "website_url": "https://www.wufoo.com/",
+  "organization": "surveymonkey",
+  "domains": [
+    "wufoo.com"
+  ],
+  "filters": [
+    "||wufoo.com^$3p"
+  ]
+}

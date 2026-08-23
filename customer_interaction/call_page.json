@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Call Page",
+  "category": "customer_interaction",
+  "organization": "call_page",
+  "domains": [
+    "callpage.io"
+  ],
+  "filters": [
+    "||api.callpage.io/themes/widget/build/js/callpage.js",
+    "||cdn-widget.callpage.io/build/js/callpage.js"
+  ]
+}

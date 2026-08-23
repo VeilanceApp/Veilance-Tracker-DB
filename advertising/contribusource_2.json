@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Contribusource",
+  "category": "advertising",
+  "organization": "contribusource",
+  "domains": [
+    "s2.contribusourcesyndication.com"
+  ],
+  "filters": [
+    "||s2.contribusourcesyndication.com/trending.js.php"
+  ]
+}

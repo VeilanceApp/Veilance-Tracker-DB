@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "WysiStat",
+  "category": "site_analytics",
+  "website_url": "https://www.wysistat.net/",
+  "organization": "wysistat",
+  "domains": [
+    "wysistat.com",
+    "wysistat.net"
+  ],
+  "filters": [
+    "||wysistat.com^$3p"
+  ]
+}

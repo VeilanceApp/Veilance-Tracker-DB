@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Crisp",
+  "category": "customer_interaction",
+  "organization": "crisp",
+  "domains": [
+    "crisp.chat",
+    "crisp.im"
+  ],
+  "filters": [
+    "||client.crisp.chat^$3p",
+    "||client.crisp.im^$3p",
+    "||settings.crisp.chat^$3p"
+  ]
+}

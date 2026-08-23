@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdStage",
+  "category": "advertising",
+  "website_url": "https://www.adstage.io/",
+  "organization": "adstage",
+  "domains": [
+    "adstage-analytics.herokuapp.com"
+  ],
+  "filters": [
+    "||adstage-analytics.herokuapp.com^$3p"
+  ]
+}

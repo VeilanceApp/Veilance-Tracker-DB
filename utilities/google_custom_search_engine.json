@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Google Programmable Search Engine",
+  "category": "utilities",
+  "website_url": "https://programmablesearchengine.google.com/about/",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||google.com/afsonline/show_afs_search.js",
+    "||google.com/coop/cse/brand",
+    "||gstatic.com/prose/brandjs.js"
+  ]
+}

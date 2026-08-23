@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Google Trusted Stores",
+  "category": "site_analytics",
+  "organization": "google",
+  "domains": [
+    "googlecommerce.com"
+  ],
+  "filters": [
+    "||googlecommerce.com/trustedstores/gtmp_compiled.js"
+  ]
+}

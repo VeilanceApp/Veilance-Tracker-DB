@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "InSkin Media",
+  "category": "advertising",
+  "website_url": "http://www.inskinmedia.com/",
+  "organization": "inskin_media",
+  "domains": [
+    "inskinad.com",
+    "inskinmedia.com"
+  ],
+  "filters": [
+    "||inskinad.com^$3p",
+    "||inskinmedia.com^$3p"
+  ]
+}

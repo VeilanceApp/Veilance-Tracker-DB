@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickInText",
+  "category": "advertising",
+  "website_url": "https://www.clickintext.com/",
+  "organization": "clickintext",
+  "domains": [
+    "clickintext.net"
+  ],
+  "filters": [
+    "||clickintext.net^$3p"
+  ]
+}

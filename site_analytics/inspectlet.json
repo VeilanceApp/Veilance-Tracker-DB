@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Inspectlet",
+  "category": "site_analytics",
+  "website_url": "https://www.inspectlet.com/",
+  "organization": "inspectlet",
+  "domains": [
+    "inspectlet.com"
+  ],
+  "filters": [
+    "||inspectlet.com^$3p"
+  ]
+}

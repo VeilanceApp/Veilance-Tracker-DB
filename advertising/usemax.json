@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Usemax",
+  "category": "advertising",
+  "website_url": "http://www.usemax.de",
+  "organization": "usemax",
+  "domains": [
+    "usemax.de",
+    "usemaxserver.de"
+  ],
+  "filters": [
+    "||usemax.de^$3p"
+  ]
+}

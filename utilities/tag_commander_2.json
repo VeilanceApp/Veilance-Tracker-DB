@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Commanders Act",
+  "category": "utilities",
+  "website_url": "https://www.commandersact.com/en/",
+  "organization": "tag_commander",
+  "domains": [
+    "commander1.com",
+    "tagcommander.com"
+  ],
+  "filters": [
+    "||commander1.com^$3p",
+    "||tagcommander.com^$3p"
+  ]
+}

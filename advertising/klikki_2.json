@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Klikki",
+  "category": "advertising",
+  "website_url": "https://www.klikki.com/",
+  "organization": "klikki",
+  "domains": [
+    "klikki.com"
+  ],
+  "filters": [
+    "||klikki.com^$3p"
+  ]
+}

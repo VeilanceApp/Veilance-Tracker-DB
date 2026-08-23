@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "RTBmarkt",
+  "category": "advertising",
+  "website_url": "https://www.rtbmarkt.de/en/home/",
+  "organization": "rtbmarkt",
+  "domains": [
+    "rvty.net"
+  ],
+  "filters": [
+    "||rvty.net^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Deutsche Bahn",
+  "category": "misc",
+  "domains": [
+    "bahn.de",
+    "img-bahn.de"
+  ],
+  "filters": []
+}

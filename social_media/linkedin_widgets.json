@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "LinkedIn Widgets",
+  "category": "social_media",
+  "website_url": "https://www.linkedin.com",
+  "organization": "microsoft",
+  "domains": [
+    "platform.linkedin.com"
+  ],
+  "filters": [
+    "||api.linkedin.com/v1/people/~/shares",
+    "||platform.linkedin.com^$3p"
+  ]
+}

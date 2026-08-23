@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "StatusCake",
+  "category": "site_analytics",
+  "website_url": "https://www.statuscake.com/",
+  "organization": "statuscake",
+  "domains": [
+    "statuscake.com"
+  ],
+  "filters": [
+    "||statuscake.com/app/$3p"
+  ]
+}

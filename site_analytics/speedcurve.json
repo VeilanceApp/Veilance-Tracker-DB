@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SpeedCurve",
+  "category": "site_analytics",
+  "website_url": "https://speedcurve.com/",
+  "domains": [
+    "speedcurve.com"
+  ],
+  "filters": []
+}

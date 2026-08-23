@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "HERE",
+  "category": "misc",
+  "website_url": "https://www.here.com/",
+  "domains": [
+    "here.com"
+  ],
+  "filters": []
+}

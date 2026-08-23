@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Interpolls",
+  "category": "advertising",
+  "website_url": "https://www.interpolls.com/",
+  "organization": "interpolls",
+  "domains": [
+    "interpolls.com"
+  ],
+  "filters": [
+    "||hs.interpolls.com^$3p",
+    "||sw.interpolls.com^$3p"
+  ]
+}

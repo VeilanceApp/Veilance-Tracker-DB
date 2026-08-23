@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ADman Media",
+  "category": "advertising",
+  "organization": "ad_man_media",
+  "domains": [
+    "admanmedia.com"
+  ],
+  "filters": [
+    "||admanmedia.com^$3p"
+  ]
+}

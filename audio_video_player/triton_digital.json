@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Triton Digital",
+  "category": "audio_video_player",
+  "website_url": "https://www.tritondigital.com/",
+  "organization": "triton_digital",
+  "domains": [
+    "andomedia.com",
+    "tritondigital.com"
+  ],
+  "filters": [
+    "||andomedia.com^$3p",
+    "||tritondigital.com^$3p"
+  ]
+}

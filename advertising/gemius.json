@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Gemius",
+  "category": "advertising",
+  "website_url": "http://www.gemius.com",
+  "organization": "gemius_sa",
+  "domains": [
+    "gemius.pl"
+  ],
+  "filters": [
+    "/xgemius.js",
+    "||gasurvey.gemius.com^$3p",
+    "||hit.gemius.pl^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Scout Analytics",
+  "category": "advertising",
+  "website_url": "https://scoutanalytics.com/",
+  "organization": "scout_analytics",
+  "domains": [
+    "scout.scoutanalytics.net"
+  ],
+  "filters": [
+    "||scout.scoutanalytics.net^$3p"
+  ]
+}

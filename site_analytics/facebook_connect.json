@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Facebook Connect",
+  "category": "site_analytics",
+  "website_url": "https://developers.facebook.com/connect.php",
+  "organization": "facebook",
+  "domains": [],
+  "filters": [
+    "/fbconnect.js",
+    "||static.ak.connect.facebook.com/*.js.php^$3p",
+    "||cdn.atlassbx.com^$3p",
+    "||connect.facebook.net^$3p",
+    "||facebook.com/connect",
+    "||facebook.com/v2.0/connect"
+  ]
+}

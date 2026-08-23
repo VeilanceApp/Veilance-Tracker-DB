@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reklam Store",
+  "category": "advertising",
+  "website_url": "http://www.reklamstore.com",
+  "organization": "reklam_store",
+  "domains": [
+    "reklamstore.com"
+  ],
+  "filters": [
+    "||reklamstore.com^$3p"
+  ]
+}

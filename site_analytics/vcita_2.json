@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vcita",
+  "category": "site_analytics",
+  "organization": "vcita",
+  "domains": [
+    "vcita.com"
+  ],
+  "filters": [
+    "||impress.vcita.com/imp/",
+    "||vcita.com/widgets/active_engage/configuration"
+  ]
+}

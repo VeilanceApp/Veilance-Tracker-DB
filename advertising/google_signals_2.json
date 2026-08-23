@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Google Analytics with signals",
+  "category": "advertising",
+  "website_url": "https://support.google.com/analytics/answer/9445345?hl=en#zippy=%2Cin-this-article",
+  "organization": "google",
+  "domains": [
+    "analytics.google.com"
+  ],
+  "filters": [
+    "||analytics.google.com^$third-party",
+    "||region1.analytics.google.com^$third-party"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Refericon",
+  "category": "advertising",
+  "website_url": "https://refericon.pl/#",
+  "organization": "refericon",
+  "domains": [
+    "refericon.pl"
+  ],
+  "filters": [
+    "||app.refericon.pl/js"
+  ]
+}

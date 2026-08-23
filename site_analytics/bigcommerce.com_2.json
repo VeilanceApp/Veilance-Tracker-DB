@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "BigCommerce",
+  "category": "site_analytics",
+  "website_url": "https://www.bigcommerce.com/",
+  "organization": "bigcommerce",
+  "domains": [
+    "bigcommerce.com"
+  ],
+  "filters": []
+}

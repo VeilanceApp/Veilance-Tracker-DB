@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Pinterest Conversion Tracker",
+  "category": "site_analytics",
+  "organization": "pinterest",
+  "domains": [],
+  "filters": [
+    "||s.pinimg.com/ct/core.js"
+  ]
+}

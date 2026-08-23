@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Digicert Trust Seal",
+  "category": "utilities",
+  "website_url": "https://www.digicert.com/",
+  "organization": "digicert",
+  "domains": [
+    "digicert.com"
+  ],
+  "filters": [
+    "||seal.digicert.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Knoopstat",
+  "category": "site_analytics",
+  "organization": "knoopstat",
+  "domains": [
+    "knoopstat.nl"
+  ],
+  "filters": [
+    "||knoopstat.nl/stat/knoopstat.cgi"
+  ]
+}

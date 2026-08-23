@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Circulate",
+  "category": "site_analytics",
+  "organization": "circulate",
+  "domains": [
+    "data.circulate.com"
+  ],
+  "filters": [
+    "||data.circulate.com/dapi/data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "adMOST",
+  "category": "advertising",
+  "website_url": "http://www.admost.com/",
+  "organization": "admost",
+  "domains": [
+    "run.admost.com"
+  ],
+  "filters": [
+    "||run.admost.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SundaySky",
+  "category": "advertising",
+  "website_url": "https://www.sundaysky.com/",
+  "organization": "sundaysky",
+  "domains": [
+    "sundaysky.com"
+  ],
+  "filters": [
+    "||vop.sundaysky.com^$3p"
+  ]
+}

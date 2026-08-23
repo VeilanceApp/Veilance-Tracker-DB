@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Google Tag",
+  "category": "advertising",
+  "website_url": "https://developers.google.com/tag-platform/gtagjs",
+  "organization": "google",
+  "domains": [
+    "googletagmanager.com"
+  ],
+  "filters": [
+    "||googletagmanager.com/gtag/js?id=$3p",
+    "||googletagmanager.com/gtag/destination$3p"
+  ]
+}

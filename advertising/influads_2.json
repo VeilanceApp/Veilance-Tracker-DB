@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "InfluAds",
+  "category": "advertising",
+  "website_url": "http://www.influads.com/",
+  "organization": "influads",
+  "domains": [
+    "engine.influads.com"
+  ],
+  "filters": [
+    "||engine.influads.com^$3p"
+  ]
+}

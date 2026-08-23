@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Livesport Media",
+  "category": "misc",
+  "website_url": "https://www.livesportmedia.eu/",
+  "domains": [
+    "livesportmedia.eu"
+  ],
+  "filters": []
+}

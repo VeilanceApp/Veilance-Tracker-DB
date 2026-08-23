@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Rekmob",
+  "category": "advertising",
+  "organization": "rekmob",
+  "domains": [
+    "adimg.rekmob.com"
+  ],
+  "filters": [
+    "||adimg.rekmob.com/js/rekmob.js"
+  ]
+}

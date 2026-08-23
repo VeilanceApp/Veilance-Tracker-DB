@@ -1,0 +1,21 @@
+{
+  "format": "veilance-json",
+  "name": "eBuzzing",
+  "category": "advertising",
+  "website_url": "http://www.ebuzzing.com/",
+  "organization": "ebuzzing",
+  "domains": [
+    "beead.co.uk",
+    "beead.fr",
+    "beead.net",
+    "ebuzzing.com",
+    "ebz.io"
+  ],
+  "filters": [
+    "||beead.co.uk^$3p",
+    "||beead.fr^$3p",
+    "||beead.net^$3p",
+    "||ebuzzing.com^$3p",
+    "||ebz.io^$3p"
+  ]
+}

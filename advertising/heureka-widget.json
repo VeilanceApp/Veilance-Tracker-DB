@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Heureka-Widget",
+  "category": "advertising",
+  "organization": "heureka",
+  "domains": [
+    "heureka.cz"
+  ],
+  "filters": [
+    "||heureka.cz/direct/i/gjs.php"
+  ]
+}

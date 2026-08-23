@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "expo-MAX",
+  "category": "advertising",
+  "website_url": "http://expo-max.com/",
+  "organization": "expo-max",
+  "domains": [
+    "expo-max.com"
+  ],
+  "filters": [
+    "||expo-max.com^$3p"
+  ]
+}

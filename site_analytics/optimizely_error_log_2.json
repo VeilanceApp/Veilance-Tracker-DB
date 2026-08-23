@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Optimizely Error Log",
+  "category": "site_analytics",
+  "organization": "optimizely",
+  "domains": [],
+  "filters": [
+    "||errors.client.optimizely.com/log"
+  ]
+}

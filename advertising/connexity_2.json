@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Connexity",
+  "category": "advertising",
+  "website_url": "http://www.connexity.com",
+  "organization": "shopzilla",
+  "domains": [
+    "connexity.net",
+    "cxt.ms"
+  ],
+  "filters": [
+    "||connexity.net^$3p",
+    "||cxt.ms^$3p"
+  ]
+}

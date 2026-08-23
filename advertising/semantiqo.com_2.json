@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Semantiqo",
+  "category": "advertising",
+  "website_url": "https://semantiqo.com/",
+  "domains": [
+    "semantiqo.com"
+  ],
+  "filters": []
+}

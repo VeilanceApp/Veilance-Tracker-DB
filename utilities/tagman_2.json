@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TagMan",
+  "category": "utilities",
+  "website_url": "http://www.tagman.com/",
+  "organization": "ensighten",
+  "domains": [
+    "levexis.com"
+  ],
+  "filters": [
+    "||levexis.com^$3p"
+  ]
+}

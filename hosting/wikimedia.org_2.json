@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "WikiMedia",
+  "category": "hosting",
+  "website_url": "https://wikimediafoundation.org/",
+  "organization": "wikimedia_foundation",
+  "domains": [
+    "wikimedia.org",
+    "wikipedia.org",
+    "wikiquote.org"
+  ],
+  "filters": []
+}

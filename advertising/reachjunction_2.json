@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ReachJunction",
+  "category": "advertising",
+  "website_url": "https://www.reachjunction.com/",
+  "organization": "reachjunction",
+  "domains": [
+    "reachjunction.com"
+  ],
+  "filters": [
+    "||reachjunction.com^$3p"
+  ]
+}

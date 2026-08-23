@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Carrot Quest",
+  "category": "site_analytics",
+  "organization": "carrot_quest",
+  "domains": [
+    "cdn.carrotquest.io"
+  ],
+  "filters": [
+    "||cdn.carrotquest.io/api.min.js"
+  ]
+}

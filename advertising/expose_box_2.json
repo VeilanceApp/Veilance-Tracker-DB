@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Expose Box",
+  "category": "advertising",
+  "organization": "expose_box",
+  "domains": [
+    "server.exposebox.com"
+  ],
+  "filters": [
+    "||server.exposebox.com/dmp.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Caltat",
+  "category": "customer_interaction",
+  "website_url": "https://caltat.com/",
+  "domains": [
+    "caltat.com"
+  ],
+  "filters": []
+}

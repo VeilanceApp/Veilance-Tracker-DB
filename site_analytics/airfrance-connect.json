@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AirFrance Connect",
+  "category": "site_analytics",
+  "website_url": "https://airfrance.com/",
+  "organization": "airfranceklm",
+  "domains": [
+    "connect.airfrance.com",
+    "connect.klm.com"
+  ],
+  "filters": [
+    "||connect.airfrance.com/ach/api/event^",
+    "||connect.klm.com/ach/api/event^"
+  ]
+}

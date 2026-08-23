@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Ad2Click",
+  "category": "advertising",
+  "organization": "ad2click_media",
+  "domains": [
+    "ad2click.go2cloud.org"
+  ],
+  "filters": [
+    "||ad2click.go2cloud.org^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "4Chan",
+  "category": "misc",
+  "website_url": "https://www.4chan.org/",
+  "domains": [
+    "4cdn.org"
+  ],
+  "filters": []
+}

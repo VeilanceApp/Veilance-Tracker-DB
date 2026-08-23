@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Sortable",
+  "category": "advertising",
+  "website_url": "https://sortable.com/",
+  "organization": "sortable",
+  "domains": [
+    "deployads.com"
+  ],
+  "filters": [
+    "||c.deployads.com/sync",
+    "||cdn.deployads.com/a/macdailynews.com.js",
+    "||e.deployads.com/e/um.js"
+  ]
+}

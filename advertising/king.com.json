@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "King.com",
+  "category": "advertising",
+  "organization": "king.com",
+  "domains": [
+    "king.com"
+  ],
+  "filters": []
+}

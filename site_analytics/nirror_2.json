@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Nirror",
+  "category": "site_analytics",
+  "website_url": "https://www.nirror.com/",
+  "organization": "nirror",
+  "domains": [
+    "static.nirror.com"
+  ],
+  "filters": [
+    "||static.nirror.com^$3p"
+  ]
+}

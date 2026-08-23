@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AMP Platform",
+  "category": "advertising",
+  "website_url": "https://www.collective.com/",
+  "organization": "collective",
+  "domains": [
+    "collective-media.net"
+  ],
+  "filters": [
+    "||collective-media.net^$3p"
+  ]
+}

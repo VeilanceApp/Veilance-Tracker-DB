@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Confirmit",
+  "category": "advertising",
+  "website_url": "https://confirmit.com/",
+  "organization": "confirmit",
+  "domains": [
+    "confirmit.com"
+  ],
+  "filters": [
+    "||confirmit.com^$3p"
+  ]
+}

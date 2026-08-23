@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Epsilon",
+  "category": "advertising",
+  "website_url": "https://www.epsilon.com/",
+  "organization": "epsilon",
+  "domains": [
+    "fastclick.net",
+    "mediaplex.com",
+    "mplxtms.com"
+  ],
+  "filters": [
+    "||fastclick.net^$3p",
+    "||mediaplex.com^$3p",
+    "||mplxtms.com^$3p"
+  ]
+}

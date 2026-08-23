@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "AdPlan",
+  "category": "advertising",
+  "website_url": "http://www.adplan.ne.jp/",
+  "organization": "adplan",
+  "domains": [
+    "adplan-ds.com",
+    "advg.jp",
+    "c.p-advg.com"
+  ],
+  "filters": [
+    "||adplan-ds.com^$3p",
+    "||advg.jp^$3p",
+    "||c.p-advg.com^$3p"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "AdSupply",
+  "category": "advertising",
+  "website_url": "http://www.adsupply.com/",
+  "organization": "adsupply",
+  "domains": [
+    "4dsply.com",
+    "cdn.engine.adsupply.com",
+    "trklnks.com"
+  ],
+  "filters": [
+    "||3jmcwio.com^$3p",
+    "||4dsply.com^$3p",
+    "||cdn.engine.adsupply.com^$3p",
+    "||cdn.lepinsar.com/Scripts/MediaScripts/b.js",
+    "||trklnks.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Airpush",
+  "category": "advertising",
+  "organization": "airpush",
+  "domains": [
+    "ab.airpush.com"
+  ],
+  "filters": [
+    "||ab.airpush.com/apportal/client/airpush.js"
+  ]
+}

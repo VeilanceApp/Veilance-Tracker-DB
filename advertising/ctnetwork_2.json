@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CTnetwork",
+  "category": "advertising",
+  "website_url": "http://ctnetwork.hu/",
+  "organization": "ctnetwork",
+  "domains": [
+    "ctnetwork.hu"
+  ],
+  "filters": [
+    "||ctnetwork.hu^$3p"
+  ]
+}

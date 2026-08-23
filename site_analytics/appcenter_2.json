@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AppCenter",
+  "category": "site_analytics",
+  "website_url": "https://api.appcenter.it/",
+  "organization": "monforte",
+  "domains": [
+    "api.appcenter.it"
+  ],
+  "filters": [
+    "||api.appcenter.it^$xhr"
+  ]
+}

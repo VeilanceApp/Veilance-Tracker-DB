@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Assertive Communications",
+  "category": "advertising",
+  "website_url": "https://assertcom.de/",
+  "organization": "assertive_communications",
+  "domains": [
+    "assertcom.de"
+  ],
+  "filters": [
+    "||api.assertcom.de^$3p"
+  ]
+}

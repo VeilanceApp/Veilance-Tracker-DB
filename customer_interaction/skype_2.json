@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Skype",
+  "category": "customer_interaction",
+  "website_url": "http://www.skype.com",
+  "organization": "microsoft",
+  "domains": [
+    "skype.com",
+    "skypeassets.com"
+  ],
+  "filters": [
+    "||cdn.dev.skype.com/uri/",
+    "||download.skype.com/share/skypebuttons/",
+    "||mystatus.skype.com^$3p",
+    "||skypeassets.com/i/scom/"
+  ]
+}

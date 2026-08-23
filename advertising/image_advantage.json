@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Image Advantage",
+  "category": "advertising",
+  "website_url": "http://www.worthathousandwords.com/",
+  "organization": "image_advantage",
+  "domains": [
+    "worthathousandwords.com"
+  ],
+  "filters": [
+    "||worthathousandwords.com^$3p"
+  ]
+}

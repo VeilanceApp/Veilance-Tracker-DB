@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adrecord",
+  "category": "advertising",
+  "website_url": "https://www.adrecord.com/",
+  "organization": "adrecord",
+  "domains": [
+    "adrecord.com"
+  ],
+  "filters": [
+    "||adrecord.com^$3p"
+  ]
+}

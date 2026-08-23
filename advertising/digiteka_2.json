@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Digiteka",
+  "category": "advertising",
+  "organization": "digiteka",
+  "domains": [
+    "digiteka.net",
+    "ultimedia.com"
+  ],
+  "filters": [
+    "||ultimedia.com/api/widget/getwidget",
+    "||ultimedia.com/deliver/statistiques/tagcall",
+    "||ultimedia.com/js",
+    "||ultimedia.com/jw/dtkplayer.js"
+  ]
+}

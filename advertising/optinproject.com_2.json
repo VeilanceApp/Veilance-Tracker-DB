@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "OptinProject",
+  "category": "advertising",
+  "website_url": "https://www.optincollect.com/en",
+  "organization": "optincollect",
+  "domains": [
+    "optincollect.com"
+  ],
+  "filters": []
+}

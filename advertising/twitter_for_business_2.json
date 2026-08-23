@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "X Business",
+  "category": "advertising",
+  "website_url": "https://business.twitter.com/",
+  "organization": "twitter",
+  "domains": [
+    "tellapart.com"
+  ],
+  "filters": [
+    "||sslt.tellapart.com^$3p",
+    "||t.tellapart.com^$3p",
+    "||tellapart.com/crumb"
+  ]
+}

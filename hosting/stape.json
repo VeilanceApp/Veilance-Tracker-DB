@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Stape",
+  "category": "hosting",
+  "website_url": "https://www.stape.io",
+  "organization": "stape",
+  "domains": [
+    "stape.at",
+    "stape.be",
+    "stape.de"
+  ],
+  "filters": []
+}

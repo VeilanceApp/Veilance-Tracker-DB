@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Comm100",
+  "category": "customer_interaction",
+  "website_url": "https://www.comm100.com/",
+  "organization": "comm100",
+  "domains": [
+    "comm100.cn",
+    "comm100.com"
+  ],
+  "filters": [
+    "||comm100.cn^$3p",
+    "||comm100.com^$3p"
+  ]
+}

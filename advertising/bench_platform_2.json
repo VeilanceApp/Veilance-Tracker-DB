@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Bench Platform",
+  "category": "advertising",
+  "organization": "bench_platform",
+  "domains": [
+    "tag.benchplatform.com"
+  ],
+  "filters": [
+    "||tag.benchplatform.com/benchmarketingsmarttag/"
+  ]
+}

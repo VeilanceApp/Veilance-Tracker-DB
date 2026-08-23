@@ -1,0 +1,32 @@
+{
+  "format": "veilance-json",
+  "name": "Mapp Digital Analytics",
+  "category": "site_analytics",
+  "website_url": "https://mapp.com/digital-analytics/",
+  "organization": "mapp_digital",
+  "domains": [
+    "d1r27qvpjiaqj3.cloudfront.net",
+    "mateti.net",
+    "wbtrk.net",
+    "wcfbc.net",
+    "webtrekk-asia.net",
+    "webtrekk.com",
+    "webtrekk.de",
+    "webtrekk.net",
+    "wt-eu02.net",
+    "wt-safetag.com"
+  ],
+  "filters": [
+    "/webtrekk_gdpr.js",
+    "/webtrekk_gdpr.min.js",
+    "/webtrekk_mediaTracking.min.js",
+    "||cdn.wbtrk.net/js/geid.min.js",
+    "||responder.wt-safetag.com^$3p",
+    "||webtrekk-asia.net^$3p",
+    "||webtrekk.de/^$3p",
+    "||webtrekk.net^$3p",
+    "||static.wertpapiere.ing.de/js/gcoconfig/production/webtrekk-production_dr.js",
+    "||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk.min.js",
+    "||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk-safetag.js"
+  ]
+}

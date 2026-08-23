@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MyStat",
+  "category": "social_media",
+  "website_url": "http://mystat.hu/",
+  "organization": "myst_statistics",
+  "domains": [
+    "stat.mystat.hu"
+  ],
+  "filters": [
+    "||stat.mystat.hu^$3p"
+  ]
+}

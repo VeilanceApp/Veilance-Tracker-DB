@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adara",
+  "category": "advertising",
+  "website_url": "http://www.adaramedia.com/",
+  "organization": "adara_analytics",
+  "domains": [
+    "yieldoptimizer.com"
+  ],
+  "filters": [
+    "||yieldoptimizer.com^$3p"
+  ]
+}

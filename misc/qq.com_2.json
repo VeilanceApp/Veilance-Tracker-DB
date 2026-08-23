@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "qq.com",
+  "category": "misc",
+  "website_url": "https://www.qq.com/",
+  "organization": "qq.com",
+  "domains": [
+    "qq.com"
+  ],
+  "filters": []
+}

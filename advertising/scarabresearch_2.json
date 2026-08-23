@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Scarab Research",
+  "category": "advertising",
+  "website_url": "https://www.scarabresearch.com/",
+  "organization": "emarsys",
+  "domains": [
+    "scarabresearch.com"
+  ],
+  "filters": [
+    "||recommender.scarabresearch.com/merchants/"
+  ]
+}

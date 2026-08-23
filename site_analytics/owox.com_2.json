@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "OWOX",
+  "category": "site_analytics",
+  "website_url": "https://www.owox.com/",
+  "organization": "owox_inc",
+  "domains": [
+    "owox.com"
+  ],
+  "filters": []
+}

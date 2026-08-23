@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Delta Sync",
+  "category": "site_analytics",
+  "website_url": "https://www.delta.com/us/en/onboard/inflight-entertainment/onboard-wifi",
+  "organization": "delta_airlines",
+  "domains": [
+    "wifi.delta.com"
+  ],
+  "filters": [
+    "||wifi.delta.com/assets/js/qualtrics.js^"
+  ]
+}

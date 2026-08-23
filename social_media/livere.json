@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "LiveRe",
+  "category": "social_media",
+  "website_url": "http://www.livere.com/",
+  "organization": "livere",
+  "domains": [
+    "livere.co.kr",
+    "livere.co.kr.cizion.ixcloud.net"
+  ],
+  "filters": [
+    "||livere.co.kr.cizion.ixcloud.net^$3p",
+    "||livere.co.kr^$3p"
+  ]
+}

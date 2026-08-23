@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SpeakPipe",
+  "category": "customer_interaction",
+  "website_url": "https://www.speakpipe.com/",
+  "organization": "speakpipe",
+  "domains": [
+    "speakpipe.com"
+  ],
+  "filters": [
+    "||speakpipe.com^$3p"
+  ]
+}

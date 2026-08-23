@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "LoopMe",
+  "category": "advertising",
+  "website_url": "https://loopme.com/",
+  "organization": "loopme",
+  "domains": [
+    "loopme.me"
+  ],
+  "filters": []
+}

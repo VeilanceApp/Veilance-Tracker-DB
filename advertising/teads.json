@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Teads",
+  "category": "advertising",
+  "website_url": "http://teads.com/",
+  "organization": "outbrain",
+  "domains": [
+    "teads.tv"
+  ],
+  "filters": [
+    "||teads.tv^$3p"
+  ]
+}

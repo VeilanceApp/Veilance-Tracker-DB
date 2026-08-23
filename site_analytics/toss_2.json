@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Toss",
+  "category": "site_analytics",
+  "website_url": "http://toss.im/en",
+  "organization": "viva_republica",
+  "domains": [
+    "toss.im"
+  ],
+  "filters": [
+    "||toss.im/pages/ekdil/tragoudo^"
+  ]
+}

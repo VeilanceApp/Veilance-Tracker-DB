@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Qualia",
+  "category": "advertising",
+  "website_url": "https://www.bluecava.com/",
+  "organization": "qualia",
+  "domains": [
+    "bluecava.com"
+  ],
+  "filters": [
+    "||bluecava.com^$3p"
+  ]
+}

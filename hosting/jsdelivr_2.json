@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "jsDelivr",
+  "category": "hosting",
+  "website_url": "https://www.jsdelivr.com/",
+  "domains": [
+    "jsdelivr.net"
+  ],
+  "filters": []
+}

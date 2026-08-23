@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BlogBang",
+  "category": "advertising",
+  "website_url": "http://www.blogbang.com/",
+  "organization": "blogbang",
+  "domains": [
+    "blogbang.com"
+  ],
+  "filters": [
+    "||blogbang.com^$3p"
+  ]
+}

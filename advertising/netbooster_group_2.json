@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "NetBooster Group",
+  "category": "advertising",
+  "website_url": "http://www.netbooster.com/",
+  "organization": "netbooster_group",
+  "domains": [
+    "bbtrack.net",
+    "netbooster.com"
+  ],
+  "filters": [
+    "||bbtrack.net^$3p",
+    "||netbooster.com^$3p"
+  ]
+}

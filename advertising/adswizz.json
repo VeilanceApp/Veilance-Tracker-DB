@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdsWizz",
+  "category": "advertising",
+  "website_url": "https://www.adswizz.com/",
+  "organization": "adswizz",
+  "domains": [
+    "adswizz.com"
+  ],
+  "filters": [
+    "||adswizz.com^$3p"
+  ]
+}

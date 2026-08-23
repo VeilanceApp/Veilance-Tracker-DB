@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "UpSellit",
+  "category": "customer_interaction",
+  "website_url": "http://www.upsellit.com",
+  "organization": "upsellit",
+  "domains": [
+    "upsellit.com"
+  ],
+  "filters": [
+    "||upsellit.com^$3p"
+  ]
+}

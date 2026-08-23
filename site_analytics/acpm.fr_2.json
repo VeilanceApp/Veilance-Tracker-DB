@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ACPM",
+  "category": "site_analytics",
+  "website_url": "https://www.acpm.fr/",
+  "domains": [
+    "acpm.fr"
+  ],
+  "filters": []
+}

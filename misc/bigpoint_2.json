@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Bigpoint",
+  "category": "misc",
+  "domains": [
+    "bigpoint-payment.com",
+    "bigpoint.com",
+    "bigpoint.net",
+    "bpcdn.net",
+    "bpsecure.com"
+  ],
+  "filters": []
+}

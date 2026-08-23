@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Bauer Media",
+  "category": "advertising",
+  "organization": "bauer_media",
+  "domains": [
+    "bauernative.com"
+  ],
+  "filters": [
+    "||cdn.bauernative.com/nativendo.js"
+  ]
+}

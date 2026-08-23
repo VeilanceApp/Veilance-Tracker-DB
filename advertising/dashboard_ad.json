@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Dashboard Ad",
+  "category": "advertising",
+  "website_url": "http://www.dashboardad.com/",
+  "organization": "premium_access",
+  "domains": [
+    "tags.dashboardad.net"
+  ],
+  "filters": [
+    "||tags.dashboardad.net^$3p"
+  ]
+}

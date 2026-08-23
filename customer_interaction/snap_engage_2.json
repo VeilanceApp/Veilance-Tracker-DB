@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Snap Engage",
+  "category": "customer_interaction",
+  "website_url": "https://snapengage.com/",
+  "organization": "snap_engage",
+  "domains": [
+    "snapengage.com"
+  ],
+  "filters": [
+    "||commondatastorage.googleapis.com/code.snapengage.com/js/",
+    "||snapabug.appspot.com^$3p",
+    "||snapengage.com/snapabug.js",
+    "||snapengage.com/snapengage-",
+    "||snapengage.com/statusimage"
+  ]
+}

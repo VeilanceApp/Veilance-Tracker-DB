@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "BBC",
+  "category": "hosting",
+  "website_url": "https://bbc.co.uk",
+  "domains": [
+    "bbci.co.uk"
+  ],
+  "filters": []
+}

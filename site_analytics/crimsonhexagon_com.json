@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Brandwatch",
+  "category": "site_analytics",
+  "website_url": "https://www.brandwatch.com/",
+  "organization": "brandwatch",
+  "domains": [
+    "brandwatch.com",
+    "crimsonhexagon.com",
+    "hexagon-analytics.com"
+  ],
+  "filters": [
+    "||api.brandwatch.com^$3p",
+    "||crimsonhexagon.com^$3p",
+    "||hexagon-analytics.com^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Are You a Human",
+  "category": "site_analytics",
+  "website_url": "https://areyouahuman.com/",
+  "organization": "distil_networks",
+  "domains": [
+    "areyouahuman.com"
+  ],
+  "filters": []
+}

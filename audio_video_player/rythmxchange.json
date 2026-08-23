@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Rythmxchange",
+  "category": "audio_video_player",
+  "organization": "nexxen",
+  "domains": [
+    "rhythmxchange.com"
+  ],
+  "filters": []
+}

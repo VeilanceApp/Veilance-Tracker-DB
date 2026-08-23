@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "freegeoip.net",
+  "category": "site_analytics",
+  "website_url": "http://freegeoip.net/",
+  "domains": [
+    "freegeoip.net"
+  ],
+  "filters": []
+}

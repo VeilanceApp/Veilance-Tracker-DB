@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "adworxs.net",
+  "category": "advertising",
+  "website_url": "http://www.adworxs.net/?lang=en",
+  "domains": [
+    "adworxs.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Dynamic Yield",
+  "category": "site_analytics",
+  "website_url": "https://www.dynamicyield.com/",
+  "organization": "dynamic_yield",
+  "domains": [
+    "dynamicyield.com"
+  ],
+  "filters": [
+    "||cdn.dynamicyield.com/api/*/api_dynamic.js^$3p",
+    "||static.dynamicyield.com/scripts/*/dy-coll-min.js^$3p",
+    "||px.dynamicyield.com^$3p",
+    "||st.dynamicyield.com^$3p"
+  ]
+}

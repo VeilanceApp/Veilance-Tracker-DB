@@ -1,0 +1,25 @@
+{
+  "format": "veilance-json",
+  "name": "Revive Adserver",
+  "category": "advertising",
+  "website_url": "https://www.revive-adserver.com/",
+  "organization": "revive_adserver",
+  "domains": [
+    "revive-adserver.com"
+  ],
+  "filters": [
+    "/adg.js$3p",
+    "/adx.js$3p",
+    "/afr.php$3p",
+    "/ag.php$3p",
+    "/ai.php$3p",
+    "/ajs.php$3p",
+    "/al.php$3p",
+    "/apu.php$3p",
+    "/avw.php$3p",
+    "/ck.php$3p",
+    "/fl.js$3p",
+    "/lg.php$3p",
+    "/spcjs.php$3p"
+  ]
+}

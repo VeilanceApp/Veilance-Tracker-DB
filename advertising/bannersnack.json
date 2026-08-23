@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Bannersnack",
+  "category": "advertising",
+  "organization": "bannersnack",
+  "domains": [
+    "cdn.bannersnack.com"
+  ],
+  "filters": [
+    "||cdn.bannersnack.com^$3p"
+  ]
+}

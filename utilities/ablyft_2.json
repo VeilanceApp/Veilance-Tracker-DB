@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "ABlyft",
+  "category": "utilities",
+  "website_url": "https://ablyft.com/",
+  "organization": "conversion_expert",
+  "domains": [
+    "cdn.ablyft.com"
+  ],
+  "filters": []
+}

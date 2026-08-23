@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "wdr.de",
+  "category": "misc",
+  "website_url": "https://www1.wdr.de/index.html",
+  "domains": [
+    "wdr.de"
+  ],
+  "filters": []
+}

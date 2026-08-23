@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Usersnap",
+  "category": "customer_interaction",
+  "website_url": "https://usersnap.com/",
+  "organization": "usersnap",
+  "domains": [
+    "api.usersnap.com",
+    "d3mvnvhjmkxpjz.cloudfront.net"
+  ],
+  "filters": [
+    "||api.usersnap.com^$3p",
+    "||d3mvnvhjmkxpjz.cloudfront.net/js/",
+    "||d3mvnvhjmkxpjz.cloudfront.net^$3p"
+  ]
+}

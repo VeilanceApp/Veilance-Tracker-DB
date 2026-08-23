@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Advidi",
+  "category": "advertising",
+  "website_url": "https://advidi.com/",
+  "organization": "advidi",
+  "domains": [
+    "advidi.com"
+  ],
+  "filters": [
+    "||advidi.com^$3p"
+  ]
+}

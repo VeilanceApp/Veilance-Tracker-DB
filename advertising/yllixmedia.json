@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "YllixMedia",
+  "category": "advertising",
+  "website_url": "https://yllix.com/",
+  "organization": "yllixmedia",
+  "domains": [
+    "yllix.com"
+  ],
+  "filters": [
+    "||yllix.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Qualtrics",
+  "category": "site_analytics",
+  "website_url": "https://www.qualtrics.com/",
+  "organization": "qualtrics",
+  "domains": [
+    "qualtrics.com"
+  ],
+  "filters": [
+    "||qualtrics.com^$3p"
+  ]
+}

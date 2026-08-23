@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "StreamRail",
+  "category": "advertising",
+  "website_url": "https://www.streamrail.com/",
+  "organization": "ironsource",
+  "domains": [
+    "streamrail.com",
+    "streamrail.net"
+  ],
+  "filters": [
+    "||sdk.streamrail.com/vpaid/js/*/sam.js^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "IdeoClick",
+  "category": "advertising",
+  "website_url": "http://ideoclick.com",
+  "organization": "ideoclick",
+  "domains": [
+    "ideoclick.com"
+  ],
+  "filters": [
+    "||ideoclick.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sessionly",
+  "category": "customer_interaction",
+  "organization": "sessionly",
+  "domains": [
+    "sessionly.io"
+  ],
+  "filters": [
+    "||sessionly.io/plugin/"
+  ]
+}

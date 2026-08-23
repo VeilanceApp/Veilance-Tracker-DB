@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Monero Miner",
+  "category": "misc",
+  "website_url": "https://devappgrant.space/",
+  "domains": [
+    "devappgrant.space"
+  ],
+  "filters": []
+}

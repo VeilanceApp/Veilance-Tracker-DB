@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Notify",
+  "category": "advertising",
+  "website_url": "http://notify.ag/en/",
+  "domains": [
+    "adleadevent.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pulse Insights",
+  "category": "site_analytics",
+  "website_url": "https://pulseinsights.com/",
+  "organization": "pulse_insights",
+  "domains": [
+    "pulseinsights.com"
+  ],
+  "filters": [
+    "||pulseinsights.com^$3p"
+  ]
+}

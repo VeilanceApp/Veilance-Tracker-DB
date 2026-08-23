@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Roblox",
+  "category": "misc",
+  "website_url": "https://www.roblox.com/",
+  "domains": [
+    "rbxcdn.com"
+  ],
+  "filters": []
+}

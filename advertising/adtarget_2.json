@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adtarget",
+  "category": "advertising",
+  "website_url": "https://adtarget.com.tr",
+  "organization": "adtarget",
+  "domains": [
+    "adtarget.com.tr"
+  ],
+  "filters": [
+    "||adtarget.com.tr^$3p"
+  ]
+}

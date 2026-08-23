@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Green Certified Site",
+  "category": "customer_interaction",
+  "website_url": "http://www.advenity.com/",
+  "organization": "advenity",
+  "domains": [
+    "co2stats.com"
+  ],
+  "filters": [
+    "||co2stats.com^$3p"
+  ]
+}

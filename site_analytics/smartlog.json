@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Smartlog",
+  "category": "site_analytics",
+  "website_url": "https://smlog.co.kr/",
+  "organization": "squares",
+  "domains": [
+    "smlog.co.kr"
+  ],
+  "filters": [
+    "||a*.smlog.co.kr^",
+    "||cdn.smlog.co.kr^$3p"
+  ]
+}

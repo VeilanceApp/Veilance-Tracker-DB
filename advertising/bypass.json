@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Bypass",
+  "category": "advertising",
+  "website_url": "https://bypass.jp/",
+  "organization": "united_inc",
+  "domains": [
+    "bypass.jp"
+  ],
+  "filters": [
+    "||bypass.jp^$3p"
+  ]
+}

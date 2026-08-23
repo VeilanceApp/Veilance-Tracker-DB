@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sociomantic",
+  "category": "advertising",
+  "website_url": "http://www.sociomantic.com/",
+  "organization": "sociomantic_labs_gmbh",
+  "domains": [
+    "sociomantic.com"
+  ],
+  "filters": [
+    "||sociomantic.com^$3p"
+  ]
+}

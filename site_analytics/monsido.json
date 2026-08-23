@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Monsido",
+  "category": "site_analytics",
+  "organization": "monsido",
+  "domains": [
+    "cdn.monsido.com"
+  ],
+  "filters": [
+    "||cdn.monsido.com/tool/javascripts/monsido.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adbrain",
+  "category": "site_analytics",
+  "website_url": "https://www.adbrain.com/",
+  "organization": "adbrain",
+  "domains": [
+    "adbrn.com"
+  ],
+  "filters": [
+    "||sp.adbrn.com/match"
+  ]
+}

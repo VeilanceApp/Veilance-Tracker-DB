@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Sape",
+  "category": "site_analytics",
+  "organization": "sape",
+  "domains": [
+    "sape.ru"
+  ],
+  "filters": []
+}

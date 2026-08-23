@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Coin Have",
+  "category": "advertising",
+  "organization": "coin_have",
+  "domains": [
+    "coin-have.com"
+  ],
+  "filters": [
+    "||coin-have.com/c"
+  ]
+}

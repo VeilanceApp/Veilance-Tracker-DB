@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Clever Push",
+  "category": "site_analytics",
+  "website_url": "https://clevertap.com/",
+  "organization": "clever_push",
+  "domains": [
+    "cleverpush.com"
+  ],
+  "filters": [
+    "||cleverpush.com/loader.js",
+    "||static.cleverpush.com/sdk/cleverpush.js"
+  ]
+}

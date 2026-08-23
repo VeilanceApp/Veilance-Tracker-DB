@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Cookie Consent",
+  "category": "utilities",
+  "organization": "silktide",
+  "domains": [
+    "cookieconsent.silktide.com"
+  ],
+  "filters": [
+    "||cdn.jsdelivr.net/npm/cookieconsent"
+  ]
+}

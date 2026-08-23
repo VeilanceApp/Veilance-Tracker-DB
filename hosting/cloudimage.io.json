@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Cloudimage.io",
+  "category": "hosting",
+  "website_url": "https://www.cloudimage.io/en/home",
+  "organization": "scaleflex_sas",
+  "domains": [
+    "cloudimg.io"
+  ],
+  "filters": []
+}

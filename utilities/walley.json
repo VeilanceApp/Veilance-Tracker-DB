@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Walley",
+  "category": "utilities",
+  "website_url": "https://www.walleypay.com/",
+  "organization": "norion_bank",
+  "domains": [
+    "walleypay.com",
+    "collector.se"
+  ],
+  "filters": [
+    "||walleypay.com^$3p",
+    "||collector.se^$3p"
+  ]
+}

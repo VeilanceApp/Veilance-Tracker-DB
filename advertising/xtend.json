@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "XTEND",
+  "category": "advertising",
+  "website_url": "https://www.xtendmedia.com/",
+  "organization": "matomy_media",
+  "domains": [
+    "xtendmedia.com"
+  ],
+  "filters": [
+    "||xtendmedia.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adnami",
+  "category": "advertising",
+  "website_url": "https://www.adnami.io",
+  "organization": "adnami",
+  "domains": [
+    "adnami.io"
+  ],
+  "filters": [
+    "||adnami.io^$3p"
+  ]
+}

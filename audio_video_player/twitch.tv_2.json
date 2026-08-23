@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Twitch",
+  "category": "audio_video_player",
+  "website_url": "https://www.twitch.tv/",
+  "organization": "amazon_associates",
+  "domains": [
+    "ext-twitch.tv",
+    "twitch.tv"
+  ],
+  "filters": []
+}

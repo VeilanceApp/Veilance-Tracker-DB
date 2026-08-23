@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Republer",
+  "category": "advertising",
+  "website_url": "https://republer.com/",
+  "organization": "republer",
+  "domains": [
+    "republer.com"
+  ],
+  "filters": [
+    "||a.republer.com/exp"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Liqwid",
+  "category": "advertising",
+  "website_url": "https://liqwid.com/",
+  "organization": "liqwid",
+  "domains": [
+    "liqwid.net"
+  ],
+  "filters": [
+    "||liqwid.net^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "westlotto.com",
+  "category": "misc",
+  "website_url": "https://westlotto.com/",
+  "domains": [
+    "westlotto.com"
+  ],
+  "filters": []
+}

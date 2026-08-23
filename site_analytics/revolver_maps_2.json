@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Revolver Maps",
+  "category": "site_analytics",
+  "website_url": "https://www.revolvermaps.com/",
+  "organization": "revolver_maps",
+  "domains": [
+    "revolvermaps.com"
+  ],
+  "filters": [
+    "||revolvermaps.com^$3p"
+  ]
+}

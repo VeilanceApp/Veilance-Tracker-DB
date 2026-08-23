@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Scroll",
+  "category": "utilities",
+  "website_url": "https://scroll.com/",
+  "organization": "scroll",
+  "domains": [
+    "scroll.com"
+  ],
+  "filters": [
+    "||connect.scroll.com/embed/check",
+    "||static.scroll.com/js/scroll.js"
+  ]
+}

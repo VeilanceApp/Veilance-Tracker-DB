@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Proxistore",
+  "category": "advertising",
+  "website_url": "https://www.proxistore.com/",
+  "organization": "proxistore",
+  "domains": [
+    "proxistore.com"
+  ],
+  "filters": [
+    "||abs.proxistore.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Capture Media",
+  "category": "advertising",
+  "organization": "capture_media",
+  "domains": [
+    "edge.capturemedia.network"
+  ],
+  "filters": [
+    "||edge.capturemedia.network/sess.js"
+  ]
+}

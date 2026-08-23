@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Media.net",
+  "category": "advertising",
+  "website_url": "https://www.media.net/",
+  "organization": "media.net",
+  "domains": [
+    "media.net"
+  ],
+  "filters": [
+    "||media.net^$3p"
+  ]
+}

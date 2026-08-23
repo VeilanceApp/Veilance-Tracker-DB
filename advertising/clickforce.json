@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClickForce",
+  "category": "advertising",
+  "website_url": "https://www.clickforce.com.tw/",
+  "organization": "clickforce",
+  "domains": [
+    "doublemax.net"
+  ],
+  "filters": [
+    "||doublemax.net^$3p"
+  ]
+}

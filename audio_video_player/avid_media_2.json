@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Avid Media",
+  "category": "audio_video_player",
+  "website_url": "http://www.avidglobalmedia.com/",
+  "organization": "avid_media",
+  "domains": [
+    "adspdbl.com"
+  ],
+  "filters": [
+    "||adspdbl.com^$3p"
+  ]
+}

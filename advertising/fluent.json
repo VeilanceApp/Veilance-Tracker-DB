@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Fluent",
+  "category": "advertising",
+  "organization": "fluent",
+  "domains": [
+    "clicken.us"
+  ],
+  "filters": [
+    "||clicken.us/tag/clientset.html"
+  ]
+}

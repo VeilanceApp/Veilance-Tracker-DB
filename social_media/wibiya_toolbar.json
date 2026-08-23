@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Wibiya Toolbar",
+  "category": "social_media",
+  "website_url": "http://www.wibiya.com/",
+  "organization": "wibiya",
+  "domains": [
+    "cdn.wibiya.com"
+  ],
+  "filters": [
+    "||cdn.wibiya.com/loaders",
+    "||cdn.wibiya.com/toolbars"
+  ]
+}

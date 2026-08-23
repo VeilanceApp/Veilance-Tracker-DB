@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "RawGit",
+  "category": "hosting",
+  "website_url": "https://rawgit.com/",
+  "domains": [
+    "rawgit.com"
+  ],
+  "filters": []
+}

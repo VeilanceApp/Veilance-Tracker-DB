@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "SiteMeter",
+  "category": "site_analytics",
+  "website_url": "http://www.sitemeter.com/",
+  "organization": "sitemeter,_inc.",
+  "domains": [
+    "sitemeter.com"
+  ],
+  "filters": [
+    "||sitemeter.com/js/counter.js",
+    "||sitemeter.com/meter.asp"
+  ]
+}

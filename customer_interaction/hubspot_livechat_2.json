@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "HubSpot LiveChat",
+  "category": "customer_interaction",
+  "website_url": "https://www.hubspot.com/",
+  "organization": "hubspot",
+  "domains": [
+    "usemessages.com"
+  ],
+  "filters": [
+    "||hubspot.com/_hcms/livechat/widget"
+  ]
+}

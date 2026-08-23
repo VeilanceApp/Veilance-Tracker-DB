@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CogoCast",
+  "category": "advertising",
+  "organization": "cogocast",
+  "domains": [
+    "cogocast.net"
+  ],
+  "filters": [
+    "||cogocast.net/tag/partner/",
+    "||gpush.cogocast.net^$3p"
+  ]
+}

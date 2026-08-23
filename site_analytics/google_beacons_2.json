@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Google Beacons",
+  "category": "site_analytics",
+  "website_url": "https://google.xyz",
+  "organization": "google",
+  "domains": [
+    "beacons-google.com"
+  ],
+  "filters": [
+    "||google.com/gen_204"
+  ]
+}

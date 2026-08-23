@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "VideoAdX",
+  "category": "advertising",
+  "website_url": "https://www.videoadex.com/",
+  "organization": "digiteka",
+  "domains": [
+    "videoadex.com"
+  ],
+  "filters": []
+}

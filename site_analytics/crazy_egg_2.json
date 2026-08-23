@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "Crazy Egg",
+  "category": "site_analytics",
+  "website_url": "http://crazyegg.com/",
+  "organization": "crazy_egg",
+  "domains": [
+    "cetrk.com",
+    "crazyegg.com",
+    "dnn506yrbagrg.cloudfront.net"
+  ],
+  "filters": [
+    "||cetrk.com^$3p",
+    "||crazyegg.com^$3p",
+    "||dnn506yrbagrg.cloudfront.net^$3p",
+    "||s3.amazonaws.com/new.cetrk.com"
+  ]
+}

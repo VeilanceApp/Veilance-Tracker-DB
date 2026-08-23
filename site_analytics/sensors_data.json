@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sensors Data",
+  "category": "site_analytics",
+  "organization": "sensors_data",
+  "domains": [
+    "static.sensorsdata.cn"
+  ],
+  "filters": [
+    "||static.sensorsdata.cn/sdk/1.10.1/sensorsdata.min.js"
+  ]
+}

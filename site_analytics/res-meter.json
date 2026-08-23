@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Res-meter",
+  "category": "site_analytics",
+  "website_url": "http://respublica.al/res-meter",
+  "organization": "respublica",
+  "domains": [
+    "resmeter.respublica.al"
+  ],
+  "filters": [
+    "||resmeter.respublica.al^$3p"
+  ]
+}

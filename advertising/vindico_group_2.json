@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Vindico Group",
+  "category": "advertising",
+  "website_url": "http://www.vindicogroup.com/",
+  "organization": "vindico_group",
+  "domains": [
+    "vindicosuite.com"
+  ],
+  "filters": [
+    "||mpp.vindicosuite.com/sync",
+    "||vindicosuite.com/creative",
+    "||vindicosuite.com/feeds",
+    "||vindicosuite.com/imp",
+    "||vindicosuite.com/serve",
+    "||vindicosuite.com/track",
+    "||vindicosuite.com/tracking"
+  ]
+}

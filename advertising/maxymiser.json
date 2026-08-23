@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Oracle Maxymiser",
+  "category": "advertising",
+  "website_url": "https://www.oracle.com/marketingcloud/products/testing-and-optimization/index.html",
+  "organization": "oracle",
+  "domains": [
+    "maxymiser.hs.llnwd.net",
+    "maxymiser.net"
+  ],
+  "filters": [
+    "/mmcore.js",
+    "||cg-global.maxymiser.com^$3p"
+  ]
+}

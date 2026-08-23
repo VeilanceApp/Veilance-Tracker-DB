@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "AdScale",
+  "category": "advertising",
+  "website_url": "http://www.adscale.de/",
+  "organization": "stroer",
+  "domains": [
+    "adscale.de"
+  ],
+  "filters": [
+    "||adscale.de^$3p",
+    "||cdn.stroeerdigitalmedia.de/praeludium/praeludium_giga.min.js"
+  ]
+}

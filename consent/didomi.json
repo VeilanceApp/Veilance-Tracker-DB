@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Didomi",
+  "category": "consent",
+  "website_url": "https://www.didomi.io/en/",
+  "organization": "didomi",
+  "domains": [
+    "privacy-center.org"
+  ],
+  "filters": []
+}

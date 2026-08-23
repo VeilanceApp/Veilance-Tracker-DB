@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Ambient Digital",
+  "category": "advertising",
+  "website_url": "http://www.adnetwork.vn/",
+  "organization": "ambient_digital",
+  "domains": [
+    "adnetwork.net.vn",
+    "adnetwork.vn",
+    "ambientplatform.vn"
+  ],
+  "filters": [
+    "||adnetwork.net.vn^$3p",
+    "||adnetwork.vn/^$3p",
+    "||ambientplatform.vn^$3p"
+  ]
+}

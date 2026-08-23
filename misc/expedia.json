@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Expedia",
+  "category": "misc",
+  "website_url": "https://www.trvl-px.com/",
+  "organization": "iac_apps",
+  "domains": [
+    "expedia.com",
+    "trvl-px.com"
+  ],
+  "filters": []
+}

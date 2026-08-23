@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "The Sun",
+  "category": "misc",
+  "website_url": "https://www.thesun.co.uk/",
+  "organization": "the_sun",
+  "domains": [
+    "thesun.co.uk"
+  ],
+  "filters": []
+}

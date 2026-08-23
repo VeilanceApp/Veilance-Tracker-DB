@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Typepad Stats",
+  "category": "site_analytics",
+  "website_url": "https://www.typepad.com/features/statistics.ht",
+  "organization": "typepad",
+  "domains": [
+    "typepad.com"
+  ],
+  "filters": [
+    "||typepad.com/t/stats"
+  ]
+}

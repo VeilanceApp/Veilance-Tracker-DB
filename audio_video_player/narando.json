@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Narando",
+  "category": "audio_video_player",
+  "organization": "narando",
+  "domains": [
+    "narando.com"
+  ],
+  "filters": [
+    "||narando.com/assets/narando.player.js",
+    "||narando.com/s"
+  ]
+}

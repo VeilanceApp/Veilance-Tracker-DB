@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "SnigelWeb, Inc.",
+  "category": "advertising",
+  "website_url": "http://www.snigelweb.com/",
+  "organization": "snigelweb_inc",
+  "domains": [
+    "h-bid.com"
+  ],
+  "filters": []
+}

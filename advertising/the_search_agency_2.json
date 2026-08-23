@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "The Search Agency",
+  "category": "advertising",
+  "website_url": "http://www.thesearchagency.com/",
+  "organization": "the_search_agency",
+  "domains": [
+    "thesearchagency.net"
+  ],
+  "filters": [
+    "||thesearchagency.net/*/tsaapi.js^$3p",
+    "||thesearchagency.net/tsawaypoint.php"
+  ]
+}

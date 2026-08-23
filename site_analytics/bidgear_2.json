@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BidGear",
+  "category": "site_analytics",
+  "website_url": "https://bidgear.com/",
+  "organization": "bidgear",
+  "domains": [
+    "bidgear.com"
+  ],
+  "filters": [
+    "||stats.bidgear.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Atlassian",
+  "category": "customer_interaction",
+  "website_url": "https://www.atlassian.com/",
+  "organization": "atlassian",
+  "domains": [
+    "atl-paas.net",
+    "atlassian.com",
+    "atlassian.net",
+    "d12ramskps3070.cloudfront.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "pcvark.com",
+  "category": "misc",
+  "website_url": "https://pcvark.com/",
+  "domains": [
+    "pcvark.com"
+  ],
+  "filters": []
+}

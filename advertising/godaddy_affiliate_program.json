@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GoDaddy Affiliate Program",
+  "category": "advertising",
+  "website_url": "http://www.godaddy.com/",
+  "organization": "godaddy",
+  "domains": [
+    "affiliate.godaddy.com"
+  ],
+  "filters": [
+    "||affiliate.godaddy.com^$3p"
+  ]
+}

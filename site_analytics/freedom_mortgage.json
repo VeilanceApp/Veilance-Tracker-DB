@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Freedom Mortgage",
+  "category": "site_analytics",
+  "website_url": "https://www.freedommortgage.com/",
+  "organization": "freedom_mortgage",
+  "domains": [
+    "freedom.com"
+  ],
+  "filters": []
+}

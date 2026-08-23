@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Bluecore",
+  "category": "advertising",
+  "website_url": "https://www.bluecore.com/",
+  "organization": "triggermail",
+  "domains": [
+    "bluecore.com",
+    "triggeredmail.appspot.com"
+  ],
+  "filters": [
+    "||triggeredmail.appspot.com^$3p"
+  ]
+}

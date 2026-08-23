@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "vCommission",
+  "category": "advertising",
+  "website_url": "https://www.vcommission.com/",
+  "organization": "vcommission",
+  "domains": [
+    "tracking.vcommission.com"
+  ],
+  "filters": [
+    "||tracking.vcommission.com^$3p"
+  ]
+}

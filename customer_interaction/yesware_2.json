@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Yesware",
+  "category": "customer_interaction",
+  "website_url": "https://www.yesware.com/",
+  "organization": "yesware",
+  "domains": [
+    "app.yesware.com"
+  ],
+  "filters": [
+    "||app.yesware.com/t/"
+  ]
+}

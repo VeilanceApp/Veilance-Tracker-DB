@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ActStream",
+  "category": "extensions",
+  "website_url": "https://www.acestream.org/",
+  "domains": [
+    "acestream.net"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adpv",
+  "category": "advertising",
+  "website_url": "http://www.adpv.com/",
+  "organization": "adpv",
+  "domains": [
+    "ads.adpv.com"
+  ],
+  "filters": [
+    "||ads.adpv.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Operative Media",
+  "category": "advertising",
+  "website_url": "https://www.operative.com/",
+  "organization": "operative_media",
+  "domains": [
+    "adsummos.net"
+  ],
+  "filters": [
+    "||adsummos.net^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "BloggerAds",
+  "category": "advertising",
+  "website_url": "https://www.bloggerads.net/",
+  "organization": "bloggerads",
+  "domains": [
+    "bloggerads.net"
+  ],
+  "filters": [
+    "||bloggerads.net^$3p"
+  ]
+}

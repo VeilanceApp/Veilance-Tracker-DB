@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "GiantMedia",
+  "category": "advertising",
+  "website_url": "https://giantmedia.com/",
+  "organization": "adknowledge",
+  "domains": [
+    "videostat.com"
+  ],
+  "filters": []
+}

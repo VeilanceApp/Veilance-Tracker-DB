@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Flag Ads",
+  "category": "advertising",
+  "website_url": "http://www.flagads.net/",
+  "organization": "flag_ads",
+  "domains": [
+    "flagads.net"
+  ],
+  "filters": [
+    "||flagads.net^$3p"
+  ]
+}

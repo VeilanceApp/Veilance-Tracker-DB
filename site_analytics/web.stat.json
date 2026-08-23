@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Web.STAT",
+  "category": "site_analytics",
+  "website_url": "http://webstat.net/",
+  "organization": "web.stat",
+  "domains": [
+    "webstat.net"
+  ],
+  "filters": [
+    "||webstat.net/cgi-bin"
+  ]
+}

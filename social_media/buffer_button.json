@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Buffer Button",
+  "category": "social_media",
+  "website_url": "http://www.bufferapp.com/",
+  "organization": "buffer",
+  "domains": [
+    "bufferapp.com"
+  ],
+  "filters": [
+    "||bufferapp.com/button",
+    "||bufferapp.com/js/button"
+  ]
+}

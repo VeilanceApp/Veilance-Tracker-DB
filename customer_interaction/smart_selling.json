@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Smart Selling",
+  "category": "customer_interaction",
+  "organization": "smart_selling",
+  "domains": [
+    "tracking.smartselling.cz"
+  ],
+  "filters": [
+    "||tracking.smartselling.cz^$3p"
+  ]
+}

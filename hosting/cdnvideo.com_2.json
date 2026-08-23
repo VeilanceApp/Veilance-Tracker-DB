@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "CDNvideo",
+  "category": "hosting",
+  "website_url": "https://www.cdnvideo.com/",
+  "organization": "cdnvideo",
+  "domains": [
+    "cdnvideo.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Eyeota",
+  "category": "advertising",
+  "website_url": "https://www.eyeota.com/",
+  "organization": "eyeota",
+  "domains": [
+    "eyeota.net"
+  ],
+  "filters": [
+    "||eyeota.net^$3p"
+  ]
+}

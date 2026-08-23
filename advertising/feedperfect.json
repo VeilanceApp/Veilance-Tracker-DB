@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "FeedPerfect",
+  "category": "advertising",
+  "website_url": "http://www.feedperfect.com/",
+  "organization": "feedperfect",
+  "domains": [
+    "tracking.feedperfect.com"
+  ],
+  "filters": [
+    "||tracking.feedperfect.com^$3p"
+  ]
+}

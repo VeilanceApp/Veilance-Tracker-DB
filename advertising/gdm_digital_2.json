@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GDM Digital",
+  "category": "advertising",
+  "website_url": "http://www.gdmdigital.com/",
+  "organization": "ve_interactive",
+  "domains": [
+    "gdmdigital.com"
+  ],
+  "filters": [
+    "||hfp.gdmdigital.com^$3p"
+  ]
+}

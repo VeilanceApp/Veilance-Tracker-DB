@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Biztalk360",
+  "category": "site_analytics",
+  "website_url": "https://www.biztalk360.com/",
+  "organization": "kovai",
+  "domains": [
+    "biztalk360.com"
+  ],
+  "filters": []
+}

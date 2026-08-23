@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Knotch",
+  "category": "customer_interaction",
+  "organization": "knotch",
+  "domains": [
+    "knotch.it"
+  ],
+  "filters": [
+    "||knotch.it/extern/survey"
+  ]
+}

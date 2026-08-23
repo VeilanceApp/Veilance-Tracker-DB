@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Proper Media",
+  "category": "advertising",
+  "website_url": "https://proper.io/",
+  "organization": "propermedia",
+  "domains": [
+    "proper.io"
+  ],
+  "filters": [
+    "||global.proper.io^$3p"
+  ]
+}

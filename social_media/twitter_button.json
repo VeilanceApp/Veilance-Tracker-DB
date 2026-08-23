@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Tweet Button",
+  "category": "social_media",
+  "website_url": "https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview",
+  "organization": "twitter",
+  "domains": [],
+  "filters": [
+    "||platform.twitter.com/js/button",
+    "||platform.twitter.com/widgets"
+  ]
+}

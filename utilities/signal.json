@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Signal",
+  "category": "utilities",
+  "website_url": "https://www.signal.co/",
+  "organization": "signal_digital",
+  "domains": [
+    "btstatic.com",
+    "signal.co",
+    "thebrighttag.com"
+  ],
+  "filters": [
+    "||btstatic.com^$3p",
+    "||s.thebrighttag.com^$3p",
+    "||tags.sitetagger.co.uk/^$3p"
+  ]
+}

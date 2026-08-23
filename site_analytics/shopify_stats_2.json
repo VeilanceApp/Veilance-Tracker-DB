@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Shopify Stats",
+  "category": "site_analytics",
+  "website_url": "https://www.shopify.com/",
+  "organization": "shopify",
+  "domains": [
+    "shopify.com",
+    "stats.myshopify.com"
+  ],
+  "filters": [
+    "||s.shopify.com^$3p",
+    "||stats.shopify.com^$3p"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "format": "veilance-json",
+  "name": "Ensighten",
+  "category": "utilities",
+  "website_url": "http://www.ensighten.com",
+  "organization": "ensighten",
+  "domains": [
+    "ensighten.com"
+  ],
+  "filters": [
+    "||nexus.ensighten.com.*/Bootstrap.js^$3p",
+    "||nexus.ensighten.com/*/bootstrap.js^$3p",
+    "||nexus.ensighten.com/*/prod/code/*.js^$3p",
+    "||nexus.ensighten.com/*/prod/serverComponent.php^$3p",
+    "||nexus.ensighten.com/*/production/code/*.js^$3p",
+    "||nexus.ensighten.com/*/production/serverComponent.php^$3p",
+    "||nexus.ensighten.com/*/t-bat-prod/code/*.js^$3p",
+    "||nexus.ensighten.com/staples2/Bootstrap.js^$3p",
+    "||data.privacy.ensighten.com^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "King.com",
+  "category": "misc",
+  "website_url": "https://king.com/",
+  "organization": "activision_blizzard",
+  "domains": [
+    "midasplayer.com"
+  ],
+  "filters": []
+}

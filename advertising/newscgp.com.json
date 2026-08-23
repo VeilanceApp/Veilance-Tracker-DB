@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "News Connect",
+  "category": "advertising",
+  "organization": "news_corp",
+  "domains": [
+    "newscgp.com"
+  ],
+  "filters": []
+}

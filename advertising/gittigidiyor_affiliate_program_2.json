@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GittiGidiyor Affiliate Program",
+  "category": "advertising",
+  "website_url": "https://www.ebay.com/",
+  "organization": "ebay",
+  "domains": [
+    "aff3.gittigidiyor.com"
+  ],
+  "filters": [
+    "||aff3.gittigidiyor.com/affiliate_front.js"
+  ]
+}

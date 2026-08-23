@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "AOL Images CDN",
+  "category": "hosting",
+  "organization": "bending_spoons",
+  "domains": [],
+  "filters": [
+    "||o.aolcdn.com/images"
+  ]
+}

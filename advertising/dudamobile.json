@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "DudaMobile",
+  "category": "advertising",
+  "organization": "dudamobile",
+  "domains": [
+    "dd-cdn.multiscreensite.com",
+    "px.multiscreensite.com"
+  ],
+  "filters": [
+    "||dd-cdn.multiscreensite.com/jscache/ga.js",
+    "||px.multiscreensite.com^$3p"
+  ]
+}

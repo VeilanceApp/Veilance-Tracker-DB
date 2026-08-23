@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Shinsegae",
+  "category": "site_analytics",
+  "website_url": "https://www.shinsegae.com/",
+  "organization": "shinsegae",
+  "domains": [
+    "www.shinsegae.com"
+  ],
+  "filters": [
+    "||shinsegae.com/topNPopup.do"
+  ]
+}

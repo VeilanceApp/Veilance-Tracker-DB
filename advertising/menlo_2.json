@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Menlo",
+  "category": "advertising",
+  "website_url": "http://www.menlotechnologies.cn/",
+  "organization": "menlotechnologies",
+  "domains": [
+    "mlt01.com"
+  ],
+  "filters": [
+    "||mlt01.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AffiMax",
+  "category": "advertising",
+  "website_url": "https://www.affimax.de",
+  "organization": "affimax",
+  "domains": [
+    "affimax.de"
+  ],
+  "filters": [
+    "||affimax.de^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "zalando.de",
+  "category": "misc",
+  "organization": "zalando",
+  "domains": [
+    "zalan.do",
+    "zalando.de",
+    "ztat.net"
+  ],
+  "filters": []
+}

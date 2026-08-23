@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Coinhive",
+  "category": "misc",
+  "website_url": "https://coinhive.com/",
+  "organization": "coinhive",
+  "domains": [
+    "authedmine.com",
+    "coin-hive.com",
+    "coinhive.com"
+  ],
+  "filters": [
+    "||authedmine.com/lib/authedmine.min.js",
+    "||coin-hive.com/lib/coinhive.min.js",
+    "||coinhive.com/lib/coinhive.min.js"
+  ]
+}

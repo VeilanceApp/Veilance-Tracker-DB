@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdCalls",
+  "category": "site_analytics",
+  "website_url": "https://adcalls.com/dynamic-call-tracking/",
+  "organization": "adcalls",
+  "domains": [
+    "adcalls.nl"
+  ],
+  "filters": [
+    "||adcalls.nl^$third-party"
+  ]
+}

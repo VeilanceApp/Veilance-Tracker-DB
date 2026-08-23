@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Mokono Analytics",
+  "category": "advertising",
+  "website_url": "http://www.populis.com",
+  "organization": "populis",
+  "domains": [
+    "mokonocdn.com"
+  ],
+  "filters": [
+    "||analytics.mpn.mokonocdn.com^$3p",
+    "||mpn-analytics.mokonocdn.com^$3p"
+  ]
+}

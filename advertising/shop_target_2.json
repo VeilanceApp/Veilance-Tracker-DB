@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Shop Target",
+  "category": "advertising",
+  "organization": "shopback",
+  "domains": [
+    "app.shoptarget.com.br",
+    "retargeter.com.br"
+  ],
+  "filters": [
+    "||app.shoptarget.com.br/js/tracking.js",
+    "||retargeter.com.br^$3p"
+  ]
+}

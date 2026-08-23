@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Social Native CDN",
+  "category": "hosting",
+  "website_url": "https://www.socialnative.com/",
+  "organization": "social_native",
+  "domains": [
+    "olapic-cdn.com"
+  ],
+  "filters": []
+}

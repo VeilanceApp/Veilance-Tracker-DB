@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Allo-Pages",
+  "category": "customer_interaction",
+  "website_url": "http://www.allo-pages.fr/",
+  "organization": "links_lab",
+  "domains": [
+    "allo-pages.fr"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdChakra",
+  "category": "site_analytics",
+  "organization": "adchakra",
+  "domains": [
+    "vuroll.in"
+  ],
+  "filters": [
+    "||vuroll.in^$3p"
+  ]
+}

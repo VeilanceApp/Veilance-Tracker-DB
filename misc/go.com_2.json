@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "go.com",
+  "category": "misc",
+  "website_url": "https://go.com",
+  "organization": "disney",
+  "domains": [
+    "go.com"
+  ],
+  "filters": []
+}

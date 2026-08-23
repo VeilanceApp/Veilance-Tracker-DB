@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Alliance Gravity",
+  "category": "advertising",
+  "website_url": "https://www.alliancegravity.com/",
+  "organization": "alliance_gravity",
+  "domains": [
+    "tag.agrvt.com",
+    "events.agrvt.com"
+  ],
+  "filters": [
+    "||tag.agrvt.com/tag/v2/wrapper.js^"
+  ]
+}

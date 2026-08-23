@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Yandex Passport",
+  "category": "customer_interaction",
+  "organization": "yandex",
+  "domains": [
+    "passport.yandex.ru"
+  ],
+  "filters": [
+    "||ysa-static.passport.yandex.ru^$3p"
+  ]
+}

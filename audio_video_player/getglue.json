@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GetGlue",
+  "category": "audio_video_player",
+  "website_url": "http://getglue.com",
+  "organization": "telfie",
+  "domains": [
+    "widgets.getglue.com"
+  ],
+  "filters": [
+    "||widgets.getglue.com^$3p"
+  ]
+}

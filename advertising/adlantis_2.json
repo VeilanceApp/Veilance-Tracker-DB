@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdLantis",
+  "category": "advertising",
+  "website_url": "http://www.adlantis.jp/",
+  "organization": "adlantis",
+  "domains": [
+    "adimg.net",
+    "adlantis.jp"
+  ],
+  "filters": [
+    "||adimg.net^$3p",
+    "||adlantis.jp^$3p"
+  ]
+}

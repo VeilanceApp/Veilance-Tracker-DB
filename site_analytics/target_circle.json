@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Target Circle",
+  "category": "site_analytics",
+  "organization": "target_circle",
+  "domains": [
+    "trackmytarget.com"
+  ],
+  "filters": [
+    "||trackmytarget.com/tracking/s/entrypoint.min.js"
+  ]
+}

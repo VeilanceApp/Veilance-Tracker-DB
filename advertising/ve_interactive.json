@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ve Interactive",
+  "category": "advertising",
+  "website_url": "https://www.veinteractive.com",
+  "organization": "ve_interactive",
+  "domains": [
+    "veinteractive.com"
+  ],
+  "filters": [
+    "||veinteractive.com^$3p"
+  ]
+}

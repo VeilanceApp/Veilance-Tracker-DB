@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "smartAD",
+  "category": "advertising",
+  "website_url": "http://smartad.eu/",
+  "organization": "smartad",
+  "domains": [
+    "bepolite.eu"
+  ],
+  "filters": [
+    "||bepolite.eu^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Ooyala Analytics",
+  "category": "site_analytics",
+  "organization": "telstra",
+  "domains": [],
+  "filters": [
+    "||analytics.ooyala.com/static/iframe_pinger.js",
+    "||l.ooyala.com/analytics/iframe.html"
+  ]
+}

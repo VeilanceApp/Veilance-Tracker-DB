@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Monster Advertising",
+  "category": "advertising",
+  "website_url": "https://www.monster.com/",
+  "organization": "monster_worldwide",
+  "domains": [
+    "monster.com"
+  ],
+  "filters": [
+    "||jdn.monster.com^$3p"
+  ]
+}

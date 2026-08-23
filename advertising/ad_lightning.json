@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Lightning",
+  "category": "advertising",
+  "website_url": "https://www.adlightning.com/",
+  "organization": "ad_lightning",
+  "domains": [
+    "adlightning.com"
+  ],
+  "filters": []
+}

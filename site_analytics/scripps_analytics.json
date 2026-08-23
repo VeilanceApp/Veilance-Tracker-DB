@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Scripps Analytics",
+  "category": "site_analytics",
+  "organization": "scripps_networks",
+  "domains": [
+    "analytics.snidigital.com"
+  ],
+  "filters": [
+    "||analytics.snidigital.com/scripps-core"
+  ]
+}

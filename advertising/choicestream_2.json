@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ChoiceStream",
+  "category": "advertising",
+  "website_url": "http://www.choicestream.com/",
+  "organization": "choicestream",
+  "domains": [
+    "choicestream.com"
+  ],
+  "filters": [
+    "||choicestream.com^$3p"
+  ]
+}

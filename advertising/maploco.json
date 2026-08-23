@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MapLoco",
+  "category": "advertising",
+  "website_url": "https://www.maploco.com/",
+  "organization": "maploco",
+  "domains": [
+    "www.maploco.com"
+  ],
+  "filters": [
+    "||www.maploco.com/vm"
+  ]
+}

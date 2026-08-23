@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Tyroo",
+  "category": "social_media",
+  "website_url": "https://www.tyroo.com/",
+  "organization": "tyroo",
+  "domains": [
+    "tyroodirect.com",
+    "tyroodr.com"
+  ],
+  "filters": []
+}

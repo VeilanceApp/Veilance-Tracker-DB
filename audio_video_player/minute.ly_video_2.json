@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "minute.ly video",
+  "category": "audio_video_player",
+  "organization": "minute.ly",
+  "domains": [
+    "apv.configuration.minute.ly"
+  ],
+  "filters": [
+    "||apv.configuration.minute.ly^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Salesforce Live Agent",
+  "category": "customer_interaction",
+  "website_url": "http://www.salesforce.com/",
+  "organization": "salesforce",
+  "domains": [
+    "liveagentforsalesforce.com",
+    "salesforceliveagent.com"
+  ],
+  "filters": [
+    "||liveagentforsalesforce.com^$3p",
+    "||salesforceliveagent.com^$3p"
+  ]
+}

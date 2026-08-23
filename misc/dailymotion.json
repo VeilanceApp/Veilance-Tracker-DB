@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Dailymotion",
+  "category": "misc",
+  "organization": "vivendi",
+  "domains": [
+    "dailymotion.com",
+    "dailymotionbus.com",
+    "dm-event.net",
+    "dmcdn.net"
+  ],
+  "filters": []
+}

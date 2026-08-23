@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Xaxis",
+  "category": "advertising",
+  "website_url": "https://www.xaxis.com/",
+  "organization": "media_innovation_group",
+  "domains": [
+    "mookie1.com"
+  ],
+  "filters": [
+    "||mookie1.com^$3p",
+    "||t.mookie1.com^$3p"
+  ]
+}

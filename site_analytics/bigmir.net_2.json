@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "bigmir",
+  "category": "site_analytics",
+  "website_url": "https://www.bigmir.net/",
+  "organization": "bigmir-internet",
+  "domains": [
+    "bigmir.net"
+  ],
+  "filters": [
+    "||c.bigmir.net^$3p"
+  ]
+}

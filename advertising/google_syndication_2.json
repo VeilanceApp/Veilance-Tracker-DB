@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google Syndication",
+  "category": "advertising",
+  "organization": "google",
+  "domains": [
+    "googlesyndication.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "DMG Media",
+  "category": "misc",
+  "website_url": "https://www.dmgmedia.co.uk/",
+  "organization": "dmgt",
+  "domains": [
+    "and.co.uk"
+  ],
+  "filters": []
+}

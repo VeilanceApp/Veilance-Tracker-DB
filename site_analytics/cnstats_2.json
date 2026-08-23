@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CNStats",
+  "category": "site_analytics",
+  "website_url": "http://cnstats.ru/",
+  "organization": "cnstats",
+  "domains": [
+    "cnstats.ru"
+  ],
+  "filters": [
+    "||cnstats.ru^$3p"
+  ]
+}

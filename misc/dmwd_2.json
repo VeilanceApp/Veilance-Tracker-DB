@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "DMWD",
+  "category": "misc",
+  "domains": [
+    "ctret.de"
+  ],
+  "filters": []
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ZeusClicks",
+  "category": "advertising",
+  "website_url": "http://zeusclicks.com/",
+  "domains": [
+    "zeusclicks.com"
+  ],
+  "filters": []
+}

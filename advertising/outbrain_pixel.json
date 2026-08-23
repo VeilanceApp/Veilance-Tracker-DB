@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Outbrain Pixel",
+  "category": "advertising",
+  "organization": "outbrain",
+  "domains": [],
+  "filters": [
+    "||amplifypixel.outbrain.com/pixel",
+    "||tr.outbrain.com/pixel"
+  ]
+}

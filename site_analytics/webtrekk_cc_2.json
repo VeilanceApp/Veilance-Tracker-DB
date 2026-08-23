@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Webtrek Control Cookie",
+  "category": "site_analytics",
+  "organization": "mapp_digital",
+  "domains": [],
+  "filters": [
+    "||geid.wbtrk.net/cc"
+  ]
+}

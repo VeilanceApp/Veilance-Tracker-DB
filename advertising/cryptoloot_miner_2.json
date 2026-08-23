@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "CryptoLoot Miner",
+  "category": "advertising",
+  "organization": "cryptoloot",
+  "domains": [
+    "cryptoloot.pro"
+  ],
+  "filters": [
+    "||cryptoloot.pro/lib/crlt.js"
+  ]
+}

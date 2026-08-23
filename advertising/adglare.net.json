@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Adglare",
+  "category": "advertising",
+  "website_url": "https://www.adglare.com/",
+  "domains": [
+    "adglare.net"
+  ],
+  "filters": []
+}

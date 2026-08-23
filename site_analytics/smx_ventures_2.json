@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "SMX Ventures",
+  "category": "site_analytics",
+  "organization": "smx_ventures",
+  "domains": [
+    "smxindia.in"
+  ],
+  "filters": [
+    "||smxindia.in/p.ashx"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "mPulse",
+  "category": "site_analytics",
+  "website_url": "https://www.akamai.com/products/mpulse-real-user-monitoring",
+  "organization": "akamai",
+  "domains": [
+    "go-mpulse.net",
+    "mpstat.us",
+    "tiaa-cref.org"
+  ],
+  "filters": [
+    "||go-mpulse.net^$3p",
+    "||mpstat.us^$3p",
+    "||tiaa-cref.org/public/js/boomerang.js"
+  ]
+}

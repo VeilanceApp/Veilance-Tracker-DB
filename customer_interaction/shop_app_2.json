@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Shopify App",
+  "category": "customer_interaction",
+  "website_url": "https://shop.app/",
+  "organization": "shopify",
+  "domains": [
+    "shop.app"
+  ],
+  "filters": [
+    "||shop.app^$3p"
+  ]
+}

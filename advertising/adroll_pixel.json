@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdRoll Pixel",
+  "category": "advertising",
+  "organization": "adroll",
+  "domains": [],
+  "filters": [
+    "||a.adroll.com/pixel",
+    "||d.adroll.com/pixel",
+    "||s.adroll.com/pixel"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "CDN77",
+  "category": "hosting",
+  "website_url": "https://www.cdn77.com/",
+  "domains": [
+    "cdn77.com",
+    "cdn77.org"
+  ],
+  "filters": []
+}

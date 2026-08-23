@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Questback",
+  "category": "customer_interaction",
+  "website_url": "http://www1.questback.com/",
+  "organization": "questback",
+  "domains": [
+    "easyresearch.se"
+  ],
+  "filters": [
+    "||easyresearch.se^$3p"
+  ]
+}

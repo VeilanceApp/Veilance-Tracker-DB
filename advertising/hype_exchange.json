@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Hype Exchange",
+  "category": "advertising",
+  "website_url": "http://www.hypeexchange.com/",
+  "organization": "hype_exchange",
+  "domains": [
+    "hypeads.org"
+  ],
+  "filters": [
+    "||hypeads.org^$3p"
+  ]
+}

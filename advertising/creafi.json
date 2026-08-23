@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Creafi",
+  "category": "advertising",
+  "website_url": "http://www.creafi.com/en/home/",
+  "organization": "crazy4media",
+  "domains": [
+    "creafi-online-media.com"
+  ],
+  "filters": [
+    "||creafi-online-media.com^$3p"
+  ]
+}

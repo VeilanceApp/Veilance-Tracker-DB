@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Google Website Optimizer",
+  "category": "site_analytics",
+  "website_url": "https://www.google.com/analytics/siteopt/prev",
+  "organization": "google",
+  "domains": [
+    "googleoptimize.com"
+  ],
+  "filters": [
+    "||google-analytics.com/siteopt.js"
+  ]
+}

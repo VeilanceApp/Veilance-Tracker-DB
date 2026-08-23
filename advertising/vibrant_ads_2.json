@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vibrant Ads",
+  "category": "advertising",
+  "website_url": "https://www.vibrantmedia.com/",
+  "organization": "vibrant_media",
+  "domains": [
+    "intellitxt.com"
+  ],
+  "filters": [
+    "||intellitxt.com^$3p"
+  ]
+}

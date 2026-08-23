@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CANDDI",
+  "category": "site_analytics",
+  "organization": "canddi",
+  "domains": [
+    "canddi.com"
+  ],
+  "filters": [
+    "||cdns.canddi.com^$3p",
+    "||i.canddi.com^$3p"
+  ]
+}

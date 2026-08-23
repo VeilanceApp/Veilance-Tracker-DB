@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Meta Network",
+  "category": "social_media",
+  "website_url": "http://www.metanetwork.com/",
+  "organization": "meta_network",
+  "domains": [
+    "ad.metanetwork.com"
+  ],
+  "filters": [
+    "||ad.metanetwork.com^$3p"
+  ]
+}

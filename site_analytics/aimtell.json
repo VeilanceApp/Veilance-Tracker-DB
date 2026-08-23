@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Aimtell",
+  "category": "site_analytics",
+  "website_url": "https://aimtell.com/",
+  "organization": "digital_media_solutions",
+  "domains": [
+    "aimtell.com"
+  ],
+  "filters": [
+    "||aimtell.com^$3p"
+  ]
+}

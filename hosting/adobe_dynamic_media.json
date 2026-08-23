@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Adobe Dynamic Media",
+  "category": "hosting",
+  "organization": "adobe",
+  "domains": [
+    "scene7.com"
+  ],
+  "filters": []
+}

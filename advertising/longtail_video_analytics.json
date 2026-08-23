@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "JW Player Analytics",
+  "category": "advertising",
+  "website_url": "http://www.longtailvideo.com/",
+  "organization": "jw_player",
+  "domains": [],
+  "filters": [
+    "||i.n.jwpltx.com^$3p",
+    "||s.jwpltx.com^$3p"
+  ]
+}

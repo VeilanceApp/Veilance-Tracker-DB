@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Empathy",
+  "category": "advertising",
+  "website_url": "http://www.colbenson.com",
+  "organization": "empathy",
+  "domains": [
+    "colbenson.es"
+  ],
+  "filters": [
+    "||colbenson.es^$3p"
+  ]
+}

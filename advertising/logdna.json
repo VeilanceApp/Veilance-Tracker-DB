@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "LogDNA",
+  "category": "advertising",
+  "website_url": "http://www.answerbook.com/",
+  "organization": "logdna",
+  "domains": [
+    "ping.answerbook.com"
+  ],
+  "filters": [
+    "||ping.answerbook.com^$3p"
+  ]
+}

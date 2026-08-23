@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Kickfactory",
+  "category": "advertising",
+  "organization": "kickfactory",
+  "domains": [
+    "ping.kickfactory.com"
+  ],
+  "filters": [
+    "||ping.kickfactory.com/ping"
+  ]
+}

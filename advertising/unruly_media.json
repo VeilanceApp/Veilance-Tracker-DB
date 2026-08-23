@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Unruly Media",
+  "category": "advertising",
+  "website_url": "http://www.nexxen.com/",
+  "organization": "nexxen",
+  "domains": [
+    "unrulymedia.com"
+  ],
+  "filters": [
+    "||unrulymedia.com^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Traffective",
+  "category": "advertising",
+  "website_url": "https://traffective.com/",
+  "domains": [
+    "cdntrf.com",
+    "traffective.com"
+  ],
+  "filters": []
+}

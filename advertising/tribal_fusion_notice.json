@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Tribal Fusion Notice",
+  "category": "advertising",
+  "website_url": "http://www.tribalfusion.com",
+  "organization": "exponential_interactive",
+  "domains": [],
+  "filters": [
+    "||tribalfusion.com/media/common/adchoice"
+  ]
+}

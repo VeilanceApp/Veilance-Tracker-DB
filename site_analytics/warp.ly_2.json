@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Warp.ly",
+  "category": "site_analytics",
+  "organization": "warp.ly",
+  "domains": [
+    "static.warp.ly"
+  ],
+  "filters": [
+    "||static.warp.ly/data/warplysdk_v2.0.js"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "AdPilot",
+  "category": "advertising",
+  "website_url": "http://www.adpilotgroup.com/",
+  "organization": "adpilot",
+  "domains": [
+    "adpilot.at",
+    "erne.co"
+  ],
+  "filters": [
+    "||green.erne.co/tags"
+  ]
+}

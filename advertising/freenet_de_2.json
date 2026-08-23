@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "freenet.de",
+  "category": "advertising",
+  "website_url": "https://freenet.de/",
+  "organization": "debitel",
+  "domains": [
+    "freenet.de",
+    "freent.de"
+  ],
+  "filters": [
+    "||adserver.freenet.de^$3p"
+  ]
+}

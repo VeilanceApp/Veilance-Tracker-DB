@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Let Reach",
+  "category": "customer_interaction",
+  "organization": "let_reach",
+  "domains": [
+    "letreach.com"
+  ],
+  "filters": [
+    "||letreach.com^$3p"
+  ]
+}

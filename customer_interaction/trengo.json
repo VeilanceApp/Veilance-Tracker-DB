@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Trengo",
+  "category": "customer_interaction",
+  "website_url": "https://trengo.com/",
+  "organization": "trengo",
+  "domains": [
+    "api.widget.trengo.eu"
+  ],
+  "filters": []
+}

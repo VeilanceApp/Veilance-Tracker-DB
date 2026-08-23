@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "venturead.com",
+  "category": "misc",
+  "domains": [
+    "venturead.com"
+  ],
+  "filters": []
+}

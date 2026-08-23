@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Raygun",
+  "category": "advertising",
+  "organization": "raygun",
+  "domains": [
+    "raygun.io"
+  ],
+  "filters": [
+    "||api.raygun.io/entries"
+  ]
+}

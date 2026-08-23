@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "uppr GmbH",
+  "category": "advertising",
+  "website_url": "https://uppr.de/",
+  "domains": [
+    "uppr.de"
+  ],
+  "filters": []
+}

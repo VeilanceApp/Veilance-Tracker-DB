@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Quisma",
+  "category": "advertising",
+  "website_url": "http://www.quisma.com/en/",
+  "organization": "wpp",
+  "domains": [
+    "qservz.com",
+    "quisma.com"
+  ],
+  "filters": [
+    "||qservz.com^$3p",
+    "||tracking.quisma.com^$3p"
+  ]
+}

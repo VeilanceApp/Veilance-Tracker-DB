@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "CookieQ",
+  "category": "utilities",
+  "website_url": "http://cookieq.com/CookieQ",
+  "organization": "baycloud",
+  "domains": [
+    "cookieq.com"
+  ],
+  "filters": [
+    "||cookieq.com/cookieq",
+    "||cookieq.com/scripts"
+  ]
+}

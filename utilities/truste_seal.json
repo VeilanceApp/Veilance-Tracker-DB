@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TRUSTe Seal",
+  "category": "utilities",
+  "website_url": "https://www.truste.com/",
+  "organization": "trustarc",
+  "domains": [
+    "privacy-policy.truste.com"
+  ],
+  "filters": [
+    "||privacy-policy.truste.com^$3p"
+  ]
+}

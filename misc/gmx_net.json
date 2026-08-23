@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "gmx.net",
+  "category": "misc",
+  "domains": [
+    "gmx.net",
+    "gmxpro.net"
+  ],
+  "filters": []
+}

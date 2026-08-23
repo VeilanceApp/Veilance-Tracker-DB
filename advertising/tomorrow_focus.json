@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Tomorrow Focus",
+  "category": "advertising",
+  "website_url": "http://www.tomorrow-focus.com",
+  "organization": "hubert_burda_media",
+  "domains": [
+    "tfag.de"
+  ],
+  "filters": [
+    "||tfag.de/js_ng/js_ng_"
+  ]
+}

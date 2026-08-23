@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Infinity Tracking",
+  "category": "site_analytics",
+  "website_url": "http://www.infinity-tracking.com",
+  "organization": "infinity_tracking",
+  "domains": [
+    "infinity-tracking.net"
+  ],
+  "filters": [
+    "||infinity-tracking.net^$3p"
+  ]
+}

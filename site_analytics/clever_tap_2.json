@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "CleverTap",
+  "category": "site_analytics",
+  "organization": "clever_tap",
+  "domains": [
+    "wzrkt.com"
+  ],
+  "filters": [
+    "||wzrkt.com/a"
+  ]
+}

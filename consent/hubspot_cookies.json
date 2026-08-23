@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "HubSpot CMP",
+  "category": "consent",
+  "website_url": "https://www.hubspot.com",
+  "organization": "hubspot",
+  "domains": [
+    "hs-banner.com",
+    "wtcfns.hubspot.com"
+  ],
+  "filters": [
+    "||wtcfns.hubspot.com^$3p"
+  ]
+}

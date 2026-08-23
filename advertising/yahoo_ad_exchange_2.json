@@ -1,0 +1,26 @@
+{
+  "format": "veilance-json",
+  "name": "Yahoo! Ad Exchange",
+  "category": "advertising",
+  "website_url": "https://www.verizonmedia.com/advertising",
+  "organization": "yahoo",
+  "domains": [
+    "ads.yahoo.com",
+    "yads.yahoo.com",
+    "yieldmanager.com"
+  ],
+  "filters": [
+    "||ad.yieldmanager.com^$3p",
+    "||ad.yieldmanager.net^$3p",
+    "||ads.yahoo.com^$3p",
+    "||content.yieldmanager.com/rmi.js",
+    "||content.yieldmanager.com/rmtag3.js",
+    "||e.yieldmanager.net/script.js",
+    "||extern.yahoo.com/b",
+    "||rm.yieldmanager.com^$3p",
+    "||rmxads.com^$3p",
+    "||thewheelof.com^$3p",
+    "||yads.yahoo.com^$3p",
+    "||yldmgrimg.net^$3p"
+  ]
+}

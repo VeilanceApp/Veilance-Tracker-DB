@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Earnify",
+  "category": "advertising",
+  "organization": "earnify",
+  "domains": [
+    "cdn.earnify.com"
+  ],
+  "filters": [
+    "||cdn.earnify.com^$3p"
+  ]
+}

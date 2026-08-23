@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Retarget App",
+  "category": "advertising",
+  "organization": "retargetapp",
+  "domains": [
+    "shopify.retargetapp.com"
+  ],
+  "filters": [
+    "||shopify.retargetapp.com/pixel.js"
+  ]
+}

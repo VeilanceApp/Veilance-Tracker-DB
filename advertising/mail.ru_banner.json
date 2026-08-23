@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Mail.Ru Banner Network",
+  "category": "advertising",
+  "website_url": "https://mail.ru/",
+  "organization": "megafon",
+  "domains": [
+    "ad.mail.ru"
+  ],
+  "filters": [
+    "||ad.mail.ru^$3p"
+  ]
+}

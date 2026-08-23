@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Widespace",
+  "category": "advertising",
+  "website_url": "https://www.widespace.com/",
+  "organization": "widespace",
+  "domains": [
+    "widespace.com"
+  ],
+  "filters": [
+    "||widespace.com^$3p"
+  ]
+}

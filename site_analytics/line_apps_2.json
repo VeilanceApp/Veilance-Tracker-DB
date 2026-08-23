@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Line",
+  "category": "site_analytics",
+  "website_url": "https://line.me/en-US/",
+  "organization": "line",
+  "domains": [
+    "line-apps.com",
+    "line-scdn.net",
+    "line.me"
+  ],
+  "filters": [
+    "||d.line-scdn.net/n/line_tag/public/release/v1/lt.js"
+  ]
+}

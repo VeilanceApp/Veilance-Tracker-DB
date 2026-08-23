@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Net-Results",
+  "category": "advertising",
+  "website_url": "https://www.net-results.com/",
+  "organization": "net-results",
+  "domains": [
+    "cdnma.com",
+    "nr7.us"
+  ],
+  "filters": [
+    "||cdnma.com/apps/",
+    "||nr7.us/apps/"
+  ]
+}

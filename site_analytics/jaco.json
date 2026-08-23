@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Jaco",
+  "category": "site_analytics",
+  "organization": "walkme",
+  "domains": [
+    "getjaco.com"
+  ],
+  "filters": [
+    "||recorder-assets.getjaco.com/recorder_v2.js"
+  ]
+}

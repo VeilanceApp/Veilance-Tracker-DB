@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iWiW Widgets",
+  "category": "customer_interaction",
+  "website_url": "http://iwiw.hu",
+  "organization": "iwiw",
+  "domains": [
+    "iwiw.hu"
+  ],
+  "filters": [
+    "||iwiw.hu/like.jsp"
+  ]
+}

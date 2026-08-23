@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Flowplayer",
+  "category": "advertising",
+  "organization": "flowplayer",
+  "domains": [
+    "flowplayer.org"
+  ],
+  "filters": [
+    "||releases.flowplayer.org/6.0.5/commercial/flowplayer.min.js"
+  ]
+}

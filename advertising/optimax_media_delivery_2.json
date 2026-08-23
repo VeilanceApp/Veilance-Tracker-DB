@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Optimax Media Delivery",
+  "category": "advertising",
+  "website_url": "http://optmd.com/",
+  "organization": "optimax_media_delivery",
+  "domains": [
+    "optmd.com"
+  ],
+  "filters": [
+    "||optmd.com^$3p"
+  ]
+}

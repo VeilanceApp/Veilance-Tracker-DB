@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Digilant",
+  "category": "advertising",
+  "website_url": "https://www.digilant.com/",
+  "organization": "digilant",
+  "domains": [
+    "wtp101.com"
+  ],
+  "filters": [
+    "||wtp101.com^$3p"
+  ]
+}

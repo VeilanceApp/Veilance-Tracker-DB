@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Truyo",
+  "category": "consent",
+  "website_url": "https://truyo.com/",
+  "organization": "intraedge",
+  "domains": [
+    "truyo.com"
+  ],
+  "filters": [
+    "||truyo.com^$3p"
+  ]
+}

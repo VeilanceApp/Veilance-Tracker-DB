@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VEE24",
+  "category": "audio_video_player",
+  "website_url": "https://www.vee24.com/",
+  "organization": "vee24",
+  "domains": [
+    "vee24.com"
+  ],
+  "filters": [
+    "/v24/veedesk/v24embedded.js"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "FileServe",
+  "category": "hosting",
+  "website_url": "http://fileserve.com/",
+  "organization": "fileserve",
+  "domains": [
+    "fileserve.xyz"
+  ],
+  "filters": []
+}

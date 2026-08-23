@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Dynamics 365",
+  "category": "site_analytics",
+  "website_url": "https://www.microsoft.com/en-gb/dynamics-365",
+  "organization": "microsoft",
+  "domains": [
+    "svc.dynamics.com",
+    "omnichannelengagementhub.com"
+  ],
+  "filters": [
+    "||svc.dynamics.com/f/m/$3p",
+    "||svc.dynamics.com/t/w$3p"
+  ]
+}

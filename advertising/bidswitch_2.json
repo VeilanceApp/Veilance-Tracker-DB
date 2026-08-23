@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Bidswitch",
+  "category": "advertising",
+  "organization": "criteo",
+  "domains": [
+    "bidswitch.net",
+    "exe.bid"
+  ],
+  "filters": [
+    "||bidswitch.net^$3p",
+    "||sync-eu.exe.bid^$3p"
+  ]
+}

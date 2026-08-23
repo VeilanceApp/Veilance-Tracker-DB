@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Cardlytics",
+  "category": "site_analytics",
+  "website_url": "https://www.cardlytics.com/",
+  "domains": [
+    "cardlytics.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "cdnnetwok.xyz",
+  "category": "extensions",
+  "domains": [
+    "cdnnetwok.xyz"
+  ],
+  "filters": []
+}

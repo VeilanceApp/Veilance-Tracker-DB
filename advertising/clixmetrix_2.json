@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ClixMetrix",
+  "category": "advertising",
+  "website_url": "http://www.clixmetrix.com/",
+  "organization": "clixmedia",
+  "domains": [
+    "clixmetrix.com"
+  ],
+  "filters": [
+    "||clixmetrix.com^$3p"
+  ]
+}

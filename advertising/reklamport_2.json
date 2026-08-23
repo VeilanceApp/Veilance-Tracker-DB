@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Reklamport",
+  "category": "advertising",
+  "website_url": "http://www.reklamport.com/",
+  "organization": "reklamport",
+  "domains": [
+    "ad.reklamport.com"
+  ],
+  "filters": [
+    "||ad.reklamport.com^$3p"
+  ]
+}

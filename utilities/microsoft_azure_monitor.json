@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft Azure Monitor",
+  "category": "utilities",
+  "website_url": "https://learn.microsoft.com/en-us/azure/azure-monitor/overview",
+  "organization": "microsoft",
+  "domains": [
+    "js.monitor.azure.com",
+    "applicationinsights.azure.com",
+    "applicationinsights.microsoft.com",
+    "monitor.azure.com"
+  ],
+  "filters": [
+    "||visualstudio.com/v2/track"
+  ]
+}

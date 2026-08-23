@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "1&1 Internet",
+  "category": "misc",
+  "domains": [
+    "1and1.com",
+    "1und1.de",
+    "uicdn.com",
+    "website-start.de"
+  ],
+  "filters": []
+}

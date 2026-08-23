@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AudienceRate",
+  "category": "advertising",
+  "website_url": "https://www.audiencerate.com/",
+  "organization": "audiencerate",
+  "domains": [
+    "12mlbe.com",
+    "audrte.com"
+  ],
+  "filters": [
+    "||12mlbe.com^",
+    "||audrte.com^"
+  ]
+}

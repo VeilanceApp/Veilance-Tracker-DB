@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google Static",
+  "category": "hosting",
+  "organization": "google",
+  "domains": [
+    "gstatic.com"
+  ],
+  "filters": []
+}

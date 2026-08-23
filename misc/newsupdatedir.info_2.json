@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "newsupdatedir.info",
+  "category": "misc",
+  "domains": [
+    "newsupdatedir.info"
+  ],
+  "filters": []
+}

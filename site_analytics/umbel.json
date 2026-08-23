@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Umbel",
+  "category": "site_analytics",
+  "website_url": "http://umbel.com",
+  "organization": "umbel",
+  "domains": [
+    "api.umbel.com"
+  ],
+  "filters": [
+    "||api.umbel.com^$3p"
+  ]
+}

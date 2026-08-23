@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Wanelo",
+  "category": "customer_interaction",
+  "organization": "wanelo",
+  "domains": [
+    "cdn-saveit.wanelo.com"
+  ],
+  "filters": [
+    "||cdn-saveit.wanelo.com/bookmarklet/3/save.js"
+  ]
+}

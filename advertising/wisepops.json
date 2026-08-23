@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "WisePops",
+  "category": "advertising",
+  "website_url": "https://wisepops.com/",
+  "organization": "wisepops",
+  "domains": [
+    "wisepops.com"
+  ],
+  "filters": [
+    "||wisepops.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "blogimg.jp",
+  "category": "hosting",
+  "organization": "line",
+  "domains": [
+    "blogimg.jp"
+  ],
+  "filters": []
+}

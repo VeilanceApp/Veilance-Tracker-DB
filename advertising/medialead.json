@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Medialead",
+  "category": "advertising",
+  "website_url": "https://www.medialead.de/",
+  "organization": "the_reach_group",
+  "domains": [
+    "medialead.de"
+  ],
+  "filters": []
+}

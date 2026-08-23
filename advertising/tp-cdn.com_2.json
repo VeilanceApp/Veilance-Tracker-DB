@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "TrialPay",
+  "category": "advertising",
+  "website_url": "https://www.trialpay.com/",
+  "domains": [
+    "rialpay.com",
+    "tp-cdn.com"
+  ],
+  "filters": []
+}

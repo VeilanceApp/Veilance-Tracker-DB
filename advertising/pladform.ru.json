@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Pladform",
+  "category": "advertising",
+  "website_url": "https://distribution.pladform.ru/",
+  "organization": "pladform",
+  "domains": [
+    "pladform.com"
+  ],
+  "filters": []
+}

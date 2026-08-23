@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Video Desk",
+  "category": "audio_video_player",
+  "organization": "video_desk",
+  "domains": [
+    "module-videodesk.com"
+  ],
+  "filters": [
+    "||module-videodesk.com/js/videodesk.js"
+  ]
+}

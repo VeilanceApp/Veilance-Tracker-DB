@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "Naver",
+  "category": "advertising",
+  "website_url": "https://www.naver.com/",
+  "organization": "naver",
+  "domains": [
+    "naver.com",
+    "naver.net"
+  ],
+  "filters": [
+    "||search.naver.com^$3p",
+    "||wcs.naver.net/wcslog.js",
+    "||siape.veta.naver.com^$3p",
+    "||event.impression-neo.naver.com",
+    "||ssl.pstatic.net/adimg3.search/adpost/js/event_tracker.js",
+    "||apis.naver.com/mcollector/mcollector/qoe",
+    "||scv-game.io.naver.com/jackpotlog/v1/logs"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Leading Reports",
+  "category": "advertising",
+  "organization": "leading_reports",
+  "domains": [
+    "io.leadingreports.de"
+  ],
+  "filters": [
+    "||io.leadingreports.de^$3p"
+  ]
+}

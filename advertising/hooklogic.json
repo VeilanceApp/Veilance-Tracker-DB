@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "HookLogic",
+  "category": "advertising",
+  "website_url": "http://hooklogic.com/",
+  "organization": "criteo",
+  "domains": [
+    "hlserve.com"
+  ],
+  "filters": [
+    "||hlserve.com^$3p"
+  ]
+}

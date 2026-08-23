@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MyPagerank",
+  "category": "site_analytics",
+  "website_url": "http://www.mypagerank.net/",
+  "organization": "mypagerank",
+  "domains": [
+    "mypagerank.net"
+  ],
+  "filters": [
+    "||mypagerank.net/services"
+  ]
+}

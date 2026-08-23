@@ -1,0 +1,27 @@
+{
+  "format": "veilance-json",
+  "name": "RevenueHits",
+  "category": "advertising",
+  "website_url": "https://www.revenuehits.com/",
+  "organization": "revenuehits",
+  "domains": [
+    "clkads.com",
+    "clkmon.com",
+    "clkrev.com",
+    "clksite.com",
+    "eclkspbn.com",
+    "imageshack.host"
+  ],
+  "filters": [
+    "||Rdsa2013.com^$3p",
+    "||cdn1.srv.revdepo.com/script/",
+    "||cdn1.tags1.revdepo.com/banners/bounce/bounce-tag_1.0.22.js",
+    "||cdn1.tags1.revdepo.com/banners/script/bnr-tag_1.0.9.js",
+    "||cdn1.tags1.revdepo.com/banners/script/bnrcore_1.0.25.js",
+    "||cdn1.tags3.revdepo.com/banners/script/bnr-wrp_1.0.20.js",
+    "||clkads.com^$3p",
+    "||clkmon.com^$3p",
+    "||clkrev.com^$3p",
+    "||eclkspbn.com^$3p"
+  ]
+}

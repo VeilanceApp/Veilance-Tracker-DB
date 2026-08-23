@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Onefeed",
+  "category": "site_analytics",
+  "website_url": "http://www.onefeed.co.uk",
+  "organization": "onefeed",
+  "domains": [
+    "tracking.onefeed.co.uk"
+  ],
+  "filters": [
+    "||tracking.onefeed.co.uk^$3p"
+  ]
+}

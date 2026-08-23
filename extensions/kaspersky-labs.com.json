@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Kaspersky Labs",
+  "category": "extensions",
+  "website_url": "https://www.kaspersky.com/",
+  "organization": "AO Kaspersky Lab",
+  "domains": [
+    "kaspersky-labs.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Deep.BI",
+  "category": "site_analytics",
+  "organization": "deep.bi",
+  "domains": [
+    "api.deep.bi"
+  ],
+  "filters": [
+    "||api.deep.bi/scripts/v1/track.js"
+  ]
+}

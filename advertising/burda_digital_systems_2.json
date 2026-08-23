@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Burda Digital Systems",
+  "category": "advertising",
+  "organization": "hubert_burda_media",
+  "domains": [
+    "bstatic.de"
+  ],
+  "filters": []
+}

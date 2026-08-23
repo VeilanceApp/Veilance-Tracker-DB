@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "ClickInc",
+  "category": "advertising",
+  "website_url": "http://www.clickinc.com",
+  "organization": "clickinc",
+  "domains": [
+    "clickinc.com"
+  ],
+  "filters": [
+    "||ca.clickinc.com^$3p",
+    "||impression.clickinc.com^$3p"
+  ]
+}

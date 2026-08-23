@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Po.st",
+  "category": "social_media",
+  "website_url": "https://www.po.st/",
+  "organization": "nexxen",
+  "domains": [
+    "po.st"
+  ],
+  "filters": [
+    "||po.st^$3p"
+  ]
+}

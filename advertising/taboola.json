@@ -1,0 +1,20 @@
+{
+  "format": "veilance-json",
+  "name": "Taboola",
+  "category": "advertising",
+  "website_url": "http://www.taboola.com",
+  "organization": "taboola",
+  "domains": [
+    "basebanner.com",
+    "taboola.com",
+    "taboolasyndication.com",
+    "api-taboola.com"
+  ],
+  "filters": [
+    "/taboola_newsroom_article.js",
+    "||basebanner.com^$3p",
+    "||cmbestsrv.com^$3p",
+    "||taboola.com^$3p",
+    "||taboolasyndication.com^$3p"
+  ]
+}

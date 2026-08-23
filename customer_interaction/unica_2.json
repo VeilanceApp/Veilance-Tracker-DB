@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Unica",
+  "category": "customer_interaction",
+  "website_url": "http://www.unica.com/",
+  "organization": "ibm",
+  "domains": [
+    "roitesting.com",
+    "unica.com"
+  ],
+  "filters": [
+    "ntpagetag",
+    "||roitesting.com^$3p",
+    "||unica.com^$3p"
+  ]
+}

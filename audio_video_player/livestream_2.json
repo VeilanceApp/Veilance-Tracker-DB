@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Livestream",
+  "category": "audio_video_player",
+  "organization": "vimeo",
+  "domains": [
+    "analytics.livestream.com"
+  ],
+  "filters": [
+    "||analytics.livestream.com/track"
+  ]
+}

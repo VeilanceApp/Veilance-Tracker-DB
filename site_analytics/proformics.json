@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Proformics",
+  "category": "site_analytics",
+  "organization": "proformics_digital",
+  "domains": [
+    "tracking.proformics.com"
+  ],
+  "filters": [
+    "||tracking.proformics.com^$3p"
+  ]
+}

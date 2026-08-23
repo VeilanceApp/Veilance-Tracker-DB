@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MediaHub",
+  "category": "advertising",
+  "website_url": "http://www.mediahub.com/",
+  "organization": "mediahub",
+  "domains": [
+    "fhserve.com"
+  ],
+  "filters": [
+    "||fhserve.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Gumroad",
+  "category": "social_media",
+  "website_url": "https://gumroad.com/",
+  "organization": "gumroad",
+  "domains": [
+    "gumroad.com"
+  ],
+  "filters": [
+    "||gumroad.com/js/gumroad.js",
+    "||gumroad.com^$3p"
+  ]
+}

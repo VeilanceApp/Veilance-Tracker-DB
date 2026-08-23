@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Shopify Cloud",
+  "category": "hosting",
+  "website_url": "https://www.shopify.com/",
+  "organization": "shopify",
+  "domains": [
+    "shopifycloud.com"
+  ],
+  "filters": []
+}

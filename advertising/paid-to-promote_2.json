@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Paid-To-Promote",
+  "category": "advertising",
+  "website_url": "https://www.paid-to-promote.net/",
+  "organization": "paid-to-promote",
+  "domains": [
+    "777seo.com",
+    "paid-to-promote.net",
+    "ptp22.com",
+    "ptp33.com"
+  ],
+  "filters": [
+    "||777seo.com^$3p",
+    "||paid-to-promote.net/images/ptp.gif",
+    "||ptp22.com^$3p",
+    "||ptp33.com^$3p"
+  ]
+}

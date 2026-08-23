@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Next Tuesday GmbH",
+  "category": "misc",
+  "website_url": "https://www.nexttuesday.de/",
+  "domains": [
+    "nt.vc"
+  ],
+  "filters": []
+}

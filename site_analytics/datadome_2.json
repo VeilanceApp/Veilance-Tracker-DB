@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DataDome",
+  "category": "site_analytics",
+  "website_url": "https://datadome.co/",
+  "organization": "datadome",
+  "domains": [
+    "datadome.co"
+  ],
+  "filters": [
+    "||js.datadome.co/tags.js"
+  ]
+}

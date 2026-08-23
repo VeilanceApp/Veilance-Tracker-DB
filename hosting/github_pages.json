@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Github Pages",
+  "category": "hosting",
+  "website_url": "https://pages.github.com/",
+  "organization": "github",
+  "domains": [
+    "github.io"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Engage Sciences",
+  "category": "site_analytics",
+  "organization": "engagesciences",
+  "domains": [
+    "track.engagesciences.com"
+  ],
+  "filters": [
+    "||track.engagesciences.com/track.ngx"
+  ]
+}

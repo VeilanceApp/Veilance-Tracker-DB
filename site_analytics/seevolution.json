@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SeeVolution",
+  "category": "site_analytics",
+  "website_url": "http://www.seevolution.com",
+  "organization": "seevolution",
+  "domains": [
+    "svlu.net"
+  ],
+  "filters": [
+    "||svlu.net^$3p"
+  ]
+}

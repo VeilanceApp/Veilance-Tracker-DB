@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "AdOnly",
+  "category": "advertising",
+  "website_url": "https://gloadmarket.com/",
+  "organization": "adonly",
+  "domains": [
+    "t.adonly.com"
+  ],
+  "filters": [
+    "||gloadmarket.com^$3p",
+    "||t.adonly.com/core/tag.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Admedo",
+  "category": "advertising",
+  "website_url": "https://admedo.com/",
+  "organization": "admedo",
+  "domains": [
+    "adizio.com",
+    "admedo.com"
+  ],
+  "filters": [
+    "||adizio.com^$3p",
+    "||admedo.com/admtracker.lib.min.js"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "IXI Digital",
+  "category": "advertising",
+  "organization": "equifax",
+  "domains": [
+    "ixiaa.com"
+  ],
+  "filters": [
+    "||kr.ixiaa.com^$3p"
+  ]
+}

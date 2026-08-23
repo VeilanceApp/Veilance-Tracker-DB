@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ContentSquare",
+  "category": "site_analytics",
+  "website_url": "https://www.contentsquare.com/",
+  "organization": "content_square",
+  "domains": [
+    "contentsquare.net"
+  ],
+  "filters": [
+    "||t.contentsquare.net/uxa/*.js^$3p"
+  ]
+}

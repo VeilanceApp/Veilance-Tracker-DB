@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Play by Mamba",
+  "category": "advertising",
+  "website_url": "https://play.mamba.ru/",
+  "organization": "mamba",
+  "domains": [
+    "loveadvert.ru"
+  ],
+  "filters": [
+    "||loveadvert.ru^$3p"
+  ]
+}

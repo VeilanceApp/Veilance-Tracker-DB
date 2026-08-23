@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Linkwise",
+  "category": "advertising",
+  "website_url": "https://linkwi.se/global-en/",
+  "organization": "linkwise",
+  "domains": [
+    "linkwi.se"
+  ],
+  "filters": [
+    "||linkwi.se/delivery"
+  ]
+}

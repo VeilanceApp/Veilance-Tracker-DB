@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "PixFuture",
+  "category": "advertising",
+  "website_url": "http://www.pixfuture.com",
+  "organization": "pixfuture",
+  "domains": [
+    "pixfuture.net",
+    "vast1.pixfuture.com"
+  ],
+  "filters": [
+    "||pixfuture.net^$3p",
+    "||vast1.pixfuture.com/vpaid/ads.js"
+  ]
+}

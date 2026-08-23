@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Porta Brazil",
+  "category": "advertising",
+  "organization": "portal_brazil",
+  "domains": [
+    "barra.brasil.gov.br"
+  ],
+  "filters": [
+    "||barra.brasil.gov.br/barra.js"
+  ]
+}

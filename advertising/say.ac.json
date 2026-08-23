@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Say.ac",
+  "category": "advertising",
+  "website_url": "http://say.ac",
+  "organization": "say.ac",
+  "domains": [
+    "say.ac"
+  ],
+  "filters": [
+    "||say.ac^$3p"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Zendesk CDN",
+  "category": "hosting",
+  "website_url": "https://www.zendesk.com/",
+  "organization": "zendesk",
+  "domains": [
+    "zdassets.com"
+  ],
+  "filters": []
+}

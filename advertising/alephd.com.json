@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "alephd",
+  "category": "advertising",
+  "website_url": "https://www.alephd.com/",
+  "organization": "yahoo",
+  "domains": [
+    "alephd.com"
+  ],
+  "filters": []
+}

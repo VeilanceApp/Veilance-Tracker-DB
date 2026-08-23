@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Ligatus",
+  "category": "advertising",
+  "website_url": "http://www.ligatus.com/",
+  "organization": "outbrain",
+  "domains": [
+    "content-recommendation.net",
+    "ligadx.com",
+    "ligatus.com",
+    "ligatus.de",
+    "veeseo.com"
+  ],
+  "filters": [
+    "||ligatus.com^$3p",
+    "||ligatus.de^$3p",
+    "||veeseo.com^$3p"
+  ]
+}

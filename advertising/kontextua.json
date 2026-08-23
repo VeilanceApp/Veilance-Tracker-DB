@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Kontextua",
+  "category": "advertising",
+  "website_url": "http://www.kontextua.com/",
+  "organization": "kontextua",
+  "domains": [
+    "kontextua.com"
+  ],
+  "filters": [
+    "||kontextua.com^$3p"
+  ]
+}

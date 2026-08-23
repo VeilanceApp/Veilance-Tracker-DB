@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Magnet",
+  "category": "advertising",
+  "website_url": "http://www.admagnet.com/",
+  "organization": "ad_magnet",
+  "domains": [
+    "admagnet.net",
+    "amimg.net"
+  ],
+  "filters": [
+    "||admagnet.net^$3p",
+    "||amimg.net^$3p"
+  ]
+}

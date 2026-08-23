@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Gunggo",
+  "category": "advertising",
+  "website_url": "http://www.gunggo.com/",
+  "organization": "gunggo",
+  "domains": [
+    "gunggo.com"
+  ],
+  "filters": [
+    "||gunggo.com^$3p"
+  ]
+}

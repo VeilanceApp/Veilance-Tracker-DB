@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "The ADEX",
+  "category": "advertising",
+  "website_url": "https://www.theadex.com/",
+  "organization": "prosieben_sat1",
+  "domains": [
+    "theadex.com"
+  ],
+  "filters": [
+    "||dmp.theadex.com^$3p"
+  ]
+}

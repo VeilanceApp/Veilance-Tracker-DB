@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adobe Developer",
+  "category": "utilities",
+  "website_url": "https://developer.adobe.com/",
+  "organization": "adobe",
+  "domains": [
+    "adobe.io"
+  ],
+  "filters": [
+    "||adobe.io^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Akavita",
+  "category": "advertising",
+  "website_url": "http://www.akavita.by/en",
+  "organization": "akavita",
+  "domains": [
+    "akavita.com"
+  ],
+  "filters": [
+    "||akavita.com^$3p"
+  ]
+}

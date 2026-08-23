@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Daily Mail",
+  "category": "misc",
+  "website_url": "https://www.dailymail.co.uk/home/index.html",
+  "organization": "dmg_media",
+  "domains": [
+    "dailymail.co.uk"
+  ],
+  "filters": []
+}

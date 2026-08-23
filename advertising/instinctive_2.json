@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Instinctive",
+  "category": "advertising",
+  "organization": "instinctive",
+  "domains": [
+    "load.instinctiveads.com"
+  ],
+  "filters": [
+    "||engine.instinctiveads.com/a/0.9533535316284412.js",
+    "||load.instinctiveads.com/i.js"
+  ]
+}

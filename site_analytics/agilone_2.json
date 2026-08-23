@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AgilOne",
+  "category": "site_analytics",
+  "website_url": "http://www.agilone.com/",
+  "organization": "agilone",
+  "domains": [
+    "agilone.com"
+  ],
+  "filters": [
+    "||agilone.com^$3p"
+  ]
+}

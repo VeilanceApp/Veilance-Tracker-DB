@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "GeoEdge",
+  "category": "advertising",
+  "website_url": "https://www.geoedge.com/",
+  "organization": "five_media",
+  "domains": [
+    "geoedge.be"
+  ],
+  "filters": []
+}

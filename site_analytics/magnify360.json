@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Magnify360",
+  "category": "site_analytics",
+  "website_url": "http://www.magnify360.com/",
+  "organization": "magnify360",
+  "domains": [
+    "magnify360.com"
+  ],
+  "filters": [
+    "||magnify360.com^$3p"
+  ]
+}

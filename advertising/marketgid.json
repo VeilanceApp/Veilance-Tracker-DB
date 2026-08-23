@@ -1,0 +1,22 @@
+{
+  "format": "veilance-json",
+  "name": "MarketGid",
+  "category": "advertising",
+  "website_url": "https://www.mgid.com/",
+  "organization": "marketgid_usa",
+  "domains": [
+    "dt00.net",
+    "dt07.net",
+    "marketgid.com",
+    "mgid.com"
+  ],
+  "filters": [
+    "||dt00.net^$3p",
+    "||dt07.net^$3p",
+    "||jsc.marketgid.com/h/d/",
+    "||jsc.marketgid.com/z/f/zf.fm.651704.js",
+    "||jsc.mgid.com^$3p",
+    "||servicer.marketgid.com^$3p",
+    "||servicer.mgid.com^$3p"
+  ]
+}

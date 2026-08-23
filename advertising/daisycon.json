@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Daisycon",
+  "category": "advertising",
+  "website_url": "https://www.daisycon.com/en/",
+  "organization": "daisycon",
+  "domains": [
+    "ds1.nl"
+  ],
+  "filters": [
+    "||ds1.nl^$3p"
+  ]
+}

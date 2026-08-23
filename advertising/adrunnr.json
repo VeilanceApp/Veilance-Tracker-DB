@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdRunnr",
+  "category": "advertising",
+  "organization": "adrunnr",
+  "domains": [
+    "adrunnr.com"
+  ],
+  "filters": [
+    "||adrunnr.com^$3p"
+  ]
+}

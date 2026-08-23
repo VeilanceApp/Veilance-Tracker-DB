@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SiteHeart",
+  "category": "customer_interaction",
+  "website_url": "https://siteheart.com/",
+  "organization": "siteheart",
+  "domains": [
+    "siteheart.com"
+  ],
+  "filters": [
+    "||siteheart.com^$3p"
+  ]
+}

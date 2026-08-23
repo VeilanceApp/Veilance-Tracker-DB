@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "DataTables",
+  "category": "customer_interaction",
+  "website_url": "https://datatables.net/",
+  "domains": [
+    "datatables.net"
+  ],
+  "filters": []
+}

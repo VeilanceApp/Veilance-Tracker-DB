@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Relevant Digital",
+  "category": "advertising",
+  "website_url": "https://www.relevant-digital.com/",
+  "organization": "relevant_digital",
+  "domains": [
+    "relevant-digital.com"
+  ],
+  "filters": [
+    "||relevant-digital.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Sourcepoint",
+  "category": "advertising",
+  "website_url": "https://www.sourcepoint.com/",
+  "organization": "didomi",
+  "domains": [
+    "decenthat.com",
+    "summerhamster.com"
+  ],
+  "filters": [
+    "||icons.wxug.com/scripts/sourcepoint/mms_client.js",
+    "||icons.wxug.com/scripts/sourcepoint/msg.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pubdirecte",
+  "category": "advertising",
+  "website_url": "http://www.pubdirecte.com/",
+  "organization": "pubdirecte",
+  "domains": [
+    "pubdirecte.com"
+  ],
+  "filters": [
+    "||pubdirecte.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "native ads",
+  "category": "advertising",
+  "website_url": "https://nativeads.com/",
+  "domains": [
+    "nativeads.com"
+  ],
+  "filters": []
+}

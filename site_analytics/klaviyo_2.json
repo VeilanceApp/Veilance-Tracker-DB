@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Klaviyo",
+  "category": "site_analytics",
+  "organization": "klaviyo",
+  "domains": [
+    "a.klaviyo.com",
+    "static.klaviyo.com",
+    "static-tracking.klaviyo.com"
+  ],
+  "filters": [
+    "||a.klaviyo.com/media/js/analytics/analytics.js",
+    "||static.klaviyo.com/onsite/js/klaviyo.js",
+    "||static-tracking.klaviyo.com^"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "GTop",
+  "category": "site_analytics",
+  "website_url": "http://www.gtopstats.com",
+  "organization": "gtopstats",
+  "domains": [
+    "fx.gtop.ro",
+    "fx.gtopstats.com"
+  ],
+  "filters": [
+    "||fx.gtop.ro/js/gtop.js",
+    "||fx.gtopstats.com/js/gtop.js"
+  ]
+}

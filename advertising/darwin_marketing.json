@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Darwin Marketing",
+  "category": "advertising",
+  "website_url": "http://www.darwinmarketing.com/",
+  "organization": "darwin_marketing",
+  "domains": [
+    "dmclick.cn"
+  ],
+  "filters": [
+    "||dmclick.cn^$3p"
+  ]
+}

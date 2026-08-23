@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Lanista Concepts",
+  "category": "advertising",
+  "website_url": "http://lanistaconcepts.com/",
+  "organization": "lanista_concepts",
+  "domains": [
+    "lanistaads.com"
+  ],
+  "filters": [
+    "||lanistaads.com^$3p"
+  ]
+}

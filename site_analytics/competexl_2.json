@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "CompeteXL",
+  "category": "site_analytics",
+  "website_url": "http://www.compete.com/help/s12",
+  "organization": "wpp",
+  "domains": [
+    "c-col.com",
+    "c.compete.com"
+  ],
+  "filters": [
+    "||c-col.com^$3p",
+    "||c.compete.com/bootstrap/"
+  ]
+}

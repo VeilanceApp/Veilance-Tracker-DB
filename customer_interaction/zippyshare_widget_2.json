@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Zippyshare Widget",
+  "category": "customer_interaction",
+  "website_url": "https://zippyshare.com/",
+  "organization": "zippyshare",
+  "domains": [
+    "api.zippyshare.com"
+  ],
+  "filters": [
+    "||api.zippyshare.com/api/embed"
+  ]
+}

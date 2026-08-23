@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "PubNub",
+  "category": "misc",
+  "website_url": "https://www.pubnub.com/",
+  "domains": [
+    "pubnub.com"
+  ],
+  "filters": []
+}

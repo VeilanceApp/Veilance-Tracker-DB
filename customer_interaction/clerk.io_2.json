@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Clerk.io",
+  "category": "customer_interaction",
+  "website_url": "https://www.clerk.io/platform",
+  "organization": "clerk.io",
+  "domains": [
+    "api.clerk.io",
+    "cdn.clerk.io"
+  ],
+  "filters": []
+}

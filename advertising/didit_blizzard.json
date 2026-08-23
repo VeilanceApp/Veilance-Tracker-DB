@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Didit Blizzard",
+  "category": "advertising",
+  "website_url": "http://www.didit.com/blizzard",
+  "organization": "didit",
+  "domains": [
+    "tag.didit.com"
+  ],
+  "filters": [
+    "||tag.didit.com/didit/",
+    "||tag.didit.com/js/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Integral Ad Science",
+  "category": "advertising",
+  "website_url": "https://integralads.com/",
+  "organization": "integral_ad_science",
+  "domains": [
+    "adsafeprotected.com",
+    "iasds01.com"
+  ],
+  "filters": [
+    "||adsafeprotected.com^$3p",
+    "||sc.iasds01.com/dtc"
+  ]
+}

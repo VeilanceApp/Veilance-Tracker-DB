@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "RCS",
+  "category": "advertising",
+  "website_url": "https://www.rcsmediagroup.it/",
+  "organization": "rcs",
+  "domains": [
+    "rcs.it",
+    "rcsmediagroup.it"
+  ],
+  "filters": [
+    "||ads.rcs.it^$3p",
+    "||bt.rcs.it^$3p"
+  ]
+}

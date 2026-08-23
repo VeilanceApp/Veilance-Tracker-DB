@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "ScoreCard Research Beacon",
+  "category": "site_analytics",
+  "website_url": "https://www.scorecardresearch.com/",
+  "organization": "comscore",
+  "domains": [
+    "scorecardresearch.com",
+    "scoreresearch.com",
+    "scrsrch.com",
+    "securestudies.com"
+  ],
+  "filters": [
+    "||scorecardresearch.com^$3p",
+    "||scoreresearch.com^$3p",
+    "||scrsrch.com^$3p",
+    "||securestudies.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sokrati",
+  "category": "advertising",
+  "website_url": "http://sokrati.com/",
+  "organization": "sokrati",
+  "domains": [
+    "sokrati.com"
+  ],
+  "filters": [
+    "||sokrati.com^$3p"
+  ]
+}

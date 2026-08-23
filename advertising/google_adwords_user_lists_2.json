@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google Adwords User Lists",
+  "category": "advertising",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||google.com/ads/user-lists/"
+  ]
+}

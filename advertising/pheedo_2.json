@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Pheedo",
+  "category": "advertising",
+  "website_url": "http://pheedo.com/",
+  "organization": "pheedo",
+  "domains": [
+    "ads.pheedo.com"
+  ],
+  "filters": [
+    "||ads.pheedo.com^$3p"
+  ]
+}

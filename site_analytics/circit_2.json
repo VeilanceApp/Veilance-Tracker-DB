@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "circIT",
+  "category": "site_analytics",
+  "website_url": "https://www.circit.de/",
+  "domains": [
+    "iqcontentplatform.de"
+  ],
+  "filters": []
+}

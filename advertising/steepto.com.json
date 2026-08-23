@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Steepto",
+  "category": "advertising",
+  "website_url": "https://www.steepto.com/",
+  "domains": [
+    "steepto.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "tchibo.de",
+  "category": "misc",
+  "website_url": "http://tchibo.de/",
+  "domains": [
+    "tchibo-content.de",
+    "tchibo.de"
+  ],
+  "filters": []
+}

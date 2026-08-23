@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "socialbeat",
+  "category": "advertising",
+  "organization": "socialbeat",
+  "domains": [
+    "duu8lzqdm8tsz.cloudfront.net"
+  ],
+  "filters": [
+    "||duu8lzqdm8tsz.cloudfront.net/websites/sb.js"
+  ]
+}

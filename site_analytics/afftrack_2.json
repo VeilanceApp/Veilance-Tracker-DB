@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Afftrack",
+  "category": "site_analytics",
+  "organization": "afftrack",
+  "domains": [
+    "pml.afftrack.com"
+  ],
+  "filters": [
+    "||pml.afftrack.com/image"
+  ]
+}

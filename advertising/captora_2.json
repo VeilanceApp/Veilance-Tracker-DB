@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Captora",
+  "category": "advertising",
+  "website_url": "http://www.captora.com/",
+  "organization": "captora",
+  "domains": [
+    "captora.com"
+  ],
+  "filters": [
+    "||captora.com/js/",
+    "||pixel.captora.com^$3p"
+  ]
+}

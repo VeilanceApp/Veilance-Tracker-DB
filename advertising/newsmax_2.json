@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Newsmax",
+  "category": "advertising",
+  "website_url": "http://www.newsmax.com/",
+  "organization": "newsmax",
+  "domains": [
+    "nmcdn.us"
+  ],
+  "filters": [
+    "||nmcdn.us^$3p"
+  ]
+}

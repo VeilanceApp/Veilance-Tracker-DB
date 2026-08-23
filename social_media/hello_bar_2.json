@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Hello Bar",
+  "category": "social_media",
+  "website_url": "https://www.hellobar.com/",
+  "organization": "crazy_egg",
+  "domains": [
+    "hellobar.com"
+  ],
+  "filters": [
+    "/hellobar.js"
+  ]
+}

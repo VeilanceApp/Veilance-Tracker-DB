@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Maxetise",
+  "category": "advertising",
+  "website_url": "https://maxetise.se/",
+  "organization": "maxetise",
+  "domains": [
+    "maxetise.net",
+    "maxetise.com"
+  ],
+  "filters": []
+}

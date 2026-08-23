@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ChannelPilot Solutions",
+  "category": "site_analytics",
+  "website_url": "https://www.channelpilot.de/",
+  "domains": [
+    "cptrack.de"
+  ],
+  "filters": []
+}

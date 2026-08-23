@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ShortNews.de",
+  "category": "misc",
+  "website_url": "http://www.shortnews.de/#",
+  "domains": [
+    "shortnews.de"
+  ],
+  "filters": []
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "eStat",
+  "category": "site_analytics",
+  "website_url": "http://www.mediametrie-estat.com/",
+  "organization": "mediametrie",
+  "domains": [
+    "cybermonitor.com",
+    "estat.com"
+  ],
+  "filters": [
+    "||cybermonitor.com^$3p",
+    "||estat.com^$3p"
+  ]
+}

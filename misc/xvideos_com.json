@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "xvideos.com",
+  "category": "misc",
+  "domains": [
+    "xvideos-cdn.com",
+    "xvideos.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Upsight",
+  "category": "site_analytics",
+  "organization": "upsight",
+  "domains": [
+    "kontagent.net"
+  ],
+  "filters": [
+    "||kontagent.net^$3p"
+  ]
+}

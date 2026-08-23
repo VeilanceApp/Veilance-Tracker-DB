@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Brow.si",
+  "category": "advertising",
+  "website_url": "https://brow.si/",
+  "organization": "brow.si",
+  "domains": [
+    "brow.si"
+  ],
+  "filters": [
+    "||brow.si^$3p"
+  ]
+}

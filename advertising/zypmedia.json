@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ZypMedia",
+  "category": "advertising",
+  "website_url": "http://www.zypmedia.com/",
+  "organization": "zypmedia",
+  "domains": [
+    "extend.tv"
+  ],
+  "filters": [
+    "||sync.extend.tv^$3p"
+  ]
+}

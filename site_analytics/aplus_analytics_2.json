@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Aplus Analytics",
+  "category": "site_analytics",
+  "website_url": "https://ww.deluxe.com/",
+  "organization": "deluxe",
+  "domains": [
+    "carrierzone.com"
+  ],
+  "filters": [
+    "||carrierzone.com/app/count"
+  ]
+}

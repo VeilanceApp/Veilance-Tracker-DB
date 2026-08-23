@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Zebestof",
+  "category": "advertising",
+  "website_url": "http://www.zebestof.com/en/home/",
+  "organization": "zebestof",
+  "domains": [
+    "zebestof.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "newsupdatewe.info",
+  "category": "extensions",
+  "domains": [
+    "newsupdatewe.info"
+  ],
+  "filters": []
+}

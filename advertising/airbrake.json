@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Airbrake",
+  "category": "advertising",
+  "website_url": "https://airbrake.io/",
+  "organization": "airbrake",
+  "domains": [
+    "airbrake.io"
+  ],
+  "filters": [
+    "||airbrake.io/api",
+    "||cdnjs.cloudflare.com/ajax/libs/airbrake-js"
+  ]
+}

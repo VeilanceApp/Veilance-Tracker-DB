@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Auditorius",
+  "category": "advertising",
+  "website_url": "https://www.auditorius.ru/",
+  "organization": "auditorius",
+  "domains": [
+    "audtd.com"
+  ],
+  "filters": [
+    "||audtd.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Delivr",
+  "category": "site_analytics",
+  "website_url": "http://www.percentmobile.com/",
+  "organization": "delivr",
+  "domains": [
+    "tracking.percentmobile.com"
+  ],
+  "filters": [
+    "/percent_mobile.js",
+    "||tracking.percentmobile.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Click and Chat",
+  "category": "customer_interaction",
+  "website_url": "https://www.clickandchat.com/",
+  "organization": "clickandchat",
+  "domains": [
+    "clickandchat.com"
+  ],
+  "filters": [
+    "||clickandchat.com^$3p"
+  ]
+}

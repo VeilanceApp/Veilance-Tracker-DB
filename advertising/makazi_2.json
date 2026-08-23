@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Makazi",
+  "category": "advertising",
+  "organization": "makazi_group",
+  "domains": [
+    "makazi.com"
+  ],
+  "filters": [
+    "||makazi.com^$3p"
+  ]
+}

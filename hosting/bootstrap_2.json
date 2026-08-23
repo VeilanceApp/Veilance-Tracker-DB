@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Bootstrap CDN",
+  "category": "hosting",
+  "website_url": "https://getbootstrap.com/",
+  "organization": "bootstrap_cdn",
+  "domains": [
+    "bootstrapcdn.com"
+  ],
+  "filters": []
+}

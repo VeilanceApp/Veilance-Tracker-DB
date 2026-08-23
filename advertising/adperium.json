@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdPerium",
+  "category": "advertising",
+  "website_url": "http://www.adperium.com/",
+  "organization": "adperium",
+  "domains": [
+    "adperium.com"
+  ],
+  "filters": [
+    "||adperium.com^$3p",
+    "||adtgs.com/layer",
+    "||adtgs.com/pop"
+  ]
+}

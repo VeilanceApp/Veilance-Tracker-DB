@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Digital Control Room",
+  "category": "consent",
+  "website_url": "http://www.cookiereports.com/",
+  "organization": "digital_control_room",
+  "domains": [
+    "cookiereports.com"
+  ],
+  "filters": [
+    "||cookiereports.com^$3p"
+  ]
+}

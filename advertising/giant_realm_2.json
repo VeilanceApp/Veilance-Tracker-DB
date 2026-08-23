@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Giant Realm",
+  "category": "advertising",
+  "website_url": "http://corp.giantrealm.com/",
+  "organization": "giant_realm",
+  "domains": [
+    "a.giantrealm.com"
+  ],
+  "filters": [
+    "||a.giantrealm.com^$3p"
+  ]
+}

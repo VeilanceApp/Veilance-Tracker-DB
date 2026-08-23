@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdFrontiers",
+  "category": "advertising",
+  "website_url": "http://www.adfrontiers.com/",
+  "organization": "adfrontiers",
+  "domains": [
+    "adfrontiers.com"
+  ],
+  "filters": [
+    "||adfrontiers.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Facebook Impressions",
+  "category": "advertising",
+  "organization": "facebook",
+  "domains": [],
+  "filters": [
+    "||facebook.com/impression.php/"
+  ]
+}

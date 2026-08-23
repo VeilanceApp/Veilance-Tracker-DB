@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Cleversite",
+  "category": "customer_interaction",
+  "organization": "cleversite",
+  "domains": [
+    "cleversite.ru"
+  ],
+  "filters": [
+    "||cleversite.ru/cleversite/widget2/widget.php",
+    "||cleversite.ru/cleversite/widget_new.php",
+    "||cleversite.ru/widget.js"
+  ]
+}

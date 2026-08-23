@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AlphaReview",
+  "category": "site_analytics",
+  "website_url": "https://front.global-alpha-dev.click/home/main",
+  "organization": "saladlab",
+  "domains": [
+    "alph.kr",
+    "global-alpha-dev.click"
+  ],
+  "filters": [
+    "||alph.kr/api/module/alph_au",
+    "||alph.kr/api/widget/count"
+  ]
+}

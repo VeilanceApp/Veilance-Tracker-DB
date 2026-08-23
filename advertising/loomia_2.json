@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Loomia",
+  "category": "advertising",
+  "website_url": "https://www.loomia.com/",
+  "organization": "loomia",
+  "domains": [
+    "assets.loomia.com"
+  ],
+  "filters": [
+    "||assets.loomia.com/js/"
+  ]
+}

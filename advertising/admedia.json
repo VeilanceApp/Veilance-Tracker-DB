@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdMedia",
+  "category": "advertising",
+  "website_url": "https://admedia.com/",
+  "organization": "admedia",
+  "domains": [
+    "admedia.com"
+  ],
+  "filters": [
+    "||admedia.com^$3p"
+  ]
+}

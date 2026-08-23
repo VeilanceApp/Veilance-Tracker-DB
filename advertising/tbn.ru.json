@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "TBN.ru",
+  "category": "advertising",
+  "website_url": "http://www.agava.ru",
+  "organization": "agava",
+  "domains": [
+    "tbn.ru"
+  ],
+  "filters": [
+    "||tbn.ru^$3p"
+  ]
+}

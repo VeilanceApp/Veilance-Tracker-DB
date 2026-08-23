@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sitecore Cloud",
+  "category": "utilities",
+  "website_url": "https://www.sitecore.com/",
+  "organization": "sitecore",
+  "domains": [
+    "sitecorecloud.io",
+    "sitecorecontenthub.cloud"
+  ],
+  "filters": []
+}

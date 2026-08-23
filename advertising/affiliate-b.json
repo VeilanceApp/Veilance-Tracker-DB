@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Affiliate-B",
+  "category": "advertising",
+  "website_url": "https://www.affiliate-b.com/",
+  "organization": "affiliate_b",
+  "domains": [
+    "track.affiliate-b.com"
+  ],
+  "filters": [
+    "||track.affiliate-b.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "howtank",
+  "category": "social_media",
+  "website_url": "https://www.howtank.com/",
+  "domains": [
+    "howtank.com"
+  ],
+  "filters": []
+}

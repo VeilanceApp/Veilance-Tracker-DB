@@ -1,0 +1,23 @@
+{
+  "format": "veilance-json",
+  "name": "ClickMeter",
+  "category": "advertising",
+  "website_url": "http://www.clickmeter.com",
+  "organization": "clickmeter",
+  "domains": [
+    "9nl.be",
+    "9nl.com",
+    "9nl.eu",
+    "9nl.it",
+    "9nl.me",
+    "clickmeter.com"
+  ],
+  "filters": [
+    "||9nl.be^$3p",
+    "||9nl.com^$3p",
+    "||9nl.eu^$3p",
+    "||9nl.it^$3p",
+    "||9nl.me^$3p",
+    "||clickmeter.com^$3p"
+  ]
+}

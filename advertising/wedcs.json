@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "WEDCS",
+  "category": "advertising",
+  "organization": "microsoft",
+  "domains": [],
+  "filters": [
+    "||c.microsoft.com/ms.js"
+  ]
+}

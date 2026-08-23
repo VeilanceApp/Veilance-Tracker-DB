@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "33Across",
+  "category": "advertising",
+  "website_url": "https://www.33across.com/",
+  "organization": "33across",
+  "domains": [
+    "33across.com",
+    "tynt.com"
+  ],
+  "filters": [
+    "||33across.com^$3p",
+    "||tynt.com^$3p"
+  ]
+}

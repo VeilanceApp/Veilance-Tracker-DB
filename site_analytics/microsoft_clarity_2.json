@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Microsoft Clarity",
+  "category": "site_analytics",
+  "website_url": "https://clarity.microsoft.com/",
+  "organization": "microsoft",
+  "domains": [
+    "clarity.ms"
+  ],
+  "filters": [
+    "||clarity.ms/collect"
+  ]
+}

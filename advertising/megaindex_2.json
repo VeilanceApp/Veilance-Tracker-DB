@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MegaIndex",
+  "category": "advertising",
+  "website_url": "http://www.megaindex.ru",
+  "organization": "megaindex",
+  "domains": [
+    "counter.megaindex.ru"
+  ],
+  "filters": [
+    "||counter.megaindex.ru^$3p"
+  ]
+}

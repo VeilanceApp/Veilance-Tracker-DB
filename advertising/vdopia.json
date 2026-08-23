@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Vdopia",
+  "category": "advertising",
+  "website_url": "http://mobile.vdopia.com/",
+  "organization": "vdopia",
+  "domains": [
+    "vdopia.com"
+  ],
+  "filters": [
+    "||vdopia.com^$3p"
+  ]
+}

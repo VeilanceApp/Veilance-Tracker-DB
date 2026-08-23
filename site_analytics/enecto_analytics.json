@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Enecto Analytics",
+  "category": "site_analytics",
+  "website_url": "https://www.enecto.com/en/",
+  "organization": "enecto",
+  "domains": [
+    "enectoanalytics.com",
+    "trk.enecto.com"
+  ],
+  "filters": [
+    "||enectoanalytics.com^$3p",
+    "||trk.enecto.com^$3p"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "CCM Benchmark",
+  "category": "advertising",
+  "website_url": "https://www.ccmbenchmark.com/",
+  "domains": [
+    "ccmbg.com"
+  ],
+  "filters": []
+}

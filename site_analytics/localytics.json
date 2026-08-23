@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Localytics",
+  "category": "site_analytics",
+  "website_url": "http://www.localytics.com/",
+  "organization": "localytics",
+  "domains": [
+    "web.localytics.com"
+  ],
+  "filters": [
+    "||web.localytics.com^$3p"
+  ]
+}

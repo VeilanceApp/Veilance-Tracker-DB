@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Recreativ",
+  "category": "advertising",
+  "website_url": "http://recreativ.ru/",
+  "organization": "recreativ",
+  "domains": [
+    "recreativ.ru"
+  ],
+  "filters": [
+    "||recreativ.ru^$3p"
+  ]
+}

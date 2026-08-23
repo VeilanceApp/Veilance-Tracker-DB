@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Ancora",
+  "category": "site_analytics",
+  "organization": "ancora",
+  "domains": [
+    "ancoraplatform.com"
+  ],
+  "filters": []
+}

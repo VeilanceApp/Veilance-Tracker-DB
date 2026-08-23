@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "gamerDNA",
+  "category": "social_media",
+  "website_url": "https://www.gamerdnamedia.com/",
+  "organization": "gamerdna_media",
+  "domains": [
+    "gamerdna.com"
+  ],
+  "filters": [
+    "||gamerdna.com^$3p"
+  ]
+}

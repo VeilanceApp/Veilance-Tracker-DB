@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "CapitalData",
+  "category": "site_analytics",
+  "website_url": "https://www.capitaldata.fr/",
+  "organization": "highco",
+  "domains": [
+    "kdata.fr"
+  ],
+  "filters": []
+}

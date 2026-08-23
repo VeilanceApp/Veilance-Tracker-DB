@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Free Online Users",
+  "category": "site_analytics",
+  "website_url": "http://www.freeonlineusers.com",
+  "organization": "free_online_users",
+  "domains": [
+    "fastonlineusers.com",
+    "fastwebcounter.com",
+    "freeonlineusers.com"
+  ],
+  "filters": [
+    "||fastonlineusers.com/on",
+    "||fastwebcounter.com/secure.php",
+    "||freeonlineusers.com^$3p"
+  ]
+}

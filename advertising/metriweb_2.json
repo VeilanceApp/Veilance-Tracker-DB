@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "MetriWeb",
+  "category": "advertising",
+  "website_url": "http://www.metriware.be/",
+  "organization": "metriware",
+  "domains": [
+    "metriweb.be"
+  ],
+  "filters": [
+    "/metriweb/mwtag",
+    "||metriweb.be/dyn/"
+  ]
+}

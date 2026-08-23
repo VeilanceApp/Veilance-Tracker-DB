@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Intelligent Reach",
+  "category": "advertising",
+  "website_url": "https://www.intelligentreach.com/",
+  "organization": "intelligent_reach",
+  "domains": [
+    "ist-track.com"
+  ],
+  "filters": [
+    "||ist-track.com^$3p"
+  ]
+}

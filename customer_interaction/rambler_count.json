@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Rambler Count",
+  "category": "customer_interaction",
+  "organization": "rambler",
+  "domains": [],
+  "filters": [
+    "||kraken.rambler.ru/cnt/"
+  ]
+}

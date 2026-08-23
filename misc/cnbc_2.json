@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "CNBC",
+  "category": "misc",
+  "website_url": "https://www.cnbc.com/",
+  "organization": "nbcuniversal",
+  "domains": [
+    "cnbc.com"
+  ],
+  "filters": []
+}

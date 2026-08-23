@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adify",
+  "category": "advertising",
+  "website_url": "https://www.adify.com/",
+  "organization": "cox_enterpries",
+  "domains": [
+    "afy11.net"
+  ],
+  "filters": [
+    "||afy11.net^$3p"
+  ]
+}

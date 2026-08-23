@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Martini Media",
+  "category": "advertising",
+  "website_url": "http://martinimediainc.com/",
+  "organization": "martini_media",
+  "domains": [
+    "martiniadnetwork.com"
+  ],
+  "filters": [
+    "||martiniadnetwork.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Kalooga Widget",
+  "category": "advertising",
+  "website_url": "http://kalooga.com/",
+  "organization": "kalooga",
+  "domains": [],
+  "filters": [
+    "||publishing.kaloo.ga/mod/wid",
+    "||publishing.kaloo.ga/mod/widgetloader"
+  ]
+}

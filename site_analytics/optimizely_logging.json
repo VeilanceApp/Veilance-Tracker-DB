@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Optimizely Logging",
+  "category": "site_analytics",
+  "organization": "optimizely",
+  "domains": [],
+  "filters": [
+    "||log.optimizely.com/event",
+    "||logx.optimizely.com/log/event"
+  ]
+}

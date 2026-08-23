@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Datacrushers",
+  "category": "site_analytics",
+  "website_url": "https://www.datacrushers.com/",
+  "organization": "datacrushers",
+  "domains": [
+    "abandonaid.com",
+    "datacrushers.com"
+  ],
+  "filters": [
+    "||s3.amazonaws.com/aascript*/abandonaid*.js^$3p"
+  ]
+}

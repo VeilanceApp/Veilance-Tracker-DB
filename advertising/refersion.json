@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Refersion",
+  "category": "advertising",
+  "website_url": "https://www.refersion.com/",
+  "organization": "refersion",
+  "domains": [
+    "refersion.com"
+  ],
+  "filters": [
+    "||refersion.com^$3p"
+  ]
+}

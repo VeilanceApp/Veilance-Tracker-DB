@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Adnium",
+  "category": "advertising",
+  "website_url": "https://adnium.com/",
+  "domains": [
+    "adnium.com"
+  ],
+  "filters": []
+}

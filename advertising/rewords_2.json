@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "ReWords",
+  "category": "advertising",
+  "website_url": "http://www.rewords.pl/",
+  "organization": "rewords",
+  "domains": [
+    "incontext.pl",
+    "pl-engine.intextad.net"
+  ],
+  "filters": [
+    "||incontext.pl^$3p",
+    "||pl-engine.intextad.net^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Autonomy Campaign",
+  "category": "advertising",
+  "website_url": "https://www.autonomy.com/",
+  "organization": "hp",
+  "domains": [
+    "oc-track.autonomycloud.com",
+    "track.yieldsoftware.com"
+  ],
+  "filters": [
+    "||oc-track.autonomycloud.com^$3p",
+    "||track.yieldsoftware.com^$3p"
+  ]
+}

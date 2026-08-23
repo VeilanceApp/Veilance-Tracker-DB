@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Social Annex",
+  "category": "advertising",
+  "website_url": "http://www.socialannex.com",
+  "organization": "social_annex",
+  "domains": [
+    "socialannex.com"
+  ],
+  "filters": [
+    "||socialannex.com^$3p"
+  ]
+}

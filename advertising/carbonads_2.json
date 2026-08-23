@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Carbon Ads",
+  "category": "advertising",
+  "website_url": "https://www.carbonads.net/",
+  "organization": "buysellads.com",
+  "domains": [
+    "carbonads.com",
+    "carbonads.net",
+    "fusionads.net"
+  ],
+  "filters": [
+    "||carbonads.com^$3p",
+    "||fusionads.net^$3p"
+  ]
+}

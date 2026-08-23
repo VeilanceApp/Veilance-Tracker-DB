@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adslot",
+  "category": "advertising",
+  "website_url": "https://www.adslot.com/",
+  "organization": "adslot",
+  "domains": [
+    "adslot.com"
+  ],
+  "filters": [
+    "||adslot.com^$3p"
+  ]
+}

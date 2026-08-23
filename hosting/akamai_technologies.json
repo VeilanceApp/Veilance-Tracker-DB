@@ -1,0 +1,22 @@
+{
+  "format": "veilance-json",
+  "name": "Akamai Technologies",
+  "category": "hosting",
+  "website_url": "https://www.akamai.com/",
+  "organization": "akamai",
+  "domains": [
+    "abmr.net",
+    "akamai.net",
+    "akamaihd.net",
+    "akamaized.net",
+    "akstat.io",
+    "edgekey.net",
+    "edgesuite.net",
+    "imiclk.com"
+  ],
+  "filters": [
+    "||abmr.net^$3p",
+    "||designbloxlive.com^$3p",
+    "||imiclk.com^$3p"
+  ]
+}

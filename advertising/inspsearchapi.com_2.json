@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Infospace Search",
+  "category": "advertising",
+  "website_url": "https://infospace.com/",
+  "organization": "system1",
+  "domains": [
+    "inspsearchapi.com"
+  ],
+  "filters": []
+}

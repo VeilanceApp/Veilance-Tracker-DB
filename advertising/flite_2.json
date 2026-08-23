@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Flite",
+  "category": "advertising",
+  "website_url": "http://www.flite.com/",
+  "organization": "flite",
+  "domains": [
+    "flite.com"
+  ],
+  "filters": [
+    "||flite.com^$3p"
+  ]
+}

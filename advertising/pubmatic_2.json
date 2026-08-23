@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "PubMatic",
+  "category": "advertising",
+  "website_url": "https://www.pubmatic.com/",
+  "organization": "pubmatic",
+  "domains": [
+    "pubmatic.com"
+  ],
+  "filters": [
+    "||pubmatic.com^$3p",
+    "||rtb.adentifi.com/CookieSyncPubMatic"
+  ]
+}

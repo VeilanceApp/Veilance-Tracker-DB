@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "etracker",
+  "category": "site_analytics",
+  "website_url": "https://www.etracker.com/en/",
+  "organization": "etracker_gmbh",
+  "domains": [
+    "etracker.com",
+    "etracker.de",
+    "sedotracker.com"
+  ],
+  "filters": [
+    "||code.etracker.com^$3p",
+    "||etracker.de^$3p",
+    "||sedotracker.com^$3p",
+    "||static.etracker.com/code/e.js"
+  ]
+}

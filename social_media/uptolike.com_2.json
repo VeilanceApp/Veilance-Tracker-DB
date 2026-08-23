@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Uptolike",
+  "category": "social_media",
+  "website_url": "https://www.uptolike.com/",
+  "organization": "uptolike",
+  "domains": [
+    "uptolike.com"
+  ],
+  "filters": [
+    "||uptolike.com^$3p"
+  ]
+}

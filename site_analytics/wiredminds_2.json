@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "WiredMinds",
+  "category": "site_analytics",
+  "website_url": "https://www.wiredminds.de/",
+  "organization": "wiredminds",
+  "domains": [
+    "leadlab.click",
+    "wiredminds.com",
+    "wiredminds.de"
+  ],
+  "filters": [
+    "||c.leadlab.click^$3p",
+    "||wiredminds.de/track"
+  ]
+}

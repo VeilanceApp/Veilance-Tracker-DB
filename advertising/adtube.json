@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdTube",
+  "category": "advertising",
+  "organization": "adtube",
+  "domains": [
+    "ad.adtube.ir"
+  ],
+  "filters": [
+    "||ad.adtube.ir/adtube.js"
+  ]
+}

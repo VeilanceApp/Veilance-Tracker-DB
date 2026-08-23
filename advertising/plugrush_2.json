@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PlugRush",
+  "category": "advertising",
+  "website_url": "https://www.plugrush.com/",
+  "organization": "plugrush",
+  "domains": [
+    "plugrush.com"
+  ],
+  "filters": [
+    "||plugrush.com^$3p"
+  ]
+}

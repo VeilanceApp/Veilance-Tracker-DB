@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Adotmob",
+  "category": "advertising",
+  "website_url": "https://adotmob.com/",
+  "organization": "adotmob",
+  "domains": [
+    "adotmob.com"
+  ],
+  "filters": []
+}

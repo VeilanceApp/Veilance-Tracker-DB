@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Opentracker",
+  "category": "site_analytics",
+  "website_url": "https://www.opentracker.net/",
+  "organization": "opentracker",
+  "domains": [
+    "opentracker.net"
+  ],
+  "filters": [
+    "||opentracker.net^$3p"
+  ]
+}

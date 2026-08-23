@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Ad-Center",
+  "category": "site_analytics",
+  "organization": "ad-center",
+  "domains": [
+    "ads.ad-center.com"
+  ],
+  "filters": [
+    "||ads.ad-center.com/smart_ad/display"
+  ]
+}

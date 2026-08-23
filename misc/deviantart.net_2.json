@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "deviantart.net",
+  "category": "misc",
+  "domains": [
+    "dapxl.com",
+    "deviantart.net"
+  ],
+  "filters": []
+}

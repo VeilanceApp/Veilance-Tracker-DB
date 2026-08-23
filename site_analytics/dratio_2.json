@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Dratio",
+  "category": "site_analytics",
+  "website_url": "http://www.dratio.com/",
+  "organization": "dratio",
+  "domains": [
+    "wrating.com"
+  ],
+  "filters": [
+    "||wrating.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "MRP",
+  "category": "advertising",
+  "organization": "mrp",
+  "domains": [
+    "tracker.mrpfd.com"
+  ],
+  "filters": [
+    "||tracker.mrpfd.com/tracker.js"
+  ]
+}

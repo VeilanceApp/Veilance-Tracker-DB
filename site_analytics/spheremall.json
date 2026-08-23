@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "SphereMall",
+  "category": "site_analytics",
+  "organization": "spheremall",
+  "domains": [
+    "api.spheremall.com"
+  ],
+  "filters": [
+    "||api.spheremall.com/analytics/v1/collect"
+  ]
+}

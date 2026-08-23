@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdPulse",
+  "category": "advertising",
+  "organization": "adpulse.ir",
+  "domains": [
+    "adserve.adpulse.ir"
+  ],
+  "filters": [
+    "||adserve.adpulse.ir/banner.js"
+  ]
+}

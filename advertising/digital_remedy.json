@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "Digital Remedy",
+  "category": "advertising",
+  "website_url": "https://www.digitalremedy.com/",
+  "organization": "digital_remedy",
+  "domains": [
+    "adready.com",
+    "adreadytractions.com",
+    "cpxinteractive.com"
+  ],
+  "filters": [
+    "||adready.com^$3p",
+    "||adreadytractions.com/rt/",
+    "||bigfineads.com^$3p",
+    "||cpxadroit.com^$3p",
+    "||cpxinteractive.com^$3p"
+  ]
+}

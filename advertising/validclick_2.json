@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "ValidClick",
+  "category": "advertising",
+  "website_url": "https://inuvo.com/",
+  "organization": "inuvo",
+  "domains": [
+    "api.searchlinks.com",
+    "js.searchlinks.com"
+  ],
+  "filters": [
+    "||api.searchlinks.com^$3p",
+    "||js.searchlinks.com^$3p",
+    "||results.searchlinks.com^$3p",
+    "||validclick.com/api/census"
+  ]
+}

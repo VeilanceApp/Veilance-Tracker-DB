@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "office.com",
+  "category": "misc",
+  "organization": "microsoft",
+  "domains": [
+    "office.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Trackuity",
+  "category": "customer_interaction",
+  "website_url": "https://www.trackuity.com/",
+  "organization": "trackuity",
+  "domains": [
+    "trackuity.com"
+  ],
+  "filters": [
+    "||trackuity.",
+    "||trackuity.com^$3p"
+  ]
+}

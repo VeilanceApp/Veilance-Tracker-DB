@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ezakus",
+  "category": "advertising",
+  "website_url": "https://www.ezakus.com/",
+  "organization": "np6",
+  "domains": [
+    "ezakus.net"
+  ],
+  "filters": [
+    "||ezakus.net^$3p"
+  ]
+}

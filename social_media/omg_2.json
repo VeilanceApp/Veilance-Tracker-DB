@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "OMG",
+  "category": "social_media",
+  "website_url": "http://uk.omgpm.com/",
+  "organization": "optimise_media",
+  "domains": [
+    "omgpm.com"
+  ],
+  "filters": [
+    "||omgpm.com^$3p"
+  ]
+}

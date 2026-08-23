@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Uliza",
+  "category": "advertising",
+  "organization": "uliza",
+  "domains": [
+    "ad-api-v01.uliza.jp"
+  ],
+  "filters": [
+    "||ad-api-v01.uliza.jp/preview.php",
+    "||aka-uae-dl.uliza.jp/ulizassp/0/video"
+  ]
+}

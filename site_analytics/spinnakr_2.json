@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Spinnakr",
+  "category": "site_analytics",
+  "website_url": "http://spinnakr.com/",
+  "organization": "spinnakr",
+  "domains": [
+    "spn.ee"
+  ],
+  "filters": [
+    "||spn.ee^$3p"
+  ]
+}

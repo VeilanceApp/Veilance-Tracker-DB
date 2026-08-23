@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "AdStanding",
+  "category": "advertising",
+  "organization": "adstanding",
+  "domains": [
+    "code.adstanding.com"
+  ],
+  "filters": [
+    "||code.adstanding.com/js/"
+  ]
+}

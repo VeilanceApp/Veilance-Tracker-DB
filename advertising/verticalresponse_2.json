@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "VerticalResponse",
+  "category": "advertising",
+  "website_url": "http://www.verticalresponse.com",
+  "organization": "verticalresponse",
+  "domains": [
+    "cts.vresp.com"
+  ],
+  "filters": [
+    "||cts.vresp.com/s.gif"
+  ]
+}

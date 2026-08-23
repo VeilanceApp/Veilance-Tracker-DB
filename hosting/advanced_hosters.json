@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Advanced Hosters",
+  "category": "hosting",
+  "website_url": "https://advancedhosters.com/",
+  "domains": [
+    "ahcdn.com",
+    "pix-cdn.org"
+  ],
+  "filters": []
+}

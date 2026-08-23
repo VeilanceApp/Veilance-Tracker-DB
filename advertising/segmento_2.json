@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Segmento",
+  "category": "advertising",
+  "website_url": "https://segmento.ru/en",
+  "organization": "segmento",
+  "domains": [
+    "rutarget.ru"
+  ],
+  "filters": [
+    "||rutarget.ru^$3p"
+  ]
+}

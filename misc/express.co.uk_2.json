@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "express.co.uk",
+  "category": "misc",
+  "website_url": "https://www.express.co.uk/",
+  "domains": [
+    "express.co.uk"
+  ],
+  "filters": []
+}

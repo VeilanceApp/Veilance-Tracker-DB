@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "iJento",
+  "category": "site_analytics",
+  "website_url": "http://www.ijento.com/",
+  "organization": "ijento",
+  "domains": [
+    "ijento.com"
+  ],
+  "filters": [
+    "||ijento.com^$3p"
+  ]
+}

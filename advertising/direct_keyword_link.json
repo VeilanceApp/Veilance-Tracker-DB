@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Direct Keyword Link",
+  "category": "advertising",
+  "website_url": "http://www.keywordsconnect.com/",
+  "organization": "direct_keyword_link",
+  "domains": [
+    "keywordsconnect.com"
+  ],
+  "filters": [
+    "||keywordsconnect.com^$3p"
+  ]
+}

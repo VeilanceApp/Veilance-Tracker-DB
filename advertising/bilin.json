@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Bilin",
+  "category": "advertising",
+  "organization": "bilin",
+  "domains": [
+    "pixel.bilinmedia.net"
+  ],
+  "filters": [
+    "||pixel.bilinmedia.net^$3p"
+  ]
+}

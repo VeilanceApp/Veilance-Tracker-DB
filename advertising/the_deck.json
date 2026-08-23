@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "The DECK",
+  "category": "advertising",
+  "website_url": "http://decknetwork.net/",
+  "organization": "the_deck",
+  "domains": [
+    "connect.decknetwork.net"
+  ],
+  "filters": [
+    "||connect.decknetwork.net^$3p"
+  ]
+}

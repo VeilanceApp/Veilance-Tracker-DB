@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Instant Check Mate",
+  "category": "customer_interaction",
+  "organization": "instant_check_mate",
+  "domains": [
+    "tcgtrkr.com"
+  ],
+  "filters": [
+    "||tcgtrkr.com^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "TzeTze",
+  "category": "customer_interaction",
+  "website_url": "https://www.tzetze.it/",
+  "organization": "tzetze",
+  "domains": [
+    "tzetze.it"
+  ],
+  "filters": [
+    "||tzetze.it/banner-tzetze.png",
+    "||tzetze.it/tzetze_external."
+  ]
+}

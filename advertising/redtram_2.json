@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "RedTram",
+  "category": "advertising",
+  "website_url": "http://www.redtram.com/",
+  "organization": "redtram",
+  "domains": [
+    "grt01.com",
+    "grt02.com",
+    "redtram.com"
+  ],
+  "filters": [
+    "||grt01.com^$3p",
+    "||grt02.com^$3p",
+    "||js.goods.redtram.com/ticker_",
+    "||redtram.com/n4p/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Omniscienta",
+  "category": "advertising",
+  "website_url": "http://www.omniscienta.com/",
+  "domains": [
+    "omnidsp.com"
+  ],
+  "filters": []
+}

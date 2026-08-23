@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "NitroPay",
+  "category": "advertising",
+  "website_url": "https://nitropay.com/",
+  "organization": "gg_software",
+  "domains": [
+    "nitropay.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "99stats",
+  "category": "site_analytics",
+  "website_url": "http://www.99stats.com/",
+  "organization": "99stats",
+  "domains": [
+    "statsanalytics.com"
+  ],
+  "filters": [
+    "||statsanalytics.com^$3p"
+  ]
+}

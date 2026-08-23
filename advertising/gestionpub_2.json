@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "GestionPub",
+  "category": "advertising",
+  "website_url": "http://www.gestionpub.com/",
+  "organization": "gestionpub",
+  "domains": [
+    "gestionpub.com"
+  ],
+  "filters": [
+    "||gestionpub.com^$3p"
+  ]
+}

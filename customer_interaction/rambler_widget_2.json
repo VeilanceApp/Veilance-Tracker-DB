@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Rambler Widget",
+  "category": "customer_interaction",
+  "organization": "rambler",
+  "domains": [],
+  "filters": [
+    "||comments.rambler.ru/widget/v2/sdk.js"
+  ]
+}

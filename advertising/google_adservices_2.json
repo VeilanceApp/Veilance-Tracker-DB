@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google AdServices",
+  "category": "advertising",
+  "organization": "google",
+  "domains": [
+    "googleadservices.com"
+  ],
+  "filters": []
+}

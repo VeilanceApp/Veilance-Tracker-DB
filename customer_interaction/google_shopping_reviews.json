@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Google Shopping Reviews",
+  "category": "customer_interaction",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||google.com/_/scs/shopping-verified-reviews-static/_/js"
+  ]
+}

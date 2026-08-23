@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sykes",
+  "category": "site_analytics",
+  "organization": "sykes_cottages",
+  "domains": [
+    "analytics-cdn.sykescottages.co.uk"
+  ],
+  "filters": [
+    "||analytics-cdn.sykescottages.co.uk/rest/md/"
+  ]
+}

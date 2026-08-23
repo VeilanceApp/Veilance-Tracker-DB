@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adtima",
+  "category": "advertising",
+  "website_url": "https://adtima.vn/",
+  "organization": "adtima",
+  "domains": [
+    "adtimaserver.vn"
+  ],
+  "filters": [
+    "||adtimaserver.vn^$3p"
+  ]
+}

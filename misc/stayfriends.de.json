@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "stayfriends.de",
+  "category": "misc",
+  "website_url": "https://www.stayfriends.de/",
+  "domains": [
+    "stayfriends.de"
+  ],
+  "filters": []
+}

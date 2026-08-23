@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Honeybadger",
+  "category": "site_analytics",
+  "website_url": "https://www.honeybadger.io/",
+  "organization": "honeybadger",
+  "domains": [
+    "honeybadger.io"
+  ],
+  "filters": [
+    "||js.honeybadger.io/v*/honeybadger.min.js^$3p"
+  ]
+}

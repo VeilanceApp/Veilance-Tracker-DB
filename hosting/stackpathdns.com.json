@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "StackPath",
+  "category": "hosting",
+  "website_url": "https://www.stackpath.com/",
+  "domains": [
+    "stackpathdns.com"
+  ],
+  "filters": []
+}

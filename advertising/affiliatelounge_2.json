@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AffiliateLounge",
+  "category": "advertising",
+  "website_url": "http://www.affiliatelounge.com/",
+  "organization": "betsson_group_affiliates",
+  "domains": [
+    "affiliatelounge.com"
+  ],
+  "filters": [
+    "||affiliatelounge.com^$3p"
+  ]
+}

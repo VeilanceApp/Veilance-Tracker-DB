@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "foxydeal.com",
+  "category": "extensions",
+  "website_url": "https://www.foxydeal.de",
+  "domains": [
+    "foxydeal.com"
+  ],
+  "filters": []
+}

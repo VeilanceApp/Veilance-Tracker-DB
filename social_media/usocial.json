@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Usocial",
+  "category": "social_media",
+  "organization": "usocial",
+  "domains": [
+    "usocial.pro"
+  ],
+  "filters": [
+    "||usocial.pro/usocial/usocial.js"
+  ]
+}

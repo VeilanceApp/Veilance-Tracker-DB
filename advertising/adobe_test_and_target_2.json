@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Adobe Target",
+  "category": "advertising",
+  "website_url": "https://www.adobe.com/marketing/target.html",
+  "organization": "adobe",
+  "domains": [],
+  "filters": [
+    "/mbox.js",
+    "touchclarity"
+  ]
+}

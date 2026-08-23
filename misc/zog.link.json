@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "zog.link",
+  "category": "misc",
+  "domains": [
+    "zog.link"
+  ],
+  "filters": []
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ConvertFox",
+  "category": "customer_interaction",
+  "organization": "convertfox",
+  "domains": [
+    "d3sjgucddk68ji.cloudfront.net"
+  ],
+  "filters": [
+    "||d3sjgucddk68ji.cloudfront.net/convertfox.min.js"
+  ]
+}

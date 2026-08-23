@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "AppNexus",
+  "category": "advertising",
+  "website_url": "http://www.appnexus.com/",
+  "organization": "microsoft",
+  "domains": [
+    "adnxs.com",
+    "adnxs.net",
+    "adnxs-simple.com"
+  ],
+  "filters": [
+    "||adnxs.com^$3p",
+    "||adnxs.net^$3p",
+    "||adnxs-simple.com^$3p"
+  ]
+}

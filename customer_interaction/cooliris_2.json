@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Cooliris",
+  "category": "customer_interaction",
+  "website_url": "http://www.cooliris.com",
+  "organization": "cooliris",
+  "domains": [
+    "lite.piclens.com"
+  ],
+  "filters": [
+    "||lite.piclens.com^$3p"
+  ]
+}

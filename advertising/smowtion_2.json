@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Smowtion",
+  "category": "advertising",
+  "website_url": "http://www.smowtion.com/",
+  "organization": "smowtion",
+  "domains": [
+    "smowtion.com"
+  ],
+  "filters": [
+    "||smowtion.com^$3p"
+  ]
+}

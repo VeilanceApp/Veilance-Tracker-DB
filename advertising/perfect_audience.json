@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Perfect Audience",
+  "category": "advertising",
+  "website_url": "https://www.perfectaudience.com/",
+  "organization": "perfect_audience",
+  "domains": [
+    "perfectaudience.com",
+    "prfct.co"
+  ],
+  "filters": [
+    "||perfectaudience.com^$3p",
+    "||prfct.co^$3p"
+  ]
+}

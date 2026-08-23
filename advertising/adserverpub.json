@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdServerPub",
+  "category": "advertising",
+  "website_url": "http://www.adserverpub.com/",
+  "organization": "adserverpub",
+  "domains": [
+    "adserverpub.com"
+  ],
+  "filters": [
+    "||adserverpub.com^$3p"
+  ]
+}

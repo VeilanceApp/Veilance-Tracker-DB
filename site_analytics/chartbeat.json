@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "ChartBeat",
+  "category": "site_analytics",
+  "website_url": "https://chartbeat.com/",
+  "organization": "chartbeat",
+  "domains": [
+    "chartbeat.com",
+    "chartbeat.net"
+  ],
+  "filters": [
+    "/chartbeat.js",
+    "||chartbeat.com^$3p",
+    "||chartbeat.net^$3p"
+  ]
+}

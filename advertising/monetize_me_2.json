@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Monetize Me",
+  "category": "advertising",
+  "website_url": "http://www.monetize-me.com/",
+  "organization": "monetize_me",
+  "domains": [
+    "monetize-me.com"
+  ],
+  "filters": [
+    "||monetize-me.com^$3p"
+  ]
+}

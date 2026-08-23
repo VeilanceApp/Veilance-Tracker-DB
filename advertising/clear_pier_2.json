@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "ClearPier",
+  "category": "advertising",
+  "website_url": "https://clearpier.com/",
+  "organization": "clear_pier",
+  "domains": [
+    "pulseradius.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "Hyvyd GmbH",
+  "category": "misc",
+  "domains": [
+    "hyvyd.com"
+  ],
+  "filters": []
+}

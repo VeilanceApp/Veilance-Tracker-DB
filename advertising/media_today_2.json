@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Media Today",
+  "category": "advertising",
+  "organization": "media_today",
+  "domains": [
+    "idntfy.ru"
+  ],
+  "filters": [
+    "||idntfy.ru/token"
+  ]
+}

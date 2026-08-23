@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "pushame.com",
+  "category": "misc",
+  "domains": [
+    "pushame.com"
+  ],
+  "filters": []
+}

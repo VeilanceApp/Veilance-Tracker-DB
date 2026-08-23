@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Captify",
+  "category": "advertising",
+  "website_url": "https://www.captify.co.uk/",
+  "organization": "captify",
+  "domains": [
+    "captifymedia.com",
+    "cpx.to"
+  ],
+  "filters": [
+    "||captifymedia.com^$3p",
+    "||cpx.to^$3p"
+  ]
+}

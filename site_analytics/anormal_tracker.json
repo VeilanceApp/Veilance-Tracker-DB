@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Anormal Tracker",
+  "category": "site_analytics",
+  "website_url": "http://anormal-tracker.de/",
+  "organization": "anormal-tracker",
+  "domains": [
+    "anormal-tracker.de"
+  ],
+  "filters": [
+    "||anormal-tracker.de/countv2.php",
+    "||anormal-tracker.de/tracker.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Affiliaweb",
+  "category": "advertising",
+  "website_url": "https://affiliaweb.fr/",
+  "organization": "affiliaweb",
+  "domains": [
+    "affiliaweb.fr"
+  ],
+  "filters": [
+    "||affiliaweb.fr^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "4w Marketplace",
+  "category": "advertising",
+  "website_url": "http://www.4wmarketplace.com/",
+  "organization": "4w_marketplace",
+  "domains": [
+    "4wnet.com"
+  ],
+  "filters": [
+    "||4wnet.com^$3p"
+  ]
+}

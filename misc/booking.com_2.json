@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Booking.com",
+  "category": "misc",
+  "domains": [
+    "booking.com",
+    "bstatic.com",
+    "rcstatic.com"
+  ],
+  "filters": []
+}

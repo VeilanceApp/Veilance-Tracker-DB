@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SponsorAds.de",
+  "category": "advertising",
+  "website_url": "http://sponsorads.de",
+  "organization": "sponsorads.de",
+  "domains": [
+    "sponsorads.de"
+  ],
+  "filters": [
+    "||sponsorads.de^$3p"
+  ]
+}

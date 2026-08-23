@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "AdF.ly",
+  "category": "advertising",
+  "website_url": "https://adf.ly/",
+  "organization": "adf.ly",
+  "domains": [
+    "adf.ly"
+  ],
+  "filters": [
+    "||adf.ly/conv",
+    "||adf.ly/js/entry",
+    "||adf.ly/js/link"
+  ]
+}

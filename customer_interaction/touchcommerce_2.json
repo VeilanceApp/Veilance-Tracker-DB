@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Nuance",
+  "category": "customer_interaction",
+  "website_url": "https://www.nuance.com/omni-channel-customer-engagement/digital.html",
+  "organization": "touchcommerce",
+  "domains": [
+    "inq.com"
+  ],
+  "filters": [
+    "||inq.com^$3p"
+  ]
+}

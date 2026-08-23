@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MaxBounty",
+  "category": "advertising",
+  "website_url": "https://www.maxbounty.com/",
+  "organization": "maxbounty",
+  "domains": [
+    "mb01.com"
+  ],
+  "filters": [
+    "||mb01.com/getimage.asp"
+  ]
+}

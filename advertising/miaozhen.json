@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Miaozhen",
+  "category": "advertising",
+  "website_url": "http://miaozhen.com/en/index.html",
+  "organization": "miaozhen",
+  "domains": [
+    "miaozhen.com"
+  ],
+  "filters": [
+    "||miaozhen.com^$3p"
+  ]
+}

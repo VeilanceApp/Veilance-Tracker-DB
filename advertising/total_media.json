@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Total Media",
+  "category": "advertising",
+  "website_url": "http://www.totalmedia.co.il/eng/",
+  "organization": "total_media",
+  "domains": [
+    "i.total-media.net"
+  ],
+  "filters": [
+    "||i.total-media.net^$3p"
+  ]
+}

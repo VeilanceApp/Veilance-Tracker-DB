@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Cnetcontent",
+  "category": "misc",
+  "website_url": "http://cnetcontent.com/",
+  "organization": "cbs_interactive",
+  "domains": [
+    "cnetcontent.com"
+  ],
+  "filters": []
+}

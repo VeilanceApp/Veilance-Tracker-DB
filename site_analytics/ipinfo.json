@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ipinfo",
+  "category": "site_analytics",
+  "website_url": "https://ipinfo.io/",
+  "organization": "ipinfo.io",
+  "domains": [
+    "ipinfo.io"
+  ],
+  "filters": [
+    "||ipinfo.io^$3p"
+  ]
+}

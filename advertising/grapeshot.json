@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Grapeshot",
+  "category": "advertising",
+  "website_url": "https://www.grapeshot.com/",
+  "organization": "oracle",
+  "domains": [
+    "grapeshot.co.uk",
+    "gscontxt.net"
+  ],
+  "filters": [
+    "||grapeshot.co.uk^$3p",
+    "||gscontxt.net^$3p"
+  ]
+}

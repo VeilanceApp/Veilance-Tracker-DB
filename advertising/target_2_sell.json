@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Target 2 Sell",
+  "category": "advertising",
+  "organization": "target_2_sell",
+  "domains": [
+    "target2sell.com"
+  ],
+  "filters": [
+    "||target2sell.com/t2s.min.js"
+  ]
+}

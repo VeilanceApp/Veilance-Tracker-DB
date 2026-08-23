@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Weibo Widget",
+  "category": "advertising",
+  "website_url": "http://www.sina.com/",
+  "organization": "sina",
+  "domains": [
+    "widget.weibo.com"
+  ],
+  "filters": [
+    "||widget.weibo.com^$3p"
+  ]
+}

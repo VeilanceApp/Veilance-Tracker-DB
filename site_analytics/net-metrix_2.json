@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "NET-Metrix",
+  "category": "site_analytics",
+  "website_url": "http://www.net-metrix.ch/",
+  "organization": "net-metrix",
+  "domains": [
+    "wemfbox.ch"
+  ],
+  "filters": [
+    "||wemfbox.ch^$3p"
+  ]
+}

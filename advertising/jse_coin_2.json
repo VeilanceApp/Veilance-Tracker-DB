@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "JSE Coin",
+  "category": "advertising",
+  "organization": "jse_coin",
+  "domains": [
+    "jsecoin.com"
+  ],
+  "filters": [
+    "||jsecoin.com/server/load"
+  ]
+}

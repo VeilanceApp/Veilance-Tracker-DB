@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Wix Media Platform",
+  "category": "hosting",
+  "website_url": "https://www.wixmp.com/",
+  "organization": "wix",
+  "domains": [
+    "wixmp.com"
+  ],
+  "filters": []
+}

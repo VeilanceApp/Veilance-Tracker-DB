@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "KeyMetric",
+  "category": "site_analytics",
+  "website_url": "http://keymetric.net/",
+  "organization": "keymetric",
+  "domains": [
+    "keymetric.net"
+  ],
+  "filters": [
+    "||keymetric.net^$3p"
+  ]
+}

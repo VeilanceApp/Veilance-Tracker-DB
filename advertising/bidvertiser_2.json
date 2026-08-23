@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "BidVertiser",
+  "category": "advertising",
+  "website_url": "https://www.bidvertiser.com/",
+  "organization": "bidvertiser",
+  "domains": [
+    "bidvertiser.com"
+  ],
+  "filters": [
+    "||bdv.bidvertiser.com^$3p",
+    "||srv.bidvertiser.com^$3p"
+  ]
+}

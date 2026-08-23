@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ADSMURAI",
+  "category": "advertising",
+  "website_url": "https://www.adsmurai.com",
+  "organization": "adsmurai",
+  "domains": [
+    "adsmurai.com"
+  ],
+  "filters": [
+    "||adsmurai.com^$3p"
+  ]
+}

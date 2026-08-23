@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Traffic Revenue",
+  "category": "advertising",
+  "website_url": "http://www.trafficrevenue.net/",
+  "organization": "traffic_revenue",
+  "domains": [
+    "trafficrevenue.net"
+  ],
+  "filters": [
+    "||trafficrevenue.net^$3p"
+  ]
+}

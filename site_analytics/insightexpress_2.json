@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "InsightExpress",
+  "category": "site_analytics",
+  "website_url": "https://www.kantar.com/",
+  "organization": "millward_brown",
+  "domains": [
+    "insightexpressai.com"
+  ],
+  "filters": [
+    "||insightexpressai.com^$3p"
+  ]
+}

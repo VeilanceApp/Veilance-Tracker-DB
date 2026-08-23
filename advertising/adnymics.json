@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Adnymics",
+  "category": "advertising",
+  "organization": "adnymics",
+  "domains": [
+    "adnymics.com"
+  ],
+  "filters": [
+    "||adnymics.com/piwik.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "i-Behavior",
+  "category": "advertising",
+  "website_url": "http://www.i-behavior.com/",
+  "organization": "kbm_group",
+  "domains": [
+    "ib-ibi.com"
+  ],
+  "filters": [
+    "||ib-ibi.com^$3p"
+  ]
+}

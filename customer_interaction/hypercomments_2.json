@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "HyperComments",
+  "category": "customer_interaction",
+  "website_url": "https://www.hypercomments.com/",
+  "organization": "hypercomments",
+  "domains": [
+    "hypercomments.com"
+  ],
+  "filters": [
+    "||w.hypercomments.com^$3p",
+    "||widget.hypercomments.com^$3p"
+  ]
+}

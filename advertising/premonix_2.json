@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Premonix",
+  "category": "advertising",
+  "website_url": "https://www.premonix.com/",
+  "organization": "premonix",
+  "domains": [
+    "prnx.net"
+  ],
+  "filters": [
+    "||prnx.net^$3p"
+  ]
+}

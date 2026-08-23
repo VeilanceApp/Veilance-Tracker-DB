@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "ContentPass",
+  "category": "site_analytics",
+  "website_url": "https://www.contentpass.de/",
+  "organization": "contentpass",
+  "domains": [
+    "contentpass.de",
+    "contentpass.net"
+  ],
+  "filters": [
+    "||api.contentpass.net/stats",
+    "||get.contentpass.net/now.js"
+  ]
+}

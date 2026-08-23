@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "OpinionBar",
+  "category": "customer_interaction",
+  "website_url": "http://www.metrixlab.com",
+  "organization": "metrixlab",
+  "domains": [
+    "opinionbar.com"
+  ],
+  "filters": [
+    "||opinionbar.com^$3p"
+  ]
+}

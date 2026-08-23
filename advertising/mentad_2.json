@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "MentAd",
+  "category": "advertising",
+  "website_url": "https://www.mentad.com/",
+  "organization": "mentad",
+  "domains": [
+    "mentad.com"
+  ],
+  "filters": [
+    "||mentad.com^$3p"
+  ]
+}

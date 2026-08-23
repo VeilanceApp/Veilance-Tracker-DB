@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Solve Media",
+  "category": "advertising",
+  "website_url": "http://solvemedia.com/",
+  "organization": "solve_media",
+  "domains": [
+    "pixel.solvemedia.com"
+  ],
+  "filters": [
+    "||pixel.solvemedia.com^$3p"
+  ]
+}

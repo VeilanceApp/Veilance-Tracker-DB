@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Acloudimages",
+  "category": "advertising",
+  "organization": "adsterra",
+  "domains": [
+    "acloudimages.com"
+  ],
+  "filters": [
+    "||acloudimages.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Trustev",
+  "category": "site_analytics",
+  "website_url": "https://www.trustev.com/",
+  "organization": "trustev",
+  "domains": [
+    "trustev.com"
+  ],
+  "filters": [
+    "||trustev.com^$3p"
+  ]
+}

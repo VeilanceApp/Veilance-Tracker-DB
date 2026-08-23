@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PowerReviews",
+  "category": "customer_interaction",
+  "website_url": "https://www.powerreviews.com/",
+  "organization": "powerreviews",
+  "domains": [
+    "powerreviews.com"
+  ],
+  "filters": [
+    "||t.powerreviews.com^$3p"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Smile Wanted",
+  "category": "advertising",
+  "website_url": "https://www.smilewanted.com/",
+  "organization": "smile_wanted",
+  "domains": [
+    "csync.smilewanted.com",
+    "prebid.smilewanted.com",
+    "static.smilewanted.com"
+  ],
+  "filters": [
+    "||smilewanted.com^$3p"
+  ]
+}

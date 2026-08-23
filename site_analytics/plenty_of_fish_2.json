@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Plenty Of Fish",
+  "category": "site_analytics",
+  "organization": "plentyoffish",
+  "domains": [
+    "pof.com"
+  ],
+  "filters": [
+    "||pof.com^$3p"
+  ]
+}

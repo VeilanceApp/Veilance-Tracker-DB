@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Linkstorm",
+  "category": "customer_interaction",
+  "website_url": "http://www.linkstorms.com/",
+  "organization": "linkstorm",
+  "domains": [
+    "linkstorm.net"
+  ],
+  "filters": [
+    "||linkstorm.net^$3p"
+  ]
+}

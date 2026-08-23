@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Flurry",
+  "category": "site_analytics",
+  "website_url": "http://www.flurry.com/",
+  "organization": "yahoo",
+  "domains": [
+    "cdn.flurry.com",
+    "data.flurry.com"
+  ],
+  "filters": [
+    "||cdn.flurry.com/js/",
+    "||data.flurry.com^$3p"
+  ]
+}

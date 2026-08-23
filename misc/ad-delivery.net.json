@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "ad-delivery.net",
+  "category": "misc",
+  "domains": [
+    "ad-delivery.net"
+  ],
+  "filters": []
+}

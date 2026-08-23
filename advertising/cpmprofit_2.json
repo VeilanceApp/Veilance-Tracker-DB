@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "CPMProfit",
+  "category": "advertising",
+  "website_url": "http://www.cpmprofit.com/",
+  "organization": "cpmprofit",
+  "domains": [
+    "cpmprofit.com"
+  ],
+  "filters": [
+    "||cpmprofit.com^$3p"
+  ]
+}

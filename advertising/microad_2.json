@@ -1,0 +1,18 @@
+{
+  "format": "veilance-json",
+  "name": "MicroAd",
+  "category": "advertising",
+  "website_url": "https://www.microad.co.jp/",
+  "organization": "microad",
+  "domains": [
+    "microad.co.jp",
+    "microad.jp",
+    "microad.net",
+    "microadinc.com"
+  ],
+  "filters": [
+    "||microad.jp^$3p",
+    "||microad.net^$3p",
+    "||microadinc.com^$3p"
+  ]
+}

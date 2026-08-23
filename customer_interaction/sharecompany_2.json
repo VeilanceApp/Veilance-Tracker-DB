@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "ShareCompany",
+  "category": "customer_interaction",
+  "website_url": "http://sharecompany.nl",
+  "organization": "sharecompany",
+  "domains": [
+    "quintrics.nl",
+    "sharecompany.nl"
+  ],
+  "filters": [
+    "||quintrics.nl^$3p",
+    "||sharecompany.nl^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "xplosion",
+  "category": "advertising",
+  "website_url": "http://www.xplosion.de/",
+  "organization": "xplosion_interactive",
+  "domains": [
+    "xplosion.de"
+  ],
+  "filters": [
+    "||xplosion.de^$3p"
+  ]
+}

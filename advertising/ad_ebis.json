@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AD EBiS",
+  "category": "advertising",
+  "website_url": "https://www.ebis.ne.jp/en/",
+  "organization": "ad_ebis",
+  "domains": [
+    "ebis.ne.jp"
+  ],
+  "filters": [
+    "||ebis.ne.jp^$3p"
+  ]
+}

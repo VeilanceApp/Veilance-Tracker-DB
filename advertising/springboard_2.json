@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SpringBoard",
+  "category": "advertising",
+  "website_url": "http://home.springboardplatform.com/",
+  "organization": "springboard",
+  "domains": [
+    "cdn.springboardplatform.com"
+  ],
+  "filters": [
+    "||cdn.springboardplatform.com/storage"
+  ]
+}

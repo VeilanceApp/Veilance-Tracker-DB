@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Deqwas",
+  "category": "site_analytics",
+  "website_url": "https://deqwas.com/",
+  "organization": "deqwas",
+  "domains": [
+    "deqwas.net"
+  ],
+  "filters": [
+    "||deqwas.net^$3p"
+  ]
+}

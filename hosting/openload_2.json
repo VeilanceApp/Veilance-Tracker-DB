@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Openload",
+  "category": "hosting",
+  "website_url": "https://openload.co/",
+  "domains": [
+    "oloadcdn.net",
+    "openload.co"
+  ],
+  "filters": []
+}

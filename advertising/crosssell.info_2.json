@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "econda Cross Sell",
+  "category": "advertising",
+  "website_url": "https://www.econda.de/en/solutions/personalization/cross-sell/",
+  "organization": "econda",
+  "domains": [
+    "crosssell.info"
+  ],
+  "filters": []
+}

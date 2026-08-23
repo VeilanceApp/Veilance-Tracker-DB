@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Vendemore",
+  "category": "customer_interaction",
+  "website_url": "https://vendemore.com/",
+  "organization": "ratos",
+  "domains": [
+    "vendemore.com"
+  ],
+  "filters": []
+}

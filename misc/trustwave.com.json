@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Trustwave",
+  "category": "misc",
+  "website_url": "https://www.trustwave.com/home/",
+  "domains": [
+    "trustwave.com"
+  ],
+  "filters": []
+}

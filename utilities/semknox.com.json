@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SEMKNOX GmbH",
+  "category": "utilities",
+  "website_url": "https://semknox.com/",
+  "domains": [
+    "semknox.com"
+  ],
+  "filters": []
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "NetEase",
+  "category": "advertising",
+  "website_url": "http://126.net/",
+  "organization": "netease",
+  "domains": [
+    "126.net",
+    "163.com"
+  ],
+  "filters": [
+    "||126.net^$3p",
+    "||163.com^$3p"
+  ]
+}

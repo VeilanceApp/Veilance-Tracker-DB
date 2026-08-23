@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "xfreeservice.com",
+  "category": "misc",
+  "domains": [
+    "xfreeservice.com"
+  ],
+  "filters": []
+}

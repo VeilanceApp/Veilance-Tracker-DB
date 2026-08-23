@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Celebrus",
+  "category": "site_analytics",
+  "organization": "celebrus",
+  "domains": [
+    "celebrus.com"
+  ],
+  "filters": [
+    "||celebrus.com/9567/handler9/session.js",
+    "||celebrus.com/javascriptinsert.js",
+    "||delta.com/content/dam/delta-applications/js/celebrus/"
+  ]
+}

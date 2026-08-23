@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Trackset ConversionLab",
+  "category": "advertising",
+  "website_url": "https://www.trackset.com/",
+  "organization": "trackset",
+  "domains": [
+    "conversionlab.trackset.com"
+  ],
+  "filters": [
+    "||conversionlab.trackset.com/track/",
+    "||tracking.conversionlab.it^$3p"
+  ]
+}

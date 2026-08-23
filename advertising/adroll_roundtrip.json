@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "AdRoll Roundtrip",
+  "category": "advertising",
+  "organization": "adroll",
+  "domains": [],
+  "filters": [
+    "||adroll.com/j/roundtrip.js"
+  ]
+}

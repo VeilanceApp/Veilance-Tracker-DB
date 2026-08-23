@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Mediavine Exchange",
+  "category": "advertising",
+  "website_url": "https://www.mediavine.com/exchange/",
+  "organization": "mediavine_inc",
+  "domains": [
+    "mediavine.com",
+    "pb-ing-mediavine.ccgateway.net"
+  ],
+  "filters": [
+    "||mediavine.com^$3p",
+    "||pb-ing-mediavine.ccgateway.net^"
+  ]
+}

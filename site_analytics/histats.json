@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Histats",
+  "category": "site_analytics",
+  "website_url": "https://www.histats.com/",
+  "organization": "histats",
+  "domains": [
+    "histats.com"
+  ],
+  "filters": [
+    "||histats.com^$3p"
+  ]
+}

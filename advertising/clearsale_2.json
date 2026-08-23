@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "clearsale",
+  "category": "advertising",
+  "website_url": "https://www.clear.sale/",
+  "domains": [
+    "clearsale.com.br"
+  ],
+  "filters": []
+}

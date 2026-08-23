@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ROI trax",
+  "category": "advertising",
+  "website_url": "https://www.oneupweb.com/",
+  "organization": "oneupweb",
+  "domains": [
+    "trk.sodoit.com"
+  ],
+  "filters": [
+    "||trk.sodoit.com/rts"
+  ]
+}

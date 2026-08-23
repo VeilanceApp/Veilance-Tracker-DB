@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "StickyAds",
+  "category": "advertising",
+  "organization": "comcast",
+  "domains": [
+    "stickyadstv.com"
+  ],
+  "filters": [
+    "||ads.stickyadstv.com^$3p"
+  ]
+}

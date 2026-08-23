@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Digital Matter",
+  "category": "advertising",
+  "website_url": "https://digitalmatter.ai/",
+  "organization": "digitalmatter",
+  "domains": [
+    "bid-collector.digitalmatter.ai",
+    "cc-endpoint.digitalmatter.ai"
+  ],
+  "filters": []
+}

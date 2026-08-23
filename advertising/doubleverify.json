@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "DoubleVerify",
+  "category": "advertising",
+  "website_url": "https://www.doubleverify.com/",
+  "organization": "doubleverify",
+  "domains": [
+    "doubleverify.com"
+  ],
+  "filters": [
+    "||doubleverify.com^$3p"
+  ]
+}

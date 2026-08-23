@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Admatic",
+  "category": "advertising",
+  "organization": "admatic",
+  "domains": [
+    "admatic.com.tr",
+    "ads5.admatic.com.tr",
+    "cdn2.admatic.com.tr"
+  ],
+  "filters": [
+    "||admatic.com.tr^$3p",
+    "||ads5.admatic.com.tr/showad",
+    "||cdn2.admatic.com.tr/showad/showad.js"
+  ]
+}

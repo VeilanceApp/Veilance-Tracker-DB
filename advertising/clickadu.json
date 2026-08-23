@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Clickadu",
+  "category": "advertising",
+  "website_url": "https://www.clickadu.com/",
+  "organization": "clickadu",
+  "domains": [
+    "clickadu.com",
+    "chestgoingpunch.com"
+  ],
+  "filters": [
+    "||chestgoingpunch.com^"
+  ]
+}

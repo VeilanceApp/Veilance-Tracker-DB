@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sportsbet Affiliates",
+  "category": "advertising",
+  "website_url": "https://www.sportsbetaffiliates.com.au/",
+  "organization": "sportsbet_affiliates",
+  "domains": [
+    "sportsbetaffiliates.com.au"
+  ],
+  "filters": [
+    "||sportsbetaffiliates.com.au^$3p"
+  ]
+}

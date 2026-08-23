@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Sendsay",
+  "category": "customer_interaction",
+  "organization": "sendsay",
+  "domains": [
+    "sendsay.ru"
+  ],
+  "filters": [
+    "||sendsay.ru/js/target/tracking.js"
+  ]
+}

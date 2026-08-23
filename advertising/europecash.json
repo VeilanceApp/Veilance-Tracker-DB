@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Europecash",
+  "category": "advertising",
+  "organization": "europacash",
+  "domains": [
+    "newpromo.europacash.com"
+  ],
+  "filters": [
+    "||clk.europacash.com/click.php",
+    "||medias.europacash.com/adv/",
+    "||newpromo.europacash.com^$3p"
+  ]
+}

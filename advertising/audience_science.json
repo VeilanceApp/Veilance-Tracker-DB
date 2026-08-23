@@ -1,0 +1,17 @@
+{
+  "format": "veilance-json",
+  "name": "Audience Science",
+  "category": "advertising",
+  "website_url": "https://www.audiencescience.com/",
+  "organization": "audiencescience",
+  "domains": [
+    "revsci.net",
+    "wunderloop.net"
+  ],
+  "filters": [
+    "||ad.targetingmarketplace.com^$3p",
+    "||revsci.*/gw.js^$3p",
+    "||revsci.net^$3p",
+    "||wunderloop.net^$3p"
+  ]
+}

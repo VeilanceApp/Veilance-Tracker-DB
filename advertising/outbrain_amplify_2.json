@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Outbrain Amplify",
+  "category": "advertising",
+  "organization": "outbrain",
+  "domains": [],
+  "filters": [
+    "||amplify.outbrain.com/cp/obtp.js"
+  ]
+}

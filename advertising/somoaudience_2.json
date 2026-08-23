@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "SoMo Audience",
+  "category": "advertising",
+  "website_url": "https://somoaudience.com/",
+  "organization": "somoaudience",
+  "domains": [
+    "mobileadtrading.com"
+  ],
+  "filters": []
+}

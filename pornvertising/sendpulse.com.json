@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "SendPulse",
+  "category": "pornvertising",
+  "website_url": "https://sendpulse.com/",
+  "domains": [
+    "sendpulse.com"
+  ],
+  "filters": []
+}

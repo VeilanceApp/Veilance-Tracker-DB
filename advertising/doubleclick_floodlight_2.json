@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "DoubleClick Floodlight",
+  "category": "advertising",
+  "website_url": "http://www.google.com/support/dfa/partner/bin/topic.py?topic=23943",
+  "organization": "google",
+  "domains": [],
+  "filters": [
+    "||doubleclick.net/activityi",
+    "||fls.doubleclick.net^$3p"
+  ]
+}

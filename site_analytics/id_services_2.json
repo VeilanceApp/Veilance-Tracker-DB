@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "ID Services",
+  "category": "site_analytics",
+  "organization": "id_services",
+  "domains": [
+    "cdn.id.services"
+  ],
+  "filters": [
+    "||cdn.id.services/m/run.js"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "Index Exchange",
+  "category": "advertising",
+  "website_url": "http://www.casalemedia.com/",
+  "organization": "index_exchange",
+  "domains": [
+    "casalemedia.com",
+    "indexww.com"
+  ],
+  "filters": [
+    "||casalemedia.com^$3p",
+    "||js-sec.indexww.com/ht/",
+    "||js.indexww.com/ht/cur3.js"
+  ]
+}

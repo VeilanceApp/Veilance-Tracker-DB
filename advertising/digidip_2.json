@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Digidip",
+  "category": "advertising",
+  "organization": "digidip",
+  "domains": [
+    "digidip.net"
+  ],
+  "filters": [
+    "||forum-fok.digidip.net/js"
+  ]
+}

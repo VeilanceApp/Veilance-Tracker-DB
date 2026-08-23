@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "AdsBookie",
+  "category": "advertising",
+  "website_url": "https://adsbookie.com/",
+  "domains": [
+    "adsbookie.com"
+  ],
+  "filters": []
+}

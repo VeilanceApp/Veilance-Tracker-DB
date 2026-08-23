@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Piximedia",
+  "category": "advertising",
+  "website_url": "https://www.piximedia.com/piximedia?en",
+  "organization": "piximedia",
+  "domains": [
+    "piximedia.com"
+  ],
+  "filters": [
+    "||piximedia.com^$3p"
+  ]
+}

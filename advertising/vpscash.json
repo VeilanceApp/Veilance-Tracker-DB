@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "VPSCash",
+  "category": "advertising",
+  "organization": "vps_cash",
+  "domains": [
+    "tools.vpscash.nl"
+  ],
+  "filters": [
+    "||tools.vpscash.nl/webcams/promo/"
+  ]
+}

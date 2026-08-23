@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Notifyfox",
+  "category": "site_analytics",
+  "organization": "notifyfox",
+  "domains": [
+    "notifyfox.com"
+  ],
+  "filters": [
+    "||notifyfox.com/loader.js"
+  ]
+}

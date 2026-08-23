@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "RaiseNow",
+  "category": "site_analytics",
+  "organization": "raisenow",
+  "domains": [
+    "widget.raisenow.com"
+  ],
+  "filters": [
+    "||widget.raisenow.com/widgets/ela/moaz-q8tch/js/dds-init-widget-de.js"
+  ]
+}

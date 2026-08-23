@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Snap",
+  "category": "customer_interaction",
+  "website_url": "https://www.snap.com/",
+  "organization": "snap_technologies",
+  "domains": [
+    "snap.com"
+  ],
+  "filters": [
+    "||shots.snap.com/snap_shots.js",
+    "||spa.snap.com/snap_preview_anywhere.js"
+  ]
+}

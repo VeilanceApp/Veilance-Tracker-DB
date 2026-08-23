@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "GENIEE",
+  "category": "advertising",
+  "website_url": "https://geniee.co.jp/",
+  "domains": [
+    "gssprt.jp"
+  ],
+  "filters": []
+}

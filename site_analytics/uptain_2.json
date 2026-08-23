@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Uptain",
+  "category": "site_analytics",
+  "organization": "uptain",
+  "domains": [
+    "app.uptain.de"
+  ],
+  "filters": [
+    "||app.uptain.de/js/uptain.js"
+  ]
+}

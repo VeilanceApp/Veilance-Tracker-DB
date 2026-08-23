@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Bombora",
+  "category": "site_analytics",
+  "organization": "bombora",
+  "domains": [
+    "ml314.com"
+  ],
+  "filters": [
+    "||ml314.com/tag.aspx",
+    "||ml314.com/utsync.ashx"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Marchex",
+  "category": "advertising",
+  "website_url": "https://www.industrybrains.com/",
+  "organization": "marchex",
+  "domains": [
+    "px.marchex.io",
+    "voicestar.com"
+  ],
+  "filters": [
+    "||px.marchex.io^$3p",
+    "||voicestar.com^$3p"
+  ]
+}

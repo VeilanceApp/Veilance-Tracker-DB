@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ImgIX",
+  "category": "hosting",
+  "website_url": "https://www.imgix.com/",
+  "domains": [
+    "imgix.net"
+  ],
+  "filters": []
+}

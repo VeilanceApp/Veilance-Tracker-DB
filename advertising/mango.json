@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Mango",
+  "category": "advertising",
+  "organization": "mango_office",
+  "domains": [
+    "widgets.mango-office.ru"
+  ],
+  "filters": [
+    "||widgets.mango-office.ru/widgets/mango.js"
+  ]
+}

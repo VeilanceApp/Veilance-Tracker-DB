@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Kixer",
+  "category": "advertising",
+  "organization": "kixer",
+  "domains": [
+    "kixer.com"
+  ],
+  "filters": [
+    "||kixer.com/ad/load.js"
+  ]
+}

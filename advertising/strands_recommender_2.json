@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Strands Recommender",
+  "category": "advertising",
+  "website_url": "http://recommender.strands.com",
+  "organization": "strands",
+  "domains": [
+    "bizsolutions.strands.com"
+  ],
+  "filters": [
+    "||bizsolutions.strands.com^$3p"
+  ]
+}

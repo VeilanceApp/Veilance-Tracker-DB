@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "PathFactory",
+  "category": "site_analytics",
+  "website_url": "https://www.pathfactory.com/",
+  "organization": "pathfactory",
+  "domains": [
+    "pathfactory.com"
+  ],
+  "filters": [
+    "||pathfactory.com^$3p"
+  ]
+}

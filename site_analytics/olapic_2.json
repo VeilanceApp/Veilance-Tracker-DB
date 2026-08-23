@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Social Native Tracking",
+  "category": "site_analytics",
+  "website_url": "https://www.socialnative.com/insights-and-optimization/",
+  "organization": "social_native",
+  "domains": [
+    "photorank.me"
+  ],
+  "filters": [
+    "||photorank.me^$3p"
+  ]
+}

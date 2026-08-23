@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Sophus3",
+  "category": "advertising",
+  "website_url": "https://www.sophus3.com/",
+  "organization": "sophus3",
+  "domains": [
+    "sophus3.com"
+  ],
+  "filters": [
+    "||sophus3.com^$3p"
+  ]
+}

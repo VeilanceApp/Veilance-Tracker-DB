@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Venyoo",
+  "category": "customer_interaction",
+  "organization": "venyoo",
+  "domains": [
+    "api.venyoo.ru"
+  ],
+  "filters": [
+    "||api.venyoo.ru/wnew.js",
+    "||static.venyoo.ru/widget/js/placeholders.jquery.min.js"
+  ]
+}

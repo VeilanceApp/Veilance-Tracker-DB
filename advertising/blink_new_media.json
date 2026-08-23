@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Blink New Media",
+  "category": "advertising",
+  "website_url": "http://engagebdr.com/",
+  "organization": "engage_bdr",
+  "domains": [
+    "bnmla.com"
+  ],
+  "filters": [
+    "||ad.bnmla.com^$3p"
+  ]
+}

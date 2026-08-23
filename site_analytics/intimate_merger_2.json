@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Intimate Merger",
+  "category": "site_analytics",
+  "organization": "intimate_merger",
+  "domains": [
+    "im-apps.net"
+  ],
+  "filters": [
+    "||sync.im-apps.net^$3p"
+  ]
+}

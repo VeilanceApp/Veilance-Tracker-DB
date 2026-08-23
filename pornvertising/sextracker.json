@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "SexTracker",
+  "category": "pornvertising",
+  "website_url": "http://webmasters.sextracker.com/",
+  "organization": "sextracker",
+  "domains": [
+    "sextracker.com"
+  ],
+  "filters": [
+    "||sextracker.com^$3p"
+  ]
+}

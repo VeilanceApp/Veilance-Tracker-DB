@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "LeadScoreApp",
+  "category": "customer_interaction",
+  "organization": "leadscoreapp",
+  "domains": [
+    "www.leadscoreapp.dk"
+  ],
+  "filters": [
+    "||www.leadscoreapp.dk/js/ls.js"
+  ]
+}

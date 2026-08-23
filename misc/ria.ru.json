@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "ria.ru",
+  "category": "misc",
+  "website_url": "https://ria.ru/",
+  "domains": [
+    "ria.ru"
+  ],
+  "filters": []
+}

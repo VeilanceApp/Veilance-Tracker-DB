@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Gamesight",
+  "category": "advertising",
+  "website_url": "https://gamesight.io/",
+  "organization": "gamesight",
+  "domains": [
+    "gsght.com"
+  ],
+  "filters": []
+}

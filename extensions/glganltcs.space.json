@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "glganltcs.space",
+  "category": "extensions",
+  "domains": [
+    "glganltcs.space"
+  ],
+  "filters": []
+}

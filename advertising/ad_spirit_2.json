@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Spirit",
+  "category": "advertising",
+  "website_url": "http://www.adspirit.de",
+  "organization": "adspirit",
+  "domains": [
+    "adspirit.de",
+    "adspirit.net"
+  ],
+  "filters": [
+    "||adspirit.de^$3p",
+    "||adspirit.net^$3p"
+  ]
+}

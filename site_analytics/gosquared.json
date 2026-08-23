@@ -1,0 +1,16 @@
+{
+  "format": "veilance-json",
+  "name": "GoSquared",
+  "category": "site_analytics",
+  "website_url": "https://www.gosquared.com/livestats/",
+  "organization": "gosquared",
+  "domains": [
+    "d1l6p2sc9645hc.cloudfront.net",
+    "gosquared.com"
+  ],
+  "filters": [
+    "||d1l6p2sc9645hc.cloudfront.net^$3p",
+    "||data.gosquared.com^$3p",
+    "||gosquared.com/livestats/tracker"
+  ]
+}

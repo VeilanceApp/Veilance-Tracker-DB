@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Netmining",
+  "category": "advertising",
+  "website_url": "http://www.netmining.com/",
+  "organization": "zeta",
+  "domains": [
+    "netmining.com",
+    "netmng.com"
+  ],
+  "filters": [
+    "||netmining.com^$3p",
+    "||netmng.com^$3p"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Speed Shift Media",
+  "category": "advertising",
+  "website_url": "https://www.speedshiftmedia.com/",
+  "organization": "speed_shift_media",
+  "domains": [
+    "speedshiftmedia.com"
+  ],
+  "filters": [
+    "||speedshiftmedia.com^$3p"
+  ]
+}

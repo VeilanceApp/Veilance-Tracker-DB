@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Oplytic",
+  "category": "site_analytics",
+  "organization": "oplytic",
+  "domains": [
+    "emagazines.com"
+  ],
+  "filters": [
+    "||emagazines.com/insight/javascript/emags_fingerprint.js"
+  ]
+}
