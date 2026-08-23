@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Admo.tv",
+  "category": "advertising",
+  "website_url": "https://admo.tv/",
+  "organization": "admo.tv",
+  "domains": [
+    "admo.tv"
+  ],
+  "filters": [
+    "||assu2000.admo.tv/config.js",
+    "||meetic.admo.tv/script/script-min.js"
+  ]
+}

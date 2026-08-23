@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Adobe TagManager",
+  "category": "advertising",
+  "website_url": "https://www.adobe.com/",
+  "organization": "adobe",
+  "domains": [
+    "adobetag.com"
+  ],
+  "filters": [
+    "||adobetag.com^$3p",
+    "||s3.amazonaws.com/searchdiscovery-satellite-production"
+  ]
+}

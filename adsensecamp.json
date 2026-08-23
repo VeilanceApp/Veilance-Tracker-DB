@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdsenseCamp",
+  "category": "advertising",
+  "website_url": "http://adsensecamp.com",
+  "organization": "adsensecamp",
+  "domains": [
+    "adsensecamp.com"
+  ],
+  "filters": [
+    "||adsensecamp.com/show/"
+  ]
+}

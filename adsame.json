@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adsame",
+  "category": "advertising",
+  "website_url": "http://adsame.com/",
+  "organization": "adsame",
+  "domains": [
+    "adsame.com"
+  ],
+  "filters": [
+    "||adsame.com^$3p"
+  ]
+}

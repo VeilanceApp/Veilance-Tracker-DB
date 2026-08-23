@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Admixer",
+  "category": "advertising",
+  "website_url": "https://admixer.net/",
+  "organization": "admixer",
+  "domains": [
+    "admixer.net"
+  ],
+  "filters": [
+    "||admixer.net^$3p"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "AdRoll",
+  "category": "advertising",
+  "website_url": "https://www.adroll.com/",
+  "organization": "adroll",
+  "domains": [
+    "adroll.com"
+  ],
+  "filters": [
+    "||d.adroll.com/cm",
+    "||s.adroll.com/j/sendrolling.js"
+  ]
+}

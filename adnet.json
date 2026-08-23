@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adnet",
+  "category": "advertising",
+  "website_url": "http://www.adnet.vn/",
+  "organization": "adnet",
+  "domains": [
+    "adnet.vn"
+  ],
+  "filters": [
+    "||adnet.vn^$3p"
+  ]
+}

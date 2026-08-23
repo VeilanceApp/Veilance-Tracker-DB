@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "AdReactor",
+  "category": "advertising",
+  "website_url": "https://www.adreactor.com/",
+  "organization": "adreactor",
+  "domains": [
+    "adreactor.com"
+  ],
+  "filters": [
+    "||adreactor.com^$3p"
+  ]
+}

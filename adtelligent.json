@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Adtelligent",
+  "category": "advertising",
+  "website_url": "https://adtelligent.com/",
+  "organization": "adtelligent",
+  "domains": [
+    "adtelligent.com"
+  ],
+  "filters": [
+    "||adtelligent.com^$3p"
+  ]
+}

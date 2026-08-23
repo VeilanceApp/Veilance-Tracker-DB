@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "Adtelligence",
+  "category": "advertising",
+  "website_url": "https://adtelligence.com/",
+  "domains": [
+    "adtelligence.de"
+  ],
+  "filters": []
+}

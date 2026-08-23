@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Adobe Login",
+  "category": "customer_interaction",
+  "website_url": "https://www.adobe.com/",
+  "organization": "adobe",
+  "domains": [
+    "adobelogin.com"
+  ],
+  "filters": []
+}

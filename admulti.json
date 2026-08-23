@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ADmulti",
+  "category": "advertising",
+  "website_url": "http://admulti.com",
+  "organization": "admulti",
+  "domains": [
+    "admulti.com"
+  ],
+  "filters": [
+    "||admulti.com^$3p"
+  ]
+}

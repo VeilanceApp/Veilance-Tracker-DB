@@ -1,0 +1,19 @@
+{
+  "format": "veilance-json",
+  "name": "AdMob",
+  "category": "advertising",
+  "website_url": "http://www.admob.com/",
+  "organization": "google",
+  "domains": [
+    "a.admob.com",
+    "mm.admob.com",
+    "mmv.admob.com",
+    "p.admob.com"
+  ],
+  "filters": [
+    "||a.admob.com^$3p",
+    "||mm.admob.com^$3p",
+    "||mmv.admob.com^$3p",
+    "||p.admob.com^$3p"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "veilance-json",
+  "name": "Adosia",
+  "category": "advertising",
+  "organization": "adosia",
+  "domains": [
+    "adosia.com"
+  ],
+  "filters": [
+    "||adosia.com/adscroll/iscroll-min.js"
+  ]
+}

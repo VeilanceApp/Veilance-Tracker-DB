@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "Adtarget.me",
+  "category": "advertising",
+  "website_url": "https://www.adtarget.me/",
+  "organization": "adtarget.me",
+  "domains": [
+    "adtarget.me"
+  ],
+  "filters": [
+    "||static-trackers.adtarget.me^$3p",
+    "||trackers.adtarget.me^$3p"
+  ]
+}
