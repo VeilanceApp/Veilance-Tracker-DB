@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "HomeAway",
-  "category": "misc",
-  "domains": [
-    "homeaway.com"
-  ],
-  "filters": []
-}

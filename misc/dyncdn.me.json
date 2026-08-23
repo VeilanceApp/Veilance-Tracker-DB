@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "dyncdn.me",
-  "category": "misc",
-  "domains": [
-    "dyncdn.me"
-  ],
-  "filters": []
-}

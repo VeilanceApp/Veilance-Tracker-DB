@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "DimML",
-  "category": "misc",
-  "domains": [
-    "dimml.io"
-  ],
-  "filters": []
-}

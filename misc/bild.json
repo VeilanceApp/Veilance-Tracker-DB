@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "Bild.de",
-  "category": "misc",
-  "domains": [
-    "bildstatic.de"
-  ],
-  "filters": []
-}

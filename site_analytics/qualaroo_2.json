@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "Qualaroo",
-  "category": "site_analytics",
-  "domains": [
-    "qualaroo.com"
-  ],
-  "filters": []
-}

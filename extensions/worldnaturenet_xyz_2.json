@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "worldnaturenet.xyz",
-  "category": "extensions",
-  "domains": [
-    "worldnaturenet.xyz"
-  ],
-  "filters": []
-}

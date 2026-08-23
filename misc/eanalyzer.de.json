@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "eanalyzer.de",
-  "category": "misc",
-  "domains": [
-    "eanalyzer.de"
-  ],
-  "filters": []
-}

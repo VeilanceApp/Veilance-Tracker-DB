@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "datds.net",
-  "category": "extensions",
-  "domains": [
-    "datds.net"
-  ],
-  "filters": []
-}

@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "davebestdeals.com",
-  "category": "extensions",
-  "domains": [
-    "davebestdeals.com"
-  ],
-  "filters": []
-}

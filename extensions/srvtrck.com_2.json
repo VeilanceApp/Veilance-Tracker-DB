@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "srvtrck.com",
-  "category": "extensions",
-  "domains": [
-    "srvtrck.com"
-  ],
-  "filters": []
-}

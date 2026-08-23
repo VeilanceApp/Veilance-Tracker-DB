@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "pushno.com",
-  "category": "misc",
-  "domains": [
-    "pushno.com"
-  ],
-  "filters": []
-}

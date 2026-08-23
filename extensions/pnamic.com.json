@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "pnamic.com",
-  "category": "extensions",
-  "domains": [
-    "pnamic.com"
-  ],
-  "filters": []
-}

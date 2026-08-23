@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "esprit.de",
-  "category": "misc",
-  "domains": [
-    "esprit.de"
-  ],
-  "filters": []
-}

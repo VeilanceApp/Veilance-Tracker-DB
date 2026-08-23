@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "vodafone.de",
-  "category": "misc",
-  "domains": [
-    "vodafone.de"
-  ],
-  "filters": []
-}

@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "Heroku",
-  "category": "hosting",
-  "domains": [
-    "herokuapp.com"
-  ],
-  "filters": []
-}

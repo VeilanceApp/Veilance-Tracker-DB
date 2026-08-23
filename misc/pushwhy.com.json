@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "pushwhy.com",
-  "category": "misc",
-  "domains": [
-    "pushwhy.com"
-  ],
-  "filters": []
-}

@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "V12 Group",
-  "category": "site_analytics",
-  "domains": [
-    "v12group.com"
-  ],
-  "filters": []
-}

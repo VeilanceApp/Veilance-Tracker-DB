@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "dcbap.com",
-  "category": "extensions",
-  "domains": [
-    "dcbap.com"
-  ],
-  "filters": []
-}

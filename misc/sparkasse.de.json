@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "sparkasse.de",
-  "category": "misc",
-  "domains": [
-    "sparkasse.de"
-  ],
-  "filters": []
-}

@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "Ask.com",
-  "category": "social_media",
-  "domains": [
-    "ask.com"
-  ],
-  "filters": []
-}

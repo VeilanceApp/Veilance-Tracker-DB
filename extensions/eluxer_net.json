@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "eluxer.net",
-  "category": "extensions",
-  "domains": [
-    "eluxer.net"
-  ],
-  "filters": []
-}

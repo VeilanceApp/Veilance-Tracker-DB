@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "sheego.de",
-  "category": "misc",
-  "domains": [
-    "sheego.de"
-  ],
-  "filters": []
-}

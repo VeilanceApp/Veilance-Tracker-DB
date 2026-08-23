@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "easylist.club",
-  "category": "misc",
-  "domains": [
-    "easylist.club"
-  ],
-  "filters": []
-}

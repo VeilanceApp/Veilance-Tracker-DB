@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "ard.de",
-  "category": "audio_video_player",
-  "domains": [
-    "ard.de"
-  ],
-  "filters": []
-}

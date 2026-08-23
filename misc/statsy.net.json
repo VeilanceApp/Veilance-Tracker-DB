@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "statsy.net",
-  "category": "misc",
-  "domains": [
-    "statsy.net"
-  ],
-  "filters": []
-}

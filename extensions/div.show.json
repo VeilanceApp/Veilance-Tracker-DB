@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "div.show",
-  "category": "extensions",
-  "domains": [
-    "div.show"
-  ],
-  "filters": []
-}

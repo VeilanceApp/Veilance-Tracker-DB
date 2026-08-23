@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "loadsource.org",
-  "category": "misc",
-  "domains": [
-    "loadsource.org"
-  ],
-  "filters": []
-}

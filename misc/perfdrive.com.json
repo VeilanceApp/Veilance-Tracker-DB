@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "perfdrive.com",
-  "category": "misc",
-  "domains": [
-    "perfdrive.com"
-  ],
-  "filters": []
-}

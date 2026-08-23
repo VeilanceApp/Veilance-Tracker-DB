@@ -1,9 +1,0 @@
-{
-  "format": "veilance-json",
-  "name": "GlobalSign",
-  "category": "misc",
-  "domains": [
-    "globalsign.com"
-  ],
-  "filters": []
-}
