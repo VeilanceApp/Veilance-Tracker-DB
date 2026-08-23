@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "ActiveConversion",
+  "category": "advertising",
+  "website_url": "http://www.activeconversion.com/",
+  "organization": "activeconversion",
+  "domains": [
+    "activeconversion.com"
+  ],
+  "filters": [
+    "||activeconversion.com^$3p"
+  ]
+}

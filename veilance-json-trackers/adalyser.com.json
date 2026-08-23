@@ -1,0 +1,11 @@
+{
+  "format": "veilance-json",
+  "name": "Adalyser",
+  "category": "site_analytics",
+  "website_url": "https://www.adalyser.com/",
+  "organization": "onesoon",
+  "domains": [
+    "adalyser.com"
+  ],
+  "filters": []
+}

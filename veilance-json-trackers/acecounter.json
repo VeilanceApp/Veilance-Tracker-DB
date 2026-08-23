@@ -1,0 +1,15 @@
+{
+  "format": "veilance-json",
+  "name": "Acecounter",
+  "category": "site_analytics",
+  "website_url": "https://www.home.acecounter.com/",
+  "organization": "naver",
+  "domains": [
+    "acecounter.com",
+    "cr.acecounter.com",
+    "www.home.acecounter.com"
+  ],
+  "filters": [
+    "||cr.acecounter.com^"
+  ]
+}

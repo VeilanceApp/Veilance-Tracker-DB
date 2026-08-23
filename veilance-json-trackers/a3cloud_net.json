@@ -1,0 +1,9 @@
+{
+  "format": "veilance-json",
+  "name": "a3cloud.net",
+  "category": "misc",
+  "domains": [
+    "a3cloud.net"
+  ],
+  "filters": []
+}

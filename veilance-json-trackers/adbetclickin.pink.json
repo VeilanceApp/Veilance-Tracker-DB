@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "adbetnet",
+  "category": "advertising",
+  "website_url": "http://adbetnet.com/",
+  "domains": [
+    "adbetclickin.pink"
+  ],
+  "filters": []
+}

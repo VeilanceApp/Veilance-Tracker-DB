@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Accelia",
+  "category": "advertising",
+  "website_url": "http://www.durasite.net/",
+  "organization": "accelia",
+  "domains": [
+    "durasite.net"
+  ],
+  "filters": [
+    "||durasite.net^$3p"
+  ]
+}

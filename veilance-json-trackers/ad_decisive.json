@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Decisive",
+  "category": "advertising",
+  "website_url": "https://www.lagardere-global-advertising.com/",
+  "organization": "lagardere_advertising",
+  "domains": [
+    "a2dfp.net"
+  ],
+  "filters": [
+    "||a2dfp.net^$3p"
+  ]
+}

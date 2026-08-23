@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "Ad Dynamo",
+  "category": "advertising",
+  "website_url": "https://www.addynamo.com/",
+  "organization": "ad_dynamo",
+  "domains": [
+    "addynamo.net"
+  ],
+  "filters": [
+    "||addynamo.net/ad/"
+  ]
+}

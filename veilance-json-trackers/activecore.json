@@ -1,0 +1,13 @@
+{
+  "format": "veilance-json",
+  "name": "activecore",
+  "category": "site_analytics",
+  "website_url": "https://activecore.jp/",
+  "organization": "activecore",
+  "domains": [
+    "a-cast.jp"
+  ],
+  "filters": [
+    "||a-cast.jp^$3p"
+  ]
+}

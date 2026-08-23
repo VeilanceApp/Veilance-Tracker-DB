@@ -1,0 +1,10 @@
+{
+  "format": "veilance-json",
+  "name": "7tv.de",
+  "category": "audio_video_player",
+  "website_url": "https://www.7tv.de/",
+  "domains": [
+    "7tv.de"
+  ],
+  "filters": []
+}

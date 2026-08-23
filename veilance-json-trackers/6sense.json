@@ -1,0 +1,14 @@
+{
+  "format": "veilance-json",
+  "name": "6Sense",
+  "category": "site_analytics",
+  "website_url": "https://6sense.com/",
+  "organization": "6sense",
+  "domains": [
+    "6sc.co",
+    "6sense.com"
+  ],
+  "filters": [
+    "||6sense.com^$3p"
+  ]
+}
