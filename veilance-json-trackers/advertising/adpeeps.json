@@ -5,7 +5,8 @@
   "website_url": "https://www.adpeeps.com/",
   "organization": "ad_peeps",
   "domains": [
-    "adpeepshosted.com"
+    "adpeepshosted.com",
+    "adpeeps.com"
   ],
   "filters": [
     "/adpeeps.php"

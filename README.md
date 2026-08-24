@@ -77,6 +77,7 @@ trackers/
 ├── session-analytics/
 ├── social/
 └── tag-manager/
+└── .../
 ```
 
 Use lowercase, kebab-case filenames based on the stable organization ID:
