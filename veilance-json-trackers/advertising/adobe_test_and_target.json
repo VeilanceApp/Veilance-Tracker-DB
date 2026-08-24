@@ -4,7 +4,9 @@
   "category": "advertising",
   "website_url": "https://www.adobe.com/marketing/target.html",
   "organization": "adobe",
-  "domains": [],
+  "domains": [
+    "adobetarget.com"
+  ],
   "filters": [
     "/mbox.js",
     "touchclarity"
