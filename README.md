@@ -172,15 +172,17 @@ Veilance supports host-anchored filters in this form:
 
 Examples:
 
-| Filter | Meaning |
-| --- | --- |
-| `||tracker.example^` | Match the host or any of its subdomains. |
-| `||tracker.example^$3p` | Match only when the request is third-party. |
-| `||tracker.example^$1p` | Match only when the request is first-party. |
-| `||tracker.example^$3p,script` | Match third-party script requests. |
-| `||tracker.example^$image,~script` | Include image requests and exclude script requests. |
-| `||tracker.example^$3p,domain=publisher.example` | Match on `publisher.example` and its subdomains. |
-| `||tracker.example^$3p,domain=publisher.example\|~private.publisher.example` | Include the publisher domain but exclude its private subdomain. |
+| Filter                                                                         | Meaning                                                         |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| `\|\|tracker.example^`                                                         | Match the host or any of its subdomains.                        |
+| `\|\|tracker.example^$3p`                                                      | Match only when the request is third-party.                     |
+| `\|\|tracker.example^$1p`                                                      | Match only when the request is first-party.                     |
+| `\|\|tracker.example^$3p,script`                                               | Match third-party script requests.                              |
+| `\|\|tracker.example^$image,~script`                                           | Include image requests and exclude script requests.             |
+| `\|\|tracker.example^$3p,domain=publisher.example`                             | Match on `publisher.example` and its subdomains.                |
+| `\|\|tracker.example^$3p,domain=publisher.example\|~private.publisher.example` | Include the publisher domain but exclude its private subdomain. |
+
+
 
 ### Party options
 
